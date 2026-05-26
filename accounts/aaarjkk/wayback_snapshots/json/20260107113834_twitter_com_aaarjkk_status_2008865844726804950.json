@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2008865844726804950",
+    "created_at": "2026-01-07T11:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008865844726804950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008865844726804950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008740379399778460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: X什么时候出一个浏览X记录的功能\n\n每次看到好看的推文\n\n他就给我刷新了🥲🥲\n\n然后就找不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2008865844726804950",
+        "created_at": "2026-01-07T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008865844726804950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008865844726804950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008740379399778460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: X什么时候出一个浏览X记录的功能\n\n每次看到好看的推文\n\n他就给我刷新了🥲🥲\n\n然后就找不到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2262723812",
+        "conversation_id": "2008740379399778460",
+        "created_at": "2026-01-07T03:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008740379399778460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008740379399778460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 305714,
+          "like_count": 1735,
+          "quote_count": 8,
+          "reply_count": 230,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "X什么时候出一个浏览X记录的功能\n\n每次看到好看的推文\n\n他就给我刷新了🥲🥲\n\n然后就找不到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005866541502586881/Ug1YRQjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 145,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736905,
+          "following_count": 1197,
+          "like_count": 26098,
+          "listed_count": 2644,
+          "media_count": 23146,
+          "tweet_count": 59656
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

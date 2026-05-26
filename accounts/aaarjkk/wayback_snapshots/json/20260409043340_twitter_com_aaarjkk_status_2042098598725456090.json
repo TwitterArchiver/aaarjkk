@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2041859855649272300",
+    "created_at": "2026-04-09T04:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042098598725456090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018986573090717696",
+          "start": 0,
+          "username": "xhFK114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042098598725456090",
+    "in_reply_to_user_id": "2018986573090717696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041861519043092624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhFK114514 好的，现在考完了，超常发挥呢，谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041859855649272300",
+        "created_at": "2026-04-09T04:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042098598725456090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018986573090717696",
+              "start": 0,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042098598725456090",
+        "in_reply_to_user_id": "2018986573090717696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041861519043092624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhFK114514 好的，现在考完了，超常发挥呢，谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2041859855649272300",
+        "created_at": "2026-04-08T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041861519043092624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041861519043092624",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041859855649272300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 加油呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 502,
+          "like_count": 7886,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "@FuKarl7/2026年3月21日起活跃在这个号/友跨🏳️‍⚧️/性别探索中/社恐/高三理科生/无证无糖/不od/不割手/互关/消息必回/喵\n好朋友：@ruoruoruoMing\n意义重大的一天：2026年3月15日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "FuKarl7"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2041177750397223088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 552,
+          "like_count": 1530,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 290
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

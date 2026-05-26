@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051563942531694593"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051492244482617595",
+    "created_at": "2026-05-05T07:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T08:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051563945253839178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xelMg3sf8F",
+          "end": 41,
+          "expanded_url": "https://x.com/aaarjkk/status/2051563945253839178/photo/1",
+          "media_key": "3_2051563942531694593",
+          "start": 18,
+          "url": "https://t.co/xelMg3sf8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051563945253839178",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051492244482617595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 固定手续费🥺 https://t.co/xelMg3sf8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_2051563942531694593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHieiTyaAAEY2P6.jpg",
+        "width": 1188
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051492235917889536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhdUb1bkAA1Nb7.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051563942531694593"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051492244482617595",
+        "created_at": "2026-05-05T07:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051563945253839178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xelMg3sf8F",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2051563945253839178/photo/1",
+              "media_key": "3_2051563942531694593",
+              "start": 18,
+              "url": "https://t.co/xelMg3sf8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051563945253839178",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051492244482617595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 固定手续费🥺 https://t.co/xelMg3sf8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051492235917889536"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "conversation_id": "2051492244482617595",
+        "created_at": "2026-05-05T02:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:25:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051488448352272739",
+          "2051492244482617595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c42hfCADxO",
+              "end": 58,
+              "expanded_url": "https://x.com/HuamanX09/status/2051492244482617595/photo/1",
+              "media_key": "3_2051492235917889536",
+              "start": 35,
+              "url": "https://t.co/c42hfCADxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051492244482617595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2463,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Wise的汇款手续费好离谱\n\n汇出25元就要抽掉20元，80%吗…… https://t.co/c42hfCADxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 670,
+          "like_count": 12086,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "伴侣@CyberKanjousen🐱/老师@Aoim33｜20岁｜专科大一｜日语、心理学、自杀干预、记录生活｜ACGN爱好者｜VTuber/游戏主播｜男的不是跨 粉丝群966288215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5XUGTKL",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5XUGTKL",
+                "start": 0,
+                "url": "https://t.co/o0VzlkAATx"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "花漫阳春Official",
+        "pinned_tweet_id": "2051558965444845954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 704,
+          "like_count": 3820,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/o0VzlkAATx",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

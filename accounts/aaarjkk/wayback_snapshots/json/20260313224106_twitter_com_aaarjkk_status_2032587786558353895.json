@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032587778186526720"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2032587786558353895",
+    "created_at": "2026-03-13T22:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T23:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032587786558353895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth?…",
+          "end": 46,
+          "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "start": 23,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "url": "https://t.co/OJ0ECFdvu9"
+        },
+        {
+          "display_url": "pic.x.com/3FV6tzFXXF",
+          "end": 70,
+          "expanded_url": "https://x.com/aaarjkk/status/2032587786558353895/photo/1",
+          "media_key": "3_2032587778186526720",
+          "start": 47,
+          "url": "https://t.co/3FV6tzFXXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032587786558353895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特价值是: ¥1,276.94\n\n➡️ https://t.co/OJ0ECFdvu9 https://t.co/3FV6tzFXXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2032587778186526720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDUz0K2bwAAr_ob.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032587778186526720"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2032587786558353895",
+        "created_at": "2026-03-13T22:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032587786558353895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 46,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "start": 23,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/OJ0ECFdvu9"
+            },
+            {
+              "display_url": "pic.x.com/3FV6tzFXXF",
+              "end": 70,
+              "expanded_url": "https://x.com/aaarjkk/status/2032587786558353895/photo/1",
+              "media_key": "3_2032587778186526720",
+              "start": 47,
+              "url": "https://t.co/3FV6tzFXXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032587786558353895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥1,276.94\n\n➡️ https://t.co/OJ0ECFdvu9 https://t.co/3FV6tzFXXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 377,
+          "like_count": 5250,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 479
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

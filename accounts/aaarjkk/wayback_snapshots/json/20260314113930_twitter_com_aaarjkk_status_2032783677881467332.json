@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2032783062099177730",
+    "created_at": "2026-03-14T11:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032783677881467332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032783677881467332",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032783062099177730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 欢迎回来喵ヾ(＾∇＾)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032783062099177730].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032783062099177730",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032783062099177730"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2032783062099177730",
+        "created_at": "2026-03-14T11:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032783677881467332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032783677881467332",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032783062099177730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 欢迎回来喵ヾ(＾∇＾)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 394,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 497
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "只是个玩vrc的 id:一氧化二氢233",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o2333",
+                "start": 0,
+                "url": "https://t.co/jdGmbf9Ytg"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2028423876343173609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009273766329847808/fTVfTHn__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/jdGmbf9Ytg",
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

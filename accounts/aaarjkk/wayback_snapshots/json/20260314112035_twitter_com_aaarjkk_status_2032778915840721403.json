@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2032440044686921880",
+    "created_at": "2026-03-14T11:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032778915840721403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032778915840721403",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032440044686921880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 手好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032440027389542400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDStb8PWwAAUfov.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2032440044686921880",
+        "created_at": "2026-03-14T11:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032778915840721403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032778915840721403",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032440044686921880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 手好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032440027389542400"
+          ]
+        },
+        "author_id": "1917804398824022016",
+        "conversation_id": "2032440044686921880",
+        "created_at": "2026-03-13T12:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032440044686921880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50aKhbvv8M",
+              "end": 36,
+              "expanded_url": "https://x.com/lne_li19885/status/2032440044686921880/photo/1",
+              "media_key": "3_2032440027389542400",
+              "start": 13,
+              "url": "https://t.co/50aKhbvv8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032440044686921880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1008,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实闻到味道就开始想吐了 https://t.co/50aKhbvv8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 393,
+          "like_count": 5489,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 496
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ 和老婆幸福中 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2025401218030604403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029979417678860288/Ii2ARh4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 89,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 533
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

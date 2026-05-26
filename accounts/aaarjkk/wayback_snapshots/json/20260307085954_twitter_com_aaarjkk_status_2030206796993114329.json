@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2029510022074626393",
+    "created_at": "2026-03-07T08:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030206796993114329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029393061953122304",
+          "start": 0,
+          "username": "moonyore090318"
+        },
+        {
+          "end": 27,
+          "id": "1945070018905145344",
+          "start": 16,
+          "username": "DianaAnya0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "目がかなりズレます 色々調整してみてください！ 🙆‍♀️してもいい事🙆‍♀️ ・アイコン、キャラシへの使用 ・多少の加工、加筆 ・メーカーを元にキャラクターを作ること ・動画やTRPGなどでの使用 ・投げ銭機能のある場所での使用や有償依頼などでの資料として使うこと 🙅‍♀️ダメなこと🙅‍♀️ ・自作発言 ・作成した画像を使ったグッズ等の販売 ・政治、批判、攻撃的、過激なアカウントでの使用 ・悪意のある加工、加筆 ・AI学習 □既存キャラを再現することについて 基本的には辞めた方が良いです。 もし作る場合は、その作品または人物の二次創作ガイドライン、またpicrew自体の利用規約、そしてこのメーカーの利用規約に従ってください。 作った画像でなにかトラブルがあっても自己責任になります。 よろしくお願い致します。 ルールを守ってくださいますようお願い致します🙏 何かあればご連絡ください。 Twitter:@Zr6Ov 　✦絢瀬",
+          "display_url": "picrew.me/ja/image_maker…",
+          "end": 55,
+          "expanded_url": "https://picrew.me/ja/image_maker/1904634",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/2027937546026815493/pBnLxWs0?format=png&name=orig",
+              "width": 400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027937546026815493/pBnLxWs0?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "キラキラ鱈メーカー3",
+          "unwound_url": "https://picrew.me/ja/image_maker/1904634",
+          "url": "https://t.co/piARSTIaB4"
+        },
+        {
+          "description": "色々ズレます いい感じに調節してあげてください！ 🙆‍♀️してもいい事🙆‍♀️ ・アイコン、キャラシへの使用 ・多少の加工、加筆 ・メーカーを元にキャラクターを作ること ・動画やTRPGなどでの使用 ・投げ銭機能のある場所での使用や有償依頼などで資料として使うこと ・明記した上でのトレース、模写 🙅‍♀️ダメなこと🙅‍♀️ ・自作発言 ・作成した画像を使ったグッズ等の販売、配布 ・政治、批判、攻撃的、過激なアカウントでの使用 ・悪意のある加工、加筆 ・AI学習 ルールを守ってくださいますようお願い致します🙏 何かあればご連絡ください。 Twitter:@Zr6Ov 　✦絢瀬",
+          "display_url": "picrew.me/en/image_maker…",
+          "end": 84,
+          "expanded_url": "https://picrew.me/en/image_maker/2307052",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/2028048640607137792/2KSGKXyb?format=png&name=orig",
+              "width": 400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028048640607137792/2KSGKXyb?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 61,
+          "status": 200,
+          "title": "ふわふわ鱈メーカー4",
+          "unwound_url": "https://picrew.me/en/image_maker/2307052",
+          "url": "https://t.co/4cfZnQO42v"
+        },
+        {
+          "description": "Custom Character Creator & PFP Maker!",
+          "display_url": "play.google.com/store/apps/det…",
+          "end": 122,
+          "expanded_url": "https://play.google.com/store/apps/details?id=com.tc.picrew.me",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/2030206798914097152/wQbLlcNR?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2030206798914097152/wQbLlcNR?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "Picrew PFP & OC Maker - Apps on Google Play",
+          "unwound_url": "https://play.google.com/store/apps/details?id=com.tc.picrew.me",
+          "url": "https://t.co/bKZnTcgmMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030206796993114329",
+    "in_reply_to_user_id": "2029393061953122304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029520478398980182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonyore090318 @DianaAnya0 𝟑.𝟎\nhttps://t.co/piARSTIaB4\n\n𝟒.𝟎\nhttps://t.co/4cfZnQO42v\n\n𝑮𝒐𝒐𝒈𝒍𝒆 𝑷𝒍𝒂𝒚 \nhttps://t.co/bKZnTcgmMA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2029510022074626393",
+        "created_at": "2026-03-07T08:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030206796993114329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029393061953122304",
+              "start": 0,
+              "username": "moonyore090318"
+            },
+            {
+              "end": 27,
+              "id": "1945070018905145344",
+              "start": 16,
+              "username": "DianaAnya0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "目がかなりズレます 色々調整してみてください！ 🙆‍♀️してもいい事🙆‍♀️ ・アイコン、キャラシへの使用 ・多少の加工、加筆 ・メーカーを元にキャラクターを作ること ・動画やTRPGなどでの使用 ・投げ銭機能のある場所での使用や有償依頼などでの資料として使うこと 🙅‍♀️ダメなこと🙅‍♀️ ・自作発言 ・作成した画像を使ったグッズ等の販売 ・政治、批判、攻撃的、過激なアカウントでの使用 ・悪意のある加工、加筆 ・AI学習 □既存キャラを再現することについて 基本的には辞めた方が良いです。 もし作る場合は、その作品または人物の二次創作ガイドライン、またpicrew自体の利用規約、そしてこのメーカーの利用規約に従ってください。 作った画像でなにかトラブルがあっても自己責任になります。 よろしくお願い致します。 ルールを守ってくださいますようお願い致します🙏 何かあればご連絡ください。 Twitter:@Zr6Ov 　✦絢瀬",
+              "display_url": "picrew.me/ja/image_maker…",
+              "end": 55,
+              "expanded_url": "https://picrew.me/ja/image_maker/1904634",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2027937546026815493/pBnLxWs0?format=png&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027937546026815493/pBnLxWs0?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "キラキラ鱈メーカー3",
+              "unwound_url": "https://picrew.me/ja/image_maker/1904634",
+              "url": "https://t.co/piARSTIaB4"
+            },
+            {
+              "description": "色々ズレます いい感じに調節してあげてください！ 🙆‍♀️してもいい事🙆‍♀️ ・アイコン、キャラシへの使用 ・多少の加工、加筆 ・メーカーを元にキャラクターを作ること ・動画やTRPGなどでの使用 ・投げ銭機能のある場所での使用や有償依頼などで資料として使うこと ・明記した上でのトレース、模写 🙅‍♀️ダメなこと🙅‍♀️ ・自作発言 ・作成した画像を使ったグッズ等の販売、配布 ・政治、批判、攻撃的、過激なアカウントでの使用 ・悪意のある加工、加筆 ・AI学習 ルールを守ってくださいますようお願い致します🙏 何かあればご連絡ください。 Twitter:@Zr6Ov 　✦絢瀬",
+              "display_url": "picrew.me/en/image_maker…",
+              "end": 84,
+              "expanded_url": "https://picrew.me/en/image_maker/2307052",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2028048640607137792/2KSGKXyb?format=png&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028048640607137792/2KSGKXyb?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "ふわふわ鱈メーカー4",
+              "unwound_url": "https://picrew.me/en/image_maker/2307052",
+              "url": "https://t.co/4cfZnQO42v"
+            },
+            {
+              "description": "Custom Character Creator & PFP Maker!",
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 122,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.tc.picrew.me",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2030206798914097152/wQbLlcNR?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030206798914097152/wQbLlcNR?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Picrew PFP & OC Maker - Apps on Google Play",
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.tc.picrew.me",
+              "url": "https://t.co/bKZnTcgmMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030206796993114329",
+        "in_reply_to_user_id": "2029393061953122304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029520478398980182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonyore090318 @DianaAnya0 𝟑.𝟎\nhttps://t.co/piARSTIaB4\n\n𝟒.𝟎\nhttps://t.co/4cfZnQO42v\n\n𝑮𝒐𝒐𝒈𝒍𝒆 𝑷𝒍𝒂𝒚 \nhttps://t.co/bKZnTcgmMA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029393061953122304",
+        "conversation_id": "2029510022074626393",
+        "created_at": "2026-03-05T11:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029520478398980182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029520478398980182",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1049,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029510022074626393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 姐姐姐姐，做这个头像的网址可以给一下嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(😄版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 338,
+          "like_count": 4457,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 420
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T03:06:43.000Z",
+        "description": "原账号@moonyore0318\n我重生了，重生成了一个什么都没有的空号，上一世我因为吞药自杀失忆忘记大号密码，重活一生，我要把我失去的一切都找回来\n笨小然@OwO123qwe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "moonyore0318"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "OwO123qwe"
+              }
+            ]
+          }
+        },
+        "id": "2029393061953122304",
+        "name": "古月🍥（第二世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029395819296858112/O6s6emTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 44,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 109
+        },
+        "username": "moonyore090318",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "砂糖橘小猫娘喵♡~// 会在推上发有趣的梗图 // 大二 // 喜欢玩音乐🎵 // bass guitar // 绳艺 // 恋袜 // 非常友好!❤️ (点个关注再走好嘛☺️)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012673871745323009/LPbtZtHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9486,
+          "following_count": 161,
+          "like_count": 4852,
+          "listed_count": 13,
+          "media_count": 311,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

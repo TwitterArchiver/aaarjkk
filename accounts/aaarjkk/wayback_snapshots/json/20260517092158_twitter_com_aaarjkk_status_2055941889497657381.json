@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1923396459669372928"
+      ],
+      "media_source_tweet_id": [
+        "1923681398973448571"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2055941889497657381",
+    "created_at": "2026-05-17T09:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055941889497657381"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 73,
+          "tag": "国际不再恐同日"
+        },
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "全面性教育"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vw0ciqHKvY",
+          "end": 112,
+          "expanded_url": "https://x.com/UNESCO_chinese/status/1923681398973448571/video/1",
+          "media_key": "13_1923396459669372928",
+          "start": 89,
+          "url": "https://t.co/vw0ciqHKvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055941889497657381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923681398973448571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 接纳与尊重创造包容和公平！\n\n世界是一块黑色的背景板。\n我们每个人，都是一束光，相互映衬，交织成七彩。\n\n#国际不再恐同日 #全面性教育 https://t.co/vw0ciqHKvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8103,
+        "height": 1920,
+        "media_key": "13_1923396459669372928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923396459669372928/img/hpbeOsonBWEVOM2K.jpg",
+        "public_metrics": {
+          "view_count": 2275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923396459669372928/vid/avc1/320x568/kbiNQ0qHkByFTdJU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923396459669372928/vid/avc1/720x1280/GiS-l91Cfg_9zEqq.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923396459669372928/pl/DMKtzojdV1vjNoui.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923396459669372928/vid/avc1/480x852/lQiz51UUdqoTGZkK.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923396459669372928/vid/avc1/1080x1920/I-apD_gkXj33_Vzo.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923396459669372928"
+          ],
+          "media_source_tweet_id": [
+            "1923681398973448571"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2055941889497657381",
+        "created_at": "2026-05-17T09:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055941889497657381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 73,
+              "tag": "国际不再恐同日"
+            },
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "全面性教育"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw0ciqHKvY",
+              "end": 112,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/1923681398973448571/video/1",
+              "media_key": "13_1923396459669372928",
+              "start": 89,
+              "url": "https://t.co/vw0ciqHKvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941889497657381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923681398973448571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 接纳与尊重创造包容和公平！\n\n世界是一块黑色的背景板。\n我们每个人，都是一束光，相互映衬，交织成七彩。\n\n#国际不再恐同日 #全面性教育 https://t.co/vw0ciqHKvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923396459669372928"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "1923681398973448571",
+        "created_at": "2025-05-17T10:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923681398973448571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "国际不再恐同日"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "全面性教育"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw0ciqHKvY",
+              "end": 92,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/1923681398973448571/video/1",
+              "media_key": "13_1923396459669372928",
+              "start": 69,
+              "url": "https://t.co/vw0ciqHKvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923681398973448571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14344,
+          "like_count": 161,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "接纳与尊重创造包容和公平！\n\n世界是一块黑色的背景板。\n我们每个人，都是一束光，相互映衬，交织成七彩。\n\n#国际不再恐同日 #全面性教育 https://t.co/vw0ciqHKvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 730,
+          "like_count": 13516,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1833
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37196,
+          "following_count": 41,
+          "like_count": 492,
+          "listed_count": 119,
+          "media_count": 10833,
+          "tweet_count": 11373
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

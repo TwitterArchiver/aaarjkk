@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027199481406804100",
+    "created_at": "2026-03-04T12:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029171750572048661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823042589760880640",
+          "start": 0,
+          "username": "chuyinweilai114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029171750572048661",
+    "in_reply_to_user_id": "1823042589760880640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027199481406804100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuyinweilai114 共享人数恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2027199474310012929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIPLmsbYAE_bTM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027199481406804100",
+        "created_at": "2026-03-04T12:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029171750572048661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823042589760880640",
+              "start": 0,
+              "username": "chuyinweilai114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029171750572048661",
+        "in_reply_to_user_id": "1823042589760880640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027199481406804100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyinweilai114 共享人数恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027199474310012929"
+          ]
+        },
+        "author_id": "1823042589760880640",
+        "conversation_id": "2027199481406804100",
+        "created_at": "2026-02-27T01:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027199481406804100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGDE9k9K6U",
+              "end": 43,
+              "expanded_url": "https://x.com/chuyinweilai114/status/2027199481406804100/photo/1",
+              "media_key": "3_2027199474310012929",
+              "start": 20,
+              "url": "https://t.co/VGDE9k9K6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027199481406804100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666用上公交车了，这机场真是太好用了 https://t.co/VGDE9k9K6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 323,
+          "like_count": 4059,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 390
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T17:03:31.000Z",
+        "description": "。。。",
+        "id": "1823042589760880640",
+        "name": "yice",
+        "pinned_tweet_id": "2016897093789765839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018332290691350529/iAwD6mhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 121,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "chuyinweilai114",
+        "verified": false
+      }
+    ]
+  }
+}

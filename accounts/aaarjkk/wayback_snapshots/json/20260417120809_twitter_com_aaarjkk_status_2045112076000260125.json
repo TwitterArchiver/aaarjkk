@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045112073101901824"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044982163427520563",
+    "created_at": "2026-04-17T12:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045112076000260125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wVca3yW7zc",
+          "end": 52,
+          "expanded_url": "https://x.com/aaarjkk/status/2045112076000260125/photo/1",
+          "media_key": "3_2045112073101901824",
+          "start": 29,
+          "url": "https://t.co/wVca3yW7zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045112076000260125",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044982163427520563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 bluesky感觉比较小众 https://t.co/wVca3yW7zc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045112073101901824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGymFMaAAAzMtv.jpg",
+        "width": 931
+      },
+      {
+        "height": 1165,
+        "media_key": "3_2044982157991628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE8cBsaUAAmzE4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045112073101901824"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044982163427520563",
+        "created_at": "2026-04-17T12:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045112076000260125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVca3yW7zc",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2045112076000260125/photo/1",
+              "media_key": "3_2045112073101901824",
+              "start": 29,
+              "url": "https://t.co/wVca3yW7zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045112076000260125",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044982163427520563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 bluesky感觉比较小众 https://t.co/wVca3yW7zc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044982157991628800"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044982163427520563",
+        "created_at": "2026-04-17T03:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044982163427520563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvS1Kw7ovc",
+              "end": 45,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2044982163427520563/photo/1",
+              "media_key": "3_2044982157991628800",
+              "start": 22,
+              "url": "https://t.co/uvS1Kw7ovc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044982163427520563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 870,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bluesky会成为下一个纯净的推特（确信 https://t.co/uvS1Kw7ovc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276772737560577/IzZIDMeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 567,
+          "like_count": 9540,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2045080563636396502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 579,
+          "like_count": 14110,
+          "listed_count": 9,
+          "media_count": 741,
+          "tweet_count": 3560
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

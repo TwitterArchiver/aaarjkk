@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2008144565468020944",
+    "created_at": "2026-01-06T11:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008496970281996722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3326305791",
+          "start": 0,
+          "username": "CuteCatsMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008496970281996722",
+    "in_reply_to_user_id": "3326305791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008144565468020944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteCatsMagic 猫桃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 1280,
+        "media_key": "7_2008144541153464321",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008144541153464321/pu/img/bzpsbvi4Spoh3hgd.jpg",
+        "public_metrics": {
+          "view_count": 158411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008144541153464321/pu/vid/avc1/320x568/W4qNy6HRvjzsQiDH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008144541153464321/pu/vid/avc1/480x852/BswIqc_06PN9g7aL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008144541153464321/pu/vid/avc1/720x1280/KmQAp5U_OqMfAkc-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008144541153464321/pu/pl/v0UG0dZlAAXKpNN0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2008144565468020944",
+        "created_at": "2026-01-06T11:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008496970281996722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3326305791",
+              "start": 0,
+              "username": "CuteCatsMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008496970281996722",
+        "in_reply_to_user_id": "3326305791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008144565468020944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteCatsMagic 猫桃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008144541153464321"
+          ]
+        },
+        "author_id": "3326305791",
+        "conversation_id": "2008144565468020944",
+        "created_at": "2026-01-05T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008144565468020944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZxGaQSdzV",
+              "end": 25,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2008144565468020944/video/1",
+              "media_key": "7_2008144541153464321",
+              "start": 2,
+              "url": "https://t.co/FZxGaQSdzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008144565468020944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1775,
+          "impression_count": 643281,
+          "like_count": 19738,
+          "quote_count": 151,
+          "reply_count": 122,
+          "retweet_count": 2375
+        },
+        "reply_settings": "everyone",
+        "text": "🥝 https://t.co/FZxGaQSdzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005866541502586881/Ug1YRQjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 144,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-15T06:25:54.000Z",
+        "description": "Follow me to watch the best cat videos.🐱🐾͏🐾͏🐾͏🐈If you like my content, you can subscribe to my page for more 🙃🐈“Subscribe to support cats 🐾”",
+        "id": "3326305791",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2008144565468020944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704006932123648/-ngn25vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67601,
+          "following_count": 15609,
+          "like_count": 85234,
+          "listed_count": 168,
+          "media_count": 6469,
+          "tweet_count": 45388
+        },
+        "username": "CuteCatsMagic",
+        "verified": true
+      }
+    ]
+  }
+}

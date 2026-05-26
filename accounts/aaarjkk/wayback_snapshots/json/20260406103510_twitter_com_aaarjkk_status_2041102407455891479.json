@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2040767586967904389",
+    "created_at": "2026-04-06T10:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041102407455891479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "ZaoTon2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041102407455891479",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040767586967904389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaoTon2022 不要亖🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2040767586967904389",
+        "created_at": "2026-04-06T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041102407455891479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "ZaoTon2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041102407455891479",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040767586967904389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaoTon2022 不要亖🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2040767586967904389",
+        "created_at": "2026-04-05T12:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040767586967904389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040767586967904389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们亖了，就是对社会最大的贡献😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 493,
+          "like_count": 7808,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "这就是结果了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "http://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "阴间",
+        "name": "destvesa",
+        "pinned_tweet_id": "2040767586967904389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938432932044800/rh05L2Iy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 173,
+          "like_count": 1837,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/6l43xOCIK5",
+        "username": "ZaoTon2022",
+        "verified": false
+      }
+    ]
+  }
+}

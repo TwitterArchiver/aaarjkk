@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2040949197344755882",
+    "created_at": "2026-04-06T02:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040973828290195562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968444481553969152",
+          "start": 0,
+          "username": "kknoluvismine3"
+        },
+        {
+          "end": 28,
+          "id": "2032715306632884224",
+          "start": 16,
+          "username": "omgnowihave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040973828290195562",
+    "in_reply_to_user_id": "1968444481553969152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040966335551979819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 @omgnowihave 为什么歌手也要攀比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2040949197344755882",
+        "created_at": "2026-04-06T02:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040973828290195562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968444481553969152",
+              "start": 0,
+              "username": "kknoluvismine3"
+            },
+            {
+              "end": 28,
+              "id": "2032715306632884224",
+              "start": 16,
+              "username": "omgnowihave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040973828290195562",
+        "in_reply_to_user_id": "1968444481553969152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040966335551979819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 @omgnowihave 为什么歌手也要攀比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968444481553969152",
+        "conversation_id": "2040949197344755882",
+        "created_at": "2026-04-06T01:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040966335551979819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040966335551979819",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040949197344755882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave 竖着来啊\n横着还不敢使劲 dinner炒作真给人笑嘻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 485,
+          "like_count": 7663,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T22:38:35.000Z",
+        "description": "孔五花就是毛腊肉转世，必须支持孔选仲图纸，中国人就是👇➖，全都是三通一达的货色",
+        "id": "1968444481553969152",
+        "location": "苏副主席永远健康",
+        "name": "孔主席万寿无疆",
+        "pinned_tweet_id": "2038058553202876485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021832020029276160/VbI1NMUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 137,
+          "like_count": 3433,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 3251
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 563,
+          "like_count": 3328,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 698
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

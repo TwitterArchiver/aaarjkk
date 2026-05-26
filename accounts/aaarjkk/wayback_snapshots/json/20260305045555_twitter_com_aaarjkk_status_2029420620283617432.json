@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2029387548653699278",
+    "created_at": "2026-03-05T04:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T05:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029420620283617432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025449560580259844",
+          "start": 0,
+          "username": "AlimataOue45353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029420620283617432",
+    "in_reply_to_user_id": "2025449560580259844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029387618681852122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlimataOue45353 咋啦🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2029387548653699278",
+        "created_at": "2026-03-05T04:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029420620283617432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025449560580259844",
+              "start": 0,
+              "username": "AlimataOue45353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029420620283617432",
+        "in_reply_to_user_id": "2025449560580259844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029387618681852122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlimataOue45353 咋啦🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025449560580259844",
+        "conversation_id": "2029387548653699278",
+        "created_at": "2026-03-05T02:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029387618681852122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029387618681852122",
+        "in_reply_to_user_id": "2025449560580259844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029387548653699278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "临死前的往事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 324,
+          "like_count": 4110,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 394
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥HRT.25.10.29，上海INTJ，17，162",
+        "id": "2025449560580259844",
+        "location": "TsukiumiRyue",
+        "name": "镇命🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029165415197519872/o1Kjr695_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "AlimataOue45353",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022183890094632966"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2021539464074739790",
+    "created_at": "2026-02-13T05:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022183905571615068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013291448838610944",
+          "start": 0,
+          "username": "yyqx52000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQt6mS10OS",
+          "end": 39,
+          "expanded_url": "https://x.com/aaarjkk/status/2022183905571615068/photo/1",
+          "media_key": "3_2022183890094632966",
+          "start": 16,
+          "url": "https://t.co/OQt6mS10OS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022183905571615068",
+    "in_reply_to_user_id": "2013291448838610944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021539464074739790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyqx52000 是人我吃 https://t.co/OQt6mS10OS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022183905571615068].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022183905571615068",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022183905571615068"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2022183890094632966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBA9iLebsAYMhpv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013291448838610944",
+        "conversation_id": "2021539464074739790",
+        "created_at": "2026-02-11T10:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021539464074739790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021539464074739790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2649,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家长同意我下海了，但是我怕我第一次生疏，服务不好，能不能先拿老爸试试水🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 243,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 216
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:29.000Z",
+        "description": "这里是优叶千香了，是一个神奇mtf的小号，希望揪住我的不要把我曝光出去💊\n从三岁开始就是抖m了，六岁开始更是不断的涌出雌堕的想法，应该是天生的吧，这十几年来一直在加深，会有自卑，生殖崇拜等现象，终于在16岁的时候接触了药娘，也是没有考虑就变了，还没有服侍过真正强大的男人呢😭\n但是吃过很多郭楠的精液，精液好吃😋",
+        "id": "2013291448838610944",
+        "name": "一只普普通通的♠️伪娘千香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "yyqx52000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2034595775783796909",
+    "created_at": "2026-03-20T04:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034848835462471895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034848835462471895",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034683892167581808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2034595775783796909",
+        "created_at": "2026-03-20T04:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034848835462471895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034848835462471895",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034683892167581808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636232016231542784",
+        "conversation_id": "2034595775783796909",
+        "created_at": "2026-03-19T17:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034683892167581808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 20,
+              "id": "1982751180469252096",
+              "start": 9,
+              "username": "_Chenmiao_"
+            },
+            {
+              "end": 33,
+              "id": "1719571122642161664",
+              "start": 21,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 41,
+              "id": "1959893383633358848",
+              "start": 34,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 53,
+              "id": "1970857021588262912",
+              "start": 42,
+              "username": "mwdxj29477"
+            },
+            {
+              "end": 67,
+              "id": "1477257510482739202",
+              "start": 54,
+              "username": "mmmmmmm19810"
+            },
+            {
+              "end": 81,
+              "id": "1659866844550037504",
+              "start": 68,
+              "username": "AvagueFuture"
+            },
+            {
+              "end": 92,
+              "id": "1941907536032186368",
+              "start": 82,
+              "username": "Liunian_a"
+            },
+            {
+              "end": 102,
+              "id": "1459356998097850370",
+              "start": 93,
+              "username": "Aequoia1"
+            },
+            {
+              "end": 113,
+              "id": "1841768354178334721",
+              "start": 103,
+              "username": "jingzi004"
+            },
+            {
+              "end": 130,
+              "id": "1891376036476231680",
+              "start": 114,
+              "username": "CafeCannel90737"
+            },
+            {
+              "end": 146,
+              "id": "1912119115537612800",
+              "start": 131,
+              "username": "_cheesenDream_"
+            },
+            {
+              "end": 157,
+              "id": "1782443083080048640",
+              "start": 147,
+              "username": "feng_2955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034683892167581808",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034595775783796909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @_Chenmiao_ @AGeSang2008 @Cbscfe @mwdxj29477 @mmmmmmm19810 @AvagueFuture @Liunian_a @Aequoia1 @jingzi004 @CafeCannel90737 @_cheesenDream_ @feng_2955 我去这么牛，我来给你增加工作量哦🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║😉希望咱们都能开开心心的\n║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)\n║✍️写字缓慢\n║⏳𝟸𝟼年中考\n║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝\n║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "pinned_tweet_id": "2034143052022051284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 434,
+          "like_count": 6379,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 597
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "依然是小花酱喵～🌸  \n\n喜欢的人喵💕：@1234568hhhhh 🥵🥵/ /向我发送任意消息喵，匿名喵！点击链接喵：https://t.co/ahXsJ3ZxvW🥰 \n（不定时冒泡喵）还是堕落成小男娘了喵 (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)我是笨蛋喵🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "1234568hhhhh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/seuyrj1",
+                "end": 82,
+                "expanded_url": "https://ngl.link/seuyrj1",
+                "start": 59,
+                "url": "https://t.co/ahXsJ3ZxvW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seuyrj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seuyrj1",
+                "start": 0,
+                "url": "https://t.co/ahXsJ3ZxvW"
+              }
+            ]
+          }
+        },
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "小二b卵子～🌸",
+        "pinned_tweet_id": "2030248416832573950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009657883202609152/0glQAFQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 884,
+          "like_count": 10184,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/ahXsJ3ZxvW",
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

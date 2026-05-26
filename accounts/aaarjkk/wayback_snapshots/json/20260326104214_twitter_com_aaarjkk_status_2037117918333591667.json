@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2037117918333591667",
+    "created_at": "2026-03-26T10:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037117918333591667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daimo12138/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/daimo12138/status/2036814921099534815",
+          "start": 8,
+          "url": "https://t.co/SQLvkB8AT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037117918333591667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036814921099534815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没错，你卡了🤓 https://t.co/SQLvkB8AT3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2036814918025129984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQ4YF4asAAT5dr.jpg",
+        "width": 443
+      },
+      {
+        "height": 509,
+        "media_key": "3_2036814918213877760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQ4YGlawAAgPGr.jpg",
+        "width": 443
+      },
+      {
+        "height": 509,
+        "media_key": "3_2036814918297792512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQ4YG5bMAAIkBn.jpg",
+        "width": 443
+      },
+      {
+        "height": 509,
+        "media_key": "3_2036814918524309505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQ4YHvbkAEJGFQ.jpg",
+        "width": 443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2037117918333591667",
+        "created_at": "2026-03-26T10:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037117918333591667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daimo12138/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/daimo12138/status/2036814921099534815",
+              "start": 8,
+              "url": "https://t.co/SQLvkB8AT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037117918333591667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036814921099534815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没错，你卡了🤓 https://t.co/SQLvkB8AT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036814918025129984",
+            "3_2036814918213877760",
+            "3_2036814918297792512",
+            "3_2036814918524309505"
+          ]
+        },
+        "author_id": "1711823629560819712",
+        "conversation_id": "2036814921099534815",
+        "created_at": "2026-03-25T14:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036814921099534815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyxsowkadi",
+              "end": 28,
+              "expanded_url": "https://x.com/daimo12138/status/2036814921099534815/photo/1",
+              "media_key": "3_2036814918025129984",
+              "start": 5,
+              "url": "https://t.co/eyxsowkadi"
+            },
+            {
+              "display_url": "pic.x.com/eyxsowkadi",
+              "end": 28,
+              "expanded_url": "https://x.com/daimo12138/status/2036814921099534815/photo/1",
+              "media_key": "3_2036814918213877760",
+              "start": 5,
+              "url": "https://t.co/eyxsowkadi"
+            },
+            {
+              "display_url": "pic.x.com/eyxsowkadi",
+              "end": 28,
+              "expanded_url": "https://x.com/daimo12138/status/2036814921099534815/photo/1",
+              "media_key": "3_2036814918297792512",
+              "start": 5,
+              "url": "https://t.co/eyxsowkadi"
+            },
+            {
+              "display_url": "pic.x.com/eyxsowkadi",
+              "end": 28,
+              "expanded_url": "https://x.com/daimo12138/status/2036814921099534815/photo/1",
+              "media_key": "3_2036814918524309505",
+              "start": 5,
+              "url": "https://t.co/eyxsowkadi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036814921099534815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21263,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真好看 https://t.co/eyxsowkadi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被ghostBan版)",
+        "pinned_tweet_id": "2035308277953867832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035672900309770241/-WswxzW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 451,
+          "like_count": 6908,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T19:19:01.000Z",
+        "description": "09年の小小一只身高不足163的小药娘🏳️‍⚧ 喜欢和同类贴贴❤️ 重度社交恐INFP-t🤕                                                         吃下😋第一粒糖🍥的日期是8.5已炸柜现地下党                  同类互关🥰🚪5.2",
+        "id": "1711823629560819712",
+        "location": "休伯利安号",
+        "name": "布朗尼·莫🏳️‍⚧🍥",
+        "pinned_tweet_id": "2029483369055351040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016486055135047680/diIlNS0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 880,
+          "like_count": 171,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 739
+        },
+        "username": "daimo12138",
+        "verified": false
+      }
+    ]
+  }
+}

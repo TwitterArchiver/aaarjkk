@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050150330030329856"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2050021889796694067",
+    "created_at": "2026-05-01T09:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050150332580466954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QD4d6jCrb1",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2050150332580466954/photo/1",
+          "media_key": "3_2050150330030329856",
+          "start": 22,
+          "url": "https://t.co/QD4d6jCrb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050150332580466954",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050021889796694067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 咕咕嘎嘎！ https://t.co/QD4d6jCrb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_2050150330030329856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOY3O2bkAAWNXf.jpg",
+        "width": 461
+      },
+      {
+        "height": 723,
+        "media_key": "3_2050021880254672896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMkCeJbsAA1AS9.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050150330030329856"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2050021889796694067",
+        "created_at": "2026-05-01T09:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050150332580466954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QD4d6jCrb1",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2050150332580466954/photo/1",
+              "media_key": "3_2050150330030329856",
+              "start": 22,
+              "url": "https://t.co/QD4d6jCrb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050150332580466954",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050021889796694067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 咕咕嘎嘎！ https://t.co/QD4d6jCrb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050021880254672896"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050021889796694067",
+        "created_at": "2026-05-01T01:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050021889796694067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCP9xggxUA",
+              "end": 40,
+              "expanded_url": "https://x.com/Rococo90933671/status/2050021889796694067/photo/1",
+              "media_key": "3_2050021880254672896",
+              "start": 17,
+              "url": "https://t.co/dCP9xggxUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050021889796694067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 139234,
+          "like_count": 1344,
+          "quote_count": 11,
+          "reply_count": 137,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "全 员 恶 人\n\n企鹅：喂我花生 https://t.co/dCP9xggxUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🩵🩷🤍🩷🩵▯活在幻想中▯😉希望咱们都能开开心心▯成绩倒数☄▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 645,
+          "like_count": 11566,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11086,
+          "following_count": 3013,
+          "like_count": 36977,
+          "listed_count": 36,
+          "media_count": 3839,
+          "tweet_count": 21168
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

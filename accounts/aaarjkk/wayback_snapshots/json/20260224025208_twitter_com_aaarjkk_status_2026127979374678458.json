@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2026127979374678458",
+    "created_at": "2026-02-24T02:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026127979374678458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saonanaa/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/saonanaa/status/2026126722379513923",
+          "start": 31,
+          "url": "https://t.co/mmEgkkYSNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026127979374678458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026126722379513923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从现在起，若一账号在一天内梗图发送占比为100%，我会隐藏它 https://t.co/mmEgkkYSNo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2026127979374678458",
+        "created_at": "2026-02-24T02:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026127979374678458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/saonanaa/status/2026126722379513923",
+              "start": 31,
+              "url": "https://t.co/mmEgkkYSNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026127979374678458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026126722379513923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从现在起，若一账号在一天内梗图发送占比为100%，我会隐藏它 https://t.co/mmEgkkYSNo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2026126722379513923",
+        "created_at": "2026-02-24T02:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026126722379513923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026126722379513923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从现在起，若一账号在一天内梗图发送占比为100%，我会隐藏它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 264,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 279
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜＊顺直男｜在日常中发现 旅行爱好者 📸｜I’m building OneLauncher👩‍💻 & Minecraft Gamer🎮｜大坏猫 B!B!C! ❤️💦😼👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424688987099143/5n7Sav6y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7380,
+          "following_count": 444,
+          "like_count": 33482,
+          "listed_count": 16,
+          "media_count": 2376,
+          "tweet_count": 19562
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1991924460321202232",
+    "created_at": "2025-12-04T05:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996446893937975498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990869239574736896",
+          "start": 0,
+          "username": "MaoZhua520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996446893937975498",
+    "in_reply_to_user_id": "1990869239574736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991924460321202232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoZhua520 这么好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9566,
+        "height": 544,
+        "media_key": "13_1991924399403073536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991924399403073536/img/DVO0Su3Fq9boHrlo.jpg",
+        "public_metrics": {
+          "view_count": 507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991924399403073536/vid/avc1/476x270/LE6NNpodEgjk_-wy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991924399403073536/vid/avc1/634x360/FK7LkD1Kopt-vgnh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991924399403073536/vid/avc1/960x544/7UGXwsARBffiyzIB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991924399403073536/pl/EIFW76oPLJpvjW9C.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1991924460321202232",
+        "created_at": "2025-12-04T05:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996446893937975498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990869239574736896",
+              "start": 0,
+              "username": "MaoZhua520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996446893937975498",
+        "in_reply_to_user_id": "1990869239574736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991924460321202232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZhua520 这么好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991924399403073536"
+          ]
+        },
+        "author_id": "1990869239574736896",
+        "conversation_id": "1991924460321202232",
+        "created_at": "2025-11-21T17:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991924460321202232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "药娘"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "男娘"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "MTF"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6W8udZZWE",
+              "end": 156,
+              "expanded_url": "https://x.com/MaoZhua520/status/1991924460321202232/video/1",
+              "media_key": "13_1991924399403073536",
+              "start": 133,
+              "url": "https://t.co/T6W8udZZWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991924460321202232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1306,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要我还活着我就是对这个世界上所有想伤害我们跨性别姐妹们的人最大反抗！我将与这个世界所有暴力和伤害正面对抗！虽然我也是药娘MTF跨性别但是我自豪，我很自豪的说我自己我是一个可爱漂亮善良的女孩子热爱一切关心身边所有人的跨性别女孩子！#药娘 #男娘 #MTF #跨性别 https://t.co/T6W8udZZWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n规格：171cm\n净含量：50kg\n生产日期：20101014\n保质期：360个月\n储存条件：请置于阴凉干燥温暖舒适安全有食物处\n产地：广东",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 44,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:46:43.000Z",
+        "description": "一只MTF（跨性别），男孩/跨/女孩我是雌坠小可爱！本人有严重抑郁，但是抑郁症的时候喜欢用雌性激素扎自己才舒服才有安全感！pwq~🏳️‍⚧️pwqQWQ有很多生命中无法接受的痛苦！只想真心被爱一辈子！也希望有同类愿意现实中和我在一起走过我生命中最后的时间！对象：@Swathy17531761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Swathy17531761"
+              }
+            ]
+          }
+        },
+        "id": "1990869239574736896",
+        "location": "520km",
+        "name": "🏳️‍⚧️猫の爪呸雌呸角🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991942147986321408/gwvUQZmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 136,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 35
+        },
+        "username": "MaoZhua520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051623541574107485",
+    "created_at": "2026-05-05T11:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051625455032430710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051625455032430710",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051625160814260564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 我也是！偶尔用一下qq(?)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051623541574107485",
+        "created_at": "2026-05-05T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051625455032430710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051625455032430710",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051625160814260564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 我也是！偶尔用一下qq(?)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2051623541574107485",
+        "created_at": "2026-05-05T11:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051625160814260564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051625160814260564",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051623541574107485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 我现在唯一的社交渠道就是推特🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 690,
+          "like_count": 12242,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/177/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、音乐/王者、洛克王国页游和手游、鸣潮、音游",
+        "id": "1813188041793761280",
+        "location": "月亮之上",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 951,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 330
+        },
+        "username": "lightboat111",
+        "verified": false
+      }
+    ]
+  }
+}

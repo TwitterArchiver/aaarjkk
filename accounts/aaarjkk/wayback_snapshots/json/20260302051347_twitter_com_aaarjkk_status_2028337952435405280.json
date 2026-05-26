@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2028337952435405280",
+    "created_at": "2026-03-02T05:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028337952435405280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Joy_of_Desirin…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Joy_of_Desiring/status/2027976933410226485",
+          "start": 11,
+          "url": "https://t.co/YN8Dam3xOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028337952435405280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027976933410226485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "任何性取向都是正常的 https://t.co/YN8Dam3xOG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2028337952435405280",
+        "created_at": "2026-03-02T05:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028337952435405280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Joy_of_Desirin…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Joy_of_Desiring/status/2027976933410226485",
+              "start": 11,
+              "url": "https://t.co/YN8Dam3xOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028337952435405280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027976933410226485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "任何性取向都是正常的 https://t.co/YN8Dam3xOG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761080833799241728",
+        "conversation_id": "2027976933410226485",
+        "created_at": "2026-03-01T05:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027976933410226485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027976933410226485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 184234,
+          "like_count": 2993,
+          "quote_count": 26,
+          "reply_count": 159,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "“性取向正常”真的是非常非常恶心的一种说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 302,
+          "like_count": 3709,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 358
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T17:29:31.000Z",
+        "description": "Tell me one thing you would never do",
+        "id": "1761080833799241728",
+        "location": "灰域",
+        "name": "🧤",
+        "pinned_tweet_id": "1980913762380152877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006159745565261824/SzqVI2eE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 278
+        },
+        "username": "Joy_of_Desiring",
+        "verified": false
+      }
+    ]
+  }
+}

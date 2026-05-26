@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1996982534253826192",
+    "created_at": "2025-12-05T23:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T00:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997090598315348323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997090598315348323",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996982534253826192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 是炸蛋！🤩😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77492,
+        "height": 1280,
+        "media_key": "7_1996981045871497220",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996981045871497220/pu/img/mtIOO06k_cUhKi7D.jpg",
+        "public_metrics": {
+          "view_count": 1447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996981045871497220/pu/vid/avc1/320x568/wHRqFfeQLWcUnFXX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996981045871497220/pu/vid/avc1/480x852/xz6nLjgy_v7HHZg-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996981045871497220/pu/vid/avc1/720x1280/ldUmD5rk6s6jZPWV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996981045871497220/pu/pl/-0E59_NlytegZW-P.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1996982534253826192",
+        "created_at": "2025-12-05T23:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T00:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997090598315348323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997090598315348323",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996982534253826192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 是炸蛋！🤩😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996981045871497220"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "conversation_id": "1996982534253826192",
+        "created_at": "2025-12-05T16:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996982534253826192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JailV3w2hA",
+              "end": 39,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1996982534253826192/video/1",
+              "media_key": "7_1996981045871497220",
+              "start": 16,
+              "url": "https://t.co/JailV3w2hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996982534253826192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3645,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hayase独家珍藏小视频😋😋 https://t.co/JailV3w2hA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n171cm 50kg\n生产日期：20101014\n保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 56,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "（已复活）生产日期2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人（底力恢复ing）|翻车2024.4.22|自切2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIozG7D"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14623,
+          "following_count": 386,
+          "like_count": 1532,
+          "listed_count": 23,
+          "media_count": 266,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/eYxEIozG7D",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

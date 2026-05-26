@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2050888798423101472",
+    "created_at": "2026-05-05T01:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051467457903419410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051467457903419410",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050888798423101472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 梯子换个国家即可"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_2050888546442174464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY4RFSaYAAdxGw.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2050888798423101472",
+        "created_at": "2026-05-05T01:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051467457903419410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051467457903419410",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050888798423101472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 梯子换个国家即可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050888546442174464"
+          ]
+        },
+        "author_id": "2027354397983076352",
+        "conversation_id": "2050888798423101472",
+        "created_at": "2026-05-03T10:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050888798423101472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XVPTyZmDn",
+              "end": 35,
+              "expanded_url": "https://x.com/Alamida001/status/2050888798423101472/photo/1",
+              "media_key": "3_2050888546442174464",
+              "start": 12,
+              "url": "https://t.co/3XVPTyZmDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050888798423101472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5732,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已老实再也不装小男孩了 https://t.co/3XVPTyZmDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 666,
+          "like_count": 12017,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "不是三无号和看黄的一般会回fo，没回fo就是没看到。",
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男秦彻爱情向梦女）",
+        "pinned_tweet_id": "2042594206288675001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048083482677768192/yGJOAjGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 187,
+          "like_count": 956,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1283
+        },
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

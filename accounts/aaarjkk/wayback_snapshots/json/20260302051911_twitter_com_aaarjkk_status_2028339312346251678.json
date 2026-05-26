@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2028142606526582885",
+    "created_at": "2026-03-02T05:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028339312346251678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603232668744761345",
+          "start": 0,
+          "username": "orugannokasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028339312346251678",
+    "in_reply_to_user_id": "1603232668744761345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028338763152420936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orugannokasa 抱抱awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2028142606526582885",
+        "created_at": "2026-03-02T05:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028339312346251678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603232668744761345",
+              "start": 0,
+              "username": "orugannokasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028339312346251678",
+        "in_reply_to_user_id": "1603232668744761345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028338763152420936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orugannokasa 抱抱awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603232668744761345",
+        "conversation_id": "2028142606526582885",
+        "created_at": "2026-03-02T05:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028338763152420936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028338763152420936",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028333983231308156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 但是有抱抱~\n抱抱awa🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 303,
+          "like_count": 3719,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 359
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁的xyn，偶尔会割手手，但是不od（）\n大证含糖，身高体重保密喵～\n同类无门槛w ，互fo一定一定要踢我\n永远的好妹妹 @MiaoJiang080923\n永远的好闺蜜@bdxiaoxiong\n坐标无锡（居住），淮安（上学）有避难所在淮安，欢迎有需要的跨女私信咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "bdxiaoxiong"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "location": "苏南",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "pinned_tweet_id": "1986349454828691653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962398253481365504/3QH1bDNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 139,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 285
+        },
+        "username": "orugannokasa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1998793340008165845",
+    "created_at": "2025-12-11T11:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999079627281854713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999079627281854713",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998793340008165845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 我5年级就玩端游hyt了，是开卦玩的，当时用jsmh开端工具，用的比较稳定的是青柚公益水影，后来用x1a0dasense的破解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1998793340008165845",
+        "created_at": "2025-12-11T11:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999079627281854713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999079627281854713",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998793340008165845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 我5年级就玩端游hyt了，是开卦玩的，当时用jsmh开端工具，用的比较稳定的是青柚公益水影，后来用x1a0dasense的破解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "1998793340008165845",
+        "created_at": "2025-12-10T16:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998793340008165845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mc.163.com/news/20251210/…",
+              "end": 159,
+              "expanded_url": "http://mc.163.com/news/20251210/29175_1275702.html",
+              "start": 136,
+              "status": 400,
+              "unwound_url": "http://mc.163.com/news/20251210/29175_1275702.html",
+              "url": "https://t.co/M7FiFYVoU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998793340008165845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花雨庭最终还是倒下了🥲\n好怀念23年那会和朋友一起用飘花雨庭bw，当时gd也没多严重，属于是还能硬抗\n虽然当时绕过不是很暴力，但至少一起玩的很开心\n现在以前那些朋友，基本也都去玩其他游戏了\njsmh工具箱也走了一年了，当时还靠朋友白嫖了一个内部，后来也在24年上半年走了\nhttps://t.co/M7FiFYVoU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 101,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入 | 生产日期2010.3.16 | 无证含糖 |",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960630769094656/zuD-tgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1446,
+          "like_count": 36183,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 3341
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

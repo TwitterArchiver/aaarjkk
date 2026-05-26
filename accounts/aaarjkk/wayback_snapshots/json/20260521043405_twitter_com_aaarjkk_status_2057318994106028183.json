@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057056751426699270",
+    "created_at": "2026-05-21T04:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057318994106028183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2017196443396907008",
+          "start": 0,
+          "username": "TTkxz974644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057318994106028183",
+    "in_reply_to_user_id": "2017196443396907008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057109928347881533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTkxz974644 我好像是beta版测试人员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057056751426699270",
+        "created_at": "2026-05-21T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057318994106028183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017196443396907008",
+              "start": 0,
+              "username": "TTkxz974644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057318994106028183",
+        "in_reply_to_user_id": "2017196443396907008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057109928347881533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTkxz974644 我好像是beta版测试人员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017196443396907008",
+        "conversation_id": "2057056751426699270",
+        "created_at": "2026-05-20T14:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057109928347881533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057109928347881533",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057056751426699270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 怎麼我還沒有收到push"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 736,
+          "like_count": 13842,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 1898
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T11:21:37.000Z",
+        "description": "https://t.co/7Lsu1fQFsb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sony.com.hk",
+                "end": 23,
+                "expanded_url": "http://sony.com.hk",
+                "start": 0,
+                "url": "https://t.co/7Lsu1fQFsb"
+              }
+            ]
+          }
+        },
+        "id": "2017196443396907008",
+        "name": "TTkxz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052792002220314629/j1ZUhZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 44
+        },
+        "username": "TTkxz974644",
+        "verified": false
+      }
+    ]
+  }
+}

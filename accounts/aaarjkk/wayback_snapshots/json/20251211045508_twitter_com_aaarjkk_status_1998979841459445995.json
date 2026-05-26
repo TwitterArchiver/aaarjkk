@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1998907267689935298",
+    "created_at": "2025-12-11T04:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998979841459445995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1182842526169874433",
+          "start": 0,
+          "username": "eason11210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998979841459445995",
+    "in_reply_to_user_id": "1182842526169874433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998907267689935298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eason11210 抽抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1998907261952098305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72LkGeagAEpkqM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 960,
+        "media_key": "3_1998907262048534528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72LkG1aAAAEiEF.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1998907261952143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72LkGebMAAi4fi.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_1998907261956272133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72LkGfaMAU0736.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1998907267689935298",
+        "created_at": "2025-12-11T04:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998979841459445995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1182842526169874433",
+              "start": 0,
+              "username": "eason11210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998979841459445995",
+        "in_reply_to_user_id": "1182842526169874433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998907267689935298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eason11210 抽抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998907261952098305",
+            "3_1998907262048534528",
+            "3_1998907261952143360",
+            "3_1998907261956272133"
+          ]
+        },
+        "author_id": "1182842526169874433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "1998907267689935298",
+        "created_at": "2025-12-11T00:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998907267689935298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmbXmP2sTs",
+              "end": 233,
+              "expanded_url": "https://x.com/eason11210/status/1998907267689935298/photo/1",
+              "media_key": "3_1998907261952098305",
+              "start": 210,
+              "url": "https://t.co/XmbXmP2sTs"
+            },
+            {
+              "display_url": "pic.x.com/XmbXmP2sTs",
+              "end": 233,
+              "expanded_url": "https://x.com/eason11210/status/1998907267689935298/photo/1",
+              "media_key": "3_1998907262048534528",
+              "start": 210,
+              "url": "https://t.co/XmbXmP2sTs"
+            },
+            {
+              "display_url": "pic.x.com/XmbXmP2sTs",
+              "end": 233,
+              "expanded_url": "https://x.com/eason11210/status/1998907267689935298/photo/1",
+              "media_key": "3_1998907261952143360",
+              "start": 210,
+              "url": "https://t.co/XmbXmP2sTs"
+            },
+            {
+              "display_url": "pic.x.com/XmbXmP2sTs",
+              "end": 233,
+              "expanded_url": "https://x.com/eason11210/status/1998907267689935298/photo/1",
+              "media_key": "3_1998907261956272133",
+              "start": 210,
+              "url": "https://t.co/XmbXmP2sTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998907267689935298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《抽獎》\n月初了  別人發薪我發主機\n\nR7-5800X\nX570\n32G\n512G\nRTX3090\n\n對這台 有著很強的效能\n然後可惜是礦卡我也懶得轉售\n直接抽出來個各位\n\nAMD 9600X\nAMD幽靈扇\nB650M 雙M.2 Wifi 主機板\nCurcial / ADATA D5-5600 32G\nADATA 1TB Gen4 M.2 SSD\n憾訊RX9070XT-16G 保固一個月\nTT GT850金牌全模\n大飛DK353/MOTI MINI 黑\n$47500\n\n福利機現省5000 懂的人才懂\n\n追蹤我  轉發留言按讚\n這台3090主機就有機會抽到你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9561,
+          "like_count": 585,
+          "quote_count": 2,
+          "reply_count": 464,
+          "retweet_count": 451
+        },
+        "reply_settings": "everyone",
+        "text": "《抽獎》\n月初了  別人發薪我發主機\n\nR7-5800X\nX570\n32G\n512G\nRTX3090\n\n對這台 有著很強的效能\n然後可惜是礦卡我也懶得轉售\n直接抽出來個各位\n\nAMD 9600X\nAMD幽靈扇\nB650M 雙M.2 Wifi 主機板\nCurcial / ADATA D5-5600 32G\nADATA 1TB Gen4 M.2 SSD\n憾訊RX9070XT-16G 保固一個月\nTT GT850金牌全模 https://t.co/XmbXmP2sTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 101,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T02:16:58.000Z",
+        "description": "大家好我是一陞✨ 承接電腦組裝 電腦免費維修",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eason11210.com",
+                "end": 23,
+                "expanded_url": "http://www.eason11210.com/",
+                "start": 0,
+                "url": "https://t.co/DRdfxFArBt"
+              }
+            ]
+          }
+        },
+        "id": "1182842526169874433",
+        "location": "Changhua County, Taiwan",
+        "name": "一陞不是醫生",
+        "pinned_tweet_id": "1875084010021671067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998100255829848064/yzCBOWms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27730,
+          "following_count": 708,
+          "like_count": 8711,
+          "listed_count": 27,
+          "media_count": 1285,
+          "tweet_count": 6498
+        },
+        "url": "https://t.co/DRdfxFArBt",
+        "username": "eason11210",
+        "verified": true
+      }
+    ]
+  }
+}

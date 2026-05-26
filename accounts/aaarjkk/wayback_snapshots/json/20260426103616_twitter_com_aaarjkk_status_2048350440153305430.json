@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048350438052040704"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2048275250794958860",
+    "created_at": "2026-04-26T10:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048350440153305430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lOiSnGnr13",
+          "end": 37,
+          "expanded_url": "https://x.com/aaarjkk/status/2048350440153305430/photo/1",
+          "media_key": "3_2048350438052040704",
+          "start": 14,
+          "url": "https://t.co/lOiSnGnr13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048350440153305430",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048275250794958860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 😭 https://t.co/lOiSnGnr13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_2048350438052040704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0z3uubkAAf5cc.jpg",
+        "width": 784
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2048275247103954944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzvfCnbUAAGxv3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048350438052040704"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2048275250794958860",
+        "created_at": "2026-04-26T10:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048350440153305430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOiSnGnr13",
+              "end": 37,
+              "expanded_url": "https://x.com/aaarjkk/status/2048350440153305430/photo/1",
+              "media_key": "3_2048350438052040704",
+              "start": 14,
+              "url": "https://t.co/lOiSnGnr13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048350440153305430",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048275250794958860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 😭 https://t.co/lOiSnGnr13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048275247103954944"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048275250794958860",
+        "created_at": "2026-04-26T05:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048275250794958860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPzsuDTIvu",
+              "end": 43,
+              "expanded_url": "https://x.com/ye_and_yae/status/2048275250794958860/photo/1",
+              "media_key": "3_2048275247103954944",
+              "start": 20,
+              "url": "https://t.co/vPzsuDTIvu"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2048080760427761842",
+              "start": 44,
+              "url": "https://t.co/8oF96znChO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048275250794958860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048080760427761842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是互关…唉…为什么啊\n不想让大家消失 https://t.co/vPzsuDTIvu https://t.co/8oF96znChO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║52.8kg(胖了好多😭😭😭)║🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝓨𝓣𝓷𝔂𝓪📀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048182524212604928/zI-UVlVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 610,
+          "like_count": 11120,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元   \n主人 @yesterdayorange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "yesterdayorange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔🍥",
+        "pinned_tweet_id": "2043199137865490788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044867199542886400/5KCU5S6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 876,
+          "like_count": 3995,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051886884180336811",
+    "created_at": "2026-05-06T04:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051887313291268453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051887313291268453",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051886884180336811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "左手拿起手机抖得更明显了🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15827,
+        "height": 1280,
+        "media_key": "7_2051886798142570496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051886798142570496/pu/img/fMb5qzfYffNMNz50.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051886798142570496/pu/vid/avc1/320x568/n_6HLHHJFp_3ByWp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051886798142570496/pu/vid/avc1/480x852/jFJKayzQfc35lLTq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051886798142570496/pu/vid/avc1/720x1280/4uV5w4DGjawCnsi2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051886798142570496/pu/pl/Vjqnxz60BHLJsGz1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051886884180336811",
+        "created_at": "2026-05-06T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051887313291268453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051887313291268453",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051886884180336811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左手拿起手机抖得更明显了🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051886798142570496"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051886884180336811",
+        "created_at": "2026-05-06T04:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051886884180336811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4bEqaAIeo",
+              "end": 49,
+              "expanded_url": "https://x.com/aaarjkk/status/2051886884180336811/video/1",
+              "media_key": "7_2051886798142570496",
+              "start": 26,
+              "url": "https://t.co/s4bEqaAIeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051886884180336811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是？，我左手大拇指为什么控制不住一直点抖啊？？？ https://t.co/s4bEqaAIeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 690,
+          "like_count": 12395,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

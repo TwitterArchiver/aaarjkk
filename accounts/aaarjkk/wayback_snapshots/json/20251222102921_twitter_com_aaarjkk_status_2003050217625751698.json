@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003050210126368768"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002909835327836393",
+    "created_at": "2025-12-22T10:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003050217625751698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rnGP5tBMSk",
+          "end": 37,
+          "expanded_url": "https://x.com/aaarjkk/status/2003050217625751698/photo/1",
+          "media_key": "3_2003050210126368768",
+          "start": 14,
+          "url": "https://t.co/rnGP5tBMSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003050217625751698",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002909835327836393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 细节 https://t.co/rnGP5tBMSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2003050210126368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xDjbHakAAibUn.jpg",
+        "width": 250
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2002909829191655425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8vD4LYbYAE3irr.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003050210126368768"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002909835327836393",
+        "created_at": "2025-12-22T10:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003050217625751698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnGP5tBMSk",
+              "end": 37,
+              "expanded_url": "https://x.com/aaarjkk/status/2003050217625751698/photo/1",
+              "media_key": "3_2003050210126368768",
+              "start": 14,
+              "url": "https://t.co/rnGP5tBMSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003050217625751698",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002909835327836393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 细节 https://t.co/rnGP5tBMSk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002909829191655425"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2002909835327836393",
+        "created_at": "2025-12-22T01:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002909835327836393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjieARgEmJ",
+              "end": 36,
+              "expanded_url": "https://x.com/ggdxfulan/status/2002909835327836393/photo/1",
+              "media_key": "3_2002909829191655425",
+              "start": 13,
+              "url": "https://t.co/bjieARgEmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002909835327836393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4110,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我群每天还真就是这样（） https://t.co/bjieARgEmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望每个人每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧𝟸▓▓▓▓▓▓𝟽𝟾\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 134,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14001,
+          "following_count": 478,
+          "like_count": 31863,
+          "listed_count": 24,
+          "media_count": 3317,
+          "tweet_count": 10843
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

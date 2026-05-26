@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2038838481712209960",
+    "created_at": "2026-04-01T04:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039204407175512240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935418292635607041",
+          "start": 0,
+          "username": "sink_macau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039204407175512240",
+    "in_reply_to_user_id": "1935418292635607041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039009813942640826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sink_macau ？？🤯哪神人了，都是我在𝕏上的好朋友！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2038838481712209960",
+        "created_at": "2026-04-01T04:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039204407175512240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935418292635607041",
+              "start": 0,
+              "username": "sink_macau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039204407175512240",
+        "in_reply_to_user_id": "1935418292635607041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039009813942640826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sink_macau ？？🤯哪神人了，都是我在𝕏上的好朋友！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935418292635607041",
+        "conversation_id": "2038838481712209960",
+        "created_at": "2026-03-31T15:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039009813942640826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039009813942640826",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038838481712209960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 神人圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 479,
+          "like_count": 7283,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:24:35.000Z",
+        "description": "佢／佢｜陸沉澳門委員會官方發言人｜藥娘｜兩微克補佳樂日服患者｜此地註定陸沉無須拯救｜每天在賭場籌集手術費｜最終解決方案FS忠誠執行者｜性冷淡但色色｜🍥🏳️‍⚧️🌲",
+        "id": "1935418292635607041",
+        "location": "沙田",
+        "name": "陸沉澳門委員會 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031116919630114816/PGECkoVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 155
+        },
+        "username": "sink_macau",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1998606706088280160",
+    "created_at": "2025-12-10T11:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998712628693381607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "24146010",
+          "start": 0,
+          "username": "l0caloca8964"
+        },
+        {
+          "end": 23,
+          "id": "1271652280438308864",
+          "start": 14,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998712628693381607",
+    "in_reply_to_user_id": "24146010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998680146577117295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l0caloca8964 @Jaciezyt 应该是用来做凝胶涂抹的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1998606706088280160",
+        "created_at": "2025-12-10T11:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998712628693381607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24146010",
+              "start": 0,
+              "username": "l0caloca8964"
+            },
+            {
+              "end": 23,
+              "id": "1271652280438308864",
+              "start": 14,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998712628693381607",
+        "in_reply_to_user_id": "24146010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998680146577117295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l0caloca8964 @Jaciezyt 应该是用来做凝胶涂抹的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24146010",
+        "conversation_id": "1998606706088280160",
+        "created_at": "2025-12-10T09:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998680146577117295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998680146577117295",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998606706088280160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt ？这是涂抹还是口服？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998629348656762880/yQBcePIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 99,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-13T08:23:17.000Z",
+        "description": "深海钓俱乐部筹划中/沪上吃鱼俱乐部/严肃认真的女性营养运动咨询服务师/你的难言之隐我能理解#欲海慈航活菩萨，榻上度人欢喜佛 爱财好色 人胖鸟短 贪生怕死 一身正气「天安門事件8964」蒙古海军军医",
+        "id": "24146010",
+        "location": "冲绳诸岛",
+        "name": "卖鱼的老莫8964",
+        "pinned_tweet_id": "1774836466436469211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790682106211020800/fDwGAHdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 7497,
+          "like_count": 47712,
+          "listed_count": 45,
+          "media_count": 1844,
+          "tweet_count": 28887
+        },
+        "username": "l0caloca8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心❤ | 里@__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "levimc_org"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🌸🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998244380675805184/5ly0wKFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 783,
+          "like_count": 52526,
+          "listed_count": 8,
+          "media_count": 1064,
+          "tweet_count": 13052
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

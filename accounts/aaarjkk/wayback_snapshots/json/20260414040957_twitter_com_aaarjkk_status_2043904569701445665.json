@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043904567616888832"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2042476768729469402",
+    "created_at": "2026-04-14T04:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043904569701445665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        },
+        {
+          "end": 28,
+          "id": "1877473083063201792",
+          "start": 13,
+          "username": "dorothy1614926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mHaTTkLP3d",
+          "end": 67,
+          "expanded_url": "https://x.com/aaarjkk/status/2043904569701445665/photo/1",
+          "media_key": "3_2043904567616888832",
+          "start": 44,
+          "url": "https://t.co/mHaTTkLP3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043904569701445665",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043747693185642704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 @dorothy1614926 是呀，我用的是Android https://t.co/mHaTTkLP3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_2043904567616888832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1oYAuaYAAwj2R.jpg",
+        "width": 741
+      },
+      {
+        "height": 180,
+        "media_key": "3_2043747687640772612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzZsZRasAQ4dJq.jpg",
+        "width": 180
+      },
+      {
+        "height": 1272,
+        "media_key": "3_2043747687628189697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzZsZOasAECVpz.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043904567616888832"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2042476768729469402",
+        "created_at": "2026-04-14T04:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043904569701445665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            },
+            {
+              "end": 28,
+              "id": "1877473083063201792",
+              "start": 13,
+              "username": "dorothy1614926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHaTTkLP3d",
+              "end": 67,
+              "expanded_url": "https://x.com/aaarjkk/status/2043904569701445665/photo/1",
+              "media_key": "3_2043904567616888832",
+              "start": 44,
+              "url": "https://t.co/mHaTTkLP3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043904569701445665",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043747693185642704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 @dorothy1614926 是呀，我用的是Android https://t.co/mHaTTkLP3d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043747687640772612",
+            "3_2043747687628189697"
+          ]
+        },
+        "author_id": "1796929111996456960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2042476768729469402",
+        "created_at": "2026-04-13T17:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043747693185642704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 24,
+              "id": "1877473083063201792",
+              "start": 9,
+              "username": "dorothy1614926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAOT6wiUY5",
+              "end": 88,
+              "expanded_url": "https://x.com/nbrkfst0721/status/2043747693185642704/photo/1",
+              "media_key": "3_2043747687640772612",
+              "start": 65,
+              "url": "https://t.co/uAOT6wiUY5"
+            },
+            {
+              "display_url": "pic.x.com/uAOT6wiUY5",
+              "end": 88,
+              "expanded_url": "https://x.com/nbrkfst0721/status/2043747693185642704/photo/1",
+              "media_key": "3_2043747687628189697",
+              "start": 65,
+              "url": "https://t.co/uAOT6wiUY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043747693185642704",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042553026750353842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @dorothy1614926 我知道为什么你抄下来的是独眼怪了\n左是iOS 右是android\n系统的问题罢 https://t.co/uAOT6wiUY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 564,
+          "like_count": 9134,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "東方｜秘封｜简/繁中文｜Eng｜機械翻訳日本語|成分复杂｜\n無言フォロー失礼いたしまし",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "𝓤𝓷𝓬𝓼𝓬𝓼鎮魂曲 ╭ᰩ ᭄╮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036667245062168576/zSxSfpmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1092,
+          "like_count": 10053,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1026
+        },
+        "username": "nbrkfst0721",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "wenhuamengyue"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041785097251385681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 393,
+          "like_count": 4425,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 936
+        },
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

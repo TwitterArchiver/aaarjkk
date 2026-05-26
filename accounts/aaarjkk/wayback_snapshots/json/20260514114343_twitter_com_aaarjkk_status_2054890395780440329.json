@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054556038385618944"
+      ],
+      "media_source_tweet_id": [
+        "2054557459898105952"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054890395780440329",
+    "created_at": "2026-05-14T11:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054890395780440329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486225700793495552",
+          "start": 3,
+          "username": "ABC13067637"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eaRcj6L0m1",
+          "end": 58,
+          "expanded_url": "https://x.com/ABC13067637/status/2054557459898105952/video/1",
+          "media_key": "13_2054556038385618944",
+          "start": 35,
+          "url": "https://t.co/eaRcj6L0m1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054890395780440329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054557459898105952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABC13067637: 唱出了我的心声🥲想变成女孩子！！！ https://t.co/eaRcj6L0m1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 238902,
+        "height": 1080,
+        "media_key": "13_2054556038385618944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054556038385618944/img/jj0UNr8-qJfxoHkU.jpg",
+        "public_metrics": {
+          "view_count": 1978
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/480x270/NhEiDCxQ8TFaBnNo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/640x360/vIG2Ox-kUtDR1ZwV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/1280x720/TNdRHSKAMS5b1D5t.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/pl/7FTNqqOTVtIsDCZd.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 238902,
+        "height": 1080,
+        "media_key": "13_2054556038385618944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054556038385618944/img/jj0UNr8-qJfxoHkU.jpg",
+        "public_metrics": {
+          "view_count": 2006
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/480x270/NhEiDCxQ8TFaBnNo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/640x360/vIG2Ox-kUtDR1ZwV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/vid/avc1/1280x720/TNdRHSKAMS5b1D5t.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054556038385618944/pl/7FTNqqOTVtIsDCZd.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054556038385618944"
+          ],
+          "media_source_tweet_id": [
+            "2054557459898105952"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054890395780440329",
+        "created_at": "2026-05-14T11:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054890395780440329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486225700793495552",
+              "start": 3,
+              "username": "ABC13067637"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaRcj6L0m1",
+              "end": 58,
+              "expanded_url": "https://x.com/ABC13067637/status/2054557459898105952/video/1",
+              "media_key": "13_2054556038385618944",
+              "start": 35,
+              "url": "https://t.co/eaRcj6L0m1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054890395780440329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054557459898105952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABC13067637: 唱出了我的心声🥲想变成女孩子！！！ https://t.co/eaRcj6L0m1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054556038385618944"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2054557459898105952",
+        "created_at": "2026-05-13T13:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054557459898105952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaRcj6L0m1",
+              "end": 41,
+              "expanded_url": "https://x.com/ABC13067637/status/2054557459898105952/video/1",
+              "media_key": "13_2054556038385618944",
+              "start": 18,
+              "url": "https://t.co/eaRcj6L0m1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054557459898105952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4781,
+          "like_count": 98,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "唱出了我的心声🥲想变成女孩子！！！ https://t.co/eaRcj6L0m1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 708,
+          "like_count": 13024,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1765
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 421,
+          "like_count": 1411,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 634
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027358296991277326",
+    "created_at": "2026-02-28T04:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027602107180978448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        },
+        {
+          "end": 22,
+          "id": "1766644305660420096",
+          "start": 9,
+          "username": "suikachanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027602107180978448",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027358296991277326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb @suikachanqwq 细节用繁体"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1745,
+        "media_key": "3_2027357991813644288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKfWiaaAAAf2b2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027358296991277326",
+        "created_at": "2026-02-28T04:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027602107180978448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            },
+            {
+              "end": 22,
+              "id": "1766644305660420096",
+              "start": 9,
+              "username": "suikachanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027602107180978448",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027358296991277326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb @suikachanqwq 细节用繁体"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027357991813644288"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2027358296991277326",
+        "created_at": "2026-02-27T12:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027358296991277326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Mujfwz33L",
+              "end": 55,
+              "expanded_url": "https://x.com/igeekbb/status/2027358296991277326/photo/1",
+              "media_key": "3_2027357991813644288",
+              "start": 32,
+              "url": "https://t.co/3Mujfwz33L"
+            },
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/igeekbb/status/2024718120183890199",
+              "start": 56,
+              "url": "https://t.co/dCJVon6426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027358296991277326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 570537,
+          "like_count": 420,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024718120183890199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看你们把店家都整得不自信了，还得给你们从头上九年制义务教育。 https://t.co/3Mujfwz33L https://t.co/dCJVon6426"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 294,
+          "like_count": 3522,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 330
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67490,
+          "following_count": 1,
+          "like_count": 11685,
+          "listed_count": 283,
+          "media_count": 6397,
+          "tweet_count": 9958
+        },
+        "username": "igeekbb",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́穩̶̼̲͒定̵̳̑͘/小貓🐱/高一/🏳️‍⚧️MtF/上海/hrt🍥114.09.30/🍰98.12.22/家長否定/181/斷糖/左翼民國派🇹🇼/國男/姊姊@Yyyyy_pog @Alian123_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "Alian123_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXuP3z"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "小貓民國　上海市",
+        "name": "すいかちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020799650144415825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628913628327942/GcuxpWZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1757,
+          "like_count": 13416,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 7156
+        },
+        "url": "https://t.co/iBBruXuP3z",
+        "username": "suikachanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

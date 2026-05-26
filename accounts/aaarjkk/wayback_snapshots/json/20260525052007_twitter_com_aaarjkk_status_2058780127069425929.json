@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2058711110434316366",
+    "created_at": "2026-05-25T05:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058780127069425929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058780127069425929",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058711110434316366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 我没遇到过诶，不过梯子换个地区应该可以解决"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058711106592411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIC2AuXkAAlRfK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2058711110434316366",
+        "created_at": "2026-05-25T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058780127069425929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058780127069425929",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058711110434316366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 我没遇到过诶，不过梯子换个地区应该可以解决"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058711106592411648"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2058711110434316366",
+        "created_at": "2026-05-25T00:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058711110434316366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhQXrCUWVY",
+              "end": 29,
+              "expanded_url": "https://x.com/xian_zi17640/status/2058711110434316366/photo/1",
+              "media_key": "3_2058711106592411648",
+              "start": 6,
+              "url": "https://t.co/qhQXrCUWVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058711110434316366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们咋下的 https://t.co/qhQXrCUWVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 752,
+          "like_count": 14467,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2005
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "生日:1209 年龄:15 性格:随机  初二 玻璃心 大胃袋 小短腿 免费树洞欢迎来找我聊天\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 48,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 322,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 1641
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

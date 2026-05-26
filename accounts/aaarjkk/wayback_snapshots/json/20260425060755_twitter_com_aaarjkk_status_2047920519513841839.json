@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047523515482705920"
+      ],
+      "media_source_tweet_id": [
+        "2047523526484320334"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2047920519513841839",
+    "created_at": "2026-04-25T06:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047920519513841839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qf2nyOmWaP",
+          "end": 43,
+          "expanded_url": "https://x.com/__fanqie__/status/2047523526484320334/photo/1",
+          "media_key": "3_2047523515482705920",
+          "start": 20,
+          "url": "https://t.co/qf2nyOmWaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047920519513841839",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047523526484320334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 🥵🥵🥵 https://t.co/qf2nyOmWaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2047523515482705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpDygGbEAAzkEq.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047523515482705920"
+          ],
+          "media_source_tweet_id": [
+            "2047523526484320334"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2047920519513841839",
+        "created_at": "2026-04-25T06:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047920519513841839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qf2nyOmWaP",
+              "end": 43,
+              "expanded_url": "https://x.com/__fanqie__/status/2047523526484320334/photo/1",
+              "media_key": "3_2047523515482705920",
+              "start": 20,
+              "url": "https://t.co/qf2nyOmWaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047920519513841839",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047523526484320334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 🥵🥵🥵 https://t.co/qf2nyOmWaP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047523515482705920"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2047523526484320334",
+        "created_at": "2026-04-24T03:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047523526484320334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qf2nyOmWaP",
+              "end": 27,
+              "expanded_url": "https://x.com/__fanqie__/status/2047523526484320334/photo/1",
+              "media_key": "3_2047523515482705920",
+              "start": 4,
+              "url": "https://t.co/qf2nyOmWaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047523526484320334",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10389,
+          "like_count": 210,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥵🥵🥵 https://t.co/qf2nyOmWaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝓨𝓣𝓷𝔂𝓪📀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 596,
+          "like_count": 10901,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 2946,
+          "like_count": 1516,
+          "listed_count": 9,
+          "media_count": 1033,
+          "tweet_count": 8920
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

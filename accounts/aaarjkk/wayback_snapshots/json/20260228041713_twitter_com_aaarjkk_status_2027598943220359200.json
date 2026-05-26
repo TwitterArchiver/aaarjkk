@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027598940888305664"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027597212059070906",
+    "created_at": "2026-02-28T04:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027598943220359200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2027594385685417989",
+          "start": 0,
+          "username": "zuo8375"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iXW80rwm7K",
+          "end": 54,
+          "expanded_url": "https://x.com/aaarjkk/status/2027598943220359200/photo/1",
+          "media_key": "3_2027598940888305664",
+          "start": 31,
+          "url": "https://t.co/iXW80rwm7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027598943220359200",
+    "in_reply_to_user_id": "2027594385685417989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027597212059070906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo8375 今天是你的生日吗，被封的账号也可以冒气球欸 https://t.co/iXW80rwm7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027598940888305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN6fnqbEAAWOCm.jpg",
+        "width": 931
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2027597203808915459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN46gibEAM2C3p.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027598940888305664"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027597212059070906",
+        "created_at": "2026-02-28T04:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027598943220359200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2027594385685417989",
+              "start": 0,
+              "username": "zuo8375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXW80rwm7K",
+              "end": 54,
+              "expanded_url": "https://x.com/aaarjkk/status/2027598943220359200/photo/1",
+              "media_key": "3_2027598940888305664",
+              "start": 31,
+              "url": "https://t.co/iXW80rwm7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027598943220359200",
+        "in_reply_to_user_id": "2027594385685417989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027597212059070906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo8375 今天是你的生日吗，被封的账号也可以冒气球欸 https://t.co/iXW80rwm7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027597203808915459"
+          ]
+        },
+        "author_id": "2027594385685417989",
+        "conversation_id": "2027597212059070906",
+        "created_at": "2026-02-28T04:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027597212059070906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQSeeKUSR1",
+              "end": 89,
+              "expanded_url": "https://x.com/zuo8375/status/2027597212059070906/photo/1",
+              "media_key": "3_2027597203808915459",
+              "start": 66,
+              "url": "https://t.co/NQSeeKUSR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027597212059070906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的14岁生日……嗯，开心吧，有点累，就是，这几天都没好好休息了，希望能多给我出几单，谢谢各位啦❤️我的前账号被封禁了，哭😭 https://t.co/NQSeeKUSR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 293,
+          "like_count": 3503,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 327
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T03:59:24.000Z",
+        "description": "生日 2012 02 28\nhrt 2024 09 27\n我的qq账号是3569576292，请添加我的最新账号，以获取最新的价格表和💊物清单（已经降价很多啦，可怜可怜孩子吧😭）",
+        "id": "2027594385685417989",
+        "name": "@錳酸鉀/祚九🍥糖商",
+        "pinned_tweet_id": "2027597212059070906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027594707602464768/JOPdPkaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "zuo8375",
+        "verified": false
+      }
+    ]
+  }
+}

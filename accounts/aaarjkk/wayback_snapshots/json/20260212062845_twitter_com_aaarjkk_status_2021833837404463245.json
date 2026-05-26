@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021833833717661699"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2021833837404463245",
+    "created_at": "2026-02-12T06:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021833837404463245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1667798970700283904",
+          "start": 22,
+          "username": "Sokei_ko_nya"
+        },
+        {
+          "end": 45,
+          "id": "1772535125517246464",
+          "start": 36,
+          "username": "WanN916_"
+        },
+        {
+          "end": 67,
+          "id": "1700547797026476032",
+          "start": 52,
+          "username": "haitao_li24917"
+        },
+        {
+          "end": 84,
+          "id": "1798691696001355776",
+          "start": 74,
+          "username": "ZaoTon618"
+        },
+        {
+          "end": 93,
+          "id": "1953688493160542208",
+          "start": 85,
+          "username": "SYFSASN"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 121,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 98,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/LyUDUdWFHE"
+        },
+        {
+          "display_url": "pic.x.com/SUM9KuHaGJ",
+          "end": 145,
+          "expanded_url": "https://x.com/aaarjkk/status/2021833837404463245/photo/1",
+          "media_key": "3_2021833833717661699",
+          "start": 122,
+          "url": "https://t.co/SUM9KuHaGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021833837404463245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Sokei_ko_nya @WanN916_\n👰 配偶: @haitao_li24917\n👶 孩子: @ZaoTon618 @SYFSASN\n\n➡️ https://t.co/LyUDUdWFHE https://t.co/SUM9KuHaGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2021833833717661699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7_KN2bgAMtI00.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021833833717661699"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2021833837404463245",
+        "created_at": "2026-02-12T06:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021833837404463245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1667798970700283904",
+              "start": 22,
+              "username": "Sokei_ko_nya"
+            },
+            {
+              "end": 45,
+              "id": "1772535125517246464",
+              "start": 36,
+              "username": "WanN916_"
+            },
+            {
+              "end": 67,
+              "id": "1700547797026476032",
+              "start": 52,
+              "username": "haitao_li24917"
+            },
+            {
+              "end": 84,
+              "id": "1798691696001355776",
+              "start": 74,
+              "username": "ZaoTon618"
+            },
+            {
+              "end": 93,
+              "id": "1953688493160542208",
+              "start": 85,
+              "username": "SYFSASN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 121,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/LyUDUdWFHE"
+            },
+            {
+              "display_url": "pic.x.com/SUM9KuHaGJ",
+              "end": 145,
+              "expanded_url": "https://x.com/aaarjkk/status/2021833837404463245/photo/1",
+              "media_key": "3_2021833833717661699",
+              "start": 122,
+              "url": "https://t.co/SUM9KuHaGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021833837404463245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Sokei_ko_nya @WanN916_\n👰 配偶: @haitao_li24917\n👶 孩子: @ZaoTon618 @SYFSASN\n\n➡️ https://t.co/LyUDUdWFHE https://t.co/SUM9KuHaGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 241,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 200
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / 无证mtf🏳️‍⚧️(25.2.25)/宝宝@RainEngine2024（不建政/No Politics）\n(https://t.co/uTEFVtqHDn)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "RainEngine2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Sokei_ko_nya",
+                "end": 130,
+                "expanded_url": "https://www.youtube.com/@Sokei_ko_nya",
+                "start": 107,
+                "url": "https://t.co/uTEFVtqHDn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpdn7"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 987,
+          "like_count": 50332,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/8RxAlLpdn7",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "我不是猫卷，我确实不是猫卷，你才是猫卷，我才不是猫卷",
+        "id": "1772535125517246464",
+        "location": "床上",
+        "name": "月月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009897628935565314/VgTDkdba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 541,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1015
+        },
+        "username": "WanN916_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "今天您又报错了吗？",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "鲜虾鱼版面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 231,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1003
+        },
+        "username": "haitao_li24917",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24 MtF🍥/已炸柜/家长不管党/不抽烟不喝酒/不od不割手/应该没有精神疾病/一般不会发负能量内容/可互fo有关注基本必回(前提我确定你是人)/欢迎找我咨询MtF用药方案及相关知识，有跨性别意愿的也可以找我做心理疏导🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "https://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/rKC6bXjeLt"
+              }
+            ]
+          }
+        },
+        "id": "1798691696001355776",
+        "location": "创国",
+        "name": "枣桐酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015014041513845212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004470062452035588/PVjS6TLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 666,
+          "like_count": 21113,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/rKC6bXjeLt",
+        "username": "ZaoTon618",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09/欢迎互fo/闲聊找乐子/友跨/明日方舟/星穹铁道/大部分pc游戏/请勿发吊照/b键政跳脸的/有什么问题请私信（待完善）",
+        "id": "1953688493160542208",
+        "location": "Hong Kong",
+        "name": "SYFSASN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953688655807361025/DeCX868C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1036,
+          "like_count": 7479,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 463
+        },
+        "username": "SYFSASN",
+        "verified": false
+      }
+    ]
+  }
+}

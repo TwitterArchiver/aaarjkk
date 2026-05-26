@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057062273940918273"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057062276948210048",
+    "created_at": "2026-05-20T11:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057062276948210048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UK6zy3HaTa",
+          "end": 53,
+          "expanded_url": "https://x.com/aaarjkk/status/2057062276948210048/photo/1",
+          "media_key": "3_2057062273940918273",
+          "start": 30,
+          "url": "https://t.co/UK6zy3HaTa"
+        },
+        {
+          "display_url": "x.com/IntelDriver/st…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/IntelDriver/status/2056793360732741798",
+          "start": 54,
+          "url": "https://t.co/xHUYjplFiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057062276948210048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056793360732741798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不仅丑，字还超大，还会把字显示在屏幕外😂😂，一摊狗屎好吧💩 https://t.co/UK6zy3HaTa https://t.co/xHUYjplFiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2057062273940918273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwnPUcbEAEo16O.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056793357175906304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsyqTbaYAAAipf.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057062273940918273"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057062276948210048",
+        "created_at": "2026-05-20T11:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057062276948210048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK6zy3HaTa",
+              "end": 53,
+              "expanded_url": "https://x.com/aaarjkk/status/2057062276948210048/photo/1",
+              "media_key": "3_2057062273940918273",
+              "start": 30,
+              "url": "https://t.co/UK6zy3HaTa"
+            },
+            {
+              "display_url": "x.com/IntelDriver/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/IntelDriver/status/2056793360732741798",
+              "start": 54,
+              "url": "https://t.co/xHUYjplFiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057062276948210048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056793360732741798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不仅丑，字还超大，还会把字显示在屏幕外😂😂，一摊狗屎好吧💩 https://t.co/UK6zy3HaTa https://t.co/xHUYjplFiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056793357175906304"
+          ]
+        },
+        "author_id": "1721863847185952768",
+        "conversation_id": "2056709667678773715",
+        "created_at": "2026-05-19T17:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056793360732741798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSCDPyFA1g",
+              "end": 48,
+              "expanded_url": "https://x.com/IntelDriver/status/2056793360732741798/photo/1",
+              "media_key": "3_2056793357175906304",
+              "start": 25,
+              "url": "https://t.co/pSCDPyFA1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056793360732741798",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056709667678773715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 可是安卓上我感觉好丑的样子😭 https://t.co/pSCDPyFA1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 736,
+          "like_count": 13813,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 1888
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "一只08年的高中牲｜不键政不od会搬石 ｜🏳️‍⚧️是友跨喵｜游戏成分极其复杂 最喜欢玩的就是cs🔫 虽然菜菜的喵🤓（｜visual/android studio重度依赖｜欢迎同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhaYi-Miao",
+                "end": 23,
+                "expanded_url": "https://github.com/ZhaYi-Miao",
+                "start": 0,
+                "url": "https://t.co/eayqIffgWw"
+              }
+            ]
+          }
+        },
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 609,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/eayqIffgWw",
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

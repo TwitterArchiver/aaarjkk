@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057047448724689385",
+    "created_at": "2026-05-20T10:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057047448724689385"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057047448724689385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我似乎感觉不到饿也感觉不到饱，但是吃多了会感觉到胃胀胀的，感觉不到胃胀胀的就还想吃（感觉到胃胀胀的也还想吃只是吃不下了），总是一餐吃很多一餐吃很少。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057047448724689385",
+        "created_at": "2026-05-20T10:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057047448724689385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057047448724689385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我似乎感觉不到饿也感觉不到饱，但是吃多了会感觉到胃胀胀的，感觉不到胃胀胀的就还想吃（感觉到胃胀胀的也还想吃只是吃不下了），总是一餐吃很多一餐吃很少。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 735,
+          "like_count": 13761,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1878
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

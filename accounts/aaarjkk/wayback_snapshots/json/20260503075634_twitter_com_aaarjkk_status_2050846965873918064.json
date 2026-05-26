@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2050845480511529463",
+    "created_at": "2026-05-03T07:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050846965873918064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "822329886257790976",
+          "start": 0,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050846965873918064",
+    "in_reply_to_user_id": "822329886257790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050845480511529463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumidexNZ 我b站竖屏就像这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12074,
+        "height": 2336,
+        "media_key": "13_2050845317634076673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050845317634076673/img/5oVavLCtg13IHey6.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050845317634076673/vid/avc1/320x692/yrTu0b4Gzl_7fmmh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050845317634076673/vid/avc1/480x1038/vFvvey4Ccq0GYSNh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050845317634076673/vid/avc1/720x1556/57iCtCO6jmFipq5I.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050845317634076673/pl/Twiz-zE_eeorTyTO.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2050845480511529463",
+        "created_at": "2026-05-03T07:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050846965873918064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822329886257790976",
+              "start": 0,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050846965873918064",
+        "in_reply_to_user_id": "822329886257790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050845480511529463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumidexNZ 我b站竖屏就像这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050845317634076673"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2050845480511529463",
+        "created_at": "2026-05-03T07:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050845480511529463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fNdLzfKRk",
+              "end": 30,
+              "expanded_url": "https://x.com/LumidexNZ/status/2050845480511529463/video/1",
+              "media_key": "13_2050845317634076673",
+              "start": 7,
+              "url": "https://t.co/7fNdLzfKRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050845480511529463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂我的抖音 https://t.co/7fNdLzfKRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 651,
+          "like_count": 11807,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病｜匿名信箱https://t.co/MkVyELXohF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 31,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 8,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 660,
+          "like_count": 5257,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

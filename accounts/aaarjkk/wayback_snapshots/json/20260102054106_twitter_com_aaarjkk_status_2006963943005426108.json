@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2006963943005426108",
+    "created_at": "2026-01-02T05:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T06:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006963943005426108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kurazawanaki/s…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/kurazawanaki/status/2006893984216723687",
+          "start": 103,
+          "url": "https://t.co/jxQ1WDmVLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006963943005426108",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006893984216723687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/jxQ1WDmVLU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2006963943005426108",
+        "created_at": "2026-01-02T05:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T06:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006963943005426108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kurazawanaki/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/kurazawanaki/status/2006893984216723687",
+              "start": 103,
+              "url": "https://t.co/jxQ1WDmVLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006963943005426108",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006893984216723687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/jxQ1WDmVLU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2006893984216723687",
+        "created_at": "2026-01-02T01:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006893984216723687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/gdioiui/status/2006890667369279543",
+              "start": 103,
+              "url": "https://t.co/DM0MNGOi5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006893984216723687",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006890667369279543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/DM0MNGOi5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005866541502586881/Ug1YRQjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 134,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6983433,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5598,
+          "media_count": 4169116,
+          "tweet_count": 80848969
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "世界のどこかで咲く｜叫窝Moly就好了|･ω･)只是一个普通的高三女孩｜害怕一切恶意，请不要对窝恶语相向(｡•́︿•̀｡)｜ 🔭｜🎼 ｜📷 ｜🎨｜MFG Date:08/08/08 □□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□MtF🏳️‍⚧️HRT:25/05/05 |想成为自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki",
+                "start": 0,
+                "url": "https://t.co/IWtRR2Z2e8"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "location": "角落",
+        "name": "Anemoly🍥",
+        "pinned_tweet_id": "2006336046846603548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999535016767004672/QT3ERmHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1025,
+          "like_count": 11538,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/IWtRR2Z2e8",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

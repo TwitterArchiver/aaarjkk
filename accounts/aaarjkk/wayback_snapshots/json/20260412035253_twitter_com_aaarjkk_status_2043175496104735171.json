@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043175493634301952"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2041519133628485856",
+    "created_at": "2026-04-12T03:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043175496104735171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2035310029667291136",
+          "start": 0,
+          "username": "DrKiChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyIe00vpNY",
+          "end": 39,
+          "expanded_url": "https://x.com/aaarjkk/status/2043175496104735171/photo/1",
+          "media_key": "3_2043175493634301952",
+          "start": 16,
+          "url": "https://t.co/DyIe00vpNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043175496104735171",
+    "in_reply_to_user_id": "2035310029667291136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041519133628485856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrKiChan 搜索不到诶 https://t.co/DyIe00vpNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2043175493634301952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrRSUfbIAAAKbm.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041519128868200448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTu1M5aoAAm3e4.jpg",
+        "width": 927
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041519129015025664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTu1NcbAAAKlWh.jpg",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043175493634301952"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041519133628485856",
+        "created_at": "2026-04-12T03:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043175496104735171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2035310029667291136",
+              "start": 0,
+              "username": "DrKiChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyIe00vpNY",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2043175496104735171/photo/1",
+              "media_key": "3_2043175493634301952",
+              "start": 16,
+              "url": "https://t.co/DyIe00vpNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043175496104735171",
+        "in_reply_to_user_id": "2035310029667291136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041519133628485856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrKiChan 搜索不到诶 https://t.co/DyIe00vpNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041519128868200448",
+            "3_2041519129015025664"
+          ]
+        },
+        "author_id": "2035310029667291136",
+        "conversation_id": "2041519133628485856",
+        "created_at": "2026-04-07T14:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041519133628485856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "支持 Android 2.3 (API 9) 及以上版本，覆盖 2010 年至今的所有 Android 设备，包括 32 位老旧设备 立即下载 旧聊 OldChat 1.2.23，体验极致兼容的即时通讯 立即下载 当前版本: v1.2.23 | Android",
+              "display_url": "old.chat",
+              "end": 59,
+              "expanded_url": "http://old.chat",
+              "start": 36,
+              "status": 200,
+              "title": "旧聊 OldChat 1.2.23 - 支持 Android 2.3+ 的即时通讯应用",
+              "unwound_url": "https://old.chat/",
+              "url": "https://t.co/qsjkcmpTkd"
+            },
+            {
+              "display_url": "pic.x.com/Yi127ffv5F",
+              "end": 141,
+              "expanded_url": "https://x.com/DrKiChan/status/2041519133628485856/photo/1",
+              "media_key": "3_2041519128868200448",
+              "start": 118,
+              "url": "https://t.co/Yi127ffv5F"
+            },
+            {
+              "display_url": "pic.x.com/Yi127ffv5F",
+              "end": 141,
+              "expanded_url": "https://x.com/DrKiChan/status/2041519133628485856/photo/1",
+              "media_key": "3_2041519129015025664",
+              "start": 118,
+              "url": "https://t.co/Yi127ffv5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041519133628485856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继qq后的跨性别群聊疑似去处？\n注意：内容并不完全可信\n我个人推荐旧聊（https://t.co/qsjkcmpTkd)，功能挺全的。这是我创的一个群GRP-Z4SE5F\n图为deepseek的回答，bilibili和拼多多等不可信。 https://t.co/Yi127ffv5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 557,
+          "like_count": 8667,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T10:59:14.000Z",
+        "description": "Exploring……\n\n20120506|重庆|Minecraft指令|Backrooms|SCP|不鉴证！|",
+        "id": "2035310029667291136",
+        "location": "中国",
+        "name": "🇨🇳常希_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039746464860037123/0oAwW1nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 69,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "DrKiChan",
+        "verified": false
+      }
+    ]
+  }
+}

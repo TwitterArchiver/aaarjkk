@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2046676941043048817",
+    "created_at": "2026-04-25T05:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047911194175135855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045407320545300480",
+          "start": 0,
+          "username": "ScoPe1919qh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047911194175135855",
+    "in_reply_to_user_id": "2045407320545300480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046676941043048817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScoPe1919qh 少o点吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2046676941043048817",
+        "created_at": "2026-04-25T05:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047911194175135855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045407320545300480",
+              "start": 0,
+              "username": "ScoPe1919qh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047911194175135855",
+        "in_reply_to_user_id": "2045407320545300480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046676941043048817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScoPe1919qh 少o点吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045407320545300480",
+        "conversation_id": "2046676941043048817",
+        "created_at": "2026-04-21T19:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046676941043048817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046676941043048817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我有点被解离篡改记忆了\n莫名其妙的想过要不要戒od。。太奇怪了。\n好像在药效里就没这个问题，实在不行加量吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝓨𝓣𝓷𝔂𝓪📀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 596,
+          "like_count": 10857,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T07:41:25.000Z",
+        "description": "生产日期2010.3.16 | 家长党+家长不管od\n正如你们所见，胡桃愿意和我合作一起od了\n胡桃：最伟大的黑客，“六年老纪狗不是白叫的”\n咱的话平时可能点日常啥的（？）",
+        "id": "2045407320545300480",
+        "location": "上海",
+        "name": "雪💊🍥🏳️‍⚧️ & 胡桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046668180475756544/uECpX5WP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 87,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "ScoPe1919qh",
+        "verified": false
+      }
+    ]
+  }
+}

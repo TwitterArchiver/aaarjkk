@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1999061868326056028",
+    "created_at": "2025-12-11T10:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999071067495886943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999071067495886943",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999061868326056028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 为什么捆这里，不捆睾丸吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999061853125902336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74YKfeagAAD0bT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999061853507551232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74YKg5aAAAN__T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1999061868326056028",
+        "created_at": "2025-12-11T10:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999071067495886943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999071067495886943",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999061868326056028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 为什么捆这里，不捆睾丸吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999061853125902336",
+            "3_1999061853507551232"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999061868326056028",
+        "created_at": "2025-12-11T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999061868326056028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BR00qfzNcg",
+              "end": 45,
+              "expanded_url": "https://x.com/Swathy17531761/status/1999061868326056028/photo/1",
+              "media_key": "3_1999061853125902336",
+              "start": 22,
+              "url": "https://t.co/BR00qfzNcg"
+            },
+            {
+              "display_url": "pic.x.com/BR00qfzNcg",
+              "end": 45,
+              "expanded_url": "https://x.com/Swathy17531761/status/1999061868326056028/photo/1",
+              "media_key": "3_1999061853507551232",
+              "start": 22,
+              "url": "https://t.co/BR00qfzNcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999061868326056028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉好痛。带去势环剪刀肉了取下来的时候唉。。 https://t.co/BR00qfzNcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 101,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。没朋友啥都没有没对象\n🚪好友位V/Q",
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1996992269686349850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 62,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 234
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

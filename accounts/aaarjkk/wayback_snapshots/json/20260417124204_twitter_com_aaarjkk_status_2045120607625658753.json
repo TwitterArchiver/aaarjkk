@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044811396203032971",
+    "created_at": "2026-04-17T12:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045120607625658753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20178…",
+          "end": 36,
+          "expanded_url": "https://x.com/i/status/2017801643186856096",
+          "start": 13,
+          "url": "https://t.co/JSKdbp8Siz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045120607625658753",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017801643186856096",
+        "type": "quoted"
+      },
+      {
+        "id": "2045120218125746552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 https://t.co/JSKdbp8Siz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2017801625696604161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACr40baEAEfN1v.jpg",
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2045120215126867968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG6AAmbgAAM39F.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045120607625658753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20178…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/status/2017801643186856096",
+              "start": 13,
+              "url": "https://t.co/JSKdbp8Siz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120607625658753",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017801643186856096",
+            "type": "quoted"
+          },
+          {
+            "id": "2045120218125746552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 https://t.co/JSKdbp8Siz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017801625696604161"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2017801643186856096",
+        "created_at": "2026-02-01T03:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017801643186856096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSGic7uiRO",
+              "end": 51,
+              "expanded_url": "https://x.com/aaarjkk/status/2017801643186856096/photo/1",
+              "media_key": "3_2017801625696604161",
+              "start": 28,
+              "url": "https://t.co/fSGic7uiRO"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2004834293500244346",
+              "start": 52,
+              "url": "https://t.co/mqgo2JTdoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017801643186856096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004834293500244346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重新用上telegram🎉\n高级版是绝对不可能订阅的😁 https://t.co/fSGic7uiRO https://t.co/mqgo2JTdoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045120215126867968"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T12:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045120218125746552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kFWJUUDpq",
+              "end": 56,
+              "expanded_url": "https://x.com/aaarjkk/status/2045120218125746552/photo/1",
+              "media_key": "3_2045120215126867968",
+              "start": 33,
+              "url": "https://t.co/9kFWJUUDpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120218125746552",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044811396203032971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 先用这个客户端登录，我试过几次都成功了 https://t.co/9kFWJUUDpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 567,
+          "like_count": 9563,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 403,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

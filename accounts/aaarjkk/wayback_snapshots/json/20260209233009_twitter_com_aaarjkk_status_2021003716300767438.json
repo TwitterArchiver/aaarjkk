@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2020770724311711868",
+    "created_at": "2026-02-09T23:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T00:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021003716300767438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700547797026476032",
+          "start": 0,
+          "username": "haitao_li24917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021003716300767438",
+    "in_reply_to_user_id": "1700547797026476032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020792022194368921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitao_li24917 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2020770724311711868",
+        "created_at": "2026-02-09T23:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021003716300767438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021003716300767438",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020792022194368921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700547797026476032",
+        "conversation_id": "2020770724311711868",
+        "created_at": "2026-02-09T09:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020792022194368921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020792022194368921",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020770724311711868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 内圈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 214,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 173
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "今天您又报错了吗？",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "鲜虾鱼版面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 227,
+          "like_count": 1839,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 984
+        },
+        "username": "haitao_li24917",
+        "verified": false
+      }
+    ]
+  }
+}

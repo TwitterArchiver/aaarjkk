@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2037367738562408716",
+    "created_at": "2026-04-02T05:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039581235366994001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "Rainstryin"
+        },
+        {
+          "end": 22,
+          "id": "1866516145454632960",
+          "start": 12,
+          "username": "D0ntTox1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039581235366994001",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037367738562408716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainstryin @D0ntTox1c 好猛 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9033,
+        "height": 1280,
+        "media_key": "7_2037367701317042176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037367701317042176/pu/img/t_6VnZA-TGkSHXfc.jpg",
+        "public_metrics": {
+          "view_count": 461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037367701317042176/pu/vid/avc1/320x568/tJ8V12Vw2drzPcn2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037367701317042176/pu/vid/avc1/480x852/VRML1HGPd7q8sJht.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037367701317042176/pu/vid/avc1/720x1280/_i5FLbFtfQAns-rY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037367701317042176/pu/pl/L415ZD3Aeju2Vqa_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2037367738562408716",
+        "created_at": "2026-04-02T05:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039581235366994001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "Rainstryin"
+            },
+            {
+              "end": 22,
+              "id": "1866516145454632960",
+              "start": 12,
+              "username": "D0ntTox1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039581235366994001",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037367738562408716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainstryin @D0ntTox1c 好猛 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037367701317042176"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "conversation_id": "2037367738562408716",
+        "created_at": "2026-03-27T03:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037367738562408716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/400Q7UbP18",
+              "end": 29,
+              "expanded_url": "https://x.com/Rainstryin/status/2037367738562408716/video/1",
+              "media_key": "7_2037367701317042176",
+              "start": 6,
+              "url": "https://t.co/400Q7UbP18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037367738562408716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1155,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我捅死你喵 https://t.co/400Q7UbP18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 485,
+          "like_count": 7359,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "Mory“Rainstryin”Whisp  CS200小时新手        #CouterStrike  #FPS  #pjsk     #男の娘    点赞=已阅≠认同 同类互关   单取会b 欢迎互block看到必回😋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 40,
+                "tag": "CouterStrike"
+              },
+              {
+                "end": 59,
+                "start": 55,
+                "tag": "FPS"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "pjsk"
+              },
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "男の娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "1978733668748132464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026013812059693056/-tQ1HI_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 1597,
+          "like_count": 94746,
+          "listed_count": 9,
+          "media_count": 487,
+          "tweet_count": 6567
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T16:11:53.000Z",
+        "description": "MTF🏳️‍⚧️｜我的世界1.9pvper｜老公：@umi_hoxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "umi_hoxi"
+              }
+            ]
+          }
+        },
+        "id": "1866516145454632960",
+        "name": "AV1🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971075578955694086/3IGjYW2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 374,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "D0ntTox1c",
+        "verified": false
+      }
+    ]
+  }
+}

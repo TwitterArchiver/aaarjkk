@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041475846884696065"
+      ],
+      "media_source_tweet_id": [
+        "2041475849145516431"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2041476111096525223",
+    "created_at": "2026-04-07T11:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041476111096525223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9sHQSN3Mw",
+          "end": 40,
+          "expanded_url": "https://x.com/DXMDusk/status/2041475849145516431/photo/1",
+          "media_key": "3_2041475846884696065",
+          "start": 17,
+          "url": "https://t.co/p9sHQSN3Mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041476111096525223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041475849145516431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 宾果！ https://t.co/p9sHQSN3Mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2041475846884696065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTHd28aIAE54ZU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041475846884696065"
+          ],
+          "media_source_tweet_id": [
+            "2041475849145516431"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041476111096525223",
+        "created_at": "2026-04-07T11:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041476111096525223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9sHQSN3Mw",
+              "end": 40,
+              "expanded_url": "https://x.com/DXMDusk/status/2041475849145516431/photo/1",
+              "media_key": "3_2041475846884696065",
+              "start": 17,
+              "url": "https://t.co/p9sHQSN3Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041476111096525223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041475849145516431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 宾果！ https://t.co/p9sHQSN3Mw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041475846884696065"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2041475849145516431",
+        "created_at": "2026-04-07T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041475849145516431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9sHQSN3Mw",
+              "end": 27,
+              "expanded_url": "https://x.com/DXMDusk/status/2041475849145516431/photo/1",
+              "media_key": "3_2041475846884696065",
+              "start": 4,
+              "url": "https://t.co/p9sHQSN3Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041475849145516431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宾果！ https://t.co/p9sHQSN3Mw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 497,
+          "like_count": 7909,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 1103,
+          "like_count": 2069,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2121
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

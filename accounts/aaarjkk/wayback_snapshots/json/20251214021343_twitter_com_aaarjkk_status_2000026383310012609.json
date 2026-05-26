@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1999842202609152149",
+    "created_at": "2025-12-14T02:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000026383310012609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236692310987026432",
+          "start": 0,
+          "username": "yuewu14796265"
+        },
+        {
+          "end": 28,
+          "id": "1811888010088316932",
+          "start": 15,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000026383310012609",
+    "in_reply_to_user_id": "1236692310987026432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999872910597779782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuewu14796265 @cuichenghao7 其实是人民币贬值，制造再按之前那样造大硬币会导致造一个硬币的成本大于一元，只能减少一个硬币的制造成本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1999842202609152149",
+        "created_at": "2025-12-14T02:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000026383310012609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236692310987026432",
+              "start": 0,
+              "username": "yuewu14796265"
+            },
+            {
+              "end": 28,
+              "id": "1811888010088316932",
+              "start": 15,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000026383310012609",
+        "in_reply_to_user_id": "1236692310987026432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999872910597779782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuewu14796265 @cuichenghao7 其实是人民币贬值，制造再按之前那样造大硬币会导致造一个硬币的成本大于一元，只能减少一个硬币的制造成本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236692310987026432",
+        "conversation_id": "1999842202609152149",
+        "created_at": "2025-12-13T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999872910597779782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999872910597779782",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1661,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999842202609152149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 从左到右，感受到的是“敷衍”两字。改得越来越差还不如不改。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈\n║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 109,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T16:37:44.000Z",
+        "description": "不让回复的一律拉黑。一个有记忆有逻辑的人。",
+        "id": "1236692310987026432",
+        "name": "一二三亖正圭求炎垚",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 84,
+          "like_count": 23503,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 4677
+        },
+        "username": "yuewu14796265",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65593,
+          "following_count": 542,
+          "like_count": 2941,
+          "listed_count": 219,
+          "media_count": 1278,
+          "tweet_count": 1399
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

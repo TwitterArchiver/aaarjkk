@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2042873449702658496",
+    "created_at": "2026-04-11T08:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042887926271611201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042887926271611201",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042873449702658496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 好大捏\n好软捏\n好弹捏\n好像小尾巴一甩一甩的好可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7402,
+        "height": 1280,
+        "media_key": "7_2042873307800965121",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042873307800965121/pu/img/xjbowRr7JBzNa_fF.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042873307800965121/pu/vid/avc1/320x568/kCQ22IkNCXHdDEU8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042873307800965121/pu/vid/avc1/480x852/WGoqmjR7JbX88CUQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042873307800965121/pu/vid/avc1/720x1280/HpVPa4iDZJRFgQBp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042873307800965121/pu/pl/gdj9JPymeNLmxBhS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2042873449702658496",
+        "created_at": "2026-04-11T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042887926271611201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042887926271611201",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042873449702658496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 好大捏\n好软捏\n好弹捏\n好像小尾巴一甩一甩的好可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042873307800965121"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "2042873449702658496",
+        "created_at": "2026-04-11T07:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042873449702658496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1fxN3HxDg",
+              "end": 31,
+              "expanded_url": "https://x.com/K66cheng/status/2042873449702658496/video/1",
+              "media_key": "7_2042873307800965121",
+              "start": 8,
+              "url": "https://t.co/k1fxN3HxDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042873449702658496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大鸟转转转。。 https://t.co/k1fxN3HxDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 527,
+          "like_count": 8409,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\n含糖友跨顺♂｜\n厨娘女仆 | \nINTJ-T｜\n瑶瑶@GK98815227｜\n小妹妹@baizhimengyao｜\n皮肤饥渴症终末期患者快和我贴贴｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "GK98815227"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 3265,
+          "like_count": 23169,
+          "listed_count": 26,
+          "media_count": 1262,
+          "tweet_count": 17039
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053410171603546112"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2051511372756967736",
+    "created_at": "2026-05-10T09:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053410173948166578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805567007322259460",
+          "start": 0,
+          "username": "HOTxFISH"
+        },
+        {
+          "end": 26,
+          "id": "2027685614620184578",
+          "start": 10,
+          "username": "Georgevia374299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SEZDWkJXPx",
+          "end": 62,
+          "expanded_url": "https://x.com/aaarjkk/status/2053410173948166578/photo/1",
+          "media_key": "3_2053410171603546112",
+          "start": 39,
+          "url": "https://t.co/SEZDWkJXPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053410173948166578",
+    "in_reply_to_user_id": "1805567007322259460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053404222788685917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOTxFISH @Georgevia374299 那试试这里选linux https://t.co/SEZDWkJXPx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053410171603546112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8tq_CacAAebsh.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053410171603546112"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-10T09:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053410173948166578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805567007322259460",
+              "start": 0,
+              "username": "HOTxFISH"
+            },
+            {
+              "end": 26,
+              "id": "2027685614620184578",
+              "start": 10,
+              "username": "Georgevia374299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEZDWkJXPx",
+              "end": 62,
+              "expanded_url": "https://x.com/aaarjkk/status/2053410173948166578/photo/1",
+              "media_key": "3_2053410171603546112",
+              "start": 39,
+              "url": "https://t.co/SEZDWkJXPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053410173948166578",
+        "in_reply_to_user_id": "1805567007322259460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053404222788685917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOTxFISH @Georgevia374299 那试试这里选linux https://t.co/SEZDWkJXPx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805567007322259460",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-10T09:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053404222788685917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 25,
+              "id": "2027685614620184578",
+              "start": 9,
+              "username": "Georgevia374299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053404222788685917",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053369988015390936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @Georgevia374299 不行，我切换桌面没有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 703,
+          "like_count": 12738,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:41:44.000Z",
+        "description": "",
+        "id": "1805567007322259460",
+        "location": "魔仙堡",
+        "name": "ICE FISH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994073132148088832/b-jOpKcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "HOTxFISH",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T10:02:03.000Z",
+        "description": "I'm Georgevia.",
+        "id": "2027685614620184578",
+        "name": "Georgevia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037498442688438272/6hTzA1jZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 39,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "Georgevia374299",
+        "verified": false
+      }
+    ]
+  }
+}

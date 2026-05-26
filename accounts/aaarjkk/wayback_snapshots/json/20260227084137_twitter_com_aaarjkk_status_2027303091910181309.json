@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027296613677629864",
+    "created_at": "2026-02-27T08:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027303091910181309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018318410015490048",
+          "start": 0,
+          "username": "KomariChika4097"
+        },
+        {
+          "end": 28,
+          "id": "1970857021588262912",
+          "start": 17,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027303091910181309",
+    "in_reply_to_user_id": "2018318410015490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027297990298485243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika4097 @mwdxj29477 我也是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027296613677629864",
+        "created_at": "2026-02-27T08:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027303091910181309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018318410015490048",
+              "start": 0,
+              "username": "KomariChika4097"
+            },
+            {
+              "end": 28,
+              "id": "1970857021588262912",
+              "start": 17,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027303091910181309",
+        "in_reply_to_user_id": "2018318410015490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027297990298485243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika4097 @mwdxj29477 我也是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2027296613677629864",
+        "created_at": "2026-02-27T08:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027297990298485243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027297990298485243",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027296613677629864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 我他妈后天就开学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 289,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 319
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "🇹🇼中華民國北平15嵗國中生 民主社會主義者 三民主義者 愛好：人文社科 語言學 計算機科學 enby/she/her 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙  严重性压抑患者 割手不od 希望成为可爱幸福的小男女孩 大家可以叫我小静哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小静|Тишина🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "2022779099861913826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020880620059295745/jlr8bPEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 237,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/14岁年龄党/生产日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/性别认同不确定/社恐/初二牲/体能废物/161cm51kg/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中/欢迎互fo/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUSw8v"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國淪陷區 湖北/孝感「漢川城」",
+        "name": "🍥MWdxj🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 602,
+          "like_count": 6414,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/fG6XzUSw8v",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

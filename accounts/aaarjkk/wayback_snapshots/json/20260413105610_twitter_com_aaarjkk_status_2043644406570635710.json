@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2043293295082873108",
+    "created_at": "2026-04-13T10:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043644406570635710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680800890452860930",
+          "start": 0,
+          "username": "baibai2094246"
+        },
+        {
+          "end": 27,
+          "id": "1780369819310981120",
+          "start": 15,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043644406570635710",
+    "in_reply_to_user_id": "1680800890452860930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043640697744695643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibai2094246 @520illusion 是的，我现在都不看广州xd了，最多评论一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2043293295082873108",
+        "created_at": "2026-04-13T10:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043644406570635710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680800890452860930",
+              "start": 0,
+              "username": "baibai2094246"
+            },
+            {
+              "end": 27,
+              "id": "1780369819310981120",
+              "start": 15,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043644406570635710",
+        "in_reply_to_user_id": "1680800890452860930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043640697744695643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibai2094246 @520illusion 是的，我现在都不看广州xd了，最多评论一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680800890452860930",
+        "conversation_id": "2043293295082873108",
+        "created_at": "2026-04-13T10:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043640697744695643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043640697744695643",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043293295082873108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 我现在刷到这个就已经不适了🥹🥹😖😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 563,
+          "like_count": 9045,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T04:46:31.000Z",
+        "description": "20080826/不喜欢自己的生日/中度抑郁/精神痛苦/希望突然猝死",
+        "id": "1680800890452860930",
+        "name": "心が痛い",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035502481774723072/Dpsg5ppL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 203,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "baibai2094246",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安  |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2039773716712927450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 202,
+          "like_count": 9763,
+          "listed_count": 7,
+          "media_count": 838,
+          "tweet_count": 5749
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

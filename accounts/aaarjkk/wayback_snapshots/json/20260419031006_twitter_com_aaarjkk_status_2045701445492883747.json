@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2045384428265074702",
+    "created_at": "2026-04-19T03:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045701445492883747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777127815558975488",
+          "start": 0,
+          "username": "946552143544k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045701445492883747",
+    "in_reply_to_user_id": "1777127815558975488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045384428265074702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@946552143544k 摸摸摸摸～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2045384428265074702",
+        "created_at": "2026-04-19T03:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045701445492883747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777127815558975488",
+              "start": 0,
+              "username": "946552143544k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045701445492883747",
+        "in_reply_to_user_id": "1777127815558975488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045384428265074702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@946552143544k 摸摸摸摸～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777127815558975488",
+        "conversation_id": "2045384428265074702",
+        "created_at": "2026-04-18T06:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045384428265074702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045384428265074702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2729,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别焦虑好严重哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 571,
+          "like_count": 9873,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:14:40.000Z",
+        "description": "小号@AlimataOue45353，南京，坐标上海，2009.3.11，isfp，intj，@x16_46280721大猫咪、🚪12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AlimataOue45353"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "x16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1777127815558975488",
+        "location": "Internet yamero",
+        "name": "月萤🍥ホタル",
+        "pinned_tweet_id": "2045442204878229982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707303386857472/OU3Tl8gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 624,
+          "like_count": 17141,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 567
+        },
+        "username": "946552143544k",
+        "verified": false
+      }
+    ]
+  }
+}

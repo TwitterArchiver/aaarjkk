@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2041504718871224460",
+    "created_at": "2026-04-08T10:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041832346589261960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041832346589261960",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041504718871224460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 157803,
+        "height": 1080,
+        "media_key": "13_2041504169685889024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041504169685889024/img/-7S6kFsAdzVrVXFO.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169685889024/vid/avc1/480x270/A03dgzFu-mtX98D5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169685889024/vid/avc1/1280x720/KWe49J_hJ9G15wGM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041504169685889024/pl/MrsGrAdKGKA3NQDP.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169685889024/vid/avc1/1920x1080/6sCDbbLg4tR1kKBS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169685889024/vid/avc1/640x360/8by8N0rskNJ_ZeHk.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 124570,
+        "height": 1080,
+        "media_key": "13_2041504169698439168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041504169698439168/img/-kBuX_CncTnqR2DU.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169698439168/vid/avc1/1280x720/l6uWbGlfQ9Klnx2b.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169698439168/vid/avc1/1920x1080/AL1fiYUXvT3o6giI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169698439168/vid/avc1/480x270/EkSoa10yiYRUUQvJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041504169698439168/vid/avc1/640x360/5MFHayNhy7G8IHKz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041504169698439168/pl/jr0lRZRs6Xfkz77i.m3u8"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 7133,
+        "height": 1920,
+        "media_key": "13_2041503183475007488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041503183475007488/img/uPi_8O3ZL-DNJaRQ.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041503183475007488/vid/avc1/720x1280/fXeRlRKdp8QeHpgL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041503183475007488/pl/-r6ZzsR_lWPHuNnA.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041503183475007488/vid/avc1/480x852/8m4pNc8OxvJ6sdQ-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041503183475007488/vid/avc1/320x568/WpNLPxRxzSKhs9vK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041503183475007488/vid/avc1/1080x1920/SvX_eUmD83XYXrAk.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041504718871224460",
+        "created_at": "2026-04-08T10:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041832346589261960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041832346589261960",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041504718871224460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041504169685889024",
+            "13_2041504169698439168",
+            "13_2041503183475007488"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2041504718871224460",
+        "created_at": "2026-04-07T13:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041504718871224460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIRwu38hVx",
+              "end": 29,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2041504718871224460/video/1",
+              "media_key": "13_2041504169685889024",
+              "start": 6,
+              "url": "https://t.co/gIRwu38hVx"
+            },
+            {
+              "display_url": "pic.x.com/gIRwu38hVx",
+              "end": 29,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2041504718871224460/video/1",
+              "media_key": "13_2041504169698439168",
+              "start": 6,
+              "url": "https://t.co/gIRwu38hVx"
+            },
+            {
+              "display_url": "pic.x.com/gIRwu38hVx",
+              "end": 29,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2041504718871224460/video/1",
+              "media_key": "13_2041503183475007488",
+              "start": 6,
+              "url": "https://t.co/gIRwu38hVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041504718871224460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "涩情艳舞🥵 https://t.co/gIRwu38hVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 499,
+          "like_count": 7862,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗釹｜疑似鍵政｜痛苦大學生｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類/藍V互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Suimikax"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1331,
+          "like_count": 7086,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 4322
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

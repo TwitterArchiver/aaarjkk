@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032048342935748611"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2031967836424585517",
+    "created_at": "2026-03-12T10:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032048353492812169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1900168705847500800",
+          "start": 0,
+          "username": "wxb_NB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wq92Rp1PXK",
+          "end": 35,
+          "expanded_url": "https://x.com/aaarjkk/status/2032048353492812169/photo/1",
+          "media_key": "3_2032048342935748611",
+          "start": 12,
+          "url": "https://t.co/Wq92Rp1PXK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032048353492812169",
+    "in_reply_to_user_id": "1900168705847500800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031967836424585517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb_NB 买一个 https://t.co/Wq92Rp1PXK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 32,
+        "media_key": "3_2032048342935748611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNJM58bQAMl6JG.png",
+        "width": 32
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032048342935748611"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2031967836424585517",
+        "created_at": "2026-03-12T10:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032048353492812169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wq92Rp1PXK",
+              "end": 35,
+              "expanded_url": "https://x.com/aaarjkk/status/2032048353492812169/photo/1",
+              "media_key": "3_2032048342935748611",
+              "start": 12,
+              "url": "https://t.co/Wq92Rp1PXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032048353492812169",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031967836424585517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB 买一个 https://t.co/Wq92Rp1PXK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900168705847500800",
+        "conversation_id": "2031967836424585517",
+        "created_at": "2026-03-12T05:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031967836424585517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031967836424585517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 17713,
+          "like_count": 359,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "今天是植树节，为了保证本次小型植树活动后树苗的存活，现在需要向群友筹集资金，用于以下材料：\n1. 橡树树苗：5元\n2.白桦木树苗：5元\n3.云杉木&amp;丛林树苗：5元\n4.黑色橡树树苗：16元\n5.金合欢树苗：5元\n6.樱花树树苗：5元\n7.红树胎生苗：5元\n8.苍白树苗：5元\n9.诡异菌：5元\n10.绯红菌：5元\n合计50元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 363,
+          "like_count": 5188,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 475
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 420,
+          "like_count": 5422,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

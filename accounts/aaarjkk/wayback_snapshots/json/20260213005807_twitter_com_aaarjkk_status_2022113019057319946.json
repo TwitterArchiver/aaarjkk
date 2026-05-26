@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021742821305360812",
+    "created_at": "2026-02-13T00:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022113019057319946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022113019057319946",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021742821305360812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan 我在ChatGPT网页版输入框用输入法粘贴长文本会非常卡，系统自带粘贴不卡，是因为模拟键盘输入吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021742821305360812",
+        "created_at": "2026-02-13T00:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022113019057319946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022113019057319946",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021742821305360812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan 我在ChatGPT网页版输入框用输入法粘贴长文本会非常卡，系统自带粘贴不卡，是因为模拟键盘输入吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "conversation_id": "2021742821305360812",
+        "created_at": "2026-02-12T00:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021742821305360812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/2021390281690791989",
+              "start": 19,
+              "url": "https://t.co/eOZ34Xmi0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021742821305360812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10324,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021390281690791989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难怪 ColorOS 要模拟键盘输入 https://t.co/eOZ34Xmi0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 238,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 207
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "当将死之人化石在灰烬中发芽／INFP-T／男的／欢迎在 Telegram 上私信。／转推、关注、互关不等于完全赞同／可取关，但请勿双取。／申请关注请随意，看到是真人一般就会通过。会屏蔽人，若认为屏蔽有误请联系。／本人所有账号不主动涉及任何政治内容。／Sorry, but I have a life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/xt0HrKTz0b"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "424.2 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓐𝓷𝓽𝓪𝓻𝓮𝓼 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993343063088066561/IHiXBk-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 851,
+          "like_count": 22369,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 5176
+        },
+        "url": "https://t.co/xt0HrKTz0b",
+        "username": "real_clover_yan",
+        "verified": false
+      }
+    ]
+  }
+}

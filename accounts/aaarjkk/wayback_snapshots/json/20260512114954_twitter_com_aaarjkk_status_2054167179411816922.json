@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2053479265472295220",
+    "created_at": "2026-05-12T11:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054167179411816922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933596840907194368",
+          "start": 0,
+          "username": "Skyrshzone"
+        },
+        {
+          "end": 24,
+          "id": "1942218528100134912",
+          "start": 12,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054167179411816922",
+    "in_reply_to_user_id": "1933596840907194368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053864156093125076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skyrshzone @youling_qaq 男娘发涩涩才是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2053479265472295220",
+        "created_at": "2026-05-12T11:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054167179411816922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933596840907194368",
+              "start": 0,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 24,
+              "id": "1942218528100134912",
+              "start": 12,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054167179411816922",
+        "in_reply_to_user_id": "1933596840907194368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053864156093125076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrshzone @youling_qaq 男娘发涩涩才是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933596840907194368",
+        "conversation_id": "2053479265472295220",
+        "created_at": "2026-05-11T15:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053864156093125076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942218528100134912",
+              "start": 0,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053864156093125076",
+        "in_reply_to_user_id": "1942218528100134912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053479265472295220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youling_qaq 我说mtf是中推流量密码你们信不😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 703,
+          "like_count": 12830,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "明治一代男｜he/him｜唯一合法妻子叫作蓬莱山辉夜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyrshzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyrshzone",
+                "start": 0,
+                "url": "https://t.co/HD89N6x04G"
+              }
+            ]
+          }
+        },
+        "id": "1933596840907194368",
+        "location": "Phnom Penh",
+        "name": "冷川緒",
+        "pinned_tweet_id": "2052038409347068232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042614671589675008/QNa1Uf9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 171,
+          "like_count": 64261,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/HD89N6x04G",
+        "username": "Skyrshzone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "mtf oder oier\n\n瓦批\n\n蓝勾是为了 grok\n\n可以叫我幽零",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basibatuo.fun",
+                "end": 23,
+                "expanded_url": "http://basibatuo.fun/",
+                "start": 0,
+                "url": "https://t.co/VCWcmoh4Lm"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "酱味大鸡",
+        "name": "basibatuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 950,
+          "like_count": 1926,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/VCWcmoh4Lm",
+        "username": "youling_qaq",
+        "verified": true
+      }
+    ]
+  }
+}

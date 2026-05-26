@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995043796170752000",
+        "3_1995044444782129152"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "1995044468781977969",
+    "created_at": "2025-11-30T08:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995044468781977969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4g9T9rSbkc",
+          "end": 34,
+          "expanded_url": "https://x.com/aaarjkk/status/1995044468781977969/photo/1",
+          "media_key": "3_1995043796170752000",
+          "start": 11,
+          "url": "https://t.co/4g9T9rSbkc"
+        },
+        {
+          "display_url": "pic.x.com/4g9T9rSbkc",
+          "end": 34,
+          "expanded_url": "https://x.com/aaarjkk/status/1995044468781977969/photo/1",
+          "media_key": "3_1995044444782129152",
+          "start": 11,
+          "url": "https://t.co/4g9T9rSbkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995044468781977969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭只能使用网页版了😭 https://t.co/4g9T9rSbkc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_1995043796170752000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_Rwy4awAA75us.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1995044444782129152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_SWjJa8AAy7GI.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995043796170752000",
+            "3_1995044444782129152"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "1995044468781977969",
+        "created_at": "2025-11-30T08:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995044468781977969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4g9T9rSbkc",
+              "end": 34,
+              "expanded_url": "https://x.com/aaarjkk/status/1995044468781977969/photo/1",
+              "media_key": "3_1995043796170752000",
+              "start": 11,
+              "url": "https://t.co/4g9T9rSbkc"
+            },
+            {
+              "display_url": "pic.x.com/4g9T9rSbkc",
+              "end": 34,
+              "expanded_url": "https://x.com/aaarjkk/status/1995044468781977969/photo/1",
+              "media_key": "3_1995044444782129152",
+              "start": 11,
+              "url": "https://t.co/4g9T9rSbkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995044468781977969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭只能使用网页版了😭 https://t.co/4g9T9rSbkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n规格：171cm\n净含量：50kg\n生产日期：20101014\n保质期：360个月\n储存条件：请置于阴凉干燥温暖舒适安全有食物处\n产地：广东",
+        "id": "1955980103688790017",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

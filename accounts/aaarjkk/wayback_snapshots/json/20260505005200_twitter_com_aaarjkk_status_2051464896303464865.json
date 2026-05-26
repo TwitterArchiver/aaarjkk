@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2017801643186856096",
+    "created_at": "2026-05-05T00:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T01:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051464896303464865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406674403950088195",
+          "start": 0,
+          "username": "furrystars0627"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20451…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/2045120218125746552",
+          "start": 16,
+          "url": "https://t.co/0ewJ7Joe8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051464896303464865",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045120218125746552",
+        "type": "quoted"
+      },
+      {
+        "id": "2051464365166219733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furrystars0627 https://t.co/0ewJ7Joe8H\n我是可以的，有些人不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045120215126867968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG6AAmbgAAM39F.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2017801643186856096",
+        "created_at": "2026-05-05T00:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051464896303464865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406674403950088195",
+              "start": 0,
+              "username": "furrystars0627"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20451…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/2045120218125746552",
+              "start": 16,
+              "url": "https://t.co/0ewJ7Joe8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051464896303464865",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045120218125746552",
+            "type": "quoted"
+          },
+          {
+            "id": "2051464365166219733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furrystars0627 https://t.co/0ewJ7Joe8H\n我是可以的，有些人不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045120215126867968"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T12:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045120218125746552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kFWJUUDpq",
+              "end": 56,
+              "expanded_url": "https://x.com/aaarjkk/status/2045120218125746552/photo/1",
+              "media_key": "3_2045120215126867968",
+              "start": 33,
+              "url": "https://t.co/9kFWJUUDpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120218125746552",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3526,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044811396203032971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 先用这个客户端登录，我试过几次都成功了 https://t.co/9kFWJUUDpq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2017801643186856096",
+        "created_at": "2026-05-05T00:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051464365166219733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406674403950088195",
+              "start": 0,
+              "username": "furrystars0627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051464365166219733",
+        "in_reply_to_user_id": "1406674403950088195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051463950081179724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furrystars0627 用telega客户端，现在不知道行不行，可以私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 666,
+          "like_count": 12011,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T18:05:02.000Z",
+        "description": "这里繁星，一只诞生于万千星辉之中的猫猫。。。。。。\n是抖音和bilibili的一名底边杂谈势非著名相声Vtuber（bushi）\n别找了，没有里推，现在没有今后也不会有。。。。。。\nQQ：3376316159\n抖音：ly3376316159\nB站：繁星小懒猫w\n设定已登记版权，还请不要随意盗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/hN3R0eN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/hN3R0eN",
+                "start": 0,
+                "url": "https://t.co/daYLEErh4u"
+              }
+            ]
+          }
+        },
+        "id": "1406674403950088195",
+        "location": "罗德岛",
+        "name": "繁星Stars",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862952142006337536/RuXdru_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 824,
+          "like_count": 163,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/daYLEErh4u",
+        "username": "furrystars0627",
+        "verified": false
+      }
+    ]
+  }
+}

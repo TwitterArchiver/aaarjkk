@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045006829655388160"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044916990146724111",
+    "created_at": "2026-04-17T05:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045006832889192722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        },
+        {
+          "end": 26,
+          "id": "1928705633135767600",
+          "start": 16,
+          "username": "Coxe_Pica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFUYL0X3fy",
+          "end": 62,
+          "expanded_url": "https://x.com/aaarjkk/status/2045006832889192722/photo/1",
+          "media_key": "3_2045006829655388160",
+          "start": 39,
+          "url": "https://t.co/lFUYL0X3fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045006832889192722",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044921879572717689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 @Coxe_Pica 但是play同发布者诶 https://t.co/lFUYL0X3fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2045006829655388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFS4GzbcAA7JFX.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045006829655388160"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044916990146724111",
+        "created_at": "2026-04-17T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045006832889192722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            },
+            {
+              "end": 26,
+              "id": "1928705633135767600",
+              "start": 16,
+              "username": "Coxe_Pica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFUYL0X3fy",
+              "end": 62,
+              "expanded_url": "https://x.com/aaarjkk/status/2045006832889192722/photo/1",
+              "media_key": "3_2045006829655388160",
+              "start": 39,
+              "url": "https://t.co/lFUYL0X3fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045006832889192722",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044921879572717689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 @Coxe_Pica 但是play同发布者诶 https://t.co/lFUYL0X3fy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2044916990146724111",
+        "created_at": "2026-04-16T23:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044921879572717689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044921879572717689",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044916990146724111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica tgx不是官方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276772737560577/IzZIDMeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 566,
+          "like_count": 9494,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9554,
+          "following_count": 924,
+          "like_count": 76808,
+          "listed_count": 19,
+          "media_count": 1527,
+          "tweet_count": 10851
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainBuild_2024",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🍥🏳️‍⚧️\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n\"When tomorrow comes.....\"🎉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAkY69"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北",
+        "name": "𝑪𝒐𝒙𝒆_𝑷𝒊𝒄𝒂 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042574562454614016/vmVviffD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 18,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/ic4apAkY69",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

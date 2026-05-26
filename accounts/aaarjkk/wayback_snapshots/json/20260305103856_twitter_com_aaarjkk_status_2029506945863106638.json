@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2019493225409703961",
+    "created_at": "2026-03-05T10:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029506945863106638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1407003323387977728",
+          "start": 0,
+          "username": "SoftLanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029506945863106638",
+    "in_reply_to_user_id": "1407003323387977728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019493225409703961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoftLanChan 对，我一般都是手动取关的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2062,
+        "media_key": "3_2019493221769048067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAauYq3acAMXD8e.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019493221114736642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAauYobacAITcS8.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019493222318481408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAauYs6aIAATjn-.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019493222071021568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAauYr_aMAAK2Ss.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2019493225409703961",
+        "created_at": "2026-03-05T10:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029506945863106638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1407003323387977728",
+              "start": 0,
+              "username": "SoftLanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029506945863106638",
+        "in_reply_to_user_id": "1407003323387977728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019493225409703961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoftLanChan 对，我一般都是手动取关的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019493221769048067",
+            "3_2019493221114736642",
+            "3_2019493222318481408",
+            "3_2019493222071021568"
+          ]
+        },
+        "author_id": "1407003323387977728",
+        "conversation_id": "2019493225409703961",
+        "created_at": "2026-02-05T19:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019493225409703961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcSh4lr5P5",
+              "end": 165,
+              "expanded_url": "https://x.com/SoftLanChan/status/2019493225409703961/photo/1",
+              "media_key": "3_2019493221769048067",
+              "start": 142,
+              "url": "https://t.co/dcSh4lr5P5"
+            },
+            {
+              "display_url": "pic.x.com/dcSh4lr5P5",
+              "end": 165,
+              "expanded_url": "https://x.com/SoftLanChan/status/2019493225409703961/photo/1",
+              "media_key": "3_2019493221114736642",
+              "start": 142,
+              "url": "https://t.co/dcSh4lr5P5"
+            },
+            {
+              "display_url": "pic.x.com/dcSh4lr5P5",
+              "end": 165,
+              "expanded_url": "https://x.com/SoftLanChan/status/2019493225409703961/photo/1",
+              "media_key": "3_2019493222318481408",
+              "start": 142,
+              "url": "https://t.co/dcSh4lr5P5"
+            },
+            {
+              "display_url": "pic.x.com/dcSh4lr5P5",
+              "end": 165,
+              "expanded_url": "https://x.com/SoftLanChan/status/2019493225409703961/photo/1",
+              "media_key": "3_2019493222071021568",
+              "start": 142,
+              "url": "https://t.co/dcSh4lr5P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019493225409703961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2430,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请各位推友们注意，你们如果使用过类似于“贴贴圈”“批量删除推文”“你是因什么而死”等类的网站并使用你们的x账号登录，务必查看你们的关注是否有以下几个账号。\n在你登录了他们的网站后你会被操控账号自动关注，为避免被发现他们甚至还隐藏了自己的推文不让你看到。\n我看到了不少推友已经中招了。 https://t.co/dcSh4lr5P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 327,
+          "like_count": 4178,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 398
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T15:51:58.000Z",
+        "description": "某个被传言已经死掉的MTF\n从头开始吧，至少没人记得我\nFor Managed Democracy！",
+        "id": "1407003323387977728",
+        "location": "宛平南路600",
+        "name": "AAA药娘洗地机批发",
+        "pinned_tweet_id": "2019493225409703961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011315765878898688/_EZGaB5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 285,
+          "like_count": 14888,
+          "listed_count": 10,
+          "media_count": 47,
+          "tweet_count": 823
+        },
+        "username": "SoftLanChan",
+        "verified": false
+      }
+    ]
+  }
+}

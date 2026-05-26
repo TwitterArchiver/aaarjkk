@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041393146895216641"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2041393149973872758",
+    "created_at": "2026-04-07T05:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041393149973872758"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "抄粉丝"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AeSrhihWnN",
+          "end": 30,
+          "expanded_url": "https://x.com/aaarjkk/status/2041393149973872758/photo/1",
+          "media_key": "3_2041393146895216641",
+          "start": 7,
+          "url": "https://t.co/AeSrhihWnN"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2041044822090457140",
+          "start": 31,
+          "url": "https://t.co/evyhqZJAzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041393149973872758",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041044822090457140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#抄粉丝 🩷 https://t.co/AeSrhihWnN https://t.co/evyhqZJAzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041393146895216641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR8QFebMAE5wMk.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041044817837527040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFM_cqnbkAAxX-w.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041393146895216641"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041393149973872758",
+        "created_at": "2026-04-07T05:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041393149973872758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "抄粉丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AeSrhihWnN",
+              "end": 30,
+              "expanded_url": "https://x.com/aaarjkk/status/2041393149973872758/photo/1",
+              "media_key": "3_2041393146895216641",
+              "start": 7,
+              "url": "https://t.co/AeSrhihWnN"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2041044822090457140",
+              "start": 31,
+              "url": "https://t.co/evyhqZJAzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041393149973872758",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041044822090457140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#抄粉丝 🩷 https://t.co/AeSrhihWnN https://t.co/evyhqZJAzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041044817837527040"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2041044822090457140",
+        "created_at": "2026-04-06T06:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041044822090457140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "抄粉丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbZq9u8XV4",
+              "end": 33,
+              "expanded_url": "https://x.com/aaarjkk/status/2041044822090457140/photo/1",
+              "media_key": "3_2041044817837527040",
+              "start": 10,
+              "url": "https://t.co/wbZq9u8XV4"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2040218419199619488",
+              "start": 34,
+              "url": "https://t.co/ckQvODikgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041044822090457140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 290,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040218419199619488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#抄粉丝 我回来啦 https://t.co/wbZq9u8XV4 https://t.co/ckQvODikgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 498,
+          "like_count": 7881,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

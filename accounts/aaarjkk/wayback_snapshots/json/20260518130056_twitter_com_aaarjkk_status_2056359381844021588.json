@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056010958670344192"
+      ],
+      "media_source_tweet_id": [
+        "2056010967528755431"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2056359381844021588",
+    "created_at": "2026-05-18T13:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056359381844021588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1uuVaHW4ZN",
+          "end": 51,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2056010967528755431/photo/1",
+          "media_key": "3_2056010958670344192",
+          "start": 28,
+          "url": "https://t.co/1uuVaHW4ZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056359381844021588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056010967528755431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 离离原上谱😅 https://t.co/1uuVaHW4ZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056010958670344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhrEt3bMAA-0we.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056010958670344192"
+          ],
+          "media_source_tweet_id": [
+            "2056010967528755431"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2056359381844021588",
+        "created_at": "2026-05-18T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056359381844021588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uuVaHW4ZN",
+              "end": 51,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2056010967528755431/photo/1",
+              "media_key": "3_2056010958670344192",
+              "start": 28,
+              "url": "https://t.co/1uuVaHW4ZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056359381844021588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056010967528755431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 离离原上谱😅 https://t.co/1uuVaHW4ZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056010958670344192"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2056010967528755431",
+        "created_at": "2026-05-17T13:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056010967528755431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uuVaHW4ZN",
+              "end": 30,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2056010967528755431/photo/1",
+              "media_key": "3_2056010958670344192",
+              "start": 7,
+              "url": "https://t.co/1uuVaHW4ZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056010967528755431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6365,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "离离原上谱😅 https://t.co/1uuVaHW4ZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 736,
+          "like_count": 13633,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1850
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 3407,
+          "like_count": 1311,
+          "listed_count": 16,
+          "media_count": 248,
+          "tweet_count": 1694
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

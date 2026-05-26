@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051239106722844814",
+    "created_at": "2026-05-04T23:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T00:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051451166907847060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040439374362365952",
+          "start": 0,
+          "username": "Autonomousuvp8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051451166907847060",
+    "in_reply_to_user_id": "2040439374362365952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051239106722844814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomousuvp8 已加入书签🔖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051239106722844814",
+        "created_at": "2026-05-04T23:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051451166907847060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040439374362365952",
+              "start": 0,
+              "username": "Autonomousuvp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051451166907847060",
+        "in_reply_to_user_id": "2040439374362365952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051239106722844814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomousuvp8 已加入书签🔖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040439374362365952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2051239106722844814",
+        "created_at": "2026-05-04T09:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051239106722844814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Join Superalink with an exclusive invite! Enjoy global eSIM connectivity and support your referrer while staying connected across multiple countries with ease.",
+              "display_url": "superalink.com/destination/af…",
+              "end": 45,
+              "expanded_url": "https://www.superalink.com/destination/aff/CHINA0001",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2051239114964639746/xx0fybaX?format=png&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051239114964639746/xx0fybaX?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "You've Been Invited – Enjoy Seamless Global eSIM",
+              "unwound_url": "https://www.superalink.com/en/destination/aff/CHINA0001",
+              "url": "https://t.co/2l0RVeawyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051239106722844814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "superalink.com/destination/af…",
+                "end": 45,
+                "expanded_url": "https://www.superalink.com/destination/aff/CHINA0001",
+                "start": 22,
+                "url": "https://t.co/kwnihOJrJg"
+              }
+            ]
+          },
+          "text": "推荐一张五天之内无限流量的Esim\n\n链接：https://t.co/kwnihOJrJg\n\n选择中国套餐，原价5欧的能减到1.3欧左右，并且不需要kyc，官网支付请找paypal代充，有人apple pay支付的，不过本人没有成功，然后银行卡会直接拒付\n\n然后先试5天无限流量，剩下的每天5GB流量，速度100多不快也不慢，但是就这价格要啥自行车，买就完了，想一直无限流量的换个邮箱继续用，就当是7块钱5天无限流量\n\n无论如何，你都赚大了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一张五天之内无限流量的Esim\n\n链接：https://t.co/2l0RVeawyC\n\n选择中国套餐，原价5欧的能减到1.3欧左右，并且不需要kyc，官网支付请找paypal代充，有人apple pay支付的，不过本人没有成功，然后银行卡会直接拒付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 665,
+          "like_count": 11980,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T14:41:28.000Z",
+        "description": "如果想要联系我，私信，请，，，",
+        "id": "2040439374362365952",
+        "name": "Autonomous 🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2050842158538641768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050738418590879744/a5m8C4-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 141,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 240
+        },
+        "username": "Autonomousuvp8",
+        "verified": true
+      }
+    ]
+  }
+}

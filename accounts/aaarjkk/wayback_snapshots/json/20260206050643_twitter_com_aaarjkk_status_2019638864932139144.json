@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2019637374242942981"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2019638864932139144",
+    "created_at": "2026-02-06T05:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019638864932139144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rE7G2rApgw",
+          "end": 50,
+          "expanded_url": "https://x.com/aaarjkk/status/2019638864932139144/video/1",
+          "media_key": "7_2019637374242942981",
+          "start": 27,
+          "url": "https://t.co/rE7G2rApgw"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2019623905431060678",
+          "start": 51,
+          "url": "https://t.co/8MXBHZyOpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019638864932139144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019623905431060678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然可复现？！infinitetweet是坏掉了吗🤔 https://t.co/rE7G2rApgw https://t.co/8MXBHZyOpI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81775,
+        "height": 1280,
+        "media_key": "7_2019637374242942981",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019637374242942981/pu/img/RDfX6iizA4bL55C7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019637374242942981/pu/vid/avc1/320x710/QDNZV7F8GvfGH_YG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019637374242942981/pu/vid/avc1/480x1066/08vg9Xa8mz8ZHmdh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019637374242942981/pu/vid/avc1/576x1280/OHA5kgGi5hJeaXT1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019637374242942981/pu/pl/k7M_XXk7VhOrXqI6.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2019623902063042560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAclPQ5bIAAOh6n.jpg",
+        "width": 720
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2019623903044444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAclPUjaIAAuXKp.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019637374242942981"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2019638864932139144",
+        "created_at": "2026-02-06T05:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019638864932139144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE7G2rApgw",
+              "end": 50,
+              "expanded_url": "https://x.com/aaarjkk/status/2019638864932139144/video/1",
+              "media_key": "7_2019637374242942981",
+              "start": 27,
+              "url": "https://t.co/rE7G2rApgw"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2019623905431060678",
+              "start": 51,
+              "url": "https://t.co/8MXBHZyOpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019638864932139144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019623905431060678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然可复现？！infinitetweet是坏掉了吗🤔 https://t.co/rE7G2rApgw https://t.co/8MXBHZyOpI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019623902063042560",
+            "3_2019623903044444160"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2019623905431060678",
+        "created_at": "2026-02-06T04:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019623905431060678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVq7o7iiDs",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2019623905431060678/photo/1",
+              "media_key": "3_2019623902063042560",
+              "start": 6,
+              "url": "https://t.co/oVq7o7iiDs"
+            },
+            {
+              "display_url": "pic.x.com/oVq7o7iiDs",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2019623905431060678/photo/1",
+              "media_key": "3_2019623903044444160",
+              "start": 6,
+              "url": "https://t.co/oVq7o7iiDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019623905431060678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/oVq7o7iiDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 208,
+          "like_count": 1727,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 155
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

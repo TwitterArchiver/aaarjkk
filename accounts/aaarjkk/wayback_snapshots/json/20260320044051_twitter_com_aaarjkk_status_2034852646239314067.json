@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034852643445907456"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2034595775783796909",
+    "created_at": "2026-03-20T04:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034852646239314067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiKuev45J9",
+          "end": 31,
+          "expanded_url": "https://x.com/aaarjkk/status/2034852646239314067/photo/1",
+          "media_key": "3_2034852643445907456",
+          "start": 8,
+          "url": "https://t.co/iiKuev45J9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034852646239314067",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034619145611014150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe https://t.co/iiKuev45J9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2034852643445907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0_srbboAAs9yw.jpg",
+        "width": 1130
+      },
+      {
+        "height": 200,
+        "media_key": "3_2034619138791137280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxrU6zbYAALps9.png",
+        "width": 150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034852643445907456"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2034595775783796909",
+        "created_at": "2026-03-20T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034852646239314067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiKuev45J9",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2034852646239314067/photo/1",
+              "media_key": "3_2034852643445907456",
+              "start": 8,
+              "url": "https://t.co/iiKuev45J9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034852646239314067",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034619145611014150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe https://t.co/iiKuev45J9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034619138791137280"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2034595775783796909",
+        "created_at": "2026-03-19T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034619145611014150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 20,
+              "id": "1982751180469252096",
+              "start": 9,
+              "username": "_Chenmiao_"
+            },
+            {
+              "end": 33,
+              "id": "1719571122642161664",
+              "start": 21,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 45,
+              "id": "1970857021588262912",
+              "start": 34,
+              "username": "mwdxj29477"
+            },
+            {
+              "end": 59,
+              "id": "1477257510482739202",
+              "start": 46,
+              "username": "mmmmmmm19810"
+            },
+            {
+              "end": 73,
+              "id": "1659866844550037504",
+              "start": 60,
+              "username": "AvagueFuture"
+            },
+            {
+              "end": 84,
+              "id": "1941907536032186368",
+              "start": 74,
+              "username": "Liunian_a"
+            },
+            {
+              "end": 94,
+              "id": "1459356998097850370",
+              "start": 85,
+              "username": "Aequoia1"
+            },
+            {
+              "end": 105,
+              "id": "1841768354178334721",
+              "start": 95,
+              "username": "jingzi004"
+            },
+            {
+              "end": 122,
+              "id": "1891376036476231680",
+              "start": 106,
+              "username": "CafeCannel90737"
+            },
+            {
+              "end": 138,
+              "id": "1912119115537612800",
+              "start": 123,
+              "username": "_cheesenDream_"
+            },
+            {
+              "end": 149,
+              "id": "1782443083080048640",
+              "start": 139,
+              "username": "feng_2955"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kISyVFkvQD",
+              "end": 184,
+              "expanded_url": "https://x.com/Cbscfe/status/2034619145611014150/photo/1",
+              "media_key": "3_2034619138791137280",
+              "start": 161,
+              "url": "https://t.co/kISyVFkvQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034619145611014150",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034595775783796909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @_Chenmiao_ @AGeSang2008 @mwdxj29477 @mmmmmmm19810 @AvagueFuture @Liunian_a @Aequoia1 @jingzi004 @CafeCannel90737 @_cheesenDream_ @feng_2955 Cbscfe qwq https://t.co/kISyVFkvQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║😉希望咱们都能开开心心的\n║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)\n║✍️写字缓慢\n║⏳𝟸𝟼年中考\n║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝\n║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "pinned_tweet_id": "2034143052022051284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 435,
+          "like_count": 6404,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 600
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 216,
+          "like_count": 17328,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

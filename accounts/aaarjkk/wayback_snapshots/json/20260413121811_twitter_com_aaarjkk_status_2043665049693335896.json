@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2043248692409610413",
+    "created_at": "2026-04-13T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043665049693335896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1253566691654561792",
+          "start": 0,
+          "username": "ZIK000001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043665049693335896",
+    "in_reply_to_user_id": "1253566691654561792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043663926697902301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZIK000001 谢谢呀(≧◡≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2043248692409610413",
+        "created_at": "2026-04-13T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043665049693335896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1253566691654561792",
+              "start": 0,
+              "username": "ZIK000001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665049693335896",
+        "in_reply_to_user_id": "1253566691654561792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043663926697902301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZIK000001 谢谢呀(≧◡≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253566691654561792",
+        "conversation_id": "2043248692409610413",
+        "created_at": "2026-04-13T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043663926697902301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043663926697902301",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043560011880948028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 祝贺🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 564,
+          "like_count": 9125,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T06:09:33.000Z",
+        "description": "05后中的老年人，xNxP-T，mtx（f），家暴党...可以叫窝娜希，小娜或小希也都可以。双相情感障碍+强迫症，随时可能被家里人扭送到精神病院...车万人/BA玩家，喜欢幻想美好的事，追求开放与包容，不鉴政。愿对生活永远保持好奇与热情，唯一掌握的语言是汉语。看成分互fo，欢迎大家一起求同存异，友善交流！😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "achouzik.com",
+                "end": 23,
+                "expanded_url": "http://achouzik.com",
+                "start": 0,
+                "url": "https://t.co/xEQjOpbqpT"
+              }
+            ]
+          }
+        },
+        "id": "1253566691654561792",
+        "location": "能一直看着你的地方",
+        "name": "なし 🍥",
+        "pinned_tweet_id": "2034210378343968883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043373661911158784/JLImd4Gv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 307,
+          "like_count": 7683,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/xEQjOpbqpT",
+        "username": "ZIK000001",
+        "verified": true
+      }
+    ]
+  }
+}

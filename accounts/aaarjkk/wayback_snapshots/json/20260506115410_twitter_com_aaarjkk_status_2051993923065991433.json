@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051993919853121536",
+        "3_2051993919181987841",
+        "3_2051993919714742272"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2051511372756967736",
+    "created_at": "2026-05-06T11:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993923065991433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850112898347237376",
+          "start": 0,
+          "username": "Poijyan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiGnlCdbFi",
+          "end": 71,
+          "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+          "media_key": "3_2051993919853121536",
+          "start": 48,
+          "url": "https://t.co/CiGnlCdbFi"
+        },
+        {
+          "display_url": "pic.x.com/CiGnlCdbFi",
+          "end": 71,
+          "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+          "media_key": "3_2051993919181987841",
+          "start": 48,
+          "url": "https://t.co/CiGnlCdbFi"
+        },
+        {
+          "display_url": "pic.x.com/CiGnlCdbFi",
+          "end": 71,
+          "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+          "media_key": "3_2051993919714742272",
+          "start": 48,
+          "url": "https://t.co/CiGnlCdbFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993923065991433",
+    "in_reply_to_user_id": "1850112898347237376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051992087323902459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poijyan_ 本来我想问问grok的但是grok说服务器过载，所以我问了问gemini😉 https://t.co/CiGnlCdbFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051993919853121536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHolmSIbUAApDJX.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051993919181987841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHolmPoaoAEZKae.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051993919714742272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHolmRnb0AAQDdw.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051993919853121536",
+            "3_2051993919181987841",
+            "3_2051993919714742272"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-06T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993923065991433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850112898347237376",
+              "start": 0,
+              "username": "Poijyan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiGnlCdbFi",
+              "end": 71,
+              "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+              "media_key": "3_2051993919853121536",
+              "start": 48,
+              "url": "https://t.co/CiGnlCdbFi"
+            },
+            {
+              "display_url": "pic.x.com/CiGnlCdbFi",
+              "end": 71,
+              "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+              "media_key": "3_2051993919181987841",
+              "start": 48,
+              "url": "https://t.co/CiGnlCdbFi"
+            },
+            {
+              "display_url": "pic.x.com/CiGnlCdbFi",
+              "end": 71,
+              "expanded_url": "https://x.com/aaarjkk/status/2051993923065991433/photo/1",
+              "media_key": "3_2051993919714742272",
+              "start": 48,
+              "url": "https://t.co/CiGnlCdbFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993923065991433",
+        "in_reply_to_user_id": "1850112898347237376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051992087323902459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poijyan_ 本来我想问问grok的但是grok说服务器过载，所以我问了问gemini😉 https://t.co/CiGnlCdbFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850112898347237376",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-06T11:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051992087323902459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051992087323902459",
+        "in_reply_to_user_id": "1850112898347237376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051960878858440871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 额 这是疑问句。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 698,
+          "like_count": 12465,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T09:51:30.000Z",
+        "description": "𝓛𝓲𝓬𝓮𝓽 𝓼𝓽𝓮𝓵𝓵𝓪𝓮 𝓬𝓪𝓮𝓵𝓾𝓶 𝓲𝓶𝓹𝓵𝓮𝓪𝓷𝓽, 𝓽𝓪𝓶𝓮𝓷 𝓼𝓲𝓭𝓮𝓻𝓪 𝓽𝓮 𝓷𝓸𝓷 𝓼𝓾𝓹𝓮𝓻𝓪𝓷𝓽.",
+        "id": "1850112898347237376",
+        "name": "𝓟𝓸𝓲𝓳𝔂𝓪𝓷",
+        "pinned_tweet_id": "2038563469256179963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929580562815373313/PF2_URPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 358,
+          "like_count": 26947,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 2738
+        },
+        "username": "Poijyan_",
+        "verified": false
+      }
+    ]
+  }
+}

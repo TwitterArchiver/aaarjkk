@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2037532673812443214",
+    "created_at": "2026-03-29T00:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038046438299693227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644896283860299776",
+          "start": 0,
+          "username": "gaoj0017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038046438299693227",
+    "in_reply_to_user_id": "1644896283860299776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037532673812443214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoj0017 Google，没想到你是这样的人😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2037532673812443214",
+        "created_at": "2026-03-29T00:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038046438299693227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644896283860299776",
+              "start": 0,
+              "username": "gaoj0017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038046438299693227",
+        "in_reply_to_user_id": "1644896283860299776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037532673812443214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoj0017 Google，没想到你是这样的人😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644896283860299776",
+        "conversation_id": "2037532673812443214",
+        "created_at": "2026-03-27T14:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532673812443214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GoogleResearch…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/GoogleResearch/status/2036533564158910740",
+              "start": 278,
+              "url": "https://t.co/wzMsDcWOtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532673812443214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "openreview.net/forum?id=tO3AS…",
+                "end": 546,
+                "expanded_url": "https://openreview.net/forum?id=tO3ASKZlok",
+                "start": 523,
+                "url": "https://t.co/nDVjmNhATM"
+              }
+            ]
+          },
+          "text": "The TurboQuant paper (ICLR 2026) contains serious issues in how it describes RaBitQ, including incorrect technical claims and misleading theory/experiment comparisons.\n\nWe flagged these issues to the authors before submission. They acknowledged them, but chose not to fix them. The paper was later accepted and widely promoted by Google, reaching tens of millions of views.\n\nWe’re speaking up now because once a misleading narrative spreads, it becomes much harder to correct. We’ve written a public comment on openreview (https://t.co/nDVjmNhATM). \n\nWe would greatly appreciate your attention and help in sharing it."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1816,
+          "impression_count": 737766,
+          "like_count": 5546,
+          "quote_count": 114,
+          "reply_count": 81,
+          "retweet_count": 824
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036533564158910740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The TurboQuant paper (ICLR 2026) contains serious issues in how it describes RaBitQ, including incorrect technical claims and misleading theory/experiment comparisons.\n\nWe flagged these issues to the authors before submission. They acknowledged them, but chose not to fix them. https://t.co/wzMsDcWOtF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "pinned_tweet_id": "2037699204601319798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 468,
+          "like_count": 7134,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T02:53:44.000Z",
+        "description": "Postdoc at ETH Zurich on LLM, ML System, Vector Database; \nprev. PhD from Nanyang Technological Univ.; \nICPC World Final;",
+        "id": "1644896283860299776",
+        "name": "Jianyang Gao",
+        "pinned_tweet_id": "2037532673812443214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865948767775834112/MaGgooqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 630,
+          "like_count": 1154,
+          "listed_count": 10,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "gaoj0017",
+        "verified": true
+      }
+    ]
+  }
+}

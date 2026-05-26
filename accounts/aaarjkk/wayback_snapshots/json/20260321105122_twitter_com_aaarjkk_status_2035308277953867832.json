@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035308275412197376"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2035308277953867832",
+    "created_at": "2026-03-21T10:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035308277953867832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEUXLcDQ77",
+          "end": 58,
+          "expanded_url": "https://x.com/aaarjkk/status/2035308277953867832/photo/1",
+          "media_key": "3_2035308275412197376",
+          "start": 35,
+          "url": "https://t.co/kEUXLcDQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035308277953867832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤬🤬🥵🥵😭😭\n可能是由于抄粉丝名字系列@ 了太多人导致\n暂时减少发推 https://t.co/kEUXLcDQ77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035308275412197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7eF8xbYAApToQ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035308275412197376"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2035308277953867832",
+        "created_at": "2026-03-21T10:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035308277953867832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEUXLcDQ77",
+              "end": 58,
+              "expanded_url": "https://x.com/aaarjkk/status/2035308277953867832/photo/1",
+              "media_key": "3_2035308275412197376",
+              "start": 35,
+              "url": "https://t.co/kEUXLcDQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035308277953867832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤬🤬🥵🥵😭😭\n可能是由于抄粉丝名字系列@ 了太多人导致\n暂时减少发推 https://t.co/kEUXLcDQ77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║😉希望咱们都能开开心心的\n║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)\n║✍️写字缓慢\n║⏳𝟸𝟼年中考\n║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝\n║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "pinned_tweet_id": "2034143052022051284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 438,
+          "like_count": 6622,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 625
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

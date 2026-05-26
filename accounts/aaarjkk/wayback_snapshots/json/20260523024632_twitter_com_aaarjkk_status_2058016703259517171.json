@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2058016703259517171",
+    "created_at": "2026-05-23T02:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058016703259517171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/gdioiui/status/2057992419782901882",
+          "start": 23,
+          "url": "https://t.co/EePMgehXCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058016703259517171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057992419782901882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨😨😨我们受到了数千kB的DDoS攻击🥺🥺🥺 https://t.co/EePMgehXCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057992416087736320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI91Mt9bgAAtjf3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057992417211740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI91MyJacAAXXb1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2058016703259517171",
+        "created_at": "2026-05-23T02:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058016703259517171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/gdioiui/status/2057992419782901882",
+              "start": 23,
+              "url": "https://t.co/EePMgehXCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058016703259517171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057992419782901882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨😨😨我们受到了数千kB的DDoS攻击🥺🥺🥺 https://t.co/EePMgehXCa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057992416087736320",
+            "3_2057992417211740160"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057992419782901882",
+        "created_at": "2026-05-23T01:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057992419782901882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 89,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992416087736320",
+              "start": 66,
+              "url": "https://t.co/cRrx4jpCjS"
+            },
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 89,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992417211740160",
+              "start": 66,
+              "url": "https://t.co/cRrx4jpCjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057992419782901882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 285,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家长们 我们正在受到KB级DDoS攻击！\n累计受到了数10w次攻击\n是被爆头了10w次吗？ 怎么做到预警kb级攻击的😨\n不愧是预警 https://t.co/cRrx4jpCjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 731,
+          "like_count": 14043,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1931
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 464,
+          "like_count": 3851,
+          "listed_count": 3,
+          "media_count": 1270,
+          "tweet_count": 6855
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033073202113744896"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2033073206282625186",
+    "created_at": "2026-03-15T06:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033073206282625186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uQjdHVFjG0",
+          "end": 27,
+          "expanded_url": "https://x.com/aaarjkk/status/2033073206282625186/photo/1",
+          "media_key": "3_2033073202113744896",
+          "start": 4,
+          "url": "https://t.co/uQjdHVFjG0"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2033057708090511735",
+          "start": 28,
+          "url": "https://t.co/lN84WamzLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033073206282625186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033057708090511735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已复活 https://t.co/uQjdHVFjG0 https://t.co/lN84WamzLk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033073202113744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbtTj5bEAAn0eI.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033057700133695488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbfNOhXcAAz915.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033073202113744896"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2033073206282625186",
+        "created_at": "2026-03-15T06:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033073206282625186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQjdHVFjG0",
+              "end": 27,
+              "expanded_url": "https://x.com/aaarjkk/status/2033073206282625186/photo/1",
+              "media_key": "3_2033073202113744896",
+              "start": 4,
+              "url": "https://t.co/uQjdHVFjG0"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2033057708090511735",
+              "start": 28,
+              "url": "https://t.co/lN84WamzLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033073206282625186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033057708090511735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已复活 https://t.co/uQjdHVFjG0 https://t.co/lN84WamzLk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033057700133695488"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032851847912771818",
+        "created_at": "2026-03-15T05:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033057708090511735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027031128738275328",
+              "start": 0,
+              "username": "NomtfYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDHFklPLpw",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2033057708090511735/photo/1",
+              "media_key": "3_2033057700133695488",
+              "start": 21,
+              "url": "https://t.co/kDHFklPLpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033057708090511735",
+        "in_reply_to_user_id": "2027031128738275328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032851847912771818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomtfYuwen 这是被举报了吗🤔 https://t.co/kDHFklPLpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 401,
+          "like_count": 5641,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 513
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

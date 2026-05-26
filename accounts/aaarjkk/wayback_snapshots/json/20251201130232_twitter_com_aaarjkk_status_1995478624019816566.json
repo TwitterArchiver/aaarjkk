@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1995398797506322870",
+    "created_at": "2025-12-01T13:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995478624019816566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830703883766931456",
+          "start": 0,
+          "username": "xiangzi585091"
+        },
+        {
+          "end": 24,
+          "id": "1790370144755351552",
+          "start": 15,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995478624019816566",
+    "in_reply_to_user_id": "1830703883766931456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995477246367130029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangzi585091 @FurinaDF 不是很想岛，岛多了容易腰子疼，而且我现在岛也只能岛出一点，再岛就没感觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1995398797506322870",
+        "created_at": "2025-12-01T13:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995478624019816566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830703883766931456",
+              "start": 0,
+              "username": "xiangzi585091"
+            },
+            {
+              "end": 24,
+              "id": "1790370144755351552",
+              "start": 15,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995478624019816566",
+        "in_reply_to_user_id": "1830703883766931456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995477246367130029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangzi585091 @FurinaDF 不是很想岛，岛多了容易腰子疼，而且我现在岛也只能岛出一点，再岛就没感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830703883766931456",
+        "conversation_id": "1995398797506322870",
+        "created_at": "2025-12-01T12:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995477246367130029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 18,
+              "id": "1790370144755351552",
+              "start": 9,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995477246367130029",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995475911622250737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @FurinaDF 你太小了 等你以后工作就知道了 你现在的首要任务是找个黄推导管子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n规格：171cm\n净含量：50kg\n生产日期：20101014\n保质期：360个月\n储存条件：请置于阴凉干燥温暖舒适安全有食物处\n产地：广东",
+        "id": "1955980103688790017",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T20:26:45.000Z",
+        "description": "",
+        "id": "1830703883766931456",
+        "name": "xiangzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830704297442672640/nOl4nPos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 214
+        },
+        "username": "xiangzi585091",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63366,
+          "following_count": 2371,
+          "like_count": 29996,
+          "listed_count": 181,
+          "media_count": 7832,
+          "tweet_count": 12474
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

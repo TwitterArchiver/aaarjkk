@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2003253559610212671",
+    "created_at": "2025-12-24T11:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003788376118558948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003788376118558948",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003783426156171630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 今天上学同桌问我是不是想留长头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2003253559610212671",
+        "created_at": "2025-12-24T11:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003788376118558948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003788376118558948",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003783426156171630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 今天上学同桌问我是不是想留长头发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263115394144821248",
+        "conversation_id": "2003253559610212671",
+        "created_at": "2025-12-24T11:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003783426156171630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003783426156171630",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003782287746547736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 羡慕了，我好像马上就到尴尬期了，头发都炸毛了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望每个人每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧𝟸▓▓▓▓▓▓𝟽𝟾\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731503396945920/SQoe-ckm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 129,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 173/54 | 常住南昌 | 半家长党 | 自行hrt 25.08.31-25.12.11 | 小证25.11.28 | 互fo请私信 | 被迫断糖，准备重启 | 不键政 | 重度抑郁治疗中 | 崩铁、Minecraft | 日常推 | 好妹妹@Hitler114514 @tomorinlove__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "Hitler114514"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "tomorinlove__"
+              }
+            ]
+          }
+        },
+        "id": "1263115394144821248",
+        "name": "🍥鸢栀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 353
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012034699972263938"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2011736867105095941",
+    "created_at": "2026-01-16T05:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T06:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012034703780692050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VqIf50z6sv",
+          "end": 124,
+          "expanded_url": "https://x.com/aaarjkk/status/2012034703780692050/photo/1",
+          "media_key": "3_2012034699972263938",
+          "start": 101,
+          "url": "https://t.co/VqIf50z6sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012034703780692050",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011740364689055881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @hsn8086 没有会员的可以发这些\nabc123\n𝗮𝗯𝗰𝟭𝟮𝟯\n𝓪𝓫𝓬𝟏𝟐𝟑\n𝒂𝒃𝒄𝟏𝟐𝟑\n𝑎𝑏𝑐𝟏𝟐𝟑\n𝘢𝘣𝘤𝟭𝟮𝟯\n𝚊𝚋𝚌𝟷𝟸𝟹\n𝕒𝕓𝕔𝟙𝟚𝟛\n𝖆𝖇𝖈𝟏𝟐𝟑\n（只有字母数字） https://t.co/VqIf50z6sv"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2011740364689055881].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2011740364689055881",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2011740364689055881"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2012034699972263938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wu5j-bQAI9c3W.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012034699972263938"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2011736867105095941",
+        "created_at": "2026-01-16T05:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012034703780692050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqIf50z6sv",
+              "end": 124,
+              "expanded_url": "https://x.com/aaarjkk/status/2012034703780692050/photo/1",
+              "media_key": "3_2012034699972263938",
+              "start": 101,
+              "url": "https://t.co/VqIf50z6sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012034703780692050",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011740364689055881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @hsn8086 没有会员的可以发这些\nabc123\n𝗮𝗯𝗰𝟭𝟮𝟯\n𝓪𝓫𝓬𝟏𝟐𝟑\n𝒂𝒃𝒄𝟏𝟐𝟑\n𝑎𝑏𝑐𝟏𝟐𝟑\n𝘢𝘣𝘤𝟭𝟮𝟯\n𝚊𝚋𝚌𝟷𝟸𝟹\n𝕒𝕓𝕔𝟙𝟚𝟛\n𝖆𝖇𝖈𝟏𝟐𝟑\n（只有字母数字） https://t.co/VqIf50z6sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009575169422241792/NdZXiV7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 177,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 128
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o2333",
+                "start": 0,
+                "url": "https://t.co/jdGmbf9qDI"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢🍥#天棓四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009273766329847808/fTVfTHn__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 646,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/jdGmbf9qDI",
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115588,
+          "following_count": 1040,
+          "like_count": 50559,
+          "listed_count": 266,
+          "media_count": 18523,
+          "tweet_count": 28053
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

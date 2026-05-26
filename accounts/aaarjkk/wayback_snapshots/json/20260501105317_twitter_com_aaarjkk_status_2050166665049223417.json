@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2050166151515345140",
+    "created_at": "2026-05-01T10:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050166665049223417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050166665049223417",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050166151515345140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping 我也想开，但是代开好贵啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2050166151515345140",
+        "created_at": "2026-05-01T10:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050166665049223417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050166665049223417",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050166151515345140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping 我也想开，但是代开好贵啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2050166150630346752"
+          ]
+        },
+        "author_id": "1385919167971282946",
+        "conversation_id": "2050166151515345140",
+        "created_at": "2026-05-01T10:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050166151515345140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050166151515345140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想开X会员喵！但是又怕没有人关注我喵！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🩵🩷🤍🩷🩵▯活在幻想中▯😉希望咱们都能开开心心▯成绩倒数☄▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 645,
+          "like_count": 11604,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（不能断药）｜I人（我也不清楚哈）｜服用大豆异黄酮｜禁止涩涩｜已经乳腺微微发育出一小粒腺体｜也许是MTX？？？",
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "我的雌二醇怎么变成了大豆异黄酮了喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050098785880260608/cud4_efV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 42,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 242
+        },
+        "username": "whyyoutangping",
+        "verified": false
+      }
+    ]
+  }
+}

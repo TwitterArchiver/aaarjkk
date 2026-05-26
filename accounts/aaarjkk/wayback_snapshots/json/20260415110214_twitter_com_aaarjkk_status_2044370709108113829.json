@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044370709108113829",
+    "created_at": "2026-04-15T11:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044370709108113829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1809512780216827904",
+          "start": 3,
+          "username": "Nanaumi_Ayana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044370709108113829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044358274167067121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanaumi_Ayana: 好想哭\n好想体验女孩子的青春。，，\n为什么到我这的就只剩歧视 霸凌 孤立 排挤……\n就因为我出生时因为下面长了个会分泌雄性激素的肿瘤被护士当成男生了吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044370709108113829",
+        "created_at": "2026-04-15T11:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044370709108113829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1809512780216827904",
+              "start": 3,
+              "username": "Nanaumi_Ayana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044370709108113829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044358274167067121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanaumi_Ayana: 好想哭\n好想体验女孩子的青春。，，\n为什么到我这的就只剩歧视 霸凌 孤立 排挤……\n就因为我出生时因为下面长了个会分泌雄性激素的肿瘤被护士当成男生了吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809512780216827904",
+        "conversation_id": "2044358274167067121",
+        "created_at": "2026-04-15T10:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044358274167067121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044358274167067121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭\n好想体验女孩子的青春。，，\n为什么到我这的就只剩歧视 霸凌 孤立 排挤……\n就因为我出生时因为下面长了个会分泌雄性激素的肿瘤被护士当成男生了吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aaarjkk?=awa",
+                "end": 23,
+                "expanded_url": "http://t.me/aaarjkk?=awa",
+                "start": 0,
+                "url": "https://t.co/0FtnmjzaMD"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276772737560577/IzZIDMeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 565,
+          "like_count": 9289,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/0FtnmjzaMD",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:00:53.000Z",
+        "description": "=花田蘇雫/七海綾奈\n09年INFP | 无证含糖 | mtf🏳️‍⚧️hrt2026.3.29 | les且厌男 | 173cm47kg超绝骷髅身材 | 臭打音游的 | 画渣\n可能是个⭐🦆1️⃣色批疯子 本人将不会对在此说出的每一个字负责）同类可以互fo喵🥺\n负能条底下可以不用安慰我 讨厌虚情假意的关切",
+        "id": "1809512780216827904",
+        "location": " 『往世乐土』-  爱莉希雅身边",
+        "name": "🎀苏雫_ソシズク🍥🍡",
+        "pinned_tweet_id": "2041863908689113166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 199,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 820
+        },
+        "username": "Nanaumi_Ayana",
+        "verified": false
+      }
+    ]
+  }
+}

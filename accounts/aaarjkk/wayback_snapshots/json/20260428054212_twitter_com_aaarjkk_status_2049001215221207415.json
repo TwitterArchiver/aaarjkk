@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049001212431974400"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2048683789241696707",
+    "created_at": "2026-04-28T05:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049001215221207415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oWB1bIhrr3",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2049001215221207415/photo/1",
+          "media_key": "3_2049001212431974400",
+          "start": 22,
+          "url": "https://t.co/oWB1bIhrr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049001215221207415",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048683789241696707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CldGeo 好细节啊啊啊安卓挖孔屏也有 https://t.co/oWB1bIhrr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2049001212431974400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-DvyNaQAApON4.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 6200,
+        "height": 942,
+        "media_key": "13_2048683733692416000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048683733692416000/img/ov7eILUtnRtckxlH.jpg",
+        "public_metrics": {
+          "view_count": 2315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048683733692416000/pl/PdMQGGf9tDdG3d3R.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048683733692416000/vid/avc1/504x360/CrAdKt0t80zwyKr6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048683733692416000/vid/avc1/1320x942/fxNDc1NVTErXqX2A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048683733692416000/vid/avc1/1008x720/5iWLLQurIzIms2K7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048683733692416000/vid/avc1/378x270/WRI1oF0ClIc4MlJa.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049001212431974400"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2048683789241696707",
+        "created_at": "2026-04-28T05:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049001215221207415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWB1bIhrr3",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2049001215221207415/photo/1",
+              "media_key": "3_2049001212431974400",
+              "start": 22,
+              "url": "https://t.co/oWB1bIhrr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001215221207415",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048683789241696707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CldGeo 好细节啊啊啊安卓挖孔屏也有 https://t.co/oWB1bIhrr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048683733692416000"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2048683789241696707",
+        "created_at": "2026-04-27T08:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048683789241696707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43aWO9XVev",
+              "end": 52,
+              "expanded_url": "https://x.com/CldGeo/status/2048683789241696707/video/1",
+              "media_key": "13_2048683733692416000",
+              "start": 29,
+              "url": "https://t.co/43aWO9XVev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048683789241696707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5812,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "Telegram这个灵动岛效果挺好啊我去 头像会吸进去诶 https://t.co/43aWO9XVev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️▯活在幻想中▯😉希望咱们都能开开心心▯成绩倒数☄▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048182524212604928/zI-UVlVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 633,
+          "like_count": 11261,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2042878348440015045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4028,
+          "following_count": 348,
+          "like_count": 4006,
+          "listed_count": 6,
+          "media_count": 436,
+          "tweet_count": 1707
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

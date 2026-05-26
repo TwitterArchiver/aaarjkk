@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051511372756967736",
+    "created_at": "2026-05-05T12:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051635222211711334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "24620118",
+          "start": 0,
+          "username": "lospeeJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051635222211711334",
+    "in_reply_to_user_id": "24620118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051634629367779557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lospeeJD 我能连上啊，不过可能要连10秒，连接失败就再试一次，基本都能连上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-05T12:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051635222211711334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "24620118",
+              "start": 0,
+              "username": "lospeeJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051635222211711334",
+        "in_reply_to_user_id": "24620118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051634629367779557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lospeeJD 我能连上啊，不过可能要连10秒，连接失败就再试一次，基本都能连上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24620118",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-05T12:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051634629367779557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051634629367779557",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051634253767852514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 对，是的呀，记得去年就不能用了，本来速度还挺快的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 690,
+          "like_count": 12277,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-16T00:53:01.000Z",
+        "description": "据点损失中……",
+        "id": "24620118",
+        "location": "SH，China",
+        "name": "研究据点wep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441101545194487815/b2FuI7rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 662,
+          "like_count": 457,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 3982
+        },
+        "username": "lospeeJD",
+        "verified": false
+      }
+    ]
+  }
+}

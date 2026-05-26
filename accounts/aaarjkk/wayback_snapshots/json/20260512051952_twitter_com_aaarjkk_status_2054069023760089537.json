@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2053990735305933160",
+    "created_at": "2026-05-12T05:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T06:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054069023760089537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054069023760089537",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053990735305933160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya 恭喜喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_2053990733091393536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIE9sHHbUAAfVX1.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2053990735305933160",
+        "created_at": "2026-05-12T05:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054069023760089537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054069023760089537",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053990735305933160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya 恭喜喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053990733091393536"
+          ]
+        },
+        "author_id": "1667798970700283904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053990735305933160",
+        "created_at": "2026-05-12T00:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053990735305933160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCkhAsSZ7n",
+              "end": 37,
+              "expanded_url": "https://x.com/Sokei_ko_nya/status/2053990735305933160/photo/1",
+              "media_key": "3_2053990733091393536",
+              "start": 14,
+              "url": "https://t.co/VCkhAsSZ7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053990735305933160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@全体成员 1kfo纪念！ https://t.co/VCkhAsSZ7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 700,
+          "like_count": 12787,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(小证: 26.4.1, hrt: 26.2.25-3.2,已炸柜)/宝宝@RainEngine2024（不建政/No Politics）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "2052177071829573664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1256,
+          "like_count": 69475,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 3085
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

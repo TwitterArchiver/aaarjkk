@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2003390130212446582",
+    "created_at": "2026-02-27T06:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027274812595589331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982386432573591552",
+          "start": 0,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027274812595589331",
+    "in_reply_to_user_id": "1982386432573591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003390130212446582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynNanaNya 我都不看\"为你推荐\"只看\"正在关注\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2003390130212446582",
+        "created_at": "2026-02-27T06:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027274812595589331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982386432573591552",
+              "start": 0,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027274812595589331",
+        "in_reply_to_user_id": "1982386432573591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003390130212446582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynNanaNya 我都不看\"为你推荐\"只看\"正在关注\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982386432573591552",
+        "conversation_id": "2003390130212446582",
+        "created_at": "2025-12-23T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003390130212446582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003390130212446582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2610,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特主页推送就是一坨，黄推我每刷到一个都点不感兴趣，然后主页还是有不少黄推🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 289,
+          "like_count": 3348,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 315
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "175-48kg-19岁nya // 性别:猫娘 // 深柜 // 很友好,可以来和我闲聊☺️ // 受受,喜欢重度拘束和感官剥夺 // 想要主人,想成为主人的小狗狗 //",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nana0721nya",
+                "end": 23,
+                "expanded_url": "https://t.me/Nana0721nya",
+                "start": 0,
+                "url": "https://t.co/xnEteQl6E7"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "领养我好嘛🥺",
+        "name": "小药娘娜娜喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 38,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/xnEteQl6E7",
+        "username": "XynNanaNya",
+        "verified": false
+      }
+    ]
+  }
+}

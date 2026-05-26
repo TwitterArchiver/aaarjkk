@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044270833603096995",
+    "created_at": "2026-04-25T06:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047923379525861844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786520703942139904",
+          "start": 0,
+          "username": "xiaoyunbfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047923379525861844",
+    "in_reply_to_user_id": "1786520703942139904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044270833603096995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyunbfh 会有的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044270833603096995",
+        "created_at": "2026-04-25T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047923379525861844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786520703942139904",
+              "start": 0,
+              "username": "xiaoyunbfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047923379525861844",
+        "in_reply_to_user_id": "1786520703942139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044270833603096995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyunbfh 会有的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786520703942139904",
+        "conversation_id": "2044270833603096995",
+        "created_at": "2026-04-15T04:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044270833603096995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "药娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044270833603096995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2169,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "06年的药娘，现在变成了一个小🥚睾会有人喜欢嘛 #药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝓨𝓣𝓷𝔂𝓪📀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 596,
+          "like_count": 10937,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T22:18:35.000Z",
+        "description": "无证含糖想术 I mtf/M",
+        "id": "1786520703942139904",
+        "name": "希小鱼🍥",
+        "pinned_tweet_id": "2034237457764606001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006234796708749315/to1dqD4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 5,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "username": "xiaoyunbfh",
+        "verified": false
+      }
+    ]
+  }
+}

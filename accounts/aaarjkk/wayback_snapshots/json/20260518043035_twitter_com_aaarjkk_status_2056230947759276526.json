@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2056195495526326550",
+    "created_at": "2026-05-18T04:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056230947759276526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974011638509350914",
+          "start": 0,
+          "username": "Kraken1862553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056230947759276526",
+    "in_reply_to_user_id": "1974011638509350914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056195495526326550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kraken1862553 摸摸🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056195491940220929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkS593bQAEZcii.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2056195495526326550",
+        "created_at": "2026-05-18T04:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056230947759276526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974011638509350914",
+              "start": 0,
+              "username": "Kraken1862553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056230947759276526",
+        "in_reply_to_user_id": "1974011638509350914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056195495526326550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kraken1862553 摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056195491940220929"
+          ]
+        },
+        "author_id": "1974011638509350914",
+        "conversation_id": "2056195495526326550",
+        "created_at": "2026-05-18T02:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056195495526326550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJHhOzs8ee",
+              "end": 52,
+              "expanded_url": "https://x.com/Kraken1862553/status/2056195495526326550/photo/1",
+              "media_key": "3_2056195491940220929",
+              "start": 29,
+              "url": "https://t.co/TJHhOzs8ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056195495526326550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是生日 原来的号还被hack了😭\n世界对我如此不公😭 https://t.co/TJHhOzs8ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 733,
+          "like_count": 13520,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1837
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T07:20:46.000Z",
+        "description": "intp-t/mtf/nsfw/生产日期：2012/M/泛/是只猫/不自由毋宁死/没钱吃糖/没证/中文&正體&EN/同类互fo/AAA地址证明专业批发/给点钱谢谢喵/vibe coding/主人：@xgT3rRyjWH63933",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "xgT3rRyjWH63933"
+              }
+            ]
+          }
+        },
+        "id": "1974011638509350914",
+        "name": "odhcus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056194147279912960/KSjePtAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Kraken1862553",
+        "verified": true
+      }
+    ]
+  }
+}

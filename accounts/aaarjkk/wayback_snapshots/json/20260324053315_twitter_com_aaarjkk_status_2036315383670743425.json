@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036304485853872128"
+      ],
+      "media_source_tweet_id": [
+        "2036305420869156898"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2036315383670743425",
+    "created_at": "2026-03-24T05:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036315383670743425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002632641573761025",
+          "start": 3,
+          "username": "a0bRJKk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gaX6LlVpLj",
+          "end": 84,
+          "expanded_url": "https://x.com/a0bRJKk/status/2036305420869156898/video/1",
+          "media_key": "13_2036304485853872128",
+          "start": 61,
+          "url": "https://t.co/gaX6LlVpLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036315383670743425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036305420869156898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a0bRJKk: 删除违规帖子😭到时候会补\nghostBan太恐怖了，自己都看不见自己的回复\n不过发帖的流量还行 https://t.co/gaX6LlVpLj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 163641,
+        "height": 1920,
+        "media_key": "13_2036304485853872128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036304485853872128/img/s9o4eBX4Guzg7g-W.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036304485853872128/vid/avc1/320x704/MnnotxbRZxEPnE3x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036304485853872128/vid/avc1/480x1056/ZebRdE480dgFuJAz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036304485853872128/vid/avc1/720x1584/C0umMWuMvpJzVo7q.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036304485853872128/pl/wzCoOLF8HAKTEh9l.m3u8?tag=14"
+          }
+        ],
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036304485853872128"
+          ],
+          "media_source_tweet_id": [
+            "2036305420869156898"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2036315383670743425",
+        "created_at": "2026-03-24T05:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036315383670743425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002632641573761025",
+              "start": 3,
+              "username": "a0bRJKk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaX6LlVpLj",
+              "end": 84,
+              "expanded_url": "https://x.com/a0bRJKk/status/2036305420869156898/video/1",
+              "media_key": "13_2036304485853872128",
+              "start": 61,
+              "url": "https://t.co/gaX6LlVpLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036315383670743425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036305420869156898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a0bRJKk: 删除违规帖子😭到时候会补\nghostBan太恐怖了，自己都看不见自己的回复\n不过发帖的流量还行 https://t.co/gaX6LlVpLj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036304485853872128"
+          ]
+        },
+        "author_id": "2002632641573761025",
+        "conversation_id": "2036305420869156898",
+        "created_at": "2026-03-24T04:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036305420869156898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaX6LlVpLj",
+              "end": 71,
+              "expanded_url": "https://x.com/a0bRJKk/status/2036305420869156898/video/1",
+              "media_key": "13_2036304485853872128",
+              "start": 48,
+              "url": "https://t.co/gaX6LlVpLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036305420869156898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "删除违规帖子😭到时候会补\nghostBan太恐怖了，自己都看不见自己的回复\n不过发帖的流量还行 https://t.co/gaX6LlVpLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被ghostBan版)",
+        "pinned_tweet_id": "2035308277953867832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035672900309770241/-WswxzW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 446,
+          "like_count": 6781,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T06:51:00.000Z",
+        "description": "大号：@aaarjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "aaarjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/aaarjkk?s=20",
+                "end": 23,
+                "expanded_url": "https://x.com/aaarjkk?s=20",
+                "start": 0,
+                "url": "https://t.co/0IqaOlQd0S"
+              }
+            ]
+          }
+        },
+        "id": "2002632641573761025",
+        "location": "🧐",
+        "name": "𝓡𝓙𝓚𝓴（大号被GhostBan版）",
+        "pinned_tweet_id": "2036056680426062052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002967966288388096/mJoInWn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/0IqaOlQd0S",
+        "username": "a0bRJKk",
+        "verified": false
+      }
+    ]
+  }
+}

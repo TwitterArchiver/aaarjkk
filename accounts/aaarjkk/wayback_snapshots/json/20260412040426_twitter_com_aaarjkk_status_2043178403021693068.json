@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043178399783682048"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2042742710445183327",
+    "created_at": "2026-04-12T04:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043178403021693068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906356680511950848",
+          "start": 0,
+          "username": "TSKrwglq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dzumze4ZUI",
+          "end": 37,
+          "expanded_url": "https://x.com/aaarjkk/status/2043178403021693068/photo/1",
+          "media_key": "3_2043178399783682048",
+          "start": 14,
+          "url": "https://t.co/Dzumze4ZUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043178403021693068",
+    "in_reply_to_user_id": "1906356680511950848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042874810745913536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSKrwglq 抄你🩷 https://t.co/Dzumze4ZUI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2043178399783682048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrT7evbgAA__Gh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043178399783682048"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2042742710445183327",
+        "created_at": "2026-04-12T04:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043178403021693068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906356680511950848",
+              "start": 0,
+              "username": "TSKrwglq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dzumze4ZUI",
+              "end": 37,
+              "expanded_url": "https://x.com/aaarjkk/status/2043178403021693068/photo/1",
+              "media_key": "3_2043178399783682048",
+              "start": 14,
+              "url": "https://t.co/Dzumze4ZUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043178403021693068",
+        "in_reply_to_user_id": "1906356680511950848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042874810745913536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSKrwglq 抄你🩷 https://t.co/Dzumze4ZUI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906356680511950848",
+        "conversation_id": "2042742710445183327",
+        "created_at": "2026-04-11T07:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042874810745913536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042874810745913536",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042742710445183327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 抄我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 557,
+          "like_count": 8676,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "只不过是一个普通的mtf罢了",
+        "id": "1906356680511950848",
+        "location": "中国",
+        "name": "SAKURA_FTP🍀🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028723847655206912/BYbc0jAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "TSKrwglq",
+        "verified": false
+      }
+    ]
+  }
+}

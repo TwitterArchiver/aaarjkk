@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2029547216105545764",
+    "created_at": "2026-03-06T11:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029875039852736584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029875039852736584",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029547216105545764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 中圈贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2029547211009458176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpmb3cagAArU-F.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2029547216105545764",
+        "created_at": "2026-03-06T11:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029875039852736584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029875039852736584",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029547216105545764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 中圈贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029547211009458176"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2029547216105545764",
+        "created_at": "2026-03-05T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029547216105545764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/PNgRYfD8mh"
+            },
+            {
+              "display_url": "pic.x.com/2DcJlBi4pD",
+              "end": 64,
+              "expanded_url": "https://x.com/sophhhsama/status/2029547216105545764/photo/1",
+              "media_key": "3_2029547211009458176",
+              "start": 41,
+              "url": "https://t.co/2DcJlBi4pD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029547216105545764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/PNgRYfD8mh https://t.co/2DcJlBi4pD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 327,
+          "like_count": 4273,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 404
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophhhie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 147,
+          "like_count": 3232,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 540
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

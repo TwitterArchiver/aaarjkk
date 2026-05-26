@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2033072056036896915",
+    "created_at": "2026-03-15T09:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033110334480011701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033110334480011701",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033072056036896915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya 呜呜没事吧🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4865,
+        "height": 1280,
+        "media_key": "7_2033071969546153991",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033071969546153991/pu/img/TJLkqB5yXR936nzb.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033071969546153991/pu/vid/avc1/320x568/YTkpHjmGfZCobvu5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033071969546153991/pu/vid/avc1/480x852/1irxSMp0mAnH2Msc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033071969546153991/pu/vid/avc1/720x1280/WbmVYURPQnPKkz6_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033071969546153991/pu/pl/874U_UaePz03R08D.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2033072056036896915",
+        "created_at": "2026-03-15T09:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033110334480011701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033110334480011701",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033072056036896915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya 呜呜没事吧🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033071969546153991"
+          ]
+        },
+        "author_id": "2012958305308565505",
+        "conversation_id": "2033072056036896915",
+        "created_at": "2026-03-15T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033072056036896915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMzONjG17r",
+              "end": 29,
+              "expanded_url": "https://x.com/raindreamya/status/2033072056036896915/video/1",
+              "media_key": "7_2033071969546153991",
+              "start": 6,
+              "url": "https://t.co/rMzONjG17r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033072056036896915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜呜 https://t.co/rMzONjG17r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 402,
+          "like_count": 5693,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 514
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 🍬HRT 25.2.13 | 💥 25.3.2 炸柜「坐标江苏徐州」 | ✈️全国可飞，路费不报销 | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MjYypFwCQJ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/MjYypFwCQJ",
+                "start": 0,
+                "url": "https://t.co/vaj0jdFzPF"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "2032427779673952681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030692046701473792/st46wcwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 89,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/vaj0jdFzPF",
+        "username": "raindreamya",
+        "verified": false
+      }
+    ]
+  }
+}

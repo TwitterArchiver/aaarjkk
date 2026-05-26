@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017801625696604161"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2017801643186856096",
+    "created_at": "2026-02-01T03:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017801643186856096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSGic7uiRO",
+          "end": 51,
+          "expanded_url": "https://x.com/aaarjkk/status/2017801643186856096/photo/1",
+          "media_key": "3_2017801625696604161",
+          "start": 28,
+          "url": "https://t.co/fSGic7uiRO"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2004834293500244346",
+          "start": 52,
+          "url": "https://t.co/mqgo2JTdoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017801643186856096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004834293500244346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重新用上telegram🎉\n高级版是绝对不可能订阅的😁 https://t.co/fSGic7uiRO https://t.co/mqgo2JTdoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2017801625696604161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACr40baEAEfN1v.jpg",
+        "width": 720
+      },
+      {
+        "height": 525,
+        "media_key": "3_2004834287372435456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KaKYxbgAATXVS.jpg",
+        "width": 614
+      },
+      {
+        "height": 1556,
+        "media_key": "3_2004834290656550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KaKlAbIAAwHk6.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017801625696604161"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2017801643186856096",
+        "created_at": "2026-02-01T03:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017801643186856096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSGic7uiRO",
+              "end": 51,
+              "expanded_url": "https://x.com/aaarjkk/status/2017801643186856096/photo/1",
+              "media_key": "3_2017801625696604161",
+              "start": 28,
+              "url": "https://t.co/fSGic7uiRO"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2004834293500244346",
+              "start": 52,
+              "url": "https://t.co/mqgo2JTdoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017801643186856096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004834293500244346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重新用上telegram🎉\n高级版是绝对不可能订阅的😁 https://t.co/fSGic7uiRO https://t.co/mqgo2JTdoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004834287372435456",
+            "3_2004834290656550912"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2004834293500244346",
+        "created_at": "2025-12-27T08:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004834293500244346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "telegram"
+            },
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "telegram收费"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "sb"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "登录"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "短信验证收费"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYt982c0mv",
+              "end": 82,
+              "expanded_url": "https://x.com/aaarjkk/status/2004834293500244346/photo/1",
+              "media_key": "3_2004834287372435456",
+              "start": 59,
+              "url": "https://t.co/DYt982c0mv"
+            },
+            {
+              "display_url": "pic.x.com/DYt982c0mv",
+              "end": 82,
+              "expanded_url": "https://x.com/aaarjkk/status/2004834293500244346/photo/1",
+              "media_key": "3_2004834290656550912",
+              "start": 59,
+              "url": "https://t.co/DYt982c0mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004834293500244346",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？！！🤬🤬🤬🤬🤬🤬😡😡😡😡😡🖕🖕🖕！！！#telegram #telegram收费 #sb #登录 #短信验证收费 https://t.co/DYt982c0mv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 199,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 141
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

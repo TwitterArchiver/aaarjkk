@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2042898293064372506",
+    "created_at": "2026-04-17T10:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045089979588846061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028007139588116485",
+          "start": 0,
+          "username": "mllm53507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045089979588846061",
+    "in_reply_to_user_id": "2028007139588116485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042898293064372506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mllm53507 紫色烟雾弹好看喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9899,
+        "height": 1280,
+        "media_key": "7_2042898205344673792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042898205344673792/pu/img/UiEcxZGBKAme5trY.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042898205344673792/pu/vid/avc1/320x568/0-b67c9cVivnP4wX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042898205344673792/pu/vid/avc1/480x852/aK71F6T1_VVUFmIN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042898205344673792/pu/vid/avc1/720x1280/HmpNUCyevRk3ASFm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042898205344673792/pu/pl/mqlQApgaI8Mf65cq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2042898293064372506",
+        "created_at": "2026-04-17T10:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045089979588846061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028007139588116485",
+              "start": 0,
+              "username": "mllm53507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045089979588846061",
+        "in_reply_to_user_id": "2028007139588116485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042898293064372506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mllm53507 紫色烟雾弹好看喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042898205344673792"
+          ]
+        },
+        "author_id": "2028007139588116485",
+        "conversation_id": "2042898293064372506",
+        "created_at": "2026-04-11T09:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042898293064372506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTgkYr0bvt",
+              "end": 31,
+              "expanded_url": "https://x.com/mllm53507/status/2042898293064372506/video/1",
+              "media_key": "7_2042898205344673792",
+              "start": 8,
+              "url": "https://t.co/ZTgkYr0bvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042898293064372506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日照香炉生紫烟 https://t.co/ZTgkYr0bvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276772737560577/IzZIDMeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 566,
+          "like_count": 9517,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T07:19:29.000Z",
+        "description": "ZLZLZLZLZLZLZLZLZLZLZLZLZL\n72727272727272727272727272\nLJFLJFLJFLJFLJFLJFLJFLJFLJFLJF\nLYXLYXLYXLYXLYXLYXLYXLYXLYX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/eVEa9ubnB",
+                "end": 23,
+                "expanded_url": "https://discord.gg/eVEa9ubnB",
+                "start": 0,
+                "url": "https://t.co/iAdSXDSWNx"
+              }
+            ]
+          }
+        },
+        "id": "2028007139588116485",
+        "location": "ZL",
+        "name": "ZL✴︎",
+        "pinned_tweet_id": "2028094976241053769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798765645516801/ja9uOhz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/iAdSXDSWNx",
+        "username": "mllm53507",
+        "verified": false
+      }
+    ]
+  }
+}

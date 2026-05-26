@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051892666842173729",
+    "created_at": "2026-05-06T12:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051997515789312454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747064134490066944",
+          "start": 0,
+          "username": "JiaRanToday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051997515789312454",
+    "in_reply_to_user_id": "1747064134490066944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051952040956575909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaRanToday 嘿嘿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051892666842173729",
+        "created_at": "2026-05-06T12:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051997515789312454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747064134490066944",
+              "start": 0,
+              "username": "JiaRanToday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051997515789312454",
+        "in_reply_to_user_id": "1747064134490066944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051952040956575909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaRanToday 嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747064134490066944",
+        "conversation_id": "2051892666842173729",
+        "created_at": "2026-05-06T09:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051952040956575909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051952040956575909",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051892666842173729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 可以啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 700,
+          "like_count": 12481,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n\n┣ 👾 v2012s｜视觉系・挂壁 //初始化\n┣ 💊 v2018s｜MTF・抽象表达 \n┣ 🌃 v2024s｜Linux・AI・赛博朋克\n┗ 🤖💗 v4.0｜粉色可爱机器人 //上线版本\n\n𝙎𝙩𝙚𝙖𝙢 常驻\n🏳️‍⚧️ 表达永续\n✨ 神经持续编译中",
+        "id": "1747064134490066944",
+        "location": "成都/🚪加好友",
+        "name": "𝙿𝚒𝚗𝚔𝚁𝚘𝚋𝚘𝚝_v4.0.1.exe",
+        "pinned_tweet_id": "2049508588864024951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 508,
+          "like_count": 761,
+          "listed_count": 9,
+          "media_count": 95,
+          "tweet_count": 1041
+        },
+        "username": "JiaRanToday",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051893875065970688"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051893877641232416",
+    "created_at": "2026-05-06T05:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051893877641232416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7jrTGmI9z",
+          "end": 38,
+          "expanded_url": "https://x.com/aaarjkk/status/2051893877641232416/photo/1",
+          "media_key": "3_2051893875065970688",
+          "start": 15,
+          "url": "https://t.co/m7jrTGmI9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051893877641232416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不能用身份证验证身份可恶喵！ https://t.co/m7jrTGmI9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 181,
+        "media_key": "3_2051893875065970688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnKm6QbYAAR5A5.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051893875065970688"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051893877641232416",
+        "created_at": "2026-05-06T05:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051893877641232416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7jrTGmI9z",
+              "end": 38,
+              "expanded_url": "https://x.com/aaarjkk/status/2051893877641232416/photo/1",
+              "media_key": "3_2051893875065970688",
+              "start": 15,
+              "url": "https://t.co/m7jrTGmI9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051893877641232416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不能用身份证验证身份可恶喵！ https://t.co/m7jrTGmI9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 691,
+          "like_count": 12421,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2055592642185167282",
+    "created_at": "2026-05-16T22:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055781923801419917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055781923801419917",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055592642185167282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 也算是家长党"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055592632190148609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbum6SaoAEHxxo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2055592642185167282",
+        "created_at": "2026-05-16T22:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055781923801419917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055781923801419917",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055592642185167282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 也算是家长党"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055592632190148609"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055592642185167282",
+        "created_at": "2026-05-16T10:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055592642185167282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EVZQaptXF",
+              "end": 108,
+              "expanded_url": "https://x.com/gdioiui/status/2055592642185167282/photo/1",
+              "media_key": "3_2055592632190148609",
+              "start": 85,
+              "url": "https://t.co/4EVZQaptXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055592642185167282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8534,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 这是我爷爷 \n他刚刚说“你就像个大美女一样 要是变成女生你妈当时少废多少心 这样你妈还有个伴 喜欢长头发干脆让她去变性好了....”\n老同志最先觉悟？|ʘᗝʘ| https://t.co/4EVZQaptXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 728,
+          "like_count": 13425,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1819
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 441,
+          "like_count": 3807,
+          "listed_count": 3,
+          "media_count": 1236,
+          "tweet_count": 6675
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027173014450913280",
+        "3_2027173016057335808",
+        "3_2027173041504223232"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027173045094551835",
+    "created_at": "2026-02-27T00:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027173045094551835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n6MqWPmh2m",
+          "end": 32,
+          "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+          "media_key": "7_2027173014450913280",
+          "start": 9,
+          "url": "https://t.co/n6MqWPmh2m"
+        },
+        {
+          "display_url": "pic.x.com/n6MqWPmh2m",
+          "end": 32,
+          "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+          "media_key": "3_2027173016057335808",
+          "start": 9,
+          "url": "https://t.co/n6MqWPmh2m"
+        },
+        {
+          "display_url": "pic.x.com/n6MqWPmh2m",
+          "end": 32,
+          "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+          "media_key": "3_2027173041504223232",
+          "start": 9,
+          "url": "https://t.co/n6MqWPmh2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027173045094551835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我成null了？ https://t.co/n6MqWPmh2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12050,
+        "height": 1280,
+        "media_key": "7_2027173014450913280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027173014450913280/pu/img/6y5BMxVBBLu4j7KQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027173014450913280/pu/vid/avc1/320x706/q_Y5bQJY8sOtL2X-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027173014450913280/pu/vid/avc1/480x1058/d5xyhJzgshoRAvxX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027173014450913280/pu/vid/avc1/580x1280/mX4XmTwHhR-bTr-1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027173014450913280/pu/pl/pbbz5VeowhSxYDIe.m3u8?tag=12"
+          }
+        ],
+        "width": 580
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027173016057335808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCH3HiBa0AAaJa5.jpg",
+        "width": 931
+      },
+      {
+        "height": 675,
+        "media_key": "3_2027173041504223232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCH3JA0bgAA9_qo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027173014450913280",
+            "3_2027173016057335808",
+            "3_2027173041504223232"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027173045094551835",
+        "created_at": "2026-02-27T00:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027173045094551835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6MqWPmh2m",
+              "end": 32,
+              "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+              "media_key": "7_2027173014450913280",
+              "start": 9,
+              "url": "https://t.co/n6MqWPmh2m"
+            },
+            {
+              "display_url": "pic.x.com/n6MqWPmh2m",
+              "end": 32,
+              "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+              "media_key": "3_2027173016057335808",
+              "start": 9,
+              "url": "https://t.co/n6MqWPmh2m"
+            },
+            {
+              "display_url": "pic.x.com/n6MqWPmh2m",
+              "end": 32,
+              "expanded_url": "https://x.com/aaarjkk/status/2027173045094551835/video/1",
+              "media_key": "3_2027173041504223232",
+              "start": 9,
+              "url": "https://t.co/n6MqWPmh2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027173045094551835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我成null了？ https://t.co/n6MqWPmh2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 283,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 311
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

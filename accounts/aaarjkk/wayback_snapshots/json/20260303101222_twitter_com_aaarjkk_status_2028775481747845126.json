@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2028581109160698003",
+    "created_at": "2026-03-03T10:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028775481747845126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "AnranbuSleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028775481747845126",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028581109160698003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnranbuSleep 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2028581109160698003",
+        "created_at": "2026-03-03T10:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028775481747845126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "AnranbuSleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028775481747845126",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028581109160698003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnranbuSleep 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "2028581109160698003",
+        "created_at": "2026-03-02T21:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028581109160698003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028581109160698003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13126,
+          "like_count": 134,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "对不起44，当你看到这条推文时，我已经吃盐自杀，我故意激怒，我只是想让你厌恶我，我想把这件事对你的影响降到最小，直到最后一刻我都想说，我无意逼迫你。是我自己杀死的自己，我很爱你。胜过一切一切的一切。愿意为你与世界为敌。我爱这个世界，但是这个世界是虚假的，你的后半生值得更好的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 306,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 362
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "My Sunshine @mishamimihemumu My Luna @datadelete_4444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "datadelete_4444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCJyWJ"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "远去的天堂，再也不见",
+        "name": "Luna_安然🏳️‍⚧️",
+        "pinned_tweet_id": "1986019257440964920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021846465417818112/79NWA4eF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 80,
+          "like_count": 5396,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/A4ANhCJyWJ",
+        "username": "AnranbuSleep",
+        "verified": false
+      }
+    ]
+  }
+}

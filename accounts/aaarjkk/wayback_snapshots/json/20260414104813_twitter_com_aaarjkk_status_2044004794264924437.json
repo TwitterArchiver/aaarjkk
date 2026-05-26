@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2044003948621951208",
+    "created_at": "2026-04-14T10:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044004794264924437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1970282205051056128",
+          "start": 0,
+          "username": "ji0000zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044004794264924437",
+    "in_reply_to_user_id": "1970282205051056128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044003948621951208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji0000zi 我操可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7509,
+        "height": 1280,
+        "media_key": "7_2044003884461633539",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044003884461633539/pu/img/DdyCbRuyUmVuhr6t.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044003884461633539/pu/vid/avc1/320x568/lqQU7eE36AHLKMwp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044003884461633539/pu/vid/avc1/480x852/lIebgb64t0rVtQst.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044003884461633539/pu/vid/avc1/720x1280/TdM1FekwIg_CdpVq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044003884461633539/pu/pl/ott6ZDR-dexVT6dl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2044003948621951208",
+        "created_at": "2026-04-14T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044004794264924437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1970282205051056128",
+              "start": 0,
+              "username": "ji0000zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044004794264924437",
+        "in_reply_to_user_id": "1970282205051056128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044003948621951208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji0000zi 我操可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044003884461633539"
+          ]
+        },
+        "author_id": "1970282205051056128",
+        "conversation_id": "2044003948621951208",
+        "created_at": "2026-04-14T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044003948621951208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "sm"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1FS9hXI2H",
+              "end": 44,
+              "expanded_url": "https://x.com/ji0000zi/status/2044003948621951208/video/1",
+              "media_key": "7_2044003884461633539",
+              "start": 21,
+              "url": "https://t.co/o1FS9hXI2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044003948621951208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫不会咬人的🥺\n#男娘 #sm #4i https://t.co/o1FS9hXI2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 565,
+          "like_count": 9201,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T00:21:06.000Z",
+        "description": "她停留在温柔里，把最后的光与嘱托给我。我会好好活着🥺🥺\n喜欢可爱裙裙，抱抱玩偶🐱\n在芜湖\n谁来投喂小鱼干rua一把呀🥰\n日常更新ing(会减少更新涩涩了)，\n可以玩三角洲(手机) 无畏契约(pc)，\n随时会消失的流浪猫\n🚪52\n抖音同名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji00zi",
+                "end": 23,
+                "expanded_url": "https://t.me/ji00zi",
+                "start": 0,
+                "url": "https://t.co/wcXMwTzmwd"
+              }
+            ]
+          }
+        },
+        "id": "1970282205051056128",
+        "location": "6km",
+        "name": "好吃的小猫咪🍥(5代之碎碎念版本)",
+        "pinned_tweet_id": "2039817451802869978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037436059555106816/WiM29gPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 253,
+          "like_count": 617,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/wcXMwTzmwd",
+        "username": "ji0000zi",
+        "verified": false
+      }
+    ]
+  }
+}

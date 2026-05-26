@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2026932700670800380",
+    "created_at": "2026-02-26T23:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027165743851417973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Sennya0717"
+        },
+        {
+          "end": 29,
+          "id": "1752640236138684416",
+          "start": 13,
+          "username": "xiohunggu251015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027165743851417973",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027043585309499841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sennya0717 @xiohunggu251015 但这应该是c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T23:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027165743851417973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Sennya0717"
+            },
+            {
+              "end": 29,
+              "id": "1752640236138684416",
+              "start": 13,
+              "username": "xiohunggu251015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027165743851417973",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027043585309499841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sennya0717 @xiohunggu251015 但这应该是c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "2026932700670800380",
+        "created_at": "2026-02-26T15:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027043585309499841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752640236138684416",
+              "start": 0,
+              "username": "xiohunggu251015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027043585309499841",
+        "in_reply_to_user_id": "1752640236138684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026932700670800380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiohunggu251015 羡慕会写C++"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 283,
+          "like_count": 3254,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 310
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 持证含糖 2025.02.11\n║中度抑郁 /双相二型 / ADHD / BPD / 阿斯伯格 / CPTSD\n║家里蹲 / 音游人 / 渴望温暖 / 努力变得健全\n║网页是更详细的自介（施工中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/3kWAHiPTdR"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 1661,
+          "like_count": 8754,
+          "listed_count": 5,
+          "media_count": 293,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/3kWAHiPTdR",
+        "username": "_Sennya0717",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2026518405264834867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 850,
+          "like_count": 7675,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 1420
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

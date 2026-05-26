@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2038839535090704827",
+    "created_at": "2026-04-01T04:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039200512722264103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039200512722264103",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039156138437181891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 谢谢喵～\n互fo喵～🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2038839535090704827",
+        "created_at": "2026-04-01T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039200512722264103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039200512722264103",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039156138437181891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 谢谢喵～\n互fo喵～🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2038839535090704827",
+        "created_at": "2026-04-01T01:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039156138437181891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039156138437181891",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038839535090704827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 恭喜喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 478,
+          "like_count": 7266,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛いこいこい、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜想要交朋友｜喜欢xnn&xyn｜对朋友特别好｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最棒的女友@ansiyao520｜最最最可爱的妹妹@maxC47884317783",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "maxC47884317783"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 102,
+          "like_count": 2685,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

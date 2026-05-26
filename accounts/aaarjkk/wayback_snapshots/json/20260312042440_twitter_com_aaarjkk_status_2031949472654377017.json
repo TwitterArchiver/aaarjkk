@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2031588599666454554",
+    "created_at": "2026-03-12T04:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031949472654377017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896510089609297920",
+          "start": 0,
+          "username": "Cheeseduck111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031949472654377017",
+    "in_reply_to_user_id": "1896510089609297920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031723349928530150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeseduck111 贴贴w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2031588599666454554",
+        "created_at": "2026-03-12T04:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031949472654377017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896510089609297920",
+              "start": 0,
+              "username": "Cheeseduck111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031949472654377017",
+        "in_reply_to_user_id": "1896510089609297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031723349928530150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeseduck111 贴贴w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896510089609297920",
+        "conversation_id": "2031588599666454554",
+        "created_at": "2026-03-11T13:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031723349928530150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031723349928530150",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031588599666454554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk www还有我的事）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 366,
+          "like_count": 5177,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 469
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "三年又三年，全平台同id社交软件偶遇记得+我感谢\nmtx\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling",
+        "pinned_tweet_id": "2019800199095607595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 57,
+          "like_count": 5143,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 886
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

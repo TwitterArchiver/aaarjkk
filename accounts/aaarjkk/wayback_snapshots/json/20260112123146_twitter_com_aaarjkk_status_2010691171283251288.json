@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2010317560324202851",
+    "created_at": "2026-01-12T12:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010691171283251288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010691171283251288",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010317560324202851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 哈人😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010317544767606784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YVJ-Wb0AA-uTT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010317544759156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YVJ-Ua4AAjnEz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010317544767488000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YVJ-WaAAAJTj9.jpg",
+        "width": 945
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2010317544985681920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YVJ_KbYAAHezR.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2010317560324202851",
+        "created_at": "2026-01-12T12:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010691171283251288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010691171283251288",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010317560324202851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 哈人😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010317544767606784",
+            "3_2010317544759156736",
+            "3_2010317544767488000",
+            "3_2010317544985681920"
+          ]
+        },
+        "author_id": "1719571122642161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010317560324202851",
+        "created_at": "2026-01-11T11:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010317560324202851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tleC1N679V",
+              "end": 58,
+              "expanded_url": "https://x.com/AGeSang2008/status/2010317560324202851/photo/1",
+              "media_key": "3_2010317544767606784",
+              "start": 35,
+              "url": "https://t.co/tleC1N679V"
+            },
+            {
+              "display_url": "pic.x.com/tleC1N679V",
+              "end": 58,
+              "expanded_url": "https://x.com/AGeSang2008/status/2010317560324202851/photo/1",
+              "media_key": "3_2010317544759156736",
+              "start": 35,
+              "url": "https://t.co/tleC1N679V"
+            },
+            {
+              "display_url": "pic.x.com/tleC1N679V",
+              "end": 58,
+              "expanded_url": "https://x.com/AGeSang2008/status/2010317560324202851/photo/1",
+              "media_key": "3_2010317544767488000",
+              "start": 35,
+              "url": "https://t.co/tleC1N679V"
+            },
+            {
+              "display_url": "pic.x.com/tleC1N679V",
+              "end": 58,
+              "expanded_url": "https://x.com/AGeSang2008/status/2010317560324202851/photo/1",
+              "media_key": "3_2010317544985681920",
+              "start": 35,
+              "url": "https://t.co/tleC1N679V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010317560324202851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 22070,
+          "like_count": 163,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "n55笑传之打完警察以后吞药紫砂，这种不敢做敢当的人我真的一点看不起 https://t.co/tleC1N679V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009575169422241792/NdZXiV7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 167,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy_Zaychilk｜抱抱最可愛的妹妹 @suikahsnya｜可爱对象小猫@C_baba_66ccff｜靠谱药商 @YuxinS79403｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Anan628769"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Andy_Zaychilk"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "C_baba_66ccff"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "YuxinS79403"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVufD8k"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2002245637035995551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745026618953728/-KrRTPp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1218,
+          "like_count": 175,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 6335
+        },
+        "url": "https://t.co/VmDoVufD8k",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2044811396203032971",
+    "created_at": "2026-04-17T22:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045272384471703998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715972524130160640",
+          "start": 0,
+          "username": "kvy1496061"
+        },
+        {
+          "end": 24,
+          "id": "1708446662514110464",
+          "start": 12,
+          "username": "TixItem4527"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Телега — ваш обновлённый Telegram: стабильная связь, знакомый интерфейс, больше удобств.",
+          "display_url": "telega.me",
+          "end": 61,
+          "expanded_url": "https://telega.me/",
+          "start": 38,
+          "status": 200,
+          "title": "Telega | Главная",
+          "unwound_url": "https://telega.me/",
+          "url": "https://t.co/m80slmv84P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045272384471703998",
+    "in_reply_to_user_id": "1715972524130160640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045204417260240984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kvy1496061 @TixItem4527 Googleplay搜索或https://t.co/m80slmv84P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T22:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045272384471703998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715972524130160640",
+              "start": 0,
+              "username": "kvy1496061"
+            },
+            {
+              "end": 24,
+              "id": "1708446662514110464",
+              "start": 12,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Телега — ваш обновлённый Telegram: стабильная связь, знакомый интерфейс, больше удобств.",
+              "display_url": "telega.me",
+              "end": 61,
+              "expanded_url": "https://telega.me/",
+              "start": 38,
+              "status": 200,
+              "title": "Telega | Главная",
+              "unwound_url": "https://telega.me/",
+              "url": "https://t.co/m80slmv84P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045272384471703998",
+        "in_reply_to_user_id": "1715972524130160640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045204417260240984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kvy1496061 @TixItem4527 Googleplay搜索或https://t.co/m80slmv84P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715972524130160640",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T18:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045204417260240984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 21,
+              "id": "1708446662514110464",
+              "start": 9,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045204417260240984",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045121022039634350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk @TixItem4527 有链接吗我都搜不到😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 567,
+          "like_count": 9570,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T06:05:11.000Z",
+        "description": "",
+        "id": "1715972524130160640",
+        "name": "kvy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993629211937095680/1xx3rwb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 79,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "kvy1496061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 403,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

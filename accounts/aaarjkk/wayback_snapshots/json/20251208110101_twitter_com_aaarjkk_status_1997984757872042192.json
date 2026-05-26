@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1997976743043620899",
+    "created_at": "2025-12-08T11:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997984757872042192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997984757872042192",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997976743043620899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 看着自己好不容易留长的头发被剪短真的超级难受，上上次我甚至在理发店哭了😢😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997976729441406976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7o9P-vaEAAyROK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1997976743043620899",
+        "created_at": "2025-12-08T11:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997984757872042192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997984757872042192",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997976743043620899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 看着自己好不容易留长的头发被剪短真的超级难受，上上次我甚至在理发店哭了😢😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997976729441406976"
+          ]
+        },
+        "author_id": "1263115394144821248",
+        "conversation_id": "1997976743043620899",
+        "created_at": "2025-12-08T10:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997976743043620899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRuQsunl57",
+              "end": 83,
+              "expanded_url": "https://x.com/sr101425448/status/1997976743043620899/photo/1",
+              "media_key": "3_1997976729441406976",
+              "start": 60,
+              "url": "https://t.co/kRuQsunl57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997976743043620899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上次理发还是10月底的时候，当时被我父母强制批判的去剪，非常难受了，这些年每次剪头发对我来说都是折磨，折磨，还是折磨 https://t.co/kRuQsunl57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 83,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 江西南昌 | 家长党 | hrt 25.08.31 | 小证25.11.28 | 断糖保留生育能力中 | 同类请找我互fo（忘记fo了请私信我）| 重度抑郁治疗中 | 崩铁、Minecraft | （偶尔有负能量）不定期更新日常",
+        "id": "1263115394144821248",
+        "name": "鸢栀🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 88,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 162
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

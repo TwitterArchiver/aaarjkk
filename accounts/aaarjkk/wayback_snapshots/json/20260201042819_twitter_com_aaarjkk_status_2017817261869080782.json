@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2017804213951316117",
+    "created_at": "2026-02-01T04:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T05:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017817261869080782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928504693585842176",
+          "start": 0,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017817261869080782",
+    "in_reply_to_user_id": "1928504693585842176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017816073526272497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siangel0911 要私信聊吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2017804213951316117",
+        "created_at": "2026-02-01T04:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017817261869080782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928504693585842176",
+              "start": 0,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017817261869080782",
+        "in_reply_to_user_id": "1928504693585842176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017816073526272497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siangel0911 要私信聊吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928504693585842176",
+        "conversation_id": "2017804213951316117",
+        "created_at": "2026-02-01T04:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017816073526272497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017816073526272497",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017804213951316117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 客户端是怎么打开的喵w(ﾟДﾟ)w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 206,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 144
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "07/160/90，精神状态极其不稳定的福瑞猫猫小药娘，自我伤害方面的疯子喵喵，想要被好心人包养，然后成为一只被尽情玩坏和宠爱的猫猫🥵",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥",
+        "pinned_tweet_id": "2017266429926813875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013798037030871040/t79i5NM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 123,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 345
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

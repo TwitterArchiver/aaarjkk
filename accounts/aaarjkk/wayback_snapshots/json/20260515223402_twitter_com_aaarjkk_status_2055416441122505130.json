@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2055301944839999926",
+    "created_at": "2026-05-15T22:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055416441122505130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568787555100794880",
+          "start": 0,
+          "username": "syxi07665541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055416441122505130",
+    "in_reply_to_user_id": "1568787555100794880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055301944839999926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syxi07665541 😨抱抱妳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055301936291975168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXmOLrbEAAGlMc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2055301944839999926",
+        "created_at": "2026-05-15T22:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055416441122505130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568787555100794880",
+              "start": 0,
+              "username": "syxi07665541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055416441122505130",
+        "in_reply_to_user_id": "1568787555100794880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055301944839999926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syxi07665541 😨抱抱妳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055301936291975168"
+          ]
+        },
+        "author_id": "1568787555100794880",
+        "conversation_id": "2055301944839999926",
+        "created_at": "2026-05-15T14:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055301944839999926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFz4eOgmqY",
+              "end": 54,
+              "expanded_url": "https://x.com/syxi07665541/status/2055301944839999926/photo/1",
+              "media_key": "3_2055301936291975168",
+              "start": 31,
+              "url": "https://t.co/sFz4eOgmqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055301944839999926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过 我就打球而已，为什么会炸成这个样子？\n⚠️可能引起不适 https://t.co/sFz4eOgmqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 718,
+          "like_count": 13259,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T02:32:06.000Z",
+        "description": "生产日期2008.03.26 | 180 / 56 / 体脂率8.9%| INTP | mtf 自然抗雄中 | 性冷淡状态 | 微社恐 | CD | 留长发中 | 白羊 | 高三备考ing | 上海土著 | 无证持糖\n\n我永远喜欢爱莉希雅♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dev.TrustedInstaller64.io",
+                "end": 23,
+                "expanded_url": "http://dev.TrustedInstaller64.io",
+                "start": 0,
+                "url": "https://t.co/ZBIh7YVHki"
+              }
+            ]
+          }
+        },
+        "id": "1568787555100794880",
+        "location": "上海",
+        "name": "PhiLia093",
+        "pinned_tweet_id": "2046609331517546497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045532066826338304/MR5MBuXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 186,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/ZBIh7YVHki",
+        "username": "syxi07665541",
+        "verified": false
+      }
+    ]
+  }
+}

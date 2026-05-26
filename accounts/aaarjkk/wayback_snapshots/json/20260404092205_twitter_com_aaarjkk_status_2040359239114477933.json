@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2040270387314143582",
+    "created_at": "2026-04-04T09:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040359239114477933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040359239114477933",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040270387314143582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 恭喜，这涨粉速度也太太太太太太快了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2040270387314143582",
+        "created_at": "2026-04-04T09:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040359239114477933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040359239114477933",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040270387314143582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 恭喜，这涨粉速度也太太太太太太快了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2040270387314143582",
+        "created_at": "2026-04-04T03:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040270387314143582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040270387314143582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇～我竟然真的过300了欸！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小⃢号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解⃢除ghostBan开⃢心版)aaa1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 487,
+          "like_count": 7461,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是不是啥子？\n不线下哦～",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送赛博炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 118,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 696
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

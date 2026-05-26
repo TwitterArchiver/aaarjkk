@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057429063376195621",
+    "created_at": "2026-05-22T13:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057812028467864029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057812028467864029",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057429063376195621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 是對的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057429063376195621",
+        "created_at": "2026-05-22T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057812028467864029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057812028467864029",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057429063376195621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 是對的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2057429063376195621",
+        "created_at": "2026-05-21T11:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057429063376195621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057429063376195621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13274,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "回去当南梁了，跨圈太乱了，不适合我，抗雄现在也停了，每天就1mg补了，普瑞大概吃完就彻底结束了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 733,
+          "like_count": 13964,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1922
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的小南梁，双相/ADHD，  战雷空战大手子   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2054139256382394384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 270,
+          "like_count": 394,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 526
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

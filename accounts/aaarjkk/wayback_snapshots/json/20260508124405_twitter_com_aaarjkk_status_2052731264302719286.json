@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052708618374701056"
+      ],
+      "media_source_tweet_id": [
+        "2052708621654614056"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2052731264302719286",
+    "created_at": "2026-05-08T12:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052731264302719286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IKRLQTZvAw",
+          "end": 44,
+          "expanded_url": "https://x.com/kxk1388574/status/2052708621654614056/photo/1",
+          "media_key": "3_2052708618374701056",
+          "start": 21,
+          "url": "https://t.co/IKRLQTZvAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052731264302719286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052708621654614056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 过节了😋 https://t.co/IKRLQTZvAw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2052708618374701056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyvnNmbYAAbzka.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052708618374701056"
+          ],
+          "media_source_tweet_id": [
+            "2052708621654614056"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2052731264302719286",
+        "created_at": "2026-05-08T12:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052731264302719286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKRLQTZvAw",
+              "end": 44,
+              "expanded_url": "https://x.com/kxk1388574/status/2052708621654614056/photo/1",
+              "media_key": "3_2052708618374701056",
+              "start": 21,
+              "url": "https://t.co/IKRLQTZvAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052731264302719286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052708621654614056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 过节了😋 https://t.co/IKRLQTZvAw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052708618374701056"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2052708621654614056",
+        "created_at": "2026-05-08T11:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052708621654614056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKRLQTZvAw",
+              "end": 28,
+              "expanded_url": "https://x.com/kxk1388574/status/2052708621654614056/photo/1",
+              "media_key": "3_2052708618374701056",
+              "start": 5,
+              "url": "https://t.co/IKRLQTZvAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052708621654614056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "过节了😋 https://t.co/IKRLQTZvAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 705,
+          "like_count": 12667,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9486,
+          "following_count": 5797,
+          "like_count": 52307,
+          "listed_count": 14,
+          "media_count": 927,
+          "tweet_count": 7385
+        },
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

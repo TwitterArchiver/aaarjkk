@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042729177812733952"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2042476768729469402",
+    "created_at": "2026-04-10T22:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042729180941684900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935418292635607041",
+          "start": 0,
+          "username": "sink_macau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20400…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/2040022318421098672",
+          "start": 12,
+          "url": "https://t.co/fNJ9DetavW"
+        },
+        {
+          "display_url": "pic.x.com/w4fu1vBHJU",
+          "end": 66,
+          "expanded_url": "https://x.com/aaarjkk/status/2042729180941684900/photo/1",
+          "media_key": "3_2042729177812733952",
+          "start": 43,
+          "url": "https://t.co/w4fu1vBHJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042729180941684900",
+    "in_reply_to_user_id": "1935418292635607041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040022318421098672",
+        "type": "quoted"
+      },
+      {
+        "id": "2042579202054963268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sink_macau https://t.co/fNJ9DetavW\n\n早就抄了啊 https://t.co/w4fu1vBHJU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2042729177812733952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFk7XUfakAA2lcO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2184,
+        "media_key": "3_2040022315451441152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-dfMZaYAAk404.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042729177812733952"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2042476768729469402",
+        "created_at": "2026-04-10T22:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042729180941684900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935418292635607041",
+              "start": 0,
+              "username": "sink_macau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20400…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/2040022318421098672",
+              "start": 12,
+              "url": "https://t.co/fNJ9DetavW"
+            },
+            {
+              "display_url": "pic.x.com/w4fu1vBHJU",
+              "end": 66,
+              "expanded_url": "https://x.com/aaarjkk/status/2042729180941684900/photo/1",
+              "media_key": "3_2042729177812733952",
+              "start": 43,
+              "url": "https://t.co/w4fu1vBHJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042729180941684900",
+        "in_reply_to_user_id": "1935418292635607041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040022318421098672",
+            "type": "quoted"
+          },
+          {
+            "id": "2042579202054963268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sink_macau https://t.co/fNJ9DetavW\n\n早就抄了啊 https://t.co/w4fu1vBHJU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040022315451441152"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2040022318421098672",
+        "created_at": "2026-04-03T11:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040022318421098672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvMzJkvwZz",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2040022318421098672/photo/1",
+              "media_key": "3_2040022315451441152",
+              "start": 5,
+              "url": "https://t.co/BvMzJkvwZz"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2039569254673174638",
+              "start": 29,
+              "url": "https://t.co/5zSJZBbxJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040022318421098672",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039569254673174638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xixi https://t.co/BvMzJkvwZz https://t.co/5zSJZBbxJc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935418292635607041",
+        "conversation_id": "2042476768729469402",
+        "created_at": "2026-04-10T12:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042579202054963268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042579202054963268",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042576083288232366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 你把其他粉都抄光了，放置我在這裡飢渴難耐嗎？🥵媽媽我想要被抄🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 511,
+          "like_count": 8180,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:24:35.000Z",
+        "description": "佢／佢｜陸沉澳門委員會官方發言人｜藥娘｜兩微克補佳樂日服患者｜此地註定陸沉無須拯救｜每天在賭場籌集手術費｜最終解決方案FS忠誠執行者｜性冷淡但色色｜🍥🏳️‍⚧️🌲",
+        "id": "1935418292635607041",
+        "location": "沙田",
+        "name": "陸沉澳門委員會 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031116919630114816/PGECkoVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 27,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 194
+        },
+        "username": "sink_macau",
+        "verified": false
+      }
+    ]
+  }
+}

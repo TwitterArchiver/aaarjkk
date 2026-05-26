@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057038397340787136",
+    "created_at": "2026-05-20T10:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057045764858314810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "XldMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057045764858314810",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057038397340787136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldMtX 好美ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2057038381721264128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwRgm_XIAAbUD1.jpg",
+        "width": 1859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057038397340787136",
+        "created_at": "2026-05-20T10:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057045764858314810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057045764858314810",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057038397340787136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldMtX 好美ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057038381721264128"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "2057038397340787136",
+        "created_at": "2026-05-20T09:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057038397340787136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPFzsIkoQI",
+              "end": 29,
+              "expanded_url": "https://x.com/XldMtX/status/2057038397340787136/photo/1",
+              "media_key": "3_2057038381721264128",
+              "start": 6,
+              "url": "https://t.co/wPFzsIkoQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038397340787136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艾伦耶格尔 https://t.co/wPFzsIkoQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 734,
+          "like_count": 13755,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1877
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "ㄨㄛˇ ㄑㄩˉ ㄊㄧˇ ㄏㄨㄚˋ ㄌ\n\nㄒㄧㄤˇ ㄔㄥˊ ㄨㄟˊ Apex ㄍㄠㄕㄡ\n\n@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 1047,
+          "like_count": 55387,
+          "listed_count": 12,
+          "media_count": 3582,
+          "tweet_count": 30208
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

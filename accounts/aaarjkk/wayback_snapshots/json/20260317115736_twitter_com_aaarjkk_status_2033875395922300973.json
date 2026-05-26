@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2033875393938325505"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2033875395922300973",
+    "created_at": "2026-03-17T11:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033875395922300973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033875395922300973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要不要@ 被抄下来的粉丝"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-18T11:57:36.000Z",
+        "id": "2033875393938325505",
+        "options": [
+          {
+            "label": "要",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不要",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2033875393938325505"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2033875395922300973",
+        "created_at": "2026-03-17T11:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033875395922300973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033875395922300973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要不要@ 被抄下来的粉丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 423,
+          "like_count": 6013,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 548
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

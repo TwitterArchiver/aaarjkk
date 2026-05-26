@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2013463232586096710",
+    "created_at": "2026-01-20T04:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013463232586096710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2013461450568700411",
+          "start": 62,
+          "url": "https://t.co/e2xhODE36p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013463232586096710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013461450568700411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，为什么啊，跟家长说好的回家整改一天怎么变成半天了？我的同学说他要回家整4天连着周末，上个学期他也是整改了一周多啊啊啊 https://t.co/e2xhODE36p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_2013461445250330625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FAhEUXMAE1Rv6.jpg",
+        "width": 1420
+      },
+      {
+        "height": 953,
+        "media_key": "3_2013461442121330688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FAg4qWcAA2CuU.jpg",
+        "width": 1677
+      },
+      {
+        "height": 825,
+        "media_key": "3_2013460542090833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E_sfyW8AAfdJ0.jpg",
+        "width": 1998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2013463232586096710",
+        "created_at": "2026-01-20T04:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013463232586096710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2013461450568700411",
+              "start": 62,
+              "url": "https://t.co/e2xhODE36p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013463232586096710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013461450568700411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，为什么啊，跟家长说好的回家整改一天怎么变成半天了？我的同学说他要回家整4天连着周末，上个学期他也是整改了一周多啊啊啊 https://t.co/e2xhODE36p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013461445250330625",
+            "3_2013461442121330688",
+            "3_2013460542090833920"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2013461450568700411",
+        "created_at": "2026-01-20T03:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013461450568700411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mwwlYG2IS",
+              "end": 86,
+              "expanded_url": "https://x.com/aaarjkk/status/2013461450568700411/photo/1",
+              "media_key": "3_2013461445250330625",
+              "start": 63,
+              "url": "https://t.co/2mwwlYG2IS"
+            },
+            {
+              "display_url": "pic.x.com/2mwwlYG2IS",
+              "end": 86,
+              "expanded_url": "https://x.com/aaarjkk/status/2013461450568700411/photo/1",
+              "media_key": "3_2013461442121330688",
+              "start": 63,
+              "url": "https://t.co/2mwwlYG2IS"
+            },
+            {
+              "display_url": "pic.x.com/2mwwlYG2IS",
+              "end": 86,
+              "expanded_url": "https://x.com/aaarjkk/status/2013461450568700411/photo/1",
+              "media_key": "3_2013460542090833920",
+              "start": 63,
+              "url": "https://t.co/2mwwlYG2IS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013461450568700411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "留了近5个月的头发还是要被剪了😭😭😭😭😭\n在2026年1月19日上午仪容仪表检查中不合格，下午级长复查不合格，现已被遣返回家 https://t.co/2mwwlYG2IS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009575169422241792/NdZXiV7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 187,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 132
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

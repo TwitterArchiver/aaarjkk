@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2034390582949482911",
+    "created_at": "2026-03-19T10:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034583208172675136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927011675393179648",
+          "start": 0,
+          "username": "JAXeUVGAOh55074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034583208172675136",
+    "in_reply_to_user_id": "1927011675393179648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034390582949482911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JAXeUVGAOh55074 给你加2个小铃铛喵🔔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2034390582949482911",
+        "created_at": "2026-03-19T10:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034583208172675136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927011675393179648",
+              "start": 0,
+              "username": "JAXeUVGAOh55074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034583208172675136",
+        "in_reply_to_user_id": "1927011675393179648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034390582949482911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JAXeUVGAOh55074 给你加2个小铃铛喵🔔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927011675393179648",
+        "conversation_id": "2034390582949482911",
+        "created_at": "2026-03-18T22:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T23:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034390582949482911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2034215277244952718",
+              "start": 10,
+              "url": "https://t.co/bmlXP32w3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034390582949482911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034215277244952718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要小铃铛😢😢 https://t.co/bmlXP32w3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║😉希望咱们都能开开心心的\n║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)\n║✍️写字缓慢\n║⏳𝟸𝟼年中考\n║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝\n║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "pinned_tweet_id": "2034143052022051284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 435,
+          "like_count": 6320,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 589
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T14:39:34.000Z",
+        "description": "一个华人 爱打游戏 政治EGNP 生日4.15 纯恋爱脑 我翻墙上网 10粉写粉丝名 20粉写粉丝名 40粉写粉丝名 以此类推 拉黑=4000+加（我已破防）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/LEpkxjQ9e8",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/LEpkxjQ9e8",
+                "start": 0,
+                "url": "https://t.co/d91rOs5OK4"
+              }
+            ]
+          }
+        },
+        "id": "1927011675393179648",
+        "location": "東京 渋谷区",
+        "name": "秋云（互fo回关上限了）",
+        "pinned_tweet_id": "2033568139334799432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033942627381612552/uuZVKy0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 14,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/d91rOs5OK4",
+        "username": "JAXeUVGAOh55074",
+        "verified": false
+      }
+    ]
+  }
+}

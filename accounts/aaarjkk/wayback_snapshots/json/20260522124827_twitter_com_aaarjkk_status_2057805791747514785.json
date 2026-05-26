@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057805791747514785",
+    "created_at": "2026-05-22T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057805791747514785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667798970700283904",
+          "start": 3,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057805791747514785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057439914699198805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sokei_ko_nya: 我本来注册推特是分享音游的，怎么现在变成跨性别了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057805791747514785",
+        "created_at": "2026-05-22T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057805791747514785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667798970700283904",
+              "start": 3,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057805791747514785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057439914699198805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sokei_ko_nya: 我本来注册推特是分享音游的，怎么现在变成跨性别了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667798970700283904",
+        "conversation_id": "2057439914699198805",
+        "created_at": "2026-05-21T12:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057439914699198805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057439914699198805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1799,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我本来注册推特是分享音游的，怎么现在变成跨性别了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 733,
+          "like_count": 13914,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1912
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(小证: 26.4.1, hrt: 26.2.25-3.2,已炸柜)/（不建政/No Politics）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "2052177071829573664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1277,
+          "like_count": 71916,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3179
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

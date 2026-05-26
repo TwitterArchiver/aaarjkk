@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042460866449457152"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042456591539323324",
+    "created_at": "2026-04-10T04:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042460869196726285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661260055914876928",
+          "start": 0,
+          "username": "Kiss_light233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JughU4ji5W",
+          "end": 48,
+          "expanded_url": "https://x.com/aaarjkk/status/2042460869196726285/photo/1",
+          "media_key": "3_2042460866449457152",
+          "start": 25,
+          "url": "https://t.co/JughU4ji5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042460869196726285",
+    "in_reply_to_user_id": "1661260055914876928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042456591539323324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_light233 面条(っ＾▿＾)🍜 https://t.co/JughU4ji5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042460866449457152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhHVixbQAAYzF9.jpg",
+        "width": 1152
+      },
+      {
+        "height": 409,
+        "media_key": "3_2042456589291175936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhDclHbQAAFM_y.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042460866449457152"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042456591539323324",
+        "created_at": "2026-04-10T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042460869196726285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661260055914876928",
+              "start": 0,
+              "username": "Kiss_light233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JughU4ji5W",
+              "end": 48,
+              "expanded_url": "https://x.com/aaarjkk/status/2042460869196726285/photo/1",
+              "media_key": "3_2042460866449457152",
+              "start": 25,
+              "url": "https://t.co/JughU4ji5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042460869196726285",
+        "in_reply_to_user_id": "1661260055914876928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042456591539323324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_light233 面条(っ＾▿＾)🍜 https://t.co/JughU4ji5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042456589291175936"
+          ]
+        },
+        "author_id": "1661260055914876928",
+        "conversation_id": "2042456591539323324",
+        "created_at": "2026-04-10T04:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042456591539323324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWucl6YlnC",
+              "end": 62,
+              "expanded_url": "https://x.com/Kiss_light233/status/2042456591539323324/photo/1",
+              "media_key": "3_2042456589291175936",
+              "start": 39,
+              "url": "https://t.co/kWucl6YlnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456591539323324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻~哥哥姐姐中午好呀~！！\n唔嘿嘿...大家中午都吃什么呀~ ₍ᐢ.ˬ.ᐢ₎ https://t.co/kWucl6YlnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 504,
+          "like_count": 8034,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\nLight会出现在充满痛苦需要帮助的人身边呐\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n (◍＞◡＜◍)\n—如果需要树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightcafe.top",
+                "end": 23,
+                "expanded_url": "http://www.lightcafe.top/",
+                "start": 0,
+                "url": "https://t.co/YKVh6WxP4P"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "𝑳𝒊𝒈𝒉𝒕☀️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 373,
+          "like_count": 5894,
+          "listed_count": 7,
+          "media_count": 648,
+          "tweet_count": 6673
+        },
+        "url": "https://t.co/YKVh6WxP4P",
+        "username": "Kiss_light233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020764926877515776",
+        "3_2020764926848155648",
+        "3_2020764928320450560",
+        "3_2020764929960370176"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2020419602166297052",
+    "created_at": "2026-02-09T07:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020764935119323260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700547797026476032",
+          "start": 0,
+          "username": "haitao_li24917"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bucket.rutno.com/d?sid=gDrphIix…",
+          "end": 44,
+          "expanded_url": "https://bucket.rutno.com/d?sid=gDrphIixgS4VVgq4G9KLgdOvrayy",
+          "start": 21,
+          "status": 200,
+          "unwound_url": "https://bucket.rutno.com/d?sid=gDrphIixgS4VVgq4G9KLgdOvrayy",
+          "url": "https://t.co/0E4epZRzvX"
+        },
+        {
+          "display_url": "bucket.rutno.com/d?sid=6zetQfZm…",
+          "end": 68,
+          "expanded_url": "https://bucket.rutno.com/d?sid=6zetQfZm5BfaGKcnZQP7srxEJYn2",
+          "start": 45,
+          "status": 200,
+          "unwound_url": "https://bucket.rutno.com/d?sid=6zetQfZm5BfaGKcnZQP7srxEJYn2",
+          "url": "https://t.co/wotrSttyIX"
+        },
+        {
+          "display_url": "bucket.rutno.com/d?sid=s12s8Q1U…",
+          "end": 92,
+          "expanded_url": "https://bucket.rutno.com/d?sid=s12s8Q1UDsJsk0f8hItSHohxxfit",
+          "start": 69,
+          "status": 200,
+          "unwound_url": "https://bucket.rutno.com/d?sid=s12s8Q1UDsJsk0f8hItSHohxxfit",
+          "url": "https://t.co/YeoLsjeI1S"
+        },
+        {
+          "display_url": "pic.x.com/kY9JcLJRQn",
+          "end": 116,
+          "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+          "media_key": "3_2020764926877515776",
+          "start": 93,
+          "url": "https://t.co/kY9JcLJRQn"
+        },
+        {
+          "display_url": "pic.x.com/kY9JcLJRQn",
+          "end": 116,
+          "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+          "media_key": "3_2020764926848155648",
+          "start": 93,
+          "url": "https://t.co/kY9JcLJRQn"
+        },
+        {
+          "display_url": "pic.x.com/kY9JcLJRQn",
+          "end": 116,
+          "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+          "media_key": "3_2020764928320450560",
+          "start": 93,
+          "url": "https://t.co/kY9JcLJRQn"
+        },
+        {
+          "display_url": "pic.x.com/kY9JcLJRQn",
+          "end": 116,
+          "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+          "media_key": "3_2020764929960370176",
+          "start": 93,
+          "url": "https://t.co/kY9JcLJRQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020764935119323260",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020762557724885291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitao_li24917 其他版本\nhttps://t.co/0E4epZRzvX\nhttps://t.co/wotrSttyIX\nhttps://t.co/YeoLsjeI1S https://t.co/kY9JcLJRQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2020764926877515776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsy_pkaQAArG-K.jpg",
+        "width": 720
+      },
+      {
+        "height": 536,
+        "media_key": "3_2020764926848155648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsy_pdaQAAN95D.jpg",
+        "width": 536
+      },
+      {
+        "height": 536,
+        "media_key": "3_2020764928320450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsy_u8bsAAmHBi.jpg",
+        "width": 536
+      },
+      {
+        "height": 536,
+        "media_key": "3_2020764929960370176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsy_1Da4AAi_oq.jpg",
+        "width": 536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2020762554432442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsw1jhbUAAiIb7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020764926877515776",
+            "3_2020764926848155648",
+            "3_2020764928320450560",
+            "3_2020764929960370176"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2020419602166297052",
+        "created_at": "2026-02-09T07:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020764935119323260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bucket.rutno.com/d?sid=gDrphIix…",
+              "end": 44,
+              "expanded_url": "https://bucket.rutno.com/d?sid=gDrphIixgS4VVgq4G9KLgdOvrayy",
+              "start": 21,
+              "status": 200,
+              "unwound_url": "https://bucket.rutno.com/d?sid=gDrphIixgS4VVgq4G9KLgdOvrayy",
+              "url": "https://t.co/0E4epZRzvX"
+            },
+            {
+              "display_url": "bucket.rutno.com/d?sid=6zetQfZm…",
+              "end": 68,
+              "expanded_url": "https://bucket.rutno.com/d?sid=6zetQfZm5BfaGKcnZQP7srxEJYn2",
+              "start": 45,
+              "status": 200,
+              "unwound_url": "https://bucket.rutno.com/d?sid=6zetQfZm5BfaGKcnZQP7srxEJYn2",
+              "url": "https://t.co/wotrSttyIX"
+            },
+            {
+              "display_url": "bucket.rutno.com/d?sid=s12s8Q1U…",
+              "end": 92,
+              "expanded_url": "https://bucket.rutno.com/d?sid=s12s8Q1UDsJsk0f8hItSHohxxfit",
+              "start": 69,
+              "status": 200,
+              "unwound_url": "https://bucket.rutno.com/d?sid=s12s8Q1UDsJsk0f8hItSHohxxfit",
+              "url": "https://t.co/YeoLsjeI1S"
+            },
+            {
+              "display_url": "pic.x.com/kY9JcLJRQn",
+              "end": 116,
+              "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+              "media_key": "3_2020764926877515776",
+              "start": 93,
+              "url": "https://t.co/kY9JcLJRQn"
+            },
+            {
+              "display_url": "pic.x.com/kY9JcLJRQn",
+              "end": 116,
+              "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+              "media_key": "3_2020764926848155648",
+              "start": 93,
+              "url": "https://t.co/kY9JcLJRQn"
+            },
+            {
+              "display_url": "pic.x.com/kY9JcLJRQn",
+              "end": 116,
+              "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+              "media_key": "3_2020764928320450560",
+              "start": 93,
+              "url": "https://t.co/kY9JcLJRQn"
+            },
+            {
+              "display_url": "pic.x.com/kY9JcLJRQn",
+              "end": 116,
+              "expanded_url": "https://x.com/aaarjkk/status/2020764935119323260/photo/1",
+              "media_key": "3_2020764929960370176",
+              "start": 93,
+              "url": "https://t.co/kY9JcLJRQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020764935119323260",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020762557724885291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 其他版本\nhttps://t.co/0E4epZRzvX\nhttps://t.co/wotrSttyIX\nhttps://t.co/YeoLsjeI1S https://t.co/kY9JcLJRQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020762554432442368"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2020419602166297052",
+        "created_at": "2026-02-09T07:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020762557724885291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bucket.rutno.com/d?sid=p2sAkdnz…",
+              "end": 69,
+              "expanded_url": "https://bucket.rutno.com/d?sid=p2sAkdnznMSKSWnlANkr9gYqY6DO",
+              "start": 46,
+              "status": 200,
+              "unwound_url": "https://bucket.rutno.com/d?sid=p2sAkdnznMSKSWnlANkr9gYqY6DO",
+              "url": "https://t.co/nJLH9pjMCt"
+            },
+            {
+              "display_url": "pic.x.com/rRKOhplhS1",
+              "end": 93,
+              "expanded_url": "https://x.com/aaarjkk/status/2020762557724885291/photo/1",
+              "media_key": "3_2020762554432442368",
+              "start": 70,
+              "url": "https://t.co/rRKOhplhS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020762557724885291",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020419602166297052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 神秘Twitter会把 透明的 图片压缩成一坨发光的💩，下载https://t.co/nJLH9pjMCt https://t.co/rRKOhplhS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 212,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 169
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "今天您又报错了吗？",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "鲜虾鱼版面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 224,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 977
+        },
+        "username": "haitao_li24917",
+        "verified": false
+      }
+    ]
+  }
+}

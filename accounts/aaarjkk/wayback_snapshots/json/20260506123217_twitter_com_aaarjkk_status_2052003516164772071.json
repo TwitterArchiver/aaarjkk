@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051967268268208194",
+    "created_at": "2026-05-06T12:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052003516164772071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        },
+        {
+          "end": 23,
+          "id": "2049292877814173696",
+          "start": 12,
+          "username": "Shuliaosui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052003516164772071",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051988765254774973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC @Shuliaosui 呜呜别啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051967268268208194",
+        "created_at": "2026-05-06T12:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052003516164772071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            },
+            {
+              "end": 23,
+              "id": "2049292877814173696",
+              "start": 12,
+              "username": "Shuliaosui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052003516164772071",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051988765254774973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC @Shuliaosui 呜呜别啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2051967268268208194",
+        "created_at": "2026-05-06T11:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051988765254774973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049292877814173696",
+              "start": 0,
+              "username": "Shuliaosui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051988765254774973",
+        "in_reply_to_user_id": "2049292877814173696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980454132318367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosui 紫砂喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 701,
+          "like_count": 12506,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的，MTX/F？pr80重度依赖,家长不管党，双相/ADHD,   战雷空战大手子，不见证喵   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🍥",
+        "pinned_tweet_id": "2047927303884440031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 223,
+          "like_count": 350,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 434
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "/24年牢药娘/接陪伴任务/爱自己/信奉阿德勒学派/16岁/护理专业/Q:3755457720/Q群:285607409/匿名提问:https://t.co/P7wEVYG2Sn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 89,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 66,
+                "url": "https://t.co/P7wEVYG2Sn"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 560,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 165
+        },
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

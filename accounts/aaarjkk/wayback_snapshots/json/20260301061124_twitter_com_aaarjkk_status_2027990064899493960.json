@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2027990064899493960",
+    "created_at": "2026-03-01T06:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027990064899493960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/siuuuuneo/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/siuuuuneo/status/2027989144434360456",
+          "start": 22,
+          "url": "https://t.co/VVkX5Orrh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027990064899493960",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027989144434360456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 我不是人类，你觉得我是什么物种 https://t.co/VVkX5Orrh1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2027990064899493960",
+        "created_at": "2026-03-01T06:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027990064899493960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/siuuuuneo/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/siuuuuneo/status/2027989144434360456",
+              "start": 22,
+              "url": "https://t.co/VVkX5Orrh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027990064899493960",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027989144434360456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 我不是人类，你觉得我是什么物种 https://t.co/VVkX5Orrh1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "2027989144434360456",
+        "created_at": "2026-03-01T06:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027989144434360456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/GLgl9685/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/GLgl9685/status/2027937216438444193",
+              "start": 22,
+              "url": "https://t.co/91poSFc8g9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027989144434360456",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027937216438444193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 我不是人类，你觉得我是什么物种 https://t.co/91poSFc8g9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.0,
+                  23.0
+                ],
+                "type": "Point"
+              },
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "🏳️‍🌈🏳️‍⚧️\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "𝙶𝚞𝚊𝚗𝚐𝚍𝚘𝚗𝚐",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 299,
+          "like_count": 3636,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 341
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8157684,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6245,
+          "media_count": 8508035,
+          "tweet_count": 110280992
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "饿了可以吃小黄鱼w）一辈子的@6mhzph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "6mhzph"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002637813850963968/jt2chCNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 1278,
+          "like_count": 10160,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

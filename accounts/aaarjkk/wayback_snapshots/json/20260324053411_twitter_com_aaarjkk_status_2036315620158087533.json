@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2036315620158087533",
+    "created_at": "2026-03-24T05:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036315620158087533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a0bRJKk/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/a0bRJKk/status/2036061628639461857",
+          "start": 23,
+          "url": "https://t.co/7yYrYqSYnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036315620158087533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036061628639461857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管了😡我要发推，我要用大号！！！！！！😡😡 https://t.co/7yYrYqSYnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036061606212497409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGLPksbcAEkvkw.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2036315620158087533",
+        "created_at": "2026-03-24T05:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036315620158087533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a0bRJKk/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/a0bRJKk/status/2036061628639461857",
+              "start": 23,
+              "url": "https://t.co/7yYrYqSYnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036315620158087533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036061628639461857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管了😡我要发推，我要用大号！！！！！！😡😡 https://t.co/7yYrYqSYnW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036061606212497409"
+          ]
+        },
+        "author_id": "2002632641573761025",
+        "conversation_id": "2036061628639461857",
+        "created_at": "2026-03-23T12:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036061628639461857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq4W6H3jMv",
+              "end": 74,
+              "expanded_url": "https://x.com/a0bRJKk/status/2036061628639461857/photo/1",
+              "media_key": "3_2036061606212497409",
+              "start": 51,
+              "url": "https://t.co/Uq4W6H3jMv"
+            },
+            {
+              "display_url": "x.com/a0bRJKk/status…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/a0bRJKk/status/2036056680426062052",
+              "start": 75,
+              "url": "https://t.co/uO1NbqJjws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036061628639461857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036056680426062052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈操你妈草泥马草泥马纯牛奶草莓吗吃那么🤬🤬🤬🤬🤬🤬马斯克死全家Twitter死全家🤬🤬🤬🤬😡😡😡 https://t.co/Uq4W6H3jMv https://t.co/uO1NbqJjws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被ghostBan版)",
+        "pinned_tweet_id": "2035308277953867832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035672900309770241/-WswxzW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 446,
+          "like_count": 6782,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T06:51:00.000Z",
+        "description": "大号：@aaarjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "aaarjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/aaarjkk?s=20",
+                "end": 23,
+                "expanded_url": "https://x.com/aaarjkk?s=20",
+                "start": 0,
+                "url": "https://t.co/0IqaOlQd0S"
+              }
+            ]
+          }
+        },
+        "id": "2002632641573761025",
+        "location": "🧐",
+        "name": "𝓡𝓙𝓚𝓴（大号被GhostBan版）",
+        "pinned_tweet_id": "2036056680426062052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002967966288388096/mJoInWn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/0IqaOlQd0S",
+        "username": "a0bRJKk",
+        "verified": false
+      }
+    ]
+  }
+}

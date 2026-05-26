@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012206528020054016"
+      ],
+      "media_source_tweet_id": [
+        "2012206533942321507"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2012787906067202469",
+    "created_at": "2026-01-18T07:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012787906067202469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcnfakRNrp",
+          "end": 49,
+          "expanded_url": "https://x.com/kxk1388574/status/2012206533942321507/photo/1",
+          "media_key": "3_2012206528020054016",
+          "start": 26,
+          "url": "https://t.co/rcnfakRNrp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012787906067202469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 818
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012206533942321507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 男人再穷也要变女人 https://t.co/rcnfakRNrp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2012206528020054016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zLLRVbgAA_FHP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012206528020054016"
+          ],
+          "media_source_tweet_id": [
+            "2012206533942321507"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2012787906067202469",
+        "created_at": "2026-01-18T07:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012787906067202469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcnfakRNrp",
+              "end": 49,
+              "expanded_url": "https://x.com/kxk1388574/status/2012206533942321507/photo/1",
+              "media_key": "3_2012206528020054016",
+              "start": 26,
+              "url": "https://t.co/rcnfakRNrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012787906067202469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 818
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012206533942321507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 男人再穷也要变女人 https://t.co/rcnfakRNrp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012206528020054016"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2012206533942321507",
+        "created_at": "2026-01-16T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012206533942321507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcnfakRNrp",
+              "end": 33,
+              "expanded_url": "https://x.com/kxk1388574/status/2012206533942321507/photo/1",
+              "media_key": "3_2012206528020054016",
+              "start": 10,
+              "url": "https://t.co/rcnfakRNrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012206533942321507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2443,
+          "impression_count": 303926,
+          "like_count": 9448,
+          "quote_count": 105,
+          "reply_count": 55,
+          "retweet_count": 818
+        },
+        "reply_settings": "everyone",
+        "text": "男人再穷也要变女人 https://t.co/rcnfakRNrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009575169422241792/NdZXiV7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 187,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 131
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（不是色推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9015,
+          "following_count": 5744,
+          "like_count": 50630,
+          "listed_count": 11,
+          "media_count": 821,
+          "tweet_count": 6892
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

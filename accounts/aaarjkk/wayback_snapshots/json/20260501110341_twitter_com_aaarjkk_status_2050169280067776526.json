@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050169275630206977"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2047852825917764020",
+    "created_at": "2026-05-01T11:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050169280067776526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "QY404XYN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Igq0kmxLVu",
+          "end": 35,
+          "expanded_url": "https://x.com/aaarjkk/status/2050169280067776526/photo/1",
+          "media_key": "3_2050169275630206977",
+          "start": 12,
+          "url": "https://t.co/Igq0kmxLVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050169280067776526",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047852825917764020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY404XYN 🤔 https://t.co/Igq0kmxLVu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050169280067776526].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050169280067776526",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050169280067776526"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2050169275630206977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOqGAtbwAE0wr3.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047852823090724864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtvSuiagAAJe8b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047852823090724864"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "conversation_id": "2047852825917764020",
+        "created_at": "2026-04-25T01:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047852825917764020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAlKKJj9Gf",
+              "end": 37,
+              "expanded_url": "https://x.com/QY404XYN/status/2047852825917764020/photo/1",
+              "media_key": "3_2047852823090724864",
+              "start": 14,
+              "url": "https://t.co/QAlKKJj9Gf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047852825917764020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1691,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日第一发，金叶好像鼻涕啊 https://t.co/QAlKKJj9Gf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🩵🩷🤍🩷🩵▯活在幻想中▯😉希望咱们都能开开心心▯成绩倒数☄▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 645,
+          "like_count": 11607,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜正在戒od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "千夜404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050068466435276800/VMKZ-aCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 211,
+          "like_count": 181,
+          "listed_count": 5,
+          "media_count": 62,
+          "tweet_count": 366
+        },
+        "username": "QY404XYN",
+        "verified": true
+      }
+    ]
+  }
+}

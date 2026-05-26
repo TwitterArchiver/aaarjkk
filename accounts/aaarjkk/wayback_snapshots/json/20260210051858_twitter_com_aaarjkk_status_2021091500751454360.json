@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021091497651863553"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2021091500751454360",
+    "created_at": "2026-02-10T05:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021091500751454360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uBBaSs6cqw",
+          "end": 76,
+          "expanded_url": "https://x.com/aaarjkk/status/2021091500751454360/photo/1",
+          "media_key": "3_2021091497651863553",
+          "start": 53,
+          "url": "https://t.co/uBBaSs6cqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021091500751454360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚我的账号获取不到帖子，刷新退出重进也不行，然后账号自动退出了，刚刚重新登录，吓死我了，以为账号被封了 https://t.co/uBBaSs6cqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2021091497651863553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxcAkgaAAE3W5p.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021091497651863553"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2021091500751454360",
+        "created_at": "2026-02-10T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021091500751454360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBBaSs6cqw",
+              "end": 76,
+              "expanded_url": "https://x.com/aaarjkk/status/2021091500751454360/photo/1",
+              "media_key": "3_2021091497651863553",
+              "start": 53,
+              "url": "https://t.co/uBBaSs6cqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021091500751454360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚我的账号获取不到帖子，刷新退出重进也不行，然后账号自动退出了，刚刚重新登录，吓死我了，以为账号被封了 https://t.co/uBBaSs6cqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 220,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 181
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

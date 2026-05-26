@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2029457405554376998",
+    "created_at": "2026-03-06T05:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029795973212557785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029795973212557785",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029457405554376998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN 这是好事🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2029457405554376998",
+        "created_at": "2026-03-06T05:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029795973212557785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029795973212557785",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029457405554376998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN 这是好事🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2029457405554376998",
+        "created_at": "2026-03-05T07:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029457405554376998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029457405554376998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16648,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们完了啊，我鹿不出来了，od和雌二醇太害人了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024997041680908289/rD6kIK3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 328,
+          "like_count": 4236,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 401
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜od｜精神不稳定｜翻车的反跨顺直男｜中推见证区｜预计4.30二次切蛋｜5倍凝胶有需要的加动态群（暂时不卖）",
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2029548025971184122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029748418244227072/OONTciR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 125,
+          "like_count": 118,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 185
+        },
+        "username": "N2OXYN",
+        "verified": true
+      }
+    ]
+  }
+}

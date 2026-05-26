@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1998309090989322292",
+    "created_at": "2025-12-09T11:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998348382088167651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "344165300",
+          "start": 0,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998348382088167651",
+    "in_reply_to_user_id": "344165300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998309090989322292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senchannya 我长度10㎝  直径4㎝  算那种🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998309084748197888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7trhmvaMAALNeW.jpg",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1998309090989322292",
+        "created_at": "2025-12-09T11:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998348382088167651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "344165300",
+              "start": 0,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998348382088167651",
+        "in_reply_to_user_id": "344165300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998309090989322292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senchannya 我长度10㎝  直径4㎝  算那种🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998309084748197888"
+          ]
+        },
+        "author_id": "344165300",
+        "conversation_id": "1998309090989322292",
+        "created_at": "2025-12-09T08:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998309090989322292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmzPsKVoFk",
+              "end": 64,
+              "expanded_url": "https://x.com/senchannya/status/1998309090989322292/photo/1",
+              "media_key": "3_1998309084748197888",
+              "start": 41,
+              "url": "https://t.co/dmzPsKVoFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998309090989322292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么好多小南梁的牛子都是上面这种形状，又长又精瘦，我的却是下面的形状，又肥又鼓 https://t.co/dmzPsKVoFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "║入睡困难\n║极度社恐\n║社交缺失\n║不会说话\n║🐧2▓▓▓▓▓▓78\n║171cm\n║50kg\n║生产日期：20101014\n║保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "https://t.co/yGbV7dZCWd\n话说没有人给我匿名消息吗",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sen49029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sen49029",
+                "start": 0,
+                "url": "https://t.co/yGbV7dZCWd"
+              }
+            ]
+          }
+        },
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986602034980921346/1ztrZ5E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 209,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 273
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

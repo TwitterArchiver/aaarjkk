@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2007722216528679243",
+    "created_at": "2026-01-06T12:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008520486595293657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008520486595293657",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007722216528679243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze 羡慕药娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2007722216528679243",
+        "created_at": "2026-01-06T12:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008520486595293657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008520486595293657",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007722216528679243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 羡慕药娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2007722216528679243",
+        "created_at": "2026-01-04T07:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007722216528679243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_sennya0717/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/_sennya0717/status/2007665248254472625",
+              "start": 21,
+              "url": "https://t.co/p0BCXxDiIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007722216528679243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7278,
+          "like_count": 83,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007665248254472625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还没吃药刷推羡慕药娘，吃了药刷推羡慕术娘 https://t.co/p0BCXxDiIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vidu7C"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005866541502586881/Ug1YRQjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 146,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/tFs9Vidu7C",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 2169,
+          "like_count": 79696,
+          "listed_count": 2,
+          "media_count": 583,
+          "tweet_count": 9129
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

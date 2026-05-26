@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2018499136241516709",
+    "created_at": "2026-02-06T02:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T03:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019605159253537171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928504693585842176",
+          "start": 0,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019605159253537171",
+    "in_reply_to_user_id": "1928504693585842176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018499136241516709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siangel0911 内圈贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018499124426100737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMmQlra0AEnG1p.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2018499136241516709",
+        "created_at": "2026-02-06T02:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019605159253537171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928504693585842176",
+              "start": 0,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019605159253537171",
+        "in_reply_to_user_id": "1928504693585842176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018499136241516709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siangel0911 内圈贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018499124426100737"
+          ]
+        },
+        "author_id": "1928504693585842176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018499136241516709",
+        "created_at": "2026-02-03T01:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018499136241516709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/HINQrljgWc"
+            },
+            {
+              "display_url": "pic.x.com/RJJqLyMchZ",
+              "end": 64,
+              "expanded_url": "https://x.com/siangel0911/status/2018499136241516709/photo/1",
+              "media_key": "3_2018499124426100737",
+              "start": 41,
+              "url": "https://t.co/RJJqLyMchZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018499136241516709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/HINQrljgWc https://t.co/RJJqLyMchZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║✌希望咱们每天都能开开心心的🥳\n║小号☞@a0brjkk\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘 ❤️\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║生产日期：𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "𝗮𝟬𝗯𝗥𝗝𝗞𝖐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451513216700419/eFFhx5JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 207,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 150
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "07/160/90，精神状态极其不稳定的福瑞猫猫小药娘，自我伤害方面的疯子喵喵，想要被好心人包养，然后成为一只被尽情玩坏和宠爱的猫猫🥵",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥",
+        "pinned_tweet_id": "2017266429926813875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013798037030871040/t79i5NM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 152,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 439
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

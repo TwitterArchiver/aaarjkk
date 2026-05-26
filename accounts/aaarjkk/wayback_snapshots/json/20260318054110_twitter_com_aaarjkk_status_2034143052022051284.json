@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2034143052022051284",
+    "created_at": "2026-03-18T05:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034143052022051284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2033855062469140692",
+          "start": 19,
+          "url": "https://t.co/nvyk7a8hzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034143052022051284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033855062469140692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于要上学，所以抄粉丝的效率不会很高 https://t.co/nvyk7a8hzt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2034143052022051284",
+        "created_at": "2026-03-18T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034143052022051284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2033855062469140692",
+              "start": 19,
+              "url": "https://t.co/nvyk7a8hzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034143052022051284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033855062469140692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于要上学，所以抄粉丝的效率不会很高 https://t.co/nvyk7a8hzt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2033855062469140692",
+        "created_at": "2026-03-17T10:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033855062469140692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033855062469140692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 816,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么都抄粉丝名字\n我也要抄粉丝名字！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️\n║活在幻想中\n║希望咱们都能开开心心的\n║选择性互𝑭𝒐𝒍𝒍𝒐𝒘\n║🐧Ⅱ〇ⅢⅣⅤⅦⅣⅦⅦⅧ\n║𝟷𝟽𝟷𝚌𝚖\n║𝟻𝟶𝚔𝚐\n║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "id": "1955980103688790017",
+        "location": "活在幻想中",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032754524469997570/Y0pHxK37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 426,
+          "like_count": 6078,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 557
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

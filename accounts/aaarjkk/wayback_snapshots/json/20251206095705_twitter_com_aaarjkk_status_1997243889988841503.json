@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997243882267103232"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1997243889988841503",
+    "created_at": "2025-12-06T09:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997243889988841503"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "Twitter",
+          "probability": 0.9803,
+          "start": 3,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth",
+          "end": 55,
+          "expanded_url": "https://infinitetweet.me/account-worth",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1994883972699230213/_2D2HYn1?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994883972699230213/_2D2HYn1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth",
+          "url": "https://t.co/fxzWGMcr7y"
+        },
+        {
+          "display_url": "pic.x.com/u93WN6EclF",
+          "end": 79,
+          "expanded_url": "https://x.com/aaarjkk/status/1997243889988841503/photo/1",
+          "media_key": "3_1997243882267103232",
+          "start": 56,
+          "url": "https://t.co/u93WN6EclF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997243889988841503",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "My Twitter worth is: $14.40\n\n➡️ https://t.co/fxzWGMcr7y https://t.co/u93WN6EclF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1997243882267103232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eiuqRaUAAgTtF.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997243882267103232"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1997243889988841503",
+        "created_at": "2025-12-06T09:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997243889988841503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Twitter",
+              "probability": 0.9803,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth",
+              "end": 55,
+              "expanded_url": "https://infinitetweet.me/account-worth",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1994883972699230213/_2D2HYn1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994883972699230213/_2D2HYn1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth",
+              "url": "https://t.co/fxzWGMcr7y"
+            },
+            {
+              "display_url": "pic.x.com/u93WN6EclF",
+              "end": 79,
+              "expanded_url": "https://x.com/aaarjkk/status/1997243889988841503/photo/1",
+              "media_key": "3_1997243882267103232",
+              "start": 56,
+              "url": "https://t.co/u93WN6EclF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997243889988841503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter worth is: $14.40\n\n➡️ https://t.co/fxzWGMcr7y https://t.co/u93WN6EclF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n171cm 50kg\n生产日期：20101014\n保质期：360个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "GuangDong",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

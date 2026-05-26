@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053368552779132928"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051511372756967736",
+    "created_at": "2026-05-10T06:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053368555836702960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805567007322259460",
+          "start": 0,
+          "username": "HOTxFISH"
+        },
+        {
+          "end": 26,
+          "id": "2027685614620184578",
+          "start": 10,
+          "username": "Georgevia374299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9cKxN97Y0w",
+          "end": 68,
+          "expanded_url": "https://x.com/aaarjkk/status/2053368555836702960/photo/1",
+          "media_key": "3_2053368552779132928",
+          "start": 45,
+          "url": "https://t.co/9cKxN97Y0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053368555836702960",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053366811698278549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOTxFISH @Georgevia374299 我注册了一个新账号，我现在也遇到了 https://t.co/9cKxN97Y0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053368552779132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8H0c1bsAAYhkW.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053368552779132928"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-10T06:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053368555836702960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805567007322259460",
+              "start": 0,
+              "username": "HOTxFISH"
+            },
+            {
+              "end": 26,
+              "id": "2027685614620184578",
+              "start": 10,
+              "username": "Georgevia374299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cKxN97Y0w",
+              "end": 68,
+              "expanded_url": "https://x.com/aaarjkk/status/2053368555836702960/photo/1",
+              "media_key": "3_2053368552779132928",
+              "start": 45,
+              "url": "https://t.co/9cKxN97Y0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053368555836702960",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053366811698278549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOTxFISH @Georgevia374299 我注册了一个新账号，我现在也遇到了 https://t.co/9cKxN97Y0w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051511372756967736",
+        "created_at": "2026-05-10T06:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053366811698278549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805567007322259460",
+              "start": 0,
+              "username": "HOTxFISH"
+            },
+            {
+              "end": 26,
+              "id": "2027685614620184578",
+              "start": 10,
+              "username": "Georgevia374299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053366811698278549",
+        "in_reply_to_user_id": "1805567007322259460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053366439927758948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOTxFISH @Georgevia374299 似乎要绑定域名（不确定），我自己注册没这个问题，我再注册一个cf账号试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 704,
+          "like_count": 12714,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:41:44.000Z",
+        "description": "",
+        "id": "1805567007322259460",
+        "location": "魔仙堡",
+        "name": "ICE FISH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994073132148088832/b-jOpKcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "HOTxFISH",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T10:02:03.000Z",
+        "description": "I'm Georgevia.",
+        "id": "2027685614620184578",
+        "name": "Georgevia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037498442688438272/6hTzA1jZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "Georgevia374299",
+        "verified": false
+      }
+    ]
+  }
+}

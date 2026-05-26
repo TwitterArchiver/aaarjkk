@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055252179452383232"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2054926909600039123",
+    "created_at": "2026-05-15T11:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055252182895931727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r5NBqxZk2p",
+          "end": 42,
+          "expanded_url": "https://x.com/aaarjkk/status/2055252182895931727/photo/1",
+          "media_key": "3_2055252179452383232",
+          "start": 19,
+          "url": "https://t.co/r5NBqxZk2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055252182895931727",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054926909600039123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime emmmm https://t.co/r5NBqxZk2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2055252179452383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW499AbUAAuC5q.jpg",
+        "width": 2448
+      },
+      {
+        "height": 947,
+        "media_key": "3_2054926822169821184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISRDqrawAAxrAs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055252179452383232"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2054926909600039123",
+        "created_at": "2026-05-15T11:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055252182895931727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5NBqxZk2p",
+              "end": 42,
+              "expanded_url": "https://x.com/aaarjkk/status/2055252182895931727/photo/1",
+              "media_key": "3_2055252179452383232",
+              "start": 19,
+              "url": "https://t.co/r5NBqxZk2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055252182895931727",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054926909600039123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime emmmm https://t.co/r5NBqxZk2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054926822169821184"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2054926909600039123",
+        "created_at": "2026-05-14T14:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054926909600039123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEyRejUBWM",
+              "end": 32,
+              "expanded_url": "https://x.com/realNyarime/status/2054926909600039123/photo/1",
+              "media_key": "3_2054926822169821184",
+              "start": 9,
+              "url": "https://t.co/EEyRejUBWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054926909600039123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5456,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也很想扎马尾😭 https://t.co/EEyRejUBWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 713,
+          "like_count": 13151,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32976,
+          "following_count": 616,
+          "like_count": 14130,
+          "listed_count": 149,
+          "media_count": 1773,
+          "tweet_count": 11551
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

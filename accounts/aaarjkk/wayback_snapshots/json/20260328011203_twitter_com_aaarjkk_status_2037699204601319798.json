@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037699201728188417"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2037699204601319798",
+    "created_at": "2026-03-28T01:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037699204601319798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ac09ZHnDSa",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2037699204601319798/photo/1",
+          "media_key": "3_2037699201728188417",
+          "start": 22,
+          "url": "https://t.co/Ac09ZHnDSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037699204601319798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好耶😋不过还有小红旗喵🚩\n慢慢恢复发推喵😸 https://t.co/Ac09ZHnDSa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037699201728188417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdcoLYbEAE3Tw_.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037699201728188417"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2037699204601319798",
+        "created_at": "2026-03-28T01:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037699204601319798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ac09ZHnDSa",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2037699204601319798/photo/1",
+              "media_key": "3_2037699201728188417",
+              "start": 22,
+              "url": "https://t.co/Ac09ZHnDSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037699204601319798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶😋不过还有小红旗喵🚩\n慢慢恢复发推喵😸 https://t.co/Ac09ZHnDSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被ghostBan版)",
+        "pinned_tweet_id": "2035308277953867832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037677546356293632/tCDDUB5z_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 456,
+          "like_count": 6937,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

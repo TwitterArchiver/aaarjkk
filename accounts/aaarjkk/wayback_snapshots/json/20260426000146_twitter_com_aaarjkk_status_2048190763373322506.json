@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048190760781336576"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048190202406130117",
+    "created_at": "2026-04-26T00:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048190763373322506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "《新闻联播》 20260425 19:00",
+          "display_url": "tv.cctv.com/2026/04/25/VID…",
+          "end": 23,
+          "expanded_url": "https://tv.cctv.com/2026/04/25/VIDEobVvXFcLB9zCbUbqGm04260425.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.3",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2048052393749958656/DTLRKgLT?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2048052393749958656/DTLRKgLT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "《新闻联播》 20260425 19:00",
+          "unwound_url": "https://tv.cctv.com/2026/04/25/VIDEobVvXFcLB9zCbUbqGm04260425.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.3",
+          "url": "https://t.co/QAfue1SWAM"
+        },
+        {
+          "display_url": "pic.x.com/ROj7nNAzSp",
+          "end": 54,
+          "expanded_url": "https://x.com/aaarjkk/status/2048190763373322506/photo/1",
+          "media_key": "3_2048190760781336576",
+          "start": 31,
+          "url": "https://t.co/ROj7nNAzSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048190763373322506",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048190202406130117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/QAfue1SWAM\n18分53秒 https://t.co/ROj7nNAzSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2048190760781336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyipSib0AAohjP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2048190199612821505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyiIoBb0AEBC3g.jpg",
+        "width": 2132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048190760781336576"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048190202406130117",
+        "created_at": "2026-04-26T00:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048190763373322506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "《新闻联播》 20260425 19:00",
+              "display_url": "tv.cctv.com/2026/04/25/VID…",
+              "end": 23,
+              "expanded_url": "https://tv.cctv.com/2026/04/25/VIDEobVvXFcLB9zCbUbqGm04260425.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.3",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2048052393749958656/DTLRKgLT?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048052393749958656/DTLRKgLT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "《新闻联播》 20260425 19:00",
+              "unwound_url": "https://tv.cctv.com/2026/04/25/VIDEobVvXFcLB9zCbUbqGm04260425.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.3",
+              "url": "https://t.co/QAfue1SWAM"
+            },
+            {
+              "display_url": "pic.x.com/ROj7nNAzSp",
+              "end": 54,
+              "expanded_url": "https://x.com/aaarjkk/status/2048190763373322506/photo/1",
+              "media_key": "3_2048190760781336576",
+              "start": 31,
+              "url": "https://t.co/ROj7nNAzSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048190763373322506",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048190202406130117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QAfue1SWAM\n18分53秒 https://t.co/ROj7nNAzSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048190199612821505"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048190202406130117",
+        "created_at": "2026-04-25T23:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048190202406130117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4QA5UqrKg",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2048190202406130117/photo/1",
+              "media_key": "3_2048190199612821505",
+              "start": 8,
+              "url": "https://t.co/i4QA5UqrKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048190202406130117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然是真的😲！ https://t.co/i4QA5UqrKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝓨𝓣𝓷𝔂𝓪📀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048182524212604928/zI-UVlVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 606,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

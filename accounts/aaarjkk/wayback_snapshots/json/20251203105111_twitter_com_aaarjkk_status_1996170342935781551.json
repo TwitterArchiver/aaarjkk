@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "1996153916594221449",
+    "created_at": "2025-12-03T10:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996170342935781551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996170342935781551",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996153916594221449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 我看X感觉精神状态变好了，可能是因为X几乎是我的绝大部分的社交了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "1996153916594221449",
+        "created_at": "2025-12-03T10:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996170342935781551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996170342935781551",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996153916594221449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 我看X感觉精神状态变好了，可能是因为X几乎是我的绝大部分的社交了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "1996153916594221449",
+        "created_at": "2025-12-03T09:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996153916594221449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996153916594221449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱看X太多精神状态会变差…所以把软件删掉了，偶尔会上线看看大家喵。这段时间咱会把od和割手手戒掉，减肥，每天给妈妈做好吃的，学习美术和日语。咱回来的时候想成为一个优秀的mtf呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "╔════╦════╗\n║入睡困难║极度社恐║\n╠════╬════╣\n║社交缺失║不会说话║\n╠════╩════╣\n║🐧2▓▓▓▓▓▓78║\n╚═════════╝\n规格：171cm\n净含量：50kg\n生产日期：20101014\n保质期：360个月\n储存条件：请置于阴凉干燥温暖舒适安全有食物处\n产地：广东",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk1",
+                "start": 0,
+                "url": "https://t.co/tFs9Vie1Xa"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "a0bRJKk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994662809192591360/ghc08Yg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 41,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/tFs9Vie1Xa",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "无证含糖丨已出柜丨并非家长党丨infp丨hrt 2025.9.25丨vrchat 一氧化二氢233丨币圈的离我远点",
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993496394305617921/xXG2_kwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 138,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 511
+        },
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

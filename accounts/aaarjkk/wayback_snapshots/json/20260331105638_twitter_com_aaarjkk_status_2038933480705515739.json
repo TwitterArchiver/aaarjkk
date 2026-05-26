@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2038839535090704827",
+    "created_at": "2026-03-31T10:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038933480705515739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1678880726614196225",
+          "start": 0,
+          "username": "RokuLixo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038933480705515739",
+    "in_reply_to_user_id": "1678880726614196225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038866093377249756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuLixo 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2038839535090704827",
+        "created_at": "2026-03-31T10:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038933480705515739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1678880726614196225",
+              "start": 0,
+              "username": "RokuLixo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038933480705515739",
+        "in_reply_to_user_id": "1678880726614196225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038866093377249756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuLixo 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678880726614196225",
+        "conversation_id": "2038839535090704827",
+        "created_at": "2026-03-31T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038866093377249756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038866093377249756",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038839535090704827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 478,
+          "like_count": 7235,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T21:36:13.000Z",
+        "description": "⛧ madoka magica, green day & nirvana fan 🎀 🌿 🎸 | transfem demigirl 🏳️‍🌈🏳️‍⚧️ | anarcho-communist Ⓐ☭ | she/her | #ACAB ⛤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "ACAB"
+              }
+            ]
+          }
+        },
+        "id": "1678880726614196225",
+        "location": "🇧🇷",
+        "name": "六・Sophie 🏳️‍⚧️ 🍉",
+        "pinned_tweet_id": "2017840219458879875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026159407478767616/rVabONJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8829,
+          "following_count": 9125,
+          "like_count": 188102,
+          "listed_count": 28,
+          "media_count": 3322,
+          "tweet_count": 35791
+        },
+        "username": "RokuLixo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041106389561704448"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2040771163987877978",
+    "created_at": "2026-04-06T10:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041106392707428601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "8964lovelyshui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbDJYuQjlR",
+          "end": 44,
+          "expanded_url": "https://x.com/aaarjkk/status/2041106392707428601/photo/1",
+          "media_key": "3_2041106389561704448",
+          "start": 21,
+          "url": "https://t.co/JbDJYuQjlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041106392707428601",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040771163987877978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964lovelyshui 细节图2 https://t.co/JbDJYuQjlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041106389561704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN3cnKbAAABJ2u.jpg",
+        "width": 931
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2040771128646676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJGh27bsAAd7lj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041106389561704448"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2040771163987877978",
+        "created_at": "2026-04-06T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041106392707428601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "8964lovelyshui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbDJYuQjlR",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2041106392707428601/photo/1",
+              "media_key": "3_2041106389561704448",
+              "start": 21,
+              "url": "https://t.co/JbDJYuQjlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041106392707428601",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040771163987877978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964lovelyshui 细节图2 https://t.co/JbDJYuQjlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040771128646676480"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2040771163987877978",
+        "created_at": "2026-04-05T12:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040771163987877978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jJFjVW25T",
+              "end": 28,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2040771163987877978/photo/1",
+              "media_key": "3_2040771128646676480",
+              "start": 5,
+              "url": "https://t.co/7jJFjVW25T"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2018285829081440359",
+              "start": 29,
+              "url": "https://t.co/Alg0xyQWwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040771163987877978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2459,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018285829081440359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次起飞 https://t.co/7jJFjVW25T https://t.co/Alg0xyQWwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 494,
+          "like_count": 7821,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4857,
+          "following_count": 1026,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3107,
+          "tweet_count": 13810
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "8964lovelyshui",
+        "verified": true
+      }
+    ]
+  }
+}

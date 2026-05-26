@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2049394780686475294",
+    "created_at": "2026-04-29T11:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049448332637143309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049448332637143309",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049394780686475294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 我短时间进群太快被踢了怎么办😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2049394780686475294",
+        "created_at": "2026-04-29T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049448332637143309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049448332637143309",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049394780686475294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 我短时间进群太快被踢了怎么办😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3016619443",
+        "conversation_id": "2049394780686475294",
+        "created_at": "2026-04-29T07:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049394780686475294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这里是我的 X 粉丝聚集地！最近在 X 上发了不少 VPS 搭建的“作业”，建立这个群是为了方便大家“抄作业”遇到困难时互相交流。 无论你是刚拥有第一台 VPS 的萌新，还是拥有十年驾龄的老司机，都欢迎在这里分享你的折腾经验。 我的 VPS： DMIT：https://www.dmit.io/aff.php?aff=16962（进阶）",
+              "display_url": "t.me/JasonVPS",
+              "end": 81,
+              "expanded_url": "https://t.me/JasonVPS",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2049394823380295681/NT8LIOJL?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049394823380295681/NT8LIOJL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "Jason - VPS 交流互助交流",
+              "unwound_url": "https://t.me/JasonVPS",
+              "url": "https://t.co/q7oFHRtwyk"
+            },
+            {
+              "description": "免责声明： 群内所有“互助”行为均为群友个人行为。群务组不为任何私下交易背书。资金无小事，请大家擦亮双眼，谨防假冒客服。 我正在用的eSIM工具卡：https://xesim.cc/?DIST=RkZHFVs%3D （粉丝折扣码：jason ） 我的魔法上网工具：https://my.racknerd.com/aff.php?aff=16843",
+              "display_url": "t.me/Jason_WiseX",
+              "end": 113,
+              "expanded_url": "https://t.me/Jason_WiseX",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2049394831030665217/QBj3KUrx?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049394831030665217/QBj3KUrx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "Jason海外收款互助交流群",
+              "unwound_url": "https://t.me/Jason_WiseX",
+              "url": "https://t.co/bCtYPOQiuD"
+            },
+            {
+              "description": "讨论「境外手机号长期低成本保号」的交流群。 聚焦海外实体卡 / eSIM 的真实使用、长期维护与风控风险。 不卖卡、不接广告、不做一次性方案。长期项目，水群与倒卖勿入。 我正在用的eSIM工具卡：https://xesim.cc/?DIST=RkZHFVs%3D （粉丝折扣码：jason ） 我的魔法上网工具：https://my.racknerd.com/aff.php?aff=16843",
+              "display_url": "t.me/JasonSIMLab",
+              "end": 145,
+              "expanded_url": "https://t.me/JasonSIMLab",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2049394787648929792/GE8eqEQq?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049394787648929792/GE8eqEQq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "Jason 的全球手机号保号实验室",
+              "unwound_url": "https://t.me/JasonSIMLab",
+              "url": "https://t.co/1TWbDL78Yw"
+            },
+            {
+              "description": "我是 Jason (@EvanWritesX) 这个群建立的初衷很简单：复盘我如何在40多天内将账号做到 10000粉，并寻找一群志同道合的 X 创作者。 作为前媒体人，我将在这里拆解如何利用信息差、内容策略与算法逻辑，在 X (Twitter) 上实现快速冷启动与流量变现。",
+              "display_url": "t.me/jasonEvanWrite…",
+              "end": 179,
+              "expanded_url": "https://t.me/jasonEvanWritesX",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2049394823388655616/nov5UewK?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049394823388655616/nov5UewK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 156,
+              "status": 200,
+              "title": "Jason 𝕏运营交流互助 ｜ X-Growth Lab",
+              "unwound_url": "https://t.me/jasonEvanWritesX",
+              "url": "https://t.co/JfslnLvc8j"
+            },
+            {
+              "display_url": "t.me/jiason_Telegra…",
+              "end": 213,
+              "expanded_url": "https://t.me/jiason_Telegramx",
+              "start": 190,
+              "status": 200,
+              "title": "Telegram: Contact @jiason_Telegramx",
+              "unwound_url": "https://t.me/jiason_Telegramx",
+              "url": "https://t.co/Nvd3wFJa6v"
+            },
+            {
+              "display_url": "x.com/evanwritesx/st…",
+              "end": 241,
+              "expanded_url": "https://twitter.com/evanwritesx/status/2047128669425168750",
+              "start": 218,
+              "url": "https://t.co/wa7GNYB64x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049394780686475294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.me/JasonVPS",
+                "end": 81,
+                "expanded_url": "https://t.me/JasonVPS",
+                "start": 58,
+                "url": "https://t.co/fw2EuIKKLO"
+              },
+              {
+                "display_url": "t.me/Jason_WiseX",
+                "end": 113,
+                "expanded_url": "https://t.me/Jason_WiseX",
+                "start": 90,
+                "url": "https://t.co/LxPr1z6w8r"
+              },
+              {
+                "display_url": "t.me/JasonSIMLab",
+                "end": 145,
+                "expanded_url": "https://t.me/JasonSIMLab",
+                "start": 122,
+                "url": "https://t.co/N9QHf9yMAZ"
+              },
+              {
+                "display_url": "t.me/jasonEvanWrite…",
+                "end": 179,
+                "expanded_url": "https://t.me/jasonEvanWritesX",
+                "start": 156,
+                "url": "https://t.co/kEUdDZZdXg"
+              },
+              {
+                "display_url": "t.me/jiason_Telegra…",
+                "end": 213,
+                "expanded_url": "https://t.me/jiason_Telegramx",
+                "start": 190,
+                "url": "https://t.co/70mUQDcBBQ"
+              },
+              {
+                "display_url": "t.me/Jason_Prompt",
+                "end": 247,
+                "expanded_url": "https://t.me/Jason_Prompt",
+                "start": 224,
+                "url": "https://t.co/TsbkWecqID"
+              },
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 287,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 264,
+                "url": "https://t.co/2wytvRWjfN"
+              }
+            ]
+          },
+          "text": "XChat 还是个半成品，交流体验有点拉胯，大家按需加入对应 Telegram 群组就行\n\n①VPS 科学上网 → https://t.co/fw2EuIKKLO\n②海外收款 → https://t.co/LxPr1z6w8r\n③海外号码 → https://t.co/N9QHf9yMAZ\n④𝕏 运营指南 → https://t.co/kEUdDZZdXg\n⑤数字生活指南 → https://t.co/70mUQDcBBQ\n⑥AI 实验室 → https://t.co/TsbkWecqID\n\n❶ 有问题直接戳 Jason：https://t.co/2wytvRWjfN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4943,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047128669425168750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "XChat 还是个半成品，交流体验有点拉胯，大家按需加入对应 Telegram 群组就行\n\n①VPS 科学上网 → https://t.co/q7oFHRtwyk\n②海外收款 → https://t.co/bCtYPOQiuD\n③海外号码 → https://t.co/1TWbDL78Yw\n④𝕏 运营指南 → https://t.co/JfslnLvc8j\n⑤数字生活指南 → https://t.co/Nvd3wFJa6v\n⑥AI https://t.co/wa7GNYB64x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️▯活在幻想中▯😉希望咱们都能开开心心▯成绩倒数☄▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048182524212604928/zI-UVlVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 629,
+          "like_count": 11329,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRWjfN \n读书频道：https://t.co/0fTLS0w8Eq \n魔法推荐：https://t.co/YCKVPDNhPW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRWjfN"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 87,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 64,
+                "url": "https://t.co/0fTLS0w8Eq"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=1696",
+                "start": 94,
+                "url": "https://t.co/YCKVPDNhPW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRWjfN"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2049394780686475294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049313362732032000/vVC4jj-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18446,
+          "following_count": 810,
+          "like_count": 8506,
+          "listed_count": 87,
+          "media_count": 1399,
+          "tweet_count": 7063
+        },
+        "url": "https://t.co/2wytvRWjfN",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2057978809820086710",
+    "created_at": "2026-05-23T00:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T01:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057979415280468311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057979415280468311",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057978809820086710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 37周年"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "1989.6.4",
+        "height": 215,
+        "media_key": "3_2057978803448844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9o0W7aEAAJwmC.jpg",
+        "width": 503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057978809820086710",
+        "created_at": "2026-05-23T00:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057979415280468311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057979415280468311",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057978809820086710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 37周年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057978803448844288"
+          ]
+        },
+        "author_id": "1634807884268855297",
+        "conversation_id": "2057978809820086710",
+        "created_at": "2026-05-23T00:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057978809820086710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Rk8koIp9S",
+              "end": 23,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2057978809820086710/photo/1",
+              "media_key": "3_2057978803448844288",
+              "start": 0,
+              "url": "https://t.co/8Rk8koIp9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057978809820086710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8Rk8koIp9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 731,
+          "like_count": 14030,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1928
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,You Can call me Miku!\nA Student,MtF,Play Games:Mai,Chuni,MC | hrt:2025/6/13 | Live in NYC | Miku is best! | 等待变葱中...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.wahleak.top",
+                "end": 23,
+                "expanded_url": "https://home.wahleak.top",
+                "start": 0,
+                "url": "https://t.co/YvhXzekAJX"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "localhost:443",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006714419158323200/VI_0Cag9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 801,
+          "like_count": 14721,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/YvhXzekAJX",
+        "username": "teaGfx_MikuNET",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042866033",
+          "name": "VMware"
+        }
+      }
+    ],
+    "conversation_id": "2045733556715204925",
+    "created_at": "2026-04-19T05:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045733556715204925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nuclearrocksto…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nuclearrocksto/status/2045649589592821922",
+          "start": 2,
+          "url": "https://t.co/7qV90rmhs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045733556715204925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045649589592821922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/7qV90rmhs0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2045733556715204925",
+        "created_at": "2026-04-19T05:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045733556715204925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nuclearrocksto…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nuclearrocksto/status/2045649589592821922",
+              "start": 2,
+              "url": "https://t.co/7qV90rmhs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045733556715204925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045649589592821922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/7qV90rmhs0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883760456323809280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2045551317612102071",
+        "created_at": "2026-04-18T23:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045649589592821922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1079519718",
+              "start": 0,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045649589592821922",
+        "in_reply_to_user_id": "1079519718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045551317612102071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Megabits_mzq VMware是我唯一一个明知正版免费但仍然想去下载盗版的应用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114253154385920/7WrwApCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 571,
+          "like_count": 9895,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:14:42.000Z",
+        "description": "真理是不需要辩护的",
+        "id": "1883760456323809280",
+        "name": "核动力岩石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883760528272834560/qCme268G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 46,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 127
+        },
+        "username": "nuclearrocksto",
+        "verified": false
+      }
+    ]
+  }
+}

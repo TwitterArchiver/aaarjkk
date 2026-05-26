@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2043294077064753579",
+    "created_at": "2026-04-12T11:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043295593435746516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043295593435746516",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043294077064753579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine 可爱诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043294067975757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs9IQVboAAnIgT.jpg",
+        "width": 1493
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043294067954683904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs9IQQaEAAqwH3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043294067954794496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs9IQQbwAA-wLz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2043294077064753579",
+        "created_at": "2026-04-12T11:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043295593435746516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043295593435746516",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043294077064753579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 可爱诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043294067975757824",
+            "3_2043294067954683904",
+            "3_2043294067954794496"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "conversation_id": "2043294077064753579",
+        "created_at": "2026-04-12T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043294077064753579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vw6a9PKgn",
+              "end": 41,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2043294077064753579/photo/1",
+              "media_key": "3_2043294067975757824",
+              "start": 18,
+              "url": "https://t.co/1vw6a9PKgn"
+            },
+            {
+              "display_url": "pic.x.com/1vw6a9PKgn",
+              "end": 41,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2043294077064753579/photo/1",
+              "media_key": "3_2043294067954683904",
+              "start": 18,
+              "url": "https://t.co/1vw6a9PKgn"
+            },
+            {
+              "display_url": "pic.x.com/1vw6a9PKgn",
+              "end": 41,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2043294077064753579/photo/1",
+              "media_key": "3_2043294067954794496",
+              "start": 18,
+              "url": "https://t.co/1vw6a9PKgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043294077064753579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇还有经典重现\n可爱的条纹内裤哦～ https://t.co/1vw6a9PKgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 564,
+          "like_count": 8934,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "风俗药娘、奇怪的狐狸//门槛50嘤嘤嘤//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🌸",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 857,
+          "like_count": 23066,
+          "listed_count": 3,
+          "media_count": 459,
+          "tweet_count": 7602
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

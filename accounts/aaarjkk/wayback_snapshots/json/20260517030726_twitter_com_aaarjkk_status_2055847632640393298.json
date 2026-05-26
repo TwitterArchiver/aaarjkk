@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055847628982915072"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2055847632640393298",
+    "created_at": "2026-05-17T03:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055847632640393298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gyUXMpxzgV",
+          "end": 30,
+          "expanded_url": "https://x.com/aaarjkk/status/2055847632640393298/photo/1",
+          "media_key": "3_2055847628982915072",
+          "start": 7,
+          "url": "https://t.co/gyUXMpxzgV"
+        },
+        {
+          "display_url": "x.com/magictubawen/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/magictubawen/status/2027584421159964710",
+          "start": 31,
+          "url": "https://t.co/udZRFCFTWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055847632640393298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027584421159964710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经上电视了 https://t.co/gyUXMpxzgV https://t.co/udZRFCFTWk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2055847628982915072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWhrXbEAA9ev9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027584412905574403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNtR-tbEAMssFc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027584418018422784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNtSRwa8AAJdja.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055847628982915072"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2055847632640393298",
+        "created_at": "2026-05-17T03:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055847632640393298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyUXMpxzgV",
+              "end": 30,
+              "expanded_url": "https://x.com/aaarjkk/status/2055847632640393298/photo/1",
+              "media_key": "3_2055847628982915072",
+              "start": 7,
+              "url": "https://t.co/gyUXMpxzgV"
+            },
+            {
+              "display_url": "x.com/magictubawen/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/magictubawen/status/2027584421159964710",
+              "start": 31,
+              "url": "https://t.co/udZRFCFTWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055847632640393298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027584421159964710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经上电视了 https://t.co/gyUXMpxzgV https://t.co/udZRFCFTWk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027584412905574403",
+            "3_2027584418018422784"
+          ]
+        },
+        "author_id": "1975202429521010688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027584421159964710",
+        "created_at": "2026-02-28T03:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027584421159964710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDxrayP0K9",
+              "end": 66,
+              "expanded_url": "https://x.com/magictubawen/status/2027584421159964710/photo/1",
+              "media_key": "3_2027584412905574403",
+              "start": 43,
+              "url": "https://t.co/zDxrayP0K9"
+            },
+            {
+              "display_url": "pic.x.com/zDxrayP0K9",
+              "end": 66,
+              "expanded_url": "https://x.com/magictubawen/status/2027584421159964710/photo/1",
+              "media_key": "3_2027584418018422784",
+              "start": 43,
+              "url": "https://t.co/zDxrayP0K9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027584421159964710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 58872,
+          "like_count": 109,
+          "quote_count": 13,
+          "reply_count": 48,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf 给我爸下药雌二醇了，生物爹不理解我反跨还打人给你也下点雌二醇看你理不理解我 https://t.co/zDxrayP0K9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 729,
+          "like_count": 13450,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1825
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T14:12:24.000Z",
+        "description": "七喜/北京/qq2586315565/https://t.co/E22XnTojx5 祝大家都有人爱/梦想开心的去死",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/magicqixi",
+                "end": 42,
+                "expanded_url": "https://t.me/magicqixi",
+                "start": 19,
+                "url": "https://t.co/E22XnTojx5"
+              }
+            ]
+          }
+        },
+        "id": "1975202429521010688",
+        "location": "sea",
+        "name": "sevenhappy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2036451964280774902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039834021128249344/Kfh4_n36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 167,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 143
+        },
+        "username": "magictubawen",
+        "verified": false
+      }
+    ]
+  }
+}

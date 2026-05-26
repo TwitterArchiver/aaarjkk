@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051993122322907136"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051892666842173729",
+    "created_at": "2026-05-06T11:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993125116346760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6EF8p1fyW1",
+          "end": 75,
+          "expanded_url": "https://x.com/aaarjkk/status/2051993125116346760/photo/1",
+          "media_key": "3_2051993122322907136",
+          "start": 52,
+          "url": "https://t.co/6EF8p1fyW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993125116346760",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051992110770119104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 多发点帖子就有了唔，大部分人的贴文数和follow数的比值都差不多在3 https://t.co/6EF8p1fyW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2051993122322907136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHok33GaAAA2jO3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051993122322907136"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051892666842173729",
+        "created_at": "2026-05-06T11:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993125116346760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EF8p1fyW1",
+              "end": 75,
+              "expanded_url": "https://x.com/aaarjkk/status/2051993125116346760/photo/1",
+              "media_key": "3_2051993122322907136",
+              "start": 52,
+              "url": "https://t.co/6EF8p1fyW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993125116346760",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051992110770119104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 多发点帖子就有了唔，大部分人的贴文数和follow数的比值都差不多在3 https://t.co/6EF8p1fyW1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2051892666842173729",
+        "created_at": "2026-05-06T11:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051992110770119104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051992110770119104",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051892666842173729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 698,
+          "like_count": 12463,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF-从小想做个女孩子-炸柜：5.2,断糖ing\n喜欢折腾电脑和会一点编程-分享Hrt日常\n自残但不Od💊 心理健康 \n关注芸光谢谢喵~（目标800fo QWQ）\n—————\n“你会成就你的荣耀时刻还是会如流星般陨落天际？”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "晴芸曙光AurLight 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2051459774445916246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 27,
+          "like_count": 1456,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

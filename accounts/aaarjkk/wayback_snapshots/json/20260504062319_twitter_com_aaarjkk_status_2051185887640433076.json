@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051185885211938816"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051168044534100368",
+    "created_at": "2026-05-04T06:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051185887640433076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048003423384010752",
+          "start": 0,
+          "username": "NomtfYuwen_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aWKioRTTc2",
+          "end": 40,
+          "expanded_url": "https://x.com/aaarjkk/status/2051185887640433076/photo/1",
+          "media_key": "3_2051185885211938816",
+          "start": 17,
+          "url": "https://t.co/aWKioRTTc2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051185887640433076",
+    "in_reply_to_user_id": "2048003423384010752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051168044534100368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomtfYuwen_ 呵呵🙂 https://t.co/aWKioRTTc2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051185885211938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdGsehaUAAlNNR.jpg",
+        "width": 931
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2051168032475725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc2dT5aQAA08K5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051185885211938816"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051168044534100368",
+        "created_at": "2026-05-04T06:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051185887640433076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048003423384010752",
+              "start": 0,
+              "username": "NomtfYuwen_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWKioRTTc2",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2051185887640433076/photo/1",
+              "media_key": "3_2051185885211938816",
+              "start": 17,
+              "url": "https://t.co/aWKioRTTc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051185887640433076",
+        "in_reply_to_user_id": "2048003423384010752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051168044534100368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomtfYuwen_ 呵呵🙂 https://t.co/aWKioRTTc2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051168032475725824"
+          ]
+        },
+        "author_id": "2048003423384010752",
+        "conversation_id": "2051168044534100368",
+        "created_at": "2026-05-04T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051168044534100368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bO1sPFsrDh",
+              "end": 23,
+              "expanded_url": "https://x.com/NomtfYuwen_/status/2051168044534100368/photo/1",
+              "media_key": "3_2051168032475725824",
+              "start": 0,
+              "url": "https://t.co/bO1sPFsrDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051168044534100368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bO1sPFsrDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 657,
+          "like_count": 11909,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T11:39:20.000Z",
+        "description": "13岁/7年级/初二生/也许是泛性恋？/喜欢折腾Windows/不自残od/无任何心理问题/分享我的日常生活和 技术/关注Coxe_Pica谢谢o！（目标200fo）-由芸光酱AuroraLight管理/“梦一切的开始…. ”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/NhkGW0omB6"
+              }
+            ]
+          }
+        },
+        "id": "2048003423384010752",
+        "location": "湖北潜江",
+        "name": "Coxe_Pica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050091048173797376/MGdRckoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 14,
+          "like_count": 335,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/NhkGW0omB6",
+        "username": "NomtfYuwen_",
+        "verified": true
+      }
+    ]
+  }
+}

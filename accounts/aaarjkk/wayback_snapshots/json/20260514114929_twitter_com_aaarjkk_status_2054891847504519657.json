@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054891844329504768"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2054870548686262371",
+    "created_at": "2026-05-14T11:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054891847504519657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t764E6nH70",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2054891847504519657/photo/1",
+          "media_key": "3_2054891844329504768",
+          "start": 22,
+          "url": "https://t.co/t764E6nH70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054891847504519657",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054870548686262371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 为了戒掉咬指甲 https://t.co/t764E6nH70"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2054891844329504768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRxPsEbgAAeqry.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054870546475778048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRd3_YaAAAwRAd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054891844329504768"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2054870548686262371",
+        "created_at": "2026-05-14T11:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054891847504519657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t764E6nH70",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2054891847504519657/photo/1",
+              "media_key": "3_2054891844329504768",
+              "start": 22,
+              "url": "https://t.co/t764E6nH70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054891847504519657",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054870548686262371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 为了戒掉咬指甲 https://t.co/t764E6nH70"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054870546475778048"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2054870548686262371",
+        "created_at": "2026-05-14T10:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054870548686262371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMJjFcjAOi",
+              "end": 126,
+              "expanded_url": "https://x.com/Mark67358226/status/2054870548686262371/photo/1",
+              "media_key": "3_2054870546475778048",
+              "start": 103,
+              "url": "https://t.co/rMJjFcjAOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054870548686262371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "諸君可能注意到過我這個指甲了，不過這其實真不是什麼愛好，純粹就是一個保留了十多年的生活習慣。從小沒被培養「按時剪指甲」這個概念，所以「剪指甲」在我的概念中是缺失的，再加上習慣了，剪了之後，我的手等於殘廢😨 https://t.co/rMJjFcjAOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 708,
+          "like_count": 13036,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 性取向雙 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "id": "1519649212736049152",
+        "location": "北京市昌平區",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 494,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1372
+        },
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

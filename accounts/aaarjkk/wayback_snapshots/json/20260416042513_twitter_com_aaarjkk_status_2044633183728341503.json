@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2043666358454587825",
+    "created_at": "2026-04-16T04:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044633183728341503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913201047553658880",
+          "start": 0,
+          "username": "gou_jun20481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044633183728341503",
+    "in_reply_to_user_id": "1913201047553658880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044472221230612951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gou_jun20481 谢谢！我体育也不咋好，1000米每次都是全班最后一个，不过后来学了游泳，选了游泳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2043666358454587825",
+        "created_at": "2026-04-16T04:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044633183728341503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913201047553658880",
+              "start": 0,
+              "username": "gou_jun20481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044633183728341503",
+        "in_reply_to_user_id": "1913201047553658880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044472221230612951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gou_jun20481 谢谢！我体育也不咋好，1000米每次都是全班最后一个，不过后来学了游泳，选了游泳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913201047553658880",
+        "conversation_id": "2043666358454587825",
+        "created_at": "2026-04-15T17:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044472221230612951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044472221230612951",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043666358454587825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 加油吧，尽量在中考上大放异彩，我本人身体素质也不咋好，我的体考成绩也只是勉强考上了33，1000米真的很累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aaarjkk?=awa",
+                "end": 23,
+                "expanded_url": "http://t.me/aaarjkk?=awa",
+                "start": 0,
+                "url": "https://t.co/0FtnmjzaMD"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276772737560577/IzZIDMeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 566,
+          "like_count": 9373,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/0FtnmjzaMD",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T12:01:06.000Z",
+        "description": "出来看看世界",
+        "id": "1913201047553658880",
+        "name": "蓝狗君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913201683892510720/8ApzQK1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "gou_jun20481",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T12:01:06.000Z",
+        "description": "出来看看世界",
+        "id": "1913201047553658880",
+        "name": "蓝狗君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913201683892510720/8ApzQK1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "gou_jun20481",
+        "verified": false
+      }
+    ]
+  }
+}

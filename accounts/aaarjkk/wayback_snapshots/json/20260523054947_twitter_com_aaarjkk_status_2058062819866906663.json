@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2058062819866906663",
+    "created_at": "2026-05-23T05:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058062819866906663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/picxis63594/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/picxis63594/status/2058060164159463509",
+          "start": 14,
+          "url": "https://t.co/4doyt73oZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058062819866906663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058060164159463509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无精神病也会被关精卫吗😨😨 https://t.co/4doyt73oZZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2058062819866906663",
+        "created_at": "2026-05-23T05:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058062819866906663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picxis63594/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/picxis63594/status/2058060164159463509",
+              "start": 14,
+              "url": "https://t.co/4doyt73oZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058062819866906663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058060164159463509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无精神病也会被关精卫吗😨😨 https://t.co/4doyt73oZZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2058060164159463509",
+        "created_at": "2026-05-23T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058060164159463509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058060164159463509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 734,
+          "like_count": 14104,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1942
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/hrt 2026.4.22/互fo喵！陪咱聊天喵",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "无人机潜水_SubDrone🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 183,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

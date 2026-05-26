@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2051210232614076657",
+    "created_at": "2026-05-04T09:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051226837657985052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044896801497509888",
+          "start": 0,
+          "username": "hasmiku520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051226837657985052",
+    "in_reply_to_user_id": "2044896801497509888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051210232614076657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasmiku520 👀第4圈贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051210210287702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdc0YfaUAALNow.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051210232614076657",
+        "created_at": "2026-05-04T09:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051226837657985052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044896801497509888",
+              "start": 0,
+              "username": "hasmiku520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051226837657985052",
+        "in_reply_to_user_id": "2044896801497509888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051210232614076657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasmiku520 👀第4圈贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051210210287702016"
+          ]
+        },
+        "author_id": "2044896801497509888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051210232614076657",
+        "created_at": "2026-05-04T08:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051210232614076657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/cyxu…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/cyxuzbtt",
+              "start": 14,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/cyxuzbtt",
+              "url": "https://t.co/tsFZHlJNxP"
+            },
+            {
+              "display_url": "pic.x.com/QnUwKmb03E",
+              "end": 79,
+              "expanded_url": "https://x.com/hasmiku520/status/2051210232614076657/photo/1",
+              "media_key": "3_2051210210287702016",
+              "start": 56,
+              "url": "https://t.co/QnUwKmb03E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051210232614076657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/tsFZHlJNxP\n使用 NekoCircle 创建! https://t.co/QnUwKmb03E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 658,
+          "like_count": 11929,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:53:12.000Z",
+        "description": "感谢关注喵！|2009.12.22|浙江 温州|信竞小菜喵\n高一物化技desu|关注滴咱都会回关desuwa！|家长反对党\n探索X中喵w|《云律茶馆》游戏制作喵|割手手喵w\n菜菜音游入｜ＰＪＳＫ｜hrt 26.4.21|无证含糖\n不讨论政治喵~🇨🇳🇹🇼一家亲啦～各具优势，和平相处！\n没回应该是被限制发言惹喵ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroawa.top",
+                "end": 23,
+                "expanded_url": "https://hiroawa.top/",
+                "start": 0,
+                "url": "https://t.co/ZnEypkfQdT"
+              }
+            ]
+          }
+        },
+        "id": "2044896801497509888",
+        "location": "浙江省",
+        "name": "Puuki🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2050332288106610761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044897193967190016/SOBDwJyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 388,
+          "like_count": 1622,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/ZnEypkfQdT",
+        "username": "hasmiku520",
+        "verified": false
+      }
+    ]
+  }
+}
