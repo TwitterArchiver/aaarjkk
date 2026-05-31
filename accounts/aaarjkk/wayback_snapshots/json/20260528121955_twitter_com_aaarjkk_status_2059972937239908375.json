@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059972929719603200",
+        "3_2059972930407456768",
+        "3_2059972933179813888",
+        "3_2059972930361286656"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2059972612651188242",
+    "created_at": "2026-05-28T12:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059972937239908375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HF0S433MZA",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2059972937239908375/photo/1",
+          "media_key": "3_2059972929719603200",
+          "start": 5,
+          "url": "https://t.co/HF0S433MZA"
+        },
+        {
+          "display_url": "pic.x.com/HF0S433MZA",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2059972937239908375/photo/1",
+          "media_key": "3_2059972930407456768",
+          "start": 5,
+          "url": "https://t.co/HF0S433MZA"
+        },
+        {
+          "display_url": "pic.x.com/HF0S433MZA",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2059972937239908375/photo/1",
+          "media_key": "3_2059972933179813888",
+          "start": 5,
+          "url": "https://t.co/HF0S433MZA"
+        },
+        {
+          "display_url": "pic.x.com/HF0S433MZA",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2059972937239908375/photo/1",
+          "media_key": "3_2059972930361286656",
+          "start": 5,
+          "url": "https://t.co/HF0S433MZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972937239908375",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059972612651188242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘网站 https://t.co/HF0S433MZA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059972937239908375].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059972937239908375",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059972937239908375"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2059972929719603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-dyLbkAAvWlM.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2059972930407456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-d0vbYAAMMsH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2059972933179813888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-d_EaMAAzxn_.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2059972930361286656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-d0ka4AAmgpb.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2059972609123733504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-LH3a0AAOT5z.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2059972607613755392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ-LCPaYAADAHZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059972609123733504",
+            "3_2059972607613755392"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2059972612651188242",
+        "created_at": "2026-05-28T12:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059972612651188242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751084762016681984",
+              "start": 0,
+              "username": "MTFxyn0331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdAgFSUv16",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2059972612651188242/photo/1",
+              "media_key": "3_2059972609123733504",
+              "start": 21,
+              "url": "https://t.co/DdAgFSUv16"
+            },
+            {
+              "display_url": "pic.x.com/DdAgFSUv16",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2059972612651188242/photo/1",
+              "media_key": "3_2059972607613755392",
+              "start": 21,
+              "url": "https://t.co/DdAgFSUv16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972612651188242",
+        "in_reply_to_user_id": "1751084762016681984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@MTFxyn0331 被神秘网站高仿了 https://t.co/DdAgFSUv16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 761,
+          "like_count": 14860,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 2083
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}
