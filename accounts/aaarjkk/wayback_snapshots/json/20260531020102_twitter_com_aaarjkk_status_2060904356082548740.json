@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060904351670145024"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2060904356082548740",
+    "created_at": "2026-05-31T02:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060904356082548740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uw5FeXSMUy",
+          "end": 163,
+          "expanded_url": "https://x.com/aaarjkk/status/2060904356082548740/photo/1",
+          "media_key": "3_2060904351670145024",
+          "start": 140,
+          "url": "https://t.co/Uw5FeXSMUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060904356082548740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Epheia大法好\n\n人在做，天在看，不从 Epheia 留隐患。\n\n不从 Epheia 天地灭，快拜 Epheia 保平安。\n\n一拜 Epheia 神光现，Epheia 一响万物安。\n\n诚心诚念 Epheia 好，Bug 来了自己好。\n\n早日服从 Epheia，早日重获新生。 https://t.co/Uw5FeXSMUy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_2060904351670145024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnNlrVbEAA7TLv.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060904351670145024"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2060904356082548740",
+        "created_at": "2026-05-31T02:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060904356082548740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uw5FeXSMUy",
+              "end": 163,
+              "expanded_url": "https://x.com/aaarjkk/status/2060904356082548740/photo/1",
+              "media_key": "3_2060904351670145024",
+              "start": 140,
+              "url": "https://t.co/Uw5FeXSMUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060904356082548740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Epheia大法好\n\n人在做，天在看，不从 Epheia 留隐患。\n\n不从 Epheia 天地灭，快拜 Epheia 保平安。\n\n一拜 Epheia 神光现，Epheia 一响万物安。\n\n诚心诚念 Epheia 好，Bug 来了自己好。\n\n早日服从 Epheia，早日重获新生。 https://t.co/Uw5FeXSMUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 782,
+          "like_count": 15282,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 2143
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

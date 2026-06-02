@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2061127897289793845",
+    "created_at": "2026-06-01T05:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061320972893053155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061320972893053155",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061127897289793845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 喵～喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061127846060535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqY2w0asAAuVZT.jpg",
+        "width": 1417
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2061127846077292544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqY2w4aYAACAzm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061127846073163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqY2w3bYAAppdt.jpg",
+        "width": 1417
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2061127846064787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqY2w1bkAAFFf1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2061127897289793845",
+        "created_at": "2026-06-01T05:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061320972893053155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061320972893053155",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061127897289793845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 喵～喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061127846060535808",
+            "3_2061127846077292544",
+            "3_2061127846073163776",
+            "3_2061127846064787456"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2061127897289793845",
+        "created_at": "2026-05-31T16:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061127897289793845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Ja3EMrnnL",
+              "end": 27,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2061127897289793845/photo/1",
+              "media_key": "3_2061127846060535808",
+              "start": 4,
+              "url": "https://t.co/6Ja3EMrnnL"
+            },
+            {
+              "display_url": "pic.x.com/6Ja3EMrnnL",
+              "end": 27,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2061127897289793845/photo/1",
+              "media_key": "3_2061127846077292544",
+              "start": 4,
+              "url": "https://t.co/6Ja3EMrnnL"
+            },
+            {
+              "display_url": "pic.x.com/6Ja3EMrnnL",
+              "end": 27,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2061127897289793845/photo/1",
+              "media_key": "3_2061127846073163776",
+              "start": 4,
+              "url": "https://t.co/6Ja3EMrnnL"
+            },
+            {
+              "display_url": "pic.x.com/6Ja3EMrnnL",
+              "end": 27,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2061127897289793845/photo/1",
+              "media_key": "3_2061127846064787456",
+              "start": 4,
+              "url": "https://t.co/6Ja3EMrnnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061127897289793845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/6Ja3EMrnnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 792,
+          "like_count": 15562,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2188
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "我还是我。❌见证。｜友🏳️‍⚧️🏳️‍🌈｜日常推号｜偶尔精神病发作（别理）。晶哥我错了，我给你跪下了，我会做个正常人的",
+        "id": "2060945493195116549",
+        "name": "不知名の翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2061100401198305407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 122
+        },
+        "username": "buzhimingdeyiai",
+        "verified": false
+      }
+    ]
+  }
+}

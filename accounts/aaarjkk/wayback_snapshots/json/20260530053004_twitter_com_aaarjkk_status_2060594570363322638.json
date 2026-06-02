@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2060594570363322638",
+    "created_at": "2026-05-30T05:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060594570363322638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenw_2/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kenw_2/status/2060291044281844199",
+          "start": 17,
+          "url": "https://t.co/UYIy4ourOa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060594570363322638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060291044281844199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "值日生在学校扫地be like: https://t.co/UYIy4ourOa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9966,
+        "height": 1920,
+        "media_key": "13_2060290992436125699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060290992436125699/img/Cy-ko-RMwpr6cpV3.jpg",
+        "public_metrics": {
+          "view_count": 35109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/pl/fu9X--CT2NU2pzHa.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/320x568/PYXc8Tf4FR1DQkcs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/720x1280/Pie0jk-KkcqLCuoN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/480x852/rODNhAnir-fkVuwa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/1080x1920/oOqWA088dtiVH0u6.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2060594570363322638",
+        "created_at": "2026-05-30T05:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060594570363322638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenw_2/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kenw_2/status/2060291044281844199",
+              "start": 17,
+              "url": "https://t.co/UYIy4ourOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060594570363322638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060291044281844199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "值日生在学校扫地be like: https://t.co/UYIy4ourOa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060290992436125699"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2060291044281844199",
+        "created_at": "2026-05-29T09:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060291044281844199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFW2VcfDzK",
+              "end": 46,
+              "expanded_url": "https://x.com/kenw_2/status/2060291044281844199/video/1",
+              "media_key": "13_2060290992436125699",
+              "start": 23,
+              "url": "https://t.co/iFW2VcfDzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060291044281844199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 79058,
+          "like_count": 1248,
+          "quote_count": 24,
+          "reply_count": 47,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪位大师的vibe coding神作么？ https://t.co/iFW2VcfDzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 771,
+          "like_count": 15037,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 2110
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173698,
+          "following_count": 469,
+          "like_count": 2757,
+          "listed_count": 569,
+          "media_count": 2252,
+          "tweet_count": 7898
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}
