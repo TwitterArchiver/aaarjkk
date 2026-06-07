@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2061654311080493284",
+    "created_at": "2026-06-02T05:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061682743004840016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061682743004840016",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061654311080493284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q 请不要污染我的眼睛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2061654285419753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx3pkQbMAA2LKd.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2061654311080493284",
+        "created_at": "2026-06-02T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061682743004840016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061682743004840016",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061654311080493284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q 请不要污染我的眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061654285419753472"
+          ]
+        },
+        "author_id": "1311608169269923841",
+        "conversation_id": "2061654311080493284",
+        "created_at": "2026-06-02T03:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061654311080493284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9I4vYhOZm",
+              "end": 27,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2061654311080493284/photo/1",
+              "media_key": "3_2061654285419753472",
+              "start": 4,
+              "url": "https://t.co/X9I4vYhOZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061654311080493284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/X9I4vYhOZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 794,
+          "like_count": 15727,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 2212
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "怜悯我此生的不幸 不紧要 约到明年来生~",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 508,
+          "like_count": 257,
+          "listed_count": 5,
+          "media_count": 62,
+          "tweet_count": 707
+        },
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      }
+    ]
+  }
+}
