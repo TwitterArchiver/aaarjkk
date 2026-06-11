@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063932599576457216"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2063911509441515721",
+    "created_at": "2026-06-08T10:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063932601895915880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995266194576961536",
+          "start": 0,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XMqry0YU7",
+          "end": 57,
+          "expanded_url": "https://x.com/aaarjkk/status/2063932601895915880/photo/1",
+          "media_key": "3_2063932599576457216",
+          "start": 34,
+          "url": "https://t.co/3XMqry0YU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063932601895915880",
+    "in_reply_to_user_id": "1995266194576961536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063911509441515721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyseafor 考试结束后要收回试卷没说要收回完整的试卷是吧 https://t.co/3XMqry0YU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 98,
+        "media_key": "3_2063932599576457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSPw54acAAXd0u.jpg",
+        "width": 1119
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063911498469314560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR8kqIbkAAueC7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063932599576457216"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063911509441515721",
+        "created_at": "2026-06-08T10:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063932601895915880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XMqry0YU7",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkk/status/2063932601895915880/photo/1",
+              "media_key": "3_2063932599576457216",
+              "start": 34,
+              "url": "https://t.co/3XMqry0YU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063932601895915880",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063911509441515721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 考试结束后要收回试卷没说要收回完整的试卷是吧 https://t.co/3XMqry0YU7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063911498469314560"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063911509441515721",
+        "created_at": "2026-06-08T09:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063911509441515721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVn2hqvtr8",
+              "end": 39,
+              "expanded_url": "https://x.com/skyseafor/status/2063911509441515721/photo/1",
+              "media_key": "3_2063911498469314560",
+              "start": 16,
+              "url": "https://t.co/XVn2hqvtr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063911509441515721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4762,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，不小心把这玩意儿带出来了 https://t.co/XVn2hqvtr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 817,
+          "like_count": 16246,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 2303
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 129,
+          "like_count": 198,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 221
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

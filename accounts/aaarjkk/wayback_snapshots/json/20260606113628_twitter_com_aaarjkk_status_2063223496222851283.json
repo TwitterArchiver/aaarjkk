@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2063185453638205692",
+    "created_at": "2026-06-06T11:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063223496222851283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649365408779214848",
+          "start": 0,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063223496222851283",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063185453638205692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bolckAshley 都是中国我全都要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_2063185424290607104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHoNlCa8AAwKlG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063185453638205692",
+        "created_at": "2026-06-06T11:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063223496222851283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063223496222851283",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063185453638205692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 都是中国我全都要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063185424290607104"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2063185453638205692",
+        "created_at": "2026-06-06T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063185453638205692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzZMe6rlEm",
+              "end": 51,
+              "expanded_url": "https://x.com/bolckAshley/status/2063185453638205692/photo/1",
+              "media_key": "3_2063185424290607104",
+              "start": 28,
+              "url": "https://t.co/GzZMe6rlEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063185453638205692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3284,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果給你一次選擇的機會\n你會選擇哪一本護照呢？🇨🇳🇹🇼 https://t.co/GzZMe6rlEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 812,
+          "like_count": 16099,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2285
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 1972,
+          "like_count": 41492,
+          "listed_count": 19,
+          "media_count": 1616,
+          "tweet_count": 22225
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

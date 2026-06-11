@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061295237474242560"
+      ],
+      "media_source_tweet_id": [
+        "2061295250891800775"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2063533879454282175",
+    "created_at": "2026-06-07T08:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063533879454282175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNW1q5DThd",
+          "end": 91,
+          "expanded_url": "https://x.com/__summer__sea__/status/2061295250891800775/photo/1",
+          "media_key": "3_2061295237474242560",
+          "start": 68,
+          "url": "https://t.co/RNW1q5DThd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063533879454282175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061295250891800775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 做一个抽奖活动，转发这条推文的人之中随机抽取一人，获得庚酸雌二醇全场半价的权限，购买次数不限 https://t.co/RNW1q5DThd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2061295237474242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsxGObbUAAiU4x.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061295237474242560"
+          ],
+          "media_source_tweet_id": [
+            "2061295250891800775"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063533879454282175",
+        "created_at": "2026-06-07T08:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063533879454282175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNW1q5DThd",
+              "end": 91,
+              "expanded_url": "https://x.com/__summer__sea__/status/2061295250891800775/photo/1",
+              "media_key": "3_2061295237474242560",
+              "start": 68,
+              "url": "https://t.co/RNW1q5DThd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063533879454282175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061295250891800775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 做一个抽奖活动，转发这条推文的人之中随机抽取一人，获得庚酸雌二醇全场半价的权限，购买次数不限 https://t.co/RNW1q5DThd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061295237474242560"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2061295250891800775",
+        "created_at": "2026-06-01T03:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061295250891800775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNW1q5DThd",
+              "end": 70,
+              "expanded_url": "https://x.com/__summer__sea__/status/2061295250891800775/photo/1",
+              "media_key": "3_2061295237474242560",
+              "start": 47,
+              "url": "https://t.co/RNW1q5DThd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061295250891800775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3878,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "做一个抽奖活动，转发这条推文的人之中随机抽取一人，获得庚酸雌二醇全场半价的权限，购买次数不限 https://t.co/RNW1q5DThd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 817,
+          "like_count": 16203,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2299
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 877,
+          "like_count": 8855,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

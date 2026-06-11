@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2063519257913364632",
+    "created_at": "2026-06-07T07:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063519596506935531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20633…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2063384351195512866",
+          "start": 14,
+          "url": "https://t.co/uwGUqE2lpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063519596506935531",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063384351195512866",
+        "type": "quoted"
+      },
+      {
+        "id": "2063519257913364632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa https://t.co/uwGUqE2lpF\n\n没似🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2063384348280451072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKdIepbcAAZdUn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063519257913364632",
+        "created_at": "2026-06-07T07:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063519596506935531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20633…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2063384351195512866",
+              "start": 14,
+              "url": "https://t.co/uwGUqE2lpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063519596506935531",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063384351195512866",
+            "type": "quoted"
+          },
+          {
+            "id": "2063519257913364632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa https://t.co/uwGUqE2lpF\n\n没似🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063384348280451072"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063384351195512866",
+        "created_at": "2026-06-06T22:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063384351195512866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzHY3vAi0M",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2063384351195512866/photo/1",
+              "media_key": "3_2063384348280451072",
+              "start": 8,
+              "url": "https://t.co/ZzHY3vAi0M"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2063102381836083284",
+              "start": 32,
+              "url": "https://t.co/VdUPA02uCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063384351195512866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063102381836083284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是没能拿下🥺 https://t.co/ZzHY3vAi0M https://t.co/VdUPA02uCz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2063519257913364632",
+        "created_at": "2026-06-07T07:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063519257913364632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2063102381836083284",
+              "start": 3,
+              "url": "https://t.co/hPgV8uFvtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063519257913364632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063102381836083284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好似 https://t.co/hPgV8uFvtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 816,
+          "like_count": 16169,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 2293
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | INTP | 程序开发 | LLM / AI Agent | 会伪音 天然呆三无治愈系声线 | 不 od 不割手 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 130,
+          "like_count": 60,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}
