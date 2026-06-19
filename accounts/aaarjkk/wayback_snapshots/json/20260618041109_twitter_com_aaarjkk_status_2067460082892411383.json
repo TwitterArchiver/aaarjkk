@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2067295404149166219",
+    "created_at": "2026-06-18T04:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067460082892411383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499760386408529923",
+          "start": 0,
+          "username": "sesedebendan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067460082892411383",
+    "in_reply_to_user_id": "1499760386408529923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067295404149166219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sesedebendan1 好看w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067295388651159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCCM_ZbAAAfG-c.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067295400453971968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCCNrXboAAeRU0.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067295400437198848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCCNrTbsAAce4e.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2067295404149166219",
+        "created_at": "2026-06-18T04:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067460082892411383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499760386408529923",
+              "start": 0,
+              "username": "sesedebendan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067460082892411383",
+        "in_reply_to_user_id": "1499760386408529923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067295404149166219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sesedebendan1 好看w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067295388651159552",
+            "3_2067295400453971968",
+            "3_2067295400437198848"
+          ]
+        },
+        "author_id": "1499760386408529923",
+        "conversation_id": "2067295404149166219",
+        "created_at": "2026-06-17T17:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067295404149166219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zU1NsqvFJn",
+              "end": 29,
+              "expanded_url": "https://x.com/sesedebendan1/status/2067295404149166219/photo/1",
+              "media_key": "3_2067295388651159552",
+              "start": 6,
+              "url": "https://t.co/zU1NsqvFJn"
+            },
+            {
+              "display_url": "pic.x.com/zU1NsqvFJn",
+              "end": 29,
+              "expanded_url": "https://x.com/sesedebendan1/status/2067295404149166219/photo/1",
+              "media_key": "3_2067295400453971968",
+              "start": 6,
+              "url": "https://t.co/zU1NsqvFJn"
+            },
+            {
+              "display_url": "pic.x.com/zU1NsqvFJn",
+              "end": 29,
+              "expanded_url": "https://x.com/sesedebendan1/status/2067295404149166219/photo/1",
+              "media_key": "3_2067295400437198848",
+              "start": 6,
+              "url": "https://t.co/zU1NsqvFJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067295404149166219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示猪腰！ https://t.co/zU1NsqvFJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 862,
+          "like_count": 17300,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T14:55:28.000Z",
+        "description": "是男生，穿搭会比较亚比或者偏中性女性化，恋爱卡人品，喜欢发碎碎念",
+        "id": "1499760386408529923",
+        "location": "广西, 中华人民共和国（柳州）",
+        "name": "光猫🐱",
+        "pinned_tweet_id": "2039734797787136226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043649016987312130/ejUCiwdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 267,
+          "like_count": 613,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 2338
+        },
+        "username": "sesedebendan1",
+        "verified": false
+      }
+    ]
+  }
+}

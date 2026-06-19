@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2065980059702444336",
+    "created_at": "2026-06-14T02:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065980059702444336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/TOOBE775/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/TOOBE775/status/2065754076789571979",
+          "start": 18,
+          "url": "https://t.co/heX3ZfXDY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065980059702444336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065754076789571979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是@yunjiu之前的视频吗🤔 https://t.co/heX3ZfXDY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29248,
+        "height": 2160,
+        "media_key": "13_2065753705178402816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065753705178402816/img/RYWTOt3pOjo1U7np.jpg",
+        "public_metrics": {
+          "view_count": 67589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/640x360/LHFYhBf-sAYK2ZnL.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/480x270/ugHaUWhfioDedvEA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/1280x720/igzXIXqrOiSWpUSO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/3840x2160/Wn_eCEKfs-pFIGPg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/pl/ZgFLxkhRenpoYdUF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/1920x1080/wX33Sh1GW5F6YvXb.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065980059702444336",
+        "created_at": "2026-06-14T02:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065980059702444336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TOOBE775/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/TOOBE775/status/2065754076789571979",
+              "start": 18,
+              "url": "https://t.co/heX3ZfXDY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065980059702444336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065754076789571979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是@yunjiu之前的视频吗🤔 https://t.co/heX3ZfXDY5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065753705178402816"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2065754076789571979",
+        "created_at": "2026-06-13T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065754076789571979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCg4Ej3Lbm",
+              "end": 41,
+              "expanded_url": "https://x.com/TOOBE775/status/2065754076789571979/video/1",
+              "media_key": "13_2065753705178402816",
+              "start": 18,
+              "url": "https://t.co/fCg4Ej3Lbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065754076789571979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 113851,
+          "like_count": 611,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "如果X是中国的APP，会发生什么？ https://t.co/fCg4Ej3Lbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 843,
+          "like_count": 16750,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2336
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105423,
+          "following_count": 807,
+          "like_count": 37255,
+          "listed_count": 295,
+          "media_count": 19358,
+          "tweet_count": 27719
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "如果你想找到一个有趣的灵魂，来关注我吧，不会让你失望！\n段子，人性，治愈，情感，非专业东西我都擅长~~\n只要不涉政涉黄我都会回你，话题你挑，开心就好！\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2062484620910940470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 1736,
+          "like_count": 24762,
+          "listed_count": 8,
+          "media_count": 502,
+          "tweet_count": 20443
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065967222997274624"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2065967225580962292",
+    "created_at": "2026-06-14T01:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065967225580962292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CUZHi7WYa",
+          "end": 32,
+          "expanded_url": "https://x.com/aaarjkk/status/2065967225580962292/photo/1",
+          "media_key": "3_2065967222997274624",
+          "start": 9,
+          "url": "https://t.co/9CUZHi7WYa"
+        },
+        {
+          "display_url": "x.com/furgaewdfyy/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/furgaewdfyy/status/2065878721953923224",
+          "start": 33,
+          "url": "https://t.co/XBhrK2fIGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065967225580962292",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065878721953923224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Why？？😭😭😭 https://t.co/9CUZHi7WYa https://t.co/XBhrK2fIGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2065967222997274624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvKPkxaUAAzpSf.jpg",
+        "width": 751
+      },
+      {
+        "height": 651,
+        "media_key": "3_2065878715062771712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKt5vvBbYAA8JyW.png",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2065878715972964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKt5vyab0AAiXRO.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065967222997274624"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065967225580962292",
+        "created_at": "2026-06-14T01:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065967225580962292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CUZHi7WYa",
+              "end": 32,
+              "expanded_url": "https://x.com/aaarjkk/status/2065967225580962292/photo/1",
+              "media_key": "3_2065967222997274624",
+              "start": 9,
+              "url": "https://t.co/9CUZHi7WYa"
+            },
+            {
+              "display_url": "x.com/furgaewdfyy/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/furgaewdfyy/status/2065878721953923224",
+              "start": 33,
+              "url": "https://t.co/XBhrK2fIGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065967225580962292",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065878721953923224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why？？😭😭😭 https://t.co/9CUZHi7WYa https://t.co/XBhrK2fIGi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065878715062771712",
+            "3_2065878715972964352"
+          ]
+        },
+        "author_id": "1818147066985713664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065878721953923224",
+        "created_at": "2026-06-13T19:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065878721953923224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRPNxSNqnr",
+              "end": 42,
+              "expanded_url": "https://x.com/furgaewdfyy/status/2065878721953923224/photo/1",
+              "media_key": "3_2065878715062771712",
+              "start": 19,
+              "url": "https://t.co/bRPNxSNqnr"
+            },
+            {
+              "display_url": "pic.x.com/bRPNxSNqnr",
+              "end": 42,
+              "expanded_url": "https://x.com/furgaewdfyy/status/2065878721953923224/photo/1",
+              "media_key": "3_2065878715972964352",
+              "start": 19,
+              "url": "https://t.co/bRPNxSNqnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065878721953923224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 245,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特现在可以用+86手机号注册了！？ https://t.co/bRPNxSNqnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 843,
+          "like_count": 16720,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2333
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T04:50:52.000Z",
+        "description": "👏哈喽~ 这里是「奈程」大号是@gaewdfyy  Furry控 | \n目前主要在玩Minecraft和Osu! | \n新手摄影师qwq\n\n 主帐：@gaewdfyy | 里推：@Nachi_Michi_Day",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "gaewdfyy"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "gaewdfyy"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Nachi_Michi_Day"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gaewdfyy",
+                "end": 23,
+                "expanded_url": "https://t.me/gaewdfyy",
+                "start": 0,
+                "url": "https://t.co/FptNYK0FK6"
+              }
+            ]
+          }
+        },
+        "id": "1818147066985713664",
+        "location": "Luohe_Henan_China",
+        "name": "奈程Naichi_Michi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006405078148853766/u-q3H9bc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 3163,
+          "like_count": 105084,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 13482
+        },
+        "url": "https://t.co/FptNYK0FK6",
+        "username": "furgaewdfyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066746323924344832"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2066746327627911434",
+    "created_at": "2026-06-16T04:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066746327627911434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/28zniS6Vpj",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2066746327627911434/photo/1",
+          "media_key": "3_2066746323924344832",
+          "start": 5,
+          "url": "https://t.co/28zniS6Vpj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066746327627911434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍫好吃喵 https://t.co/28zniS6Vpj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2066746323924344832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6O1N5a4AAe3R2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066746323924344832"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2066746327627911434",
+        "created_at": "2026-06-16T04:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066746327627911434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28zniS6Vpj",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2066746327627911434/photo/1",
+              "media_key": "3_2066746323924344832",
+              "start": 5,
+              "url": "https://t.co/28zniS6Vpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066746327627911434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍫好吃喵 https://t.co/28zniS6Vpj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 844,
+          "like_count": 16889,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 2348
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

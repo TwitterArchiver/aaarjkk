@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2065947120318788092",
+    "created_at": "2026-06-14T00:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065947585505058989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045954929609629696",
+          "start": 0,
+          "username": "renchengxu15509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065947585505058989",
+    "in_reply_to_user_id": "2045954929609629696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065947120318788092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renchengxu15509 。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065947120318788092].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065947120318788092",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065947120318788092"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065947120318788092",
+        "created_at": "2026-06-14T00:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065947585505058989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045954929609629696",
+              "start": 0,
+              "username": "renchengxu15509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065947585505058989",
+        "in_reply_to_user_id": "2045954929609629696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065947120318788092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renchengxu15509 。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 842,
+          "like_count": 16703,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 2330
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T19:57:40.000Z",
+        "description": "里推小号，吐槽一些东西..之后应该不会同意别人的关注了，可以无视",
+        "id": "2045954929609629696",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065677326738661376/WaA2tvVh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 149,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 268
+        },
+        "username": "renchengxu15509",
+        "verified": false
+      }
+    ]
+  }
+}

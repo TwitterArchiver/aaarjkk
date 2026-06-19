@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065387097624858624"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2065387101122900159",
+    "created_at": "2026-06-12T10:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065387101122900159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hyiyi4uwXc",
+          "end": 62,
+          "expanded_url": "https://x.com/aaarjkk/status/2065387101122900159/photo/1",
+          "media_key": "3_2065387097624858624",
+          "start": 39,
+          "url": "https://t.co/Hyiyi4uwXc"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2065385508554059975",
+          "start": 63,
+          "url": "https://t.co/NzRpDI9JdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065387101122900159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065385508554059975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道为什么会生成成这个样子，可能是是训练数据张嘴的图片都是这个样子... https://t.co/Hyiyi4uwXc https://t.co/NzRpDI9JdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3504,
+        "media_key": "3_2065387097624858624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm6n1Wa0AAbU4k.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065385505035104256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm5LIfbsAA2qXu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387097624858624"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065387101122900159",
+        "created_at": "2026-06-12T10:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065387101122900159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hyiyi4uwXc",
+              "end": 62,
+              "expanded_url": "https://x.com/aaarjkk/status/2065387101122900159/photo/1",
+              "media_key": "3_2065387097624858624",
+              "start": 39,
+              "url": "https://t.co/Hyiyi4uwXc"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2065385508554059975",
+              "start": 63,
+              "url": "https://t.co/NzRpDI9JdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387101122900159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385508554059975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道为什么会生成成这个样子，可能是是训练数据张嘴的图片都是这个样子... https://t.co/Hyiyi4uwXc https://t.co/NzRpDI9JdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065385505035104256"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065385508554059975",
+        "created_at": "2026-06-12T10:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065385508554059975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4yxgz2i6R",
+              "end": 33,
+              "expanded_url": "https://x.com/aaarjkk/status/2065385508554059975/photo/1",
+              "media_key": "3_2065385505035104256",
+              "start": 10,
+              "url": "https://t.co/L4yxgz2i6R"
+            },
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/acnekot/status/2053495585853034892",
+              "start": 34,
+              "url": "https://t.co/HGGa9rD0xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065385508554059975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053495585853034892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们一般叫它为蠢包 https://t.co/L4yxgz2i6R https://t.co/HGGa9rD0xx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 834,
+          "like_count": 16560,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 2321
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

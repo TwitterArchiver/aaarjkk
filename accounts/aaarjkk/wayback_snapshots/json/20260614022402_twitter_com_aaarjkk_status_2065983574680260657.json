@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2065983004850446622",
+    "created_at": "2026-06-14T02:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065983574680260657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680800890452860930",
+          "start": 0,
+          "username": "baibai2094246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065983574680260657",
+    "in_reply_to_user_id": "1680800890452860930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065983004850446622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibai2094246 舔😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065983000912027649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvYl-FbYAEiyxJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065983000123502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvYl7JbcAA3F0v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065983001906081792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvYmBybcAApza0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2065983004850446622",
+        "created_at": "2026-06-14T02:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065983574680260657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680800890452860930",
+              "start": 0,
+              "username": "baibai2094246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065983574680260657",
+        "in_reply_to_user_id": "1680800890452860930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065983004850446622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibai2094246 舔😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065983000912027649",
+            "3_2065983000123502592",
+            "3_2065983001906081792"
+          ]
+        },
+        "author_id": "1680800890452860930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065983004850446622",
+        "created_at": "2026-06-14T02:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065983004850446622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yL5esVZxzO",
+              "end": 27,
+              "expanded_url": "https://x.com/baibai2094246/status/2065983004850446622/photo/1",
+              "media_key": "3_2065983000912027649",
+              "start": 4,
+              "url": "https://t.co/yL5esVZxzO"
+            },
+            {
+              "display_url": "pic.x.com/yL5esVZxzO",
+              "end": 27,
+              "expanded_url": "https://x.com/baibai2094246/status/2065983004850446622/photo/1",
+              "media_key": "3_2065983000123502592",
+              "start": 4,
+              "url": "https://t.co/yL5esVZxzO"
+            },
+            {
+              "display_url": "pic.x.com/yL5esVZxzO",
+              "end": 27,
+              "expanded_url": "https://x.com/baibai2094246/status/2065983004850446622/photo/1",
+              "media_key": "3_2065983001906081792",
+              "start": 4,
+              "url": "https://t.co/yL5esVZxzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065983004850446622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃雪糕 https://t.co/yL5esVZxzO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 843,
+          "like_count": 16761,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2338
+        },
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T04:46:31.000Z",
+        "description": "20080826 无证含🍬 不喜欢自己的生日 高二生 中度抑郁 精神痛苦 性格软软的可以欺负 希望突然猝死",
+        "id": "1680800890452860930",
+        "location": "你的床上",
+        "name": "心が痛い🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035502481774723072/Dpsg5ppL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 246,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 106
+        },
+        "username": "baibai2094246",
+        "verified": false
+      }
+    ]
+  }
+}

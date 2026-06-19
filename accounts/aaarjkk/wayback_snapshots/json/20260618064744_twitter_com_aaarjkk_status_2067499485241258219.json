@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2067499485241258219",
+    "created_at": "2026-06-18T06:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067499485241258219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2067386333967114334",
+          "start": 21,
+          "url": "https://t.co/bCjnkh3Q2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067499485241258219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067386333967114334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回学校拿作业端午喵，讨厌喵，脚脚全湿了喵 https://t.co/bCjnkh3Q2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2347,
+        "media_key": "3_2067386330452283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDU6gAbUAA29Dj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2067499485241258219",
+        "created_at": "2026-06-18T06:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067499485241258219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2067386333967114334",
+              "start": 21,
+              "url": "https://t.co/bCjnkh3Q2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067499485241258219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067386333967114334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回学校拿作业端午喵，讨厌喵，脚脚全湿了喵 https://t.co/bCjnkh3Q2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067386330452283392"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2067386333967114334",
+        "created_at": "2026-06-17T23:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067386333967114334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkIw3Wt1co",
+              "end": 46,
+              "expanded_url": "https://x.com/aaarjkk/status/2067386333967114334/photo/1",
+              "media_key": "3_2067386330452283392",
+              "start": 23,
+              "url": "https://t.co/tkIw3Wt1co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067386333967114334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "端午假期+1喵，祝大家端午安康端午节快乐喵🌷 https://t.co/tkIw3Wt1co"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 865,
+          "like_count": 17363,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}
