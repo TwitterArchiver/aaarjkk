@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067843869392412672"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2067843903487959517",
+    "created_at": "2026-06-19T05:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067843903487959517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfFfiykP8Q",
+          "end": 41,
+          "expanded_url": "https://x.com/aaarjkk/status/2067843903487959517/video/1",
+          "media_key": "7_2067843869392412672",
+          "start": 18,
+          "url": "https://t.co/YfFfiykP8Q"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2067842277234585925",
+          "start": 42,
+          "url": "https://t.co/o0yNF0NTlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067843903487959517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067842277234585925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是Gboard也有这个功能就好了 https://t.co/YfFfiykP8Q https://t.co/o0yNF0NTlz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68989,
+        "height": 1280,
+        "media_key": "7_2067843869392412672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067843869392412672/pu/img/KiLzYnQVTAMBRXe3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843869392412672/pu/vid/avc1/320x702/1S1HpXIRxrju41uJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843869392412672/pu/vid/avc1/480x1054/D1ZpuzMQZBvxdhm1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843869392412672/pu/vid/avc1/582x1280/gw4wHypbR77zY5iX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067843869392412672/pu/pl/LnNrWMHXpszMT67S.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "duration_ms": 25405,
+        "height": 1280,
+        "media_key": "7_2067842176332206080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067842176332206080/pu/img/SWvb533X8VqDQ6rO.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067842176332206080/pu/vid/avc1/320x702/IiAcJwvUOuaxDm24.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067842176332206080/pu/vid/avc1/480x1054/xVLiA90vGjy3VRpu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067842176332206080/pu/vid/avc1/582x1280/N8E8DjddjDjV9eRE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067842176332206080/pu/pl/I_xx3ULQH3W0qh8D.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067843869392412672"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2067843903487959517",
+        "created_at": "2026-06-19T05:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067843903487959517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfFfiykP8Q",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2067843903487959517/video/1",
+              "media_key": "7_2067843869392412672",
+              "start": 18,
+              "url": "https://t.co/YfFfiykP8Q"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2067842277234585925",
+              "start": 42,
+              "url": "https://t.co/o0yNF0NTlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067843903487959517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067842277234585925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是Gboard也有这个功能就好了 https://t.co/YfFfiykP8Q https://t.co/o0yNF0NTlz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067842176332206080"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2067842277234585925",
+        "created_at": "2026-06-19T05:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067842277234585925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uJH4NoAlX",
+              "end": 46,
+              "expanded_url": "https://x.com/aaarjkk/status/2067842277234585925/video/1",
+              "media_key": "7_2067842176332206080",
+              "start": 23,
+              "url": "https://t.co/9uJH4NoAlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067842277234585925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google输入工具？\n好像不是Gboard https://t.co/9uJH4NoAlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 869,
+          "like_count": 17641,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}
