@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2063920769877582124",
+    "created_at": "2026-06-21T02:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068527477627179008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029856511393173504",
+          "start": 0,
+          "username": "xuanyuxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068527477627179008",
+    "in_reply_to_user_id": "2029856511393173504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063920769877582124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyuxin 这么帅🤩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7861,
+        "height": 640,
+        "media_key": "7_2063920567758307328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063920567758307328/pu/img/myCzdyOmQENrkKoy.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063920567758307328/pu/vid/avc1/320x568/n9GEL7GAcrRLqtdS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063920567758307328/pu/vid/avc1/360x640/lz1mMezs03AGstT2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063920567758307328/pu/pl/bKE5ACMaWlqlOp6N.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2063920769877582124",
+        "created_at": "2026-06-21T02:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068527477627179008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029856511393173504",
+              "start": 0,
+              "username": "xuanyuxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068527477627179008",
+        "in_reply_to_user_id": "2029856511393173504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063920769877582124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyuxin 这么帅🤩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063920567758307328"
+          ]
+        },
+        "author_id": "2029856511393173504",
+        "conversation_id": "2063920769877582124",
+        "created_at": "2026-06-08T09:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063920769877582124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czdlWbhU8b",
+              "end": 29,
+              "expanded_url": "https://x.com/xuanyuxin/status/2063920769877582124/video/1",
+              "media_key": "7_2063920567758307328",
+              "start": 6,
+              "url": "https://t.co/czdlWbhU8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063920769877582124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为高考静音 https://t.co/czdlWbhU8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 891,
+          "like_count": 18079,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:48:28.000Z",
+        "description": "",
+        "id": "2029856511393173504",
+        "name": "轩宇鑫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063053277521166336/9zvkfSwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "xuanyuxin",
+        "verified": false
+      }
+    ]
+  }
+}

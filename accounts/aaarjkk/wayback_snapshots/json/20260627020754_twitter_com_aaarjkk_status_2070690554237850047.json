@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070428853030539552",
+    "created_at": "2026-06-27T02:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070690554237850047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008789439527743488",
+          "start": 0,
+          "username": "yuzhile_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070690554237850047",
+    "in_reply_to_user_id": "2008789439527743488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070428853030539552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhile_dev 恭喜恭喜ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070428844172165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLukEG2awAAI-NQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070428853030539552",
+        "created_at": "2026-06-27T02:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070690554237850047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008789439527743488",
+              "start": 0,
+              "username": "yuzhile_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070690554237850047",
+        "in_reply_to_user_id": "2008789439527743488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070428853030539552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhile_dev 恭喜恭喜ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070428844172165120"
+          ]
+        },
+        "author_id": "2008789439527743488",
+        "conversation_id": "2070428853030539552",
+        "created_at": "2026-06-26T08:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070428853030539552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcQiKfpxYC",
+              "end": 30,
+              "expanded_url": "https://x.com/yuzhile_dev/status/2070428853030539552/photo/1",
+              "media_key": "3_2070428844172165120",
+              "start": 7,
+              "url": "https://t.co/JcQiKfpxYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428853030539552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15309,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 224,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当爸爸啦！ https://t.co/JcQiKfpxYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 906,
+          "like_count": 18790,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T06:35:16.000Z",
+        "description": "十多年编程老炮 | CTO | 独立开发出海 | vibe coding  🚀\nJava、Python | 网络爬虫 | 软件架构 | OCR   🚀\n有空点个关注 | 我小手一动就会给你来个互关加评论🚀",
+        "id": "2008789439527743488",
+        "name": "于知乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008789959650791425/Ww4Ddzss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1256,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "yuzhile_dev",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068527160600780800"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068423906034381240",
+    "created_at": "2026-06-21T02:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068527163935207687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        },
+        {
+          "end": 29,
+          "id": "1813261726391148546",
+          "start": 14,
+          "username": "James483582762"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eYZXIomk7E",
+          "end": 88,
+          "expanded_url": "https://x.com/aaarjkk/status/2068527163935207687/photo/1",
+          "media_key": "3_2068527160600780800",
+          "start": 65,
+          "url": "https://t.co/eYZXIomk7E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068527163935207687",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068525409608913386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw @James483582762 刚刚卖了了个tg号赚了20😁）（不过并非赚了20，因为没有减去成本） https://t.co/eYZXIomk7E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2068527160600780800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTifjfbYAAmcCV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068527160600780800"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068423906034381240",
+        "created_at": "2026-06-21T02:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068527163935207687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            },
+            {
+              "end": 29,
+              "id": "1813261726391148546",
+              "start": 14,
+              "username": "James483582762"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYZXIomk7E",
+              "end": 88,
+              "expanded_url": "https://x.com/aaarjkk/status/2068527163935207687/photo/1",
+              "media_key": "3_2068527160600780800",
+              "start": 65,
+              "url": "https://t.co/eYZXIomk7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068527163935207687",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068525409608913386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw @James483582762 刚刚卖了了个tg号赚了20😁）（不过并非赚了20，因为没有减去成本） https://t.co/eYZXIomk7E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2068423906034381240",
+        "created_at": "2026-06-21T02:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068525409608913386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            },
+            {
+              "end": 29,
+              "id": "1813261726391148546",
+              "start": 14,
+              "username": "James483582762"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068525409608913386",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068524833902928364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw @James483582762 我现在已经没钱了，我拿60cny换usdt然后转账几次，手续费收了我至少50cny😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 891,
+          "like_count": 18078,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  初二\n(为什么没有人和我互fo呢)\n15歲年齡党+空气人属性\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详      求灌注🥺→←(卑微)",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️(中考加油😰)",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 251,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2067217968505749600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 533,
+          "like_count": 8712,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "James483582762",
+        "verified": false
+      }
+    ]
+  }
+}

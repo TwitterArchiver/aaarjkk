@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068568975638983096",
+    "created_at": "2026-06-21T07:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068599533953773649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Yg_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068599533953773649",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068568975638983096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yg_Xyn 好像新鸿蒙安卓可以装"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068568956882018304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIgaxaYAAOcdY.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068568967527239680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUIhCbbkAAoZBJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068568975638983096",
+        "created_at": "2026-06-21T07:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068599533953773649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068599533953773649",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068568975638983096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 好像新鸿蒙安卓可以装"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068568956882018304",
+            "3_2068568967527239680"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2068568975638983096",
+        "created_at": "2026-06-21T05:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068568975638983096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfuu4OlOTN",
+              "end": 47,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2068568975638983096/photo/1",
+              "media_key": "3_2068568956882018304",
+              "start": 24,
+              "url": "https://t.co/lfuu4OlOTN"
+            },
+            {
+              "display_url": "pic.x.com/lfuu4OlOTN",
+              "end": 47,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2068568975638983096/photo/1",
+              "media_key": "3_2068568967527239680",
+              "start": 24,
+              "url": "https://t.co/lfuu4OlOTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068568975638983096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于在我的鼎桥手机上安装了Google服务🫠 https://t.co/lfuu4OlOTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 892,
+          "like_count": 18182,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 126,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 103,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 8,
+          "like_count": 2266,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

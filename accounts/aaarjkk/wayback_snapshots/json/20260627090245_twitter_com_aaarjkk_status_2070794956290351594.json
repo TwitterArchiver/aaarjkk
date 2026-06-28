@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070794540856791371",
+    "created_at": "2026-06-27T09:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070794956290351594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929778281840365570",
+          "start": 0,
+          "username": "adorableLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070794956290351594",
+    "in_reply_to_user_id": "1929778281840365570",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070794540856791371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adorableLing owo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070794529125380099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzwpxdXMAMIlZF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070794540856791371",
+        "created_at": "2026-06-27T09:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070794956290351594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929778281840365570",
+              "start": 0,
+              "username": "adorableLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070794956290351594",
+        "in_reply_to_user_id": "1929778281840365570",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070794540856791371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adorableLing owo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070794529125380099"
+          ]
+        },
+        "author_id": "1929778281840365570",
+        "conversation_id": "2070794540856791371",
+        "created_at": "2026-06-27T09:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070794540856791371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ME4vlM2h0k",
+              "end": 33,
+              "expanded_url": "https://x.com/adorableLing/status/2070794540856791371/photo/1",
+              "media_key": "3_2070794529125380099",
+              "start": 10,
+              "url": "https://t.co/ME4vlM2h0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070794540856791371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦哦非常好看的壳 https://t.co/ME4vlM2h0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 913,
+          "like_count": 18964,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T05:53:05.000Z",
+        "description": "mtf🏳️‍⚧️//哲学，性别与社会政策研究//数码爱好者//果粉//hrt：2025.7.26//来自@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "1929778281840365570",
+        "name": "Sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061014175867101184/0ClSq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 4,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "adorableLing",
+        "verified": false
+      }
+    ]
+  }
+}

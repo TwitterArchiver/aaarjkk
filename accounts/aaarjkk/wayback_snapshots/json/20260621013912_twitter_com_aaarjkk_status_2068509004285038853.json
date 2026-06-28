@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068242756896718893",
+    "created_at": "2026-06-21T01:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068509004285038853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        },
+        {
+          "end": 28,
+          "id": "1977200375766958082",
+          "start": 15,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068509004285038853",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068281562203091037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 @yvanyvandecw 不至于"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068242756896718893",
+        "created_at": "2026-06-21T01:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068509004285038853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            },
+            {
+              "end": 28,
+              "id": "1977200375766958082",
+              "start": 15,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068509004285038853",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281562203091037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 @yvanyvandecw 不至于"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2068242756896718893",
+        "created_at": "2026-06-20T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068281562203091037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068281562203091037",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1045,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068242756896718893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 其实大部分人在梯子这一关就被抓了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 890,
+          "like_count": 18020,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇭🇰🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065199093807464448/9K0BrpHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 78,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  初二\n(为什么没有人和我互fo呢)\n15歲年齡党+空气人属性\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详      求灌注🥺→←(卑微)",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️(中考加油😰)",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 249,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": false
+      }
+    ]
+  }
+}

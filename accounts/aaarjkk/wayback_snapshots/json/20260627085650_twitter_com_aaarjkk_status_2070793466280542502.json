@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070793463466176512"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070793466280542502",
+    "created_at": "2026-06-27T08:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070793466280542502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTx2AqOezj",
+          "end": 72,
+          "expanded_url": "https://x.com/aaarjkk/status/2070793466280542502/photo/1",
+          "media_key": "3_2070793463466176512",
+          "start": 49,
+          "url": "https://t.co/MTx2AqOezj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070793466280542502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "埃及的号telegram会向你发埃及的文字即使你设置了客户端中文（有的烦，还是从右至左的文字.） https://t.co/MTx2AqOezj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2070793463466176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzvrvkaMAAgCWN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070793463466176512"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070793466280542502",
+        "created_at": "2026-06-27T08:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070793466280542502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTx2AqOezj",
+              "end": 72,
+              "expanded_url": "https://x.com/aaarjkk/status/2070793466280542502/photo/1",
+              "media_key": "3_2070793463466176512",
+              "start": 49,
+              "url": "https://t.co/MTx2AqOezj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070793466280542502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "埃及的号telegram会向你发埃及的文字即使你设置了客户端中文（有的烦，还是从右至左的文字.） https://t.co/MTx2AqOezj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 913,
+          "like_count": 18952,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

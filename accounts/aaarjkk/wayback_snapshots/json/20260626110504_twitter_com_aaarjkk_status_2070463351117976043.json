@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070294414325653528",
+    "created_at": "2026-06-26T11:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070463351117976043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070463351117976043",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070294414325653528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 祝贺🎉(＾▽＾)🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070294409502248960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLspy-rb0AAumdy.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070294414325653528",
+        "created_at": "2026-06-26T11:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070463351117976043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070463351117976043",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070294414325653528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 祝贺🎉(＾▽＾)🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070294409502248960"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2070294414325653528",
+        "created_at": "2026-06-25T23:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070294414325653528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFa1Zb3Uul",
+              "end": 38,
+              "expanded_url": "https://x.com/TixItem4527/status/2070294414325653528/photo/1",
+              "media_key": "3_2070294409502248960",
+              "start": 15,
+              "url": "https://t.co/EFa1Zb3Uul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070294414325653528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念🎉\n#mtf https://t.co/EFa1Zb3Uul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 906,
+          "like_count": 18694,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 838,
+          "like_count": 2063,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

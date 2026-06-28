@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068279966845010397",
+    "created_at": "2026-06-21T08:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068609974478217541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 30,
+          "id": "2032475934947975168",
+          "start": 14,
+          "username": "SuSu__OVOciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068609974478217541",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068609568041849094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 @SuSu__OVOciallo 不知道现在telega还能不能过sms"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-21T08:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068609974478217541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 30,
+              "id": "2032475934947975168",
+              "start": 14,
+              "username": "SuSu__OVOciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068609974478217541",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609568041849094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 @SuSu__OVOciallo 不知道现在telega还能不能过sms"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910893768498438146",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-21T08:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068609568041849094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032475934947975168",
+              "start": 0,
+              "username": "SuSu__OVOciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068609568041849094",
+        "in_reply_to_user_id": "2032475934947975168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609103690428506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuSu__OVOciallo 没有教程\n因为我不会跳过SMS fee页面😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 892,
+          "like_count": 18251,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n有空会回复或互动任何人，如果有一段时间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2063176619808969019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068294587584823296/wKNciw-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 114,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T15:17:04.000Z",
+        "description": "关注我的基本都会回关/🏳️‍⚧️mtf/已出柜/不od/撞大运可以转生异世界当美少女吗？ 二次元死宅，让我烂在床上吧……都来和我聊天 🇨🇳",
+        "id": "2032475934947975168",
+        "name": "蘇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039407039072681984/83S5ARqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 109,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "SuSu__OVOciallo",
+        "verified": false
+      }
+    ]
+  }
+}

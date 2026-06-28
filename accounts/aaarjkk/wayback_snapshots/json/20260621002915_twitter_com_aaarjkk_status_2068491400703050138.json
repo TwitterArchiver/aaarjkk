@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068491375168135168",
+        "3_2068491387440619520",
+        "3_2068491396907163648"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068491400703050138",
+    "created_at": "2026-06-21T00:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068491400703050138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXtwMgvLre",
+          "end": 29,
+          "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+          "media_key": "3_2068491375168135168",
+          "start": 6,
+          "url": "https://t.co/xXtwMgvLre"
+        },
+        {
+          "display_url": "pic.x.com/xXtwMgvLre",
+          "end": 29,
+          "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+          "media_key": "3_2068491387440619520",
+          "start": 6,
+          "url": "https://t.co/xXtwMgvLre"
+        },
+        {
+          "display_url": "pic.x.com/xXtwMgvLre",
+          "end": 29,
+          "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+          "media_key": "3_2068491396907163648",
+          "start": 6,
+          "url": "https://t.co/xXtwMgvLre"
+        },
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/grok/status/2026387181208506513",
+          "start": 30,
+          "url": "https://t.co/iyTojpe6dh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068491400703050138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026387181208506513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "深信不疑😂 https://t.co/xXtwMgvLre https://t.co/iyTojpe6dh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2068491375168135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTB8kXbIAA4iva.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2068491387440619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTB9SFaYAAlaH6.jpg",
+        "width": 2640
+      },
+      {
+        "height": 531,
+        "media_key": "3_2068491396907163648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTB91WaYAAAvhG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068491375168135168",
+            "3_2068491387440619520",
+            "3_2068491396907163648"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068491400703050138",
+        "created_at": "2026-06-21T00:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068491400703050138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXtwMgvLre",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+              "media_key": "3_2068491375168135168",
+              "start": 6,
+              "url": "https://t.co/xXtwMgvLre"
+            },
+            {
+              "display_url": "pic.x.com/xXtwMgvLre",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+              "media_key": "3_2068491387440619520",
+              "start": 6,
+              "url": "https://t.co/xXtwMgvLre"
+            },
+            {
+              "display_url": "pic.x.com/xXtwMgvLre",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2068491400703050138/photo/1",
+              "media_key": "3_2068491396907163648",
+              "start": 6,
+              "url": "https://t.co/xXtwMgvLre"
+            },
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/grok/status/2026387181208506513",
+              "start": 30,
+              "url": "https://t.co/iyTojpe6dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068491400703050138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026387181208506513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "深信不疑😂 https://t.co/xXtwMgvLre https://t.co/iyTojpe6dh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1818365745186931109",
+        "created_at": "2026-02-24T20:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T21:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026387181208506513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1361987194185916416",
+              "start": 0,
+              "username": "Zhenzhu3982"
+            },
+            {
+              "end": 26,
+              "id": "1131447707397058560",
+              "start": 13,
+              "username": "Joan57643996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026387181208506513",
+        "in_reply_to_user_id": "1361987194185916416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026387057829109798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhenzhu3982 @Joan57643996 假的，这是 parody 账号（meelonmuskusa）的截图，不是真·马斯克。1.7 万亿刀的 PayPal 余额？明显 PS 的，离谱到爆。😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 889,
+          "like_count": 17997,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8818311,
+          "following_count": 5,
+          "like_count": 108,
+          "listed_count": 7041,
+          "media_count": 9070629,
+          "tweet_count": 129473102
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

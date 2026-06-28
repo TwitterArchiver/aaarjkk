@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068603292415107072"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068279966845010397",
+    "created_at": "2026-06-21T07:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068603295846043710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        },
+        {
+          "end": 27,
+          "id": "1910893768498438146",
+          "start": 14,
+          "username": "mengxin66666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pa5yWpCd9j",
+          "end": 53,
+          "expanded_url": "https://x.com/aaarjkk/status/2068603295846043710/photo/1",
+          "media_key": "3_2068603292415107072",
+          "start": 30,
+          "url": "https://t.co/Pa5yWpCd9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068603295846043710",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068522843638538284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw @mengxin66666 同 https://t.co/Pa5yWpCd9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2068603292415107072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUnvAmbIAA-_7I.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068522825565319168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTejOObsAA8fzD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068603292415107072"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-21T07:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068603295846043710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            },
+            {
+              "end": 27,
+              "id": "1910893768498438146",
+              "start": 14,
+              "username": "mengxin66666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pa5yWpCd9j",
+              "end": 53,
+              "expanded_url": "https://x.com/aaarjkk/status/2068603295846043710/photo/1",
+              "media_key": "3_2068603292415107072",
+              "start": 30,
+              "url": "https://t.co/Pa5yWpCd9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068603295846043710",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068522843638538284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw @mengxin66666 同 https://t.co/Pa5yWpCd9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068522825565319168"
+          ]
+        },
+        "author_id": "1977200375766958082",
+        "conversation_id": "2068279966845010397",
+        "created_at": "2026-06-21T02:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068522843638538284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhmXZcDIIo",
+              "end": 72,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2068522843638538284/photo/1",
+              "media_key": "3_2068522825565319168",
+              "start": 49,
+              "url": "https://t.co/hhmXZcDIIo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068522843638538284",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068279966845010397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 14岁     拥有自己的+86tg账号\n没钱充，使用了半年没有问题 https://t.co/hhmXZcDIIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 892,
+          "like_count": 18219,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2510
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  初二\n(为什么没有人和我互fo呢)\n15歲年齡党+空气人属性\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详      求灌注🥺→←(卑微)",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️(中考加油😰)",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 257,
+          "like_count": 416,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n有空会回复或互动任何人，如果有一段时间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2063176619808969019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068294587584823296/wKNciw-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 111,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": false
+      }
+    ]
+  }
+}

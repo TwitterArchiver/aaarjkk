@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068533141435043840"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068533143892815972",
+    "created_at": "2026-06-21T03:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068533143892815972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQ783cXHlg",
+          "end": 29,
+          "expanded_url": "https://x.com/aaarjkk/status/2068533143892815972/photo/1",
+          "media_key": "3_2068533141435043840",
+          "start": 6,
+          "url": "https://t.co/jQ783cXHlg"
+        },
+        {
+          "display_url": "x.com/ZX65535plus1/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ZX65535plus1/status/2068532462209335569",
+          "start": 30,
+          "url": "https://t.co/XKnlRB8CSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068533143892815972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068532462209335569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 原！ https://t.co/jQ783cXHlg https://t.co/XKnlRB8CSo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2068533141435043840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTn7r1b0AAa2G-.jpg",
+        "width": 1196
+      },
+      {
+        "height": 2039,
+        "media_key": "3_2068532451635560448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTnTiIbAAAUKhl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068533141435043840"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068533143892815972",
+        "created_at": "2026-06-21T03:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068533143892815972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQ783cXHlg",
+              "end": 29,
+              "expanded_url": "https://x.com/aaarjkk/status/2068533143892815972/photo/1",
+              "media_key": "3_2068533141435043840",
+              "start": 6,
+              "url": "https://t.co/jQ783cXHlg"
+            },
+            {
+              "display_url": "x.com/ZX65535plus1/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ZX65535plus1/status/2068532462209335569",
+              "start": 30,
+              "url": "https://t.co/XKnlRB8CSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068533143892815972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068532462209335569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 原！ https://t.co/jQ783cXHlg https://t.co/XKnlRB8CSo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068532451635560448"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2068532462209335569",
+        "created_at": "2026-06-21T03:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068532462209335569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0oyLuuoob",
+              "end": 32,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2068532462209335569/photo/1",
+              "media_key": "3_2068532451635560448",
+              "start": 9,
+              "url": "https://t.co/t0oyLuuoob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068532462209335569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克你在干什么 https://t.co/t0oyLuuoob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 892,
+          "like_count": 18120,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2067065504347587044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 1455,
+          "like_count": 80642,
+          "listed_count": 11,
+          "media_count": 1149,
+          "tweet_count": 23273
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

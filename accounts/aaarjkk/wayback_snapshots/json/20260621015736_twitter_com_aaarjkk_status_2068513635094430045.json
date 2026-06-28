@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2067906873031081986",
+    "created_at": "2026-06-21T01:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068513635094430045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "cmyf_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068513635094430045",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068512974755819822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmyf_qwq 本来我之前是要注册一个香港的Google账号的，但我刚注册完就切回台湾节点了，然后那个账号就变成了台湾的账号了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2067906873031081986",
+        "created_at": "2026-06-21T01:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068513635094430045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "cmyf_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068513635094430045",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068512974755819822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmyf_qwq 本来我之前是要注册一个香港的Google账号的，但我刚注册完就切回台湾节点了，然后那个账号就变成了台湾的账号了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682445540695609345",
+        "conversation_id": "2067906873031081986",
+        "created_at": "2026-06-21T01:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068512974755819822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068512974755819822",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068512803464601980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 😨神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 891,
+          "like_count": 18046,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖/165cm45kg/天赋党？/HRT2024.10.2已炸柜/性取向泛性恋/梦想是成为可爱的小女孩/不要上来就私信要我联系方式请说明原因/不线下,不约！！！/我们活着就是对恶意的最大反抗！/老公~@Daiduodexiaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Daiduodexiaos"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4123,
+          "following_count": 325,
+          "like_count": 201,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "cmyf_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

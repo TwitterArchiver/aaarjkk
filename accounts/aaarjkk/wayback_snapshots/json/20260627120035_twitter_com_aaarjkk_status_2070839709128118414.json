@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070793466280542502",
+    "created_at": "2026-06-27T12:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070839709128118414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070839709128118414",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070839271725113601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 他不会说中文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070793466280542502",
+        "created_at": "2026-06-27T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839709128118414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839709128118414",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070839271725113601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 他不会说中文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2070793466280542502",
+        "created_at": "2026-06-27T11:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839271725113601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839271725113601",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070793466280542502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 我一直以为他只会传英文讯息 \n（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 912,
+          "like_count": 19025,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/TlGqU4YAhS"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 279,
+          "like_count": 12360,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/TlGqU4YAhS",
+        "username": "voidsama777",
+        "verified": false
+      }
+    ]
+  }
+}

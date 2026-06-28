@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2068242756896718893",
+    "created_at": "2026-06-21T01:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068509386344186108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068509386344186108",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068242756896718893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw 我是从telegram上了解到X\n当时注册telegram还挺容易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2068242756896718893",
+        "created_at": "2026-06-21T01:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068509386344186108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068509386344186108",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068242756896718893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 我是从telegram上了解到X\n当时注册telegram还挺容易"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977200375766958082",
+        "conversation_id": "2068242756896718893",
+        "created_at": "2026-06-20T08:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068242756896718893"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068242756896718893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12481,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自从我下载QQ加了一个男娘群，又搞明白怎么弄推特和梯子，又在推特上了解LGBT和药娘并使我大开眼界之后，本人就一发不可收拾了😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 891,
+          "like_count": 18021,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  初二\n(为什么没有人和我互fo呢)\n15歲年齡党+空气人属性\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详      求灌注🥺→←(卑微)",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️(中考加油😰)",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 249,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": false
+      }
+    ]
+  }
+}

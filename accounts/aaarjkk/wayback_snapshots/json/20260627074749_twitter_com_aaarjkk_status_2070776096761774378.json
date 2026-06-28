@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070346819608166705",
+    "created_at": "2026-06-27T07:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070776096761774378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        },
+        {
+          "end": 25,
+          "id": "1509391402484080646",
+          "start": 14,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070776096761774378",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070688496302645309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 @moran_neko 现在可以直接把报告丢给ai了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070346819608166705",
+        "created_at": "2026-06-27T07:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070776096761774378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            },
+            {
+              "end": 25,
+              "id": "1509391402484080646",
+              "start": 14,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070776096761774378",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070688496302645309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 @moran_neko 现在可以直接把报告丢给ai了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2070346819608166705",
+        "created_at": "2026-06-27T01:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688496302645309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688496302645309",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070346819608166705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 一杯茶，一包烟，对着崩溃报告修一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 911,
+          "like_count": 18934,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4598,
+          "following_count": 1453,
+          "like_count": 80876,
+          "listed_count": 11,
+          "media_count": 1156,
+          "tweet_count": 23435
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "有你在，我的每个夜晚都不再黑暗┋ଳ\n成分请看置顶帖┋ଳ\n已找回走失的孩子@mioyuki_21（小号）┋ଳ\n互fo请私信🐱 ┋ଳ\n最最最爱的宝贝❤️❤️@Evievmmm┋ଳ\n好用稳定梯子机场✈️🉑私┋ଳ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "mioyuki_21"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "Evievmmm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "西三环七号汇流井J-A6-01",
+        "name": "默然𐝋⊹꒷⭒𓆟⋆｡˚𖦹𓆜✩⋆𓊝𓄹𓄺²¹",
+        "pinned_tweet_id": "2050599873410642152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064911242750570496/woFggNK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3526,
+          "following_count": 1931,
+          "like_count": 44244,
+          "listed_count": 7,
+          "media_count": 2124,
+          "tweet_count": 9493
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

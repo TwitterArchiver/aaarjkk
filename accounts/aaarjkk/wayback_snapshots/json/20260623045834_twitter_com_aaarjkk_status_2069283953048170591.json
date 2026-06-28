@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2069045272836190473",
+    "created_at": "2026-06-23T04:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069283953048170591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069283953048170591",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069055540861563121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2069045272836190473",
+        "created_at": "2026-06-23T04:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069283953048170591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069283953048170591",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069055540861563121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688792465292374016",
+        "conversation_id": "2069045272836190473",
+        "created_at": "2026-06-22T13:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069055540861563121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069055540861563121",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069045272836190473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 恭喜喵🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 891,
+          "like_count": 18302,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵🏳️‍⚧️｜微微查成分，ok就都会回fo😽😽😽｜小号@tsurumi_37400 欢迎关注喵｜最好的伙伴 @tomo9487｜thankyou @arashi5official｜DC链接在下面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "tomo9487"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "arashi5official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "pinned_tweet_id": "2069067539976794518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 542,
+          "like_count": 79820,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

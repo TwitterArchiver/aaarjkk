@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2069045272836190473",
+    "created_at": "2026-06-23T11:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069389417115164699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066758908233027584",
+          "start": 0,
+          "username": "a_username_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069389417115164699",
+    "in_reply_to_user_id": "2066758908233027584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069048960388628585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_username_owo 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2069045272836190473",
+        "created_at": "2026-06-23T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069389417115164699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066758908233027584",
+              "start": 0,
+              "username": "a_username_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069389417115164699",
+        "in_reply_to_user_id": "2066758908233027584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069048960388628585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_username_owo 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2069045272836190473",
+        "created_at": "2026-06-22T13:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069048960388628585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069048960388628585",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069045272836190473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯查成分互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 895,
+          "like_count": 18430,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 2549
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "小男孩2.0",
+        "id": "2066758908233027584",
+        "location": "你的心裡",
+        "name": "可愛的小男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066759401760034816/sXQZVEgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 2126,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false
+      }
+    ]
+  }
+}
