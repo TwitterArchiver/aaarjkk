@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071103861931249664"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2071017047266644070",
+    "created_at": "2026-06-28T05:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071103864284279266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942490660206215168",
+          "start": 0,
+          "username": "CryptoTrailr_"
+        },
+        {
+          "end": 27,
+          "id": "2042095951897358338",
+          "start": 15,
+          "username": "teacher_cao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2tlCMM6bsS",
+          "end": 59,
+          "expanded_url": "https://x.com/aaarjkk/status/2071103864284279266/photo/1",
+          "media_key": "3_2071103861931249664",
+          "start": 36,
+          "url": "https://t.co/2tlCMM6bsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071103864284279266",
+    "in_reply_to_user_id": "1942490660206215168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071058234044285268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoTrailr_ @teacher_cao 改一下就好了喵 https://t.co/2tlCMM6bsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2071103861931249664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4J_T9aEAAq9Ho.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071058162770452481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3gbRUbIAEHEpz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071103861931249664"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2071017047266644070",
+        "created_at": "2026-06-28T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071103864284279266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942490660206215168",
+              "start": 0,
+              "username": "CryptoTrailr_"
+            },
+            {
+              "end": 27,
+              "id": "2042095951897358338",
+              "start": 15,
+              "username": "teacher_cao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tlCMM6bsS",
+              "end": 59,
+              "expanded_url": "https://x.com/aaarjkk/status/2071103864284279266/photo/1",
+              "media_key": "3_2071103861931249664",
+              "start": 36,
+              "url": "https://t.co/2tlCMM6bsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071103864284279266",
+        "in_reply_to_user_id": "1942490660206215168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071058234044285268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoTrailr_ @teacher_cao 改一下就好了喵 https://t.co/2tlCMM6bsS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071058162770452481"
+          ]
+        },
+        "author_id": "1942490660206215168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071017047266644070",
+        "created_at": "2026-06-28T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071058234044285268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042095951897358338",
+              "start": 0,
+              "username": "teacher_cao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIHIvkpnDC",
+              "end": 47,
+              "expanded_url": "https://x.com/CryptoTrailr_/status/2071058234044285268/photo/1",
+              "media_key": "3_2071058162770452481",
+              "start": 24,
+              "url": "https://t.co/kIHIvkpnDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071058234044285268",
+        "in_reply_to_user_id": "2042095951897358338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34129,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071017047266644070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacher_cao 草哥 为啥我刷不了？ https://t.co/kIHIvkpnDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 925,
+          "like_count": 19274,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:47:33.000Z",
+        "description": "探索区块链 & Web3 | 挖掘百倍金狗 ，玩玩梗，纯图一乐。",
+        "id": "1942490660206215168",
+        "name": "CryptoTrailr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004531899214303232/cGalqUtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 2259,
+          "like_count": 3287,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "CryptoTrailr_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T04:24:11.000Z",
+        "description": "Web3 | AI Agent | X居民 | 运营增长 | 情感导师\n小草Cao：@teacher_scao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "teacher_scao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/teachercaox",
+                "end": 23,
+                "expanded_url": "https://t.me/teachercaox",
+                "start": 0,
+                "url": "https://t.co/k8Ndxhd1Bz"
+              }
+            ]
+          }
+        },
+        "id": "2042095951897358338",
+        "name": "Cao草",
+        "pinned_tweet_id": "2063159208271663556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064490491832619010/hegWxJXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 1201,
+          "like_count": 9279,
+          "listed_count": 11,
+          "media_count": 498,
+          "tweet_count": 8582
+        },
+        "url": "https://t.co/k8Ndxhd1Bz",
+        "username": "teacher_cao",
+        "verified": true
+      }
+    ]
+  }
+}

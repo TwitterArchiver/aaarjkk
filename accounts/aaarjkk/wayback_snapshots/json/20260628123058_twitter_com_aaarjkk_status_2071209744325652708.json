@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071209740416516096"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071209744325652708",
+    "created_at": "2026-06-28T12:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071209744325652708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKMw7iQJPG",
+          "end": 40,
+          "expanded_url": "https://x.com/aaarjkk/status/2071209744325652708/photo/1",
+          "media_key": "3_2071209740416516096",
+          "start": 17,
+          "url": "https://t.co/dKMw7iQJPG"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2071161123601322306",
+          "start": 41,
+          "url": "https://t.co/ErdBRTvNqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071209744325652708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071161123601322306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是我去什么意思啊啊啊😭😭😭😭😭 https://t.co/dKMw7iQJPG https://t.co/ErdBRTvNqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2071209740416516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5qSQDbAAAywka.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2071161119990022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4-EK2bAAAvX3o.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071209740416516096"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071209744325652708",
+        "created_at": "2026-06-28T12:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071209744325652708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKMw7iQJPG",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2071209744325652708/photo/1",
+              "media_key": "3_2071209740416516096",
+              "start": 17,
+              "url": "https://t.co/dKMw7iQJPG"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2071161123601322306",
+              "start": 41,
+              "url": "https://t.co/ErdBRTvNqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071209744325652708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071161123601322306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是我去什么意思啊啊啊😭😭😭😭😭 https://t.co/dKMw7iQJPG https://t.co/ErdBRTvNqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071161119990022144"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2071161123601322306",
+        "created_at": "2026-06-28T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071161123601322306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbSrjbpqu0",
+              "end": 36,
+              "expanded_url": "https://x.com/aaarjkk/status/2071161123601322306/photo/1",
+              "media_key": "3_2071161119990022144",
+              "start": 13,
+              "url": "https://t.co/IbSrjbpqu0"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2068529516356788551",
+              "start": 37,
+              "url": "https://t.co/7jxOnwHEs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071161123601322306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068529516356788551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快手给我七天评论区禁言😠 https://t.co/IbSrjbpqu0 https://t.co/7jxOnwHEs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 925,
+          "like_count": 19330,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 2650
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}
