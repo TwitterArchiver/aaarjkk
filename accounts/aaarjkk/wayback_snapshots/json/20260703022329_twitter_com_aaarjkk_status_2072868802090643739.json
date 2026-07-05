@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2072868802090643739",
+    "created_at": "2026-07-03T02:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072868802090643739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LightrainPure/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/LightrainPure/status/2072243190032396584",
+          "start": 18,
+          "url": "https://t.co/HekON5ohcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072868802090643739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072243190032396584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝色是偏低，粉色是偏高，白色是正常 https://t.co/HekON5ohcO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2072243180607778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIWMYxaMAAhlFU.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2072868802090643739",
+        "created_at": "2026-07-03T02:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072868802090643739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LightrainPure/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/LightrainPure/status/2072243190032396584",
+              "start": 18,
+              "url": "https://t.co/HekON5ohcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072868802090643739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072243190032396584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝色是偏低，粉色是偏高，白色是正常 https://t.co/HekON5ohcO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072243180607778816"
+          ]
+        },
+        "author_id": "1156097249841041408",
+        "conversation_id": "2072243190032396584",
+        "created_at": "2026-07-01T08:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072243190032396584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UT75ZLYvyT",
+              "end": 41,
+              "expanded_url": "https://x.com/LightrainPure/status/2072243190032396584/photo/1",
+              "media_key": "3_2072243180607778816",
+              "start": 18,
+              "url": "https://t.co/UT75ZLYvyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072243190032396584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 20190,
+          "like_count": 367,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "做六项做出个🏳️‍⚧️来，笑死了。 https://t.co/UT75ZLYvyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 927,
+          "like_count": 19999,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜跨圈观测者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 993,
+          "like_count": 2153,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

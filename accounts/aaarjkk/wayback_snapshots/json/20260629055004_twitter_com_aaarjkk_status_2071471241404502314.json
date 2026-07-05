@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2070483951723196485",
+    "created_at": "2026-06-29T05:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071471241404502314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071471241404502314",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070483951723196485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza tg价格真的差好多…有的1、2个月的号也叫老号还买80……来我这里买只要16，先登录再付款，7天质保半价退款1天质保全额退款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070483951723196485",
+        "created_at": "2026-06-29T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071471241404502314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071471241404502314",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070483951723196485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza tg价格真的差好多…有的1、2个月的号也叫老号还买80……来我这里买只要16，先登录再付款，7天质保半价退款1天质保全额退款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2070483951723196485",
+        "created_at": "2026-06-26T12:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070483951723196485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070483951723196485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 492,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家的tg账号都是怎么来的喵？\n分享一下我买tg号的经历\n油管上有卖tg号的广告 \n我进去看 发现最便宜的要十几块\n最贵的有几百\n但是另外一个卖号网站最便宜的只要一块多，最贵的三十多块\n我买的一块多的 的确给我了 没骗人\n我只能说做生意要讲良心，将买家高高捧起的人也会被买家爱戴的\n不合理价格可耻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 924,
+          "like_count": 19321,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互fo喵～｜MTF｜无证｜生产日期：20080930|天残党｜居住浙江｜雌小鬼｜想学伪音没时间｜我喜欢你，你喜欢我，关注会回，请和我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jm-88.cc/3YeBdF",
+                "end": 23,
+                "expanded_url": "https://jm-88.cc/3YeBdF",
+                "start": 0,
+                "url": "https://t.co/khk2lQFB1d"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 180,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/khk2lQFB1d",
+        "username": "Konizaza",
+        "verified": false
+      }
+    ]
+  }
+}

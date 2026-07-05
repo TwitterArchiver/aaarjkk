@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2072163796509143218",
+    "created_at": "2026-07-01T04:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072172622713086280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072172622713086280",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072163796509143218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo 从此以后每次开机cmd窗口都闪一下😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2072163793774530560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHN_dxbUAAD3-z.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2072163796509143218",
+        "created_at": "2026-07-01T04:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072172622713086280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072172622713086280",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072163796509143218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo 从此以后每次开机cmd窗口都闪一下😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072163793774530560"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "conversation_id": "2072163796509143218",
+        "created_at": "2026-07-01T03:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072163796509143218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xkd6lkup2",
+              "end": 23,
+              "expanded_url": "https://x.com/hajihajimo/status/2072163796509143218/photo/1",
+              "media_key": "3_2072163793774530560",
+              "start": 0,
+              "url": "https://t.co/3xkd6lkup2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072163796509143218",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3xkd6lkup2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 924,
+          "like_count": 19813,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘|femboy|男|不线下|各方面都不健康|波奇|爱人♥️@aruannie512|♥️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "aruannie512"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "location": "找我聊天领取免费鸡蛋",
+        "name": "十六🦐",
+        "pinned_tweet_id": "2071557982291366273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071495281737367552/xlAdrFhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 327,
+          "like_count": 5018,
+          "listed_count": 1,
+          "media_count": 896,
+          "tweet_count": 2884
+        },
+        "url": "",
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

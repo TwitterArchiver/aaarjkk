@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2071089208509464652",
+    "created_at": "2026-06-28T05:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071101494880023028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071101494880023028",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071089208509464652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT ？？？）😨😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2071089206102032384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL38qOvbgAAy5YY.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2071089208509464652",
+        "created_at": "2026-06-28T05:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071101494880023028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071101494880023028",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071089208509464652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT ？？？）😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071089206102032384"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2071089208509464652",
+        "created_at": "2026-06-28T04:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071089208509464652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2n5846Imc",
+              "end": 176,
+              "expanded_url": "https://x.com/666666666ZT/status/2071089208509464652/photo/1",
+              "media_key": "3_2071089206102032384",
+              "start": 153,
+              "url": "https://t.co/l2n5846Imc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071089208509464652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出信息 随时拿去使用\n名字：叶明轩\n证件:61092120110910343X\n性别：男\n生日:2011-09-10\n年龄: 14岁\n手机号:18409159408\n地址：陕西省安康市汉阴县天宝康郡2单元25楼2501\n社保单位:新塘村委会\n微信账号：wxid_dcxm23n0o1px22\n\n图片是大头 https://t.co/l2n5846Imc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 924,
+          "like_count": 19248,
+          "listed_count": 3,
+          "media_count": 414,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日5月20日，身高1米8，体重61公斤",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054099623904755712/2_xm630N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 107,
+          "like_count": 21,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073317070176149578",
+    "created_at": "2026-07-04T08:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073320416823959820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924119398497026050",
+          "start": 0,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073320416823959820",
+    "in_reply_to_user_id": "1924119398497026050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073319215486964001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhcvhW18221 没有撤回真退了20多个群和频道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073317070176149578",
+        "created_at": "2026-07-04T08:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073320416823959820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073320416823959820",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073319215486964001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 没有撤回真退了20多个群和频道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924119398497026050",
+        "conversation_id": "2073317070176149578",
+        "created_at": "2026-07-04T08:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073319215486964001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073319215486964001",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073317070176149578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 是不是剩最后一秒点了撤回了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "WYSJ WYDHH WYDN WWW",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 939,
+          "like_count": 20613,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号 mtf  身高175 一个苦逼中专生TG https://t.co/D897coOY0v",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/keaidexi",
+                "end": 56,
+                "expanded_url": "http://t.me/keaidexi",
+                "start": 33,
+                "url": "https://t.co/D897coOY0v"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "location": "纳塔 烟迷主",
+        "name": "茜 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046082434874359876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 252,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": false
+      }
+    ]
+  }
+}

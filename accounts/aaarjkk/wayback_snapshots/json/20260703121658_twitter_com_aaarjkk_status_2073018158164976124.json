@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073018158164976124",
+    "created_at": "2026-07-03T12:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073018158164976124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kohakumito/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kohakumito/status/2073017190501306574",
+          "start": 11,
+          "url": "https://t.co/B3HHMaijVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073018158164976124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073017190501306574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉我长得太丑了… https://t.co/B3HHMaijVf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073018158164976124",
+        "created_at": "2026-07-03T12:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073018158164976124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohakumito/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kohakumito/status/2073017190501306574",
+              "start": 11,
+              "url": "https://t.co/B3HHMaijVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073018158164976124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073017190501306574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉我长得太丑了… https://t.co/B3HHMaijVf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028139778536079360",
+        "conversation_id": "2073017190501306574",
+        "created_at": "2026-07-03T12:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073017190501306574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rainengine2024/status/2073007867058352519",
+              "start": 11,
+              "url": "https://t.co/pCVSeZPOND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073017190501306574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073007867058352519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉我长得太丑了… https://t.co/pCVSeZPOND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 931,
+          "like_count": 20194,
+          "listed_count": 3,
+          "media_count": 434,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "location": "中華民國",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 929,
+          "like_count": 20045,
+          "listed_count": 11,
+          "media_count": 371,
+          "tweet_count": 4469
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true
+      }
+    ]
+  }
+}

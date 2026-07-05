@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2071790882421186823",
+    "created_at": "2026-06-30T03:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071790882421186823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/auspiceshirley…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/auspiceshirley/status/2071541586157019636",
+          "start": 29,
+          "url": "https://t.co/bWHO8lObfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071790882421186823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071541586157019636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的，就我这个号刚注册上就被秒封了😅，申诉几天才回来了 https://t.co/bWHO8lObfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2491,
+        "media_key": "3_2071541573012070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-YFczWoAAitvw.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2071790882421186823",
+        "created_at": "2026-06-30T03:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071790882421186823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2071541586157019636",
+              "start": 29,
+              "url": "https://t.co/bWHO8lObfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071790882421186823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071541586157019636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的，就我这个号刚注册上就被秒封了😅，申诉几天才回来了 https://t.co/bWHO8lObfi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071541573012070400"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2071541586157019636",
+        "created_at": "2026-06-29T10:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071541586157019636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvI7jUr9ec",
+              "end": 52,
+              "expanded_url": "https://x.com/auspiceshirley/status/2071541586157019636/photo/1",
+              "media_key": "3_2071541573012070400",
+              "start": 29,
+              "url": "https://t.co/CvI7jUr9ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071541586157019636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3366,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当bro以为可以在 𝕏 上畅所欲言、无需遵守任何规则时： https://t.co/CvI7jUr9ec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 923,
+          "like_count": 19592,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 523,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

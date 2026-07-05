@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071184615126233088"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071184618112598033",
+    "created_at": "2026-06-28T10:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071184618112598033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPnT2xTtDR",
+          "end": 38,
+          "expanded_url": "https://x.com/aaarjkk/status/2071184618112598033/photo/1",
+          "media_key": "3_2071184615126233088",
+          "start": 15,
+          "url": "https://t.co/PPnT2xTtDR"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2071180700494287253",
+          "start": 39,
+          "url": "https://t.co/Oz9Gjojyjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071184618112598033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071180700494287253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完了完了！！！！他几岁啊啊啊 https://t.co/PPnT2xTtDR https://t.co/Oz9Gjojyjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2071184615126233088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5TbxDacAAGgoV.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2071180697939910656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5P3wZaoAAIr_A.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071184615126233088"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071184618112598033",
+        "created_at": "2026-06-28T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071184618112598033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPnT2xTtDR",
+              "end": 38,
+              "expanded_url": "https://x.com/aaarjkk/status/2071184618112598033/photo/1",
+              "media_key": "3_2071184615126233088",
+              "start": 15,
+              "url": "https://t.co/PPnT2xTtDR"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2071180700494287253",
+              "start": 39,
+              "url": "https://t.co/Oz9Gjojyjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071184618112598033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071180700494287253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了完了！！！！他几岁啊啊啊 https://t.co/PPnT2xTtDR https://t.co/Oz9Gjojyjm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071180697939910656"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071180700494287253",
+        "created_at": "2026-06-28T10:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071180700494287253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j04tLTfbTR",
+              "end": 58,
+              "expanded_url": "https://x.com/aaarjkk/status/2071180700494287253/photo/1",
+              "media_key": "3_2071180697939910656",
+              "start": 35,
+              "url": "https://t.co/j04tLTfbTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071180700494287253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了完了，后悔把telegram账号卖给他了怎么办😨😨😨😨已经吓哭了 https://t.co/j04tLTfbTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071094573372469712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 925,
+          "like_count": 19305,
+          "listed_count": 3,
+          "media_count": 419,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

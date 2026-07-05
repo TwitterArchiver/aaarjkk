@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2072810892237115394",
+    "created_at": "2026-07-03T04:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072901040018784616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3300741805",
+          "start": 0,
+          "username": "naypi85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072901040018784616",
+    "in_reply_to_user_id": "3300741805",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072847373848690731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naypi85 😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2072810892237115394",
+        "created_at": "2026-07-03T04:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072901040018784616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3300741805",
+              "start": 0,
+              "username": "naypi85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072901040018784616",
+        "in_reply_to_user_id": "3300741805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072847373848690731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naypi85 😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3300741805",
+        "conversation_id": "2072810892237115394",
+        "created_at": "2026-07-03T00:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072847373848690731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072847373848690731",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072810892237115394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 角度奇特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 927,
+          "like_count": 20053,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-29T16:23:03.000Z",
+        "description": "北京社畜 | INTJ-A | 不OD | 不自残 | 躺平人生 | 直球 | 理性人 | 泛性向 | 边缘偏好 | 音游 | 机车 | 铲屎官\nIIDX（2P六段）、SDVX（vf18.4）、DDR（SP六段）\n魔怔wmc爬",
+        "id": "3300741805",
+        "location": "北京",
+        "name": "红茶叶泡芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287712656984424453/xwlHCjiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 81,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 4075
+        },
+        "url": "",
+        "username": "naypi85",
+        "verified": false
+      }
+    ]
+  }
+}
