@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073621511811092646",
+    "created_at": "2026-07-08T10:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074805786086461870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858908750347988992",
+          "start": 0,
+          "username": "yuuka_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074805786086461870",
+    "in_reply_to_user_id": "1858908750347988992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073728348824727965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuka_ciallo 10年哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073621511811092646",
+        "created_at": "2026-07-08T10:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074805786086461870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858908750347988992",
+              "start": 0,
+              "username": "yuuka_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074805786086461870",
+        "in_reply_to_user_id": "1858908750347988992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073728348824727965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuka_ciallo 10年哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858908750347988992",
+        "conversation_id": "2073621511811092646",
+        "created_at": "2026-07-05T11:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073728348824727965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073728348824727965",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073621511811092646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 居然是2011年的小朋友吗👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1052,
+          "like_count": 22032,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 3018
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T16:23:07.000Z",
+        "description": "Give people wonderful tools. And they’ll do wonderful things.",
+        "id": "1858908750347988992",
+        "location": "千年研讨会",
+        "name": "早瀬ユウカ",
+        "pinned_tweet_id": "2073808159920333166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073758670215888896/Hs4mFu6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 362,
+          "like_count": 3067,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "yuuka_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

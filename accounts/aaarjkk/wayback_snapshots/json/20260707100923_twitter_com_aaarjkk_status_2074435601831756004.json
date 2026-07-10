@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074435598774063104"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074435601831756004",
+    "created_at": "2026-07-07T10:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074435601831756004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/54AZH823uS",
+          "end": 25,
+          "expanded_url": "https://x.com/aaarjkk/status/2074435601831756004/photo/1",
+          "media_key": "3_2074435598774063104",
+          "start": 2,
+          "url": "https://t.co/54AZH823uS"
+        },
+        {
+          "display_url": "x.com/Konizaza/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Konizaza/status/2074415991053062564",
+          "start": 26,
+          "url": "https://t.co/QvtiNmGU91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074435601831756004",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074415991053062564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐 https://t.co/54AZH823uS https://t.co/QvtiNmGU91"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2074435598774063104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMngL65aUAAJaOQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074435598774063104"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074435601831756004",
+        "created_at": "2026-07-07T10:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074435601831756004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54AZH823uS",
+              "end": 25,
+              "expanded_url": "https://x.com/aaarjkk/status/2074435601831756004/photo/1",
+              "media_key": "3_2074435598774063104",
+              "start": 2,
+              "url": "https://t.co/54AZH823uS"
+            },
+            {
+              "display_url": "x.com/Konizaza/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Konizaza/status/2074415991053062564",
+              "start": 26,
+              "url": "https://t.co/QvtiNmGU91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074435601831756004",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074415991053062564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐 https://t.co/54AZH823uS https://t.co/QvtiNmGU91"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2074415991053062564",
+        "created_at": "2026-07-07T08:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074415991053062564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "868831876315848705",
+              "start": 55,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我的性别坐标：",
+              "display_url": "idrlabs.com/cn/gender-coor…",
+              "end": 51,
+              "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/36.67-72.5/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074415991669551104/Wxy--KH8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074415991669551104/Wxy--KH8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "我是36.67%男性，72.5%女性，我属于女性象限。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/36.67-72.5/result.php",
+              "url": "https://t.co/clD6NxCTmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074415991053062564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是36.67%男性，72.5%女性，我属于女性象限。 https://t.co/clD6NxCTmi 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 983,
+          "like_count": 21638,
+          "listed_count": 4,
+          "media_count": 475,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互fo喵～｜MTF｜无证｜生产日期：08年九月|天残党｜浙江｜雌小鬼｜想学伪音没时间｜断糖中｜我喜欢你，你喜欢我，关注会回，请和我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/lv7KKEroCn"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2074315910849106041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 419,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/lv7KKEroCn",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

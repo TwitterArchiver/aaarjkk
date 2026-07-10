@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074751240198643848",
+    "created_at": "2026-07-08T07:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074758049252966571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 26,
+          "id": "1519649212736049152",
+          "start": 13,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074758049252966571",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074757899650548123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @Mark67358226 以前没有的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074757899650548123].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074757899650548123",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074757899650548123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074751240198643848",
+        "created_at": "2026-07-08T07:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074758049252966571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 26,
+              "id": "1519649212736049152",
+              "start": 13,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074758049252966571",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074757899650548123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @Mark67358226 以前没有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1039,
+          "like_count": 21891,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 2997
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/自认为是一只很可爱的...？/留长发中/无糖/向往自由/秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/vCuQaNyhnk"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Amoy 廈門",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1028,
+          "like_count": 197730,
+          "listed_count": 3,
+          "media_count": 915,
+          "tweet_count": 7615
+        },
+        "url": "https://t.co/vCuQaNyhnk",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1525,
+          "like_count": 26831,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 5979
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

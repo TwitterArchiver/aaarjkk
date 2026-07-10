@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074410493796876362",
+    "created_at": "2026-07-07T10:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074436154414530848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913225245378686976",
+          "start": 0,
+          "username": "cuizhe80"
+        },
+        {
+          "end": 24,
+          "id": "1622066090074607616",
+          "start": 10,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074436154414530848",
+    "in_reply_to_user_id": "1913225245378686976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074423555677102108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuizhe80 @hoshinofujivy 下傻了😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074410493796876362",
+        "created_at": "2026-07-07T10:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074436154414530848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913225245378686976",
+              "start": 0,
+              "username": "cuizhe80"
+            },
+            {
+              "end": 24,
+              "id": "1622066090074607616",
+              "start": 10,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074436154414530848",
+        "in_reply_to_user_id": "1913225245378686976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074423555677102108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuizhe80 @hoshinofujivy 下傻了😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913225245378686976",
+        "conversation_id": "2074410493796876362",
+        "created_at": "2026-07-07T09:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074423555677102108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074423555677102108",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410493796876362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 然后你的家人突然打开门，想看看你有没有睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 983,
+          "like_count": 21650,
+          "listed_count": 4,
+          "media_count": 475,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T13:37:16.000Z",
+        "description": "国家统一，社会民主，人民团结",
+        "id": "1913225245378686976",
+        "location": "中华人民共和国 贵州省",
+        "name": "NPA",
+        "pinned_tweet_id": "2012488660005040343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913226276044734464/DEFiOQYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 19,
+          "like_count": 42,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "cuizhe80",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12530,
+          "following_count": 4401,
+          "like_count": 50538,
+          "listed_count": 37,
+          "media_count": 3147,
+          "tweet_count": 17310
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

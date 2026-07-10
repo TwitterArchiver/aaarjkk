@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074028507374780663",
+    "created_at": "2026-07-06T07:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074032641763074423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074032641763074423",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074028507374780663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以用来开甲骨文云或亚马逊云吗@grok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2074028503495045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMht72zbcAAKHkV.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2074028503809642496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMht73-b0AAUfHS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2074028504237363201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMht75kaUAEHp-T.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074028507374780663",
+        "created_at": "2026-07-06T07:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074032641763074423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074032641763074423",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074028507374780663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以用来开甲骨文云或亚马逊云吗@grok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074028503495045120",
+            "3_2074028503809642496",
+            "3_2074028504237363201"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074028507374780663",
+        "created_at": "2026-07-06T07:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074028507374780663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGJeTf7lhj",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2074028507374780663/photo/1",
+              "media_key": "3_2074028503495045120",
+              "start": 17,
+              "url": "https://t.co/EGJeTf7lhj"
+            },
+            {
+              "display_url": "pic.x.com/EGJeTf7lhj",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2074028507374780663/photo/1",
+              "media_key": "3_2074028503809642496",
+              "start": 17,
+              "url": "https://t.co/EGJeTf7lhj"
+            },
+            {
+              "display_url": "pic.x.com/EGJeTf7lhj",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2074028507374780663/photo/1",
+              "media_key": "3_2074028504237363201",
+              "start": 17,
+              "url": "https://t.co/EGJeTf7lhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074028507374780663",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 详细评价一下这两张卡 https://t.co/EGJeTf7lhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 978,
+          "like_count": 21307,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8840612,
+          "following_count": 5,
+          "like_count": 110,
+          "listed_count": 7106,
+          "media_count": 9126819,
+          "tweet_count": 130720500
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

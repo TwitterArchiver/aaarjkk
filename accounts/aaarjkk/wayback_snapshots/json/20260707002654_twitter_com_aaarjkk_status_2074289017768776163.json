@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074289017768776163",
+    "created_at": "2026-07-07T00:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074289017768776163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yizehe2533/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yizehe2533/status/2074054929556144409",
+          "start": 9,
+          "url": "https://t.co/Jlfuv27Csp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074289017768776163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074054929556144409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在已经免费了😅 https://t.co/Jlfuv27Csp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2074054913298939904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiF9G_WQAA1wTP.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074289017768776163",
+        "created_at": "2026-07-07T00:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074289017768776163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yizehe2533/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yizehe2533/status/2074054929556144409",
+              "start": 9,
+              "url": "https://t.co/Jlfuv27Csp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074289017768776163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074054929556144409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在已经免费了😅 https://t.co/Jlfuv27Csp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074054913298939904"
+          ]
+        },
+        "author_id": "2048266711066091520",
+        "conversation_id": "2074054929556144409",
+        "created_at": "2026-07-06T08:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074054929556144409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdWd69dmFN",
+              "end": 34,
+              "expanded_url": "https://x.com/yizehe2533/status/2074054929556144409/photo/1",
+              "media_key": "3_2074054913298939904",
+              "start": 11,
+              "url": "https://t.co/MdWd69dmFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074054929556144409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "价格怎么做到这么低的 https://t.co/MdWd69dmFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 982,
+          "like_count": 21496,
+          "listed_count": 4,
+          "media_count": 475,
+          "tweet_count": 2945
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T05:05:32.000Z",
+        "description": "诚信互关，有关必回，评论必回。\n生活在中国的一位10后，喜欢计算机和化学，还有赚钱，虽然没赚到。\nX互关社区：https://t.co/T6k1P5hPQN\n正切工作室：https://t.co/wchLx2NAfK\nVPN：https://t.co/nYfKshmjHs\nAI中转站：https://t.co/dQOzckuuPS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.tangentlab.cn",
+                "end": 78,
+                "expanded_url": "http://x.tangentlab.cn",
+                "start": 55,
+                "url": "https://t.co/T6k1P5hPQN"
+              },
+              {
+                "display_url": "tanstudio.me",
+                "end": 108,
+                "expanded_url": "http://tanstudio.me",
+                "start": 85,
+                "url": "https://t.co/wchLx2NAfK"
+              },
+              {
+                "display_url": "net.tanstudio.me",
+                "end": 136,
+                "expanded_url": "http://net.tanstudio.me",
+                "start": 113,
+                "url": "https://t.co/nYfKshmjHs"
+              },
+              {
+                "display_url": "api.tanstudio.me",
+                "end": 166,
+                "expanded_url": "http://api.tanstudio.me",
+                "start": 143,
+                "url": "https://t.co/dQOzckuuPS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tanstudio.me",
+                "end": 23,
+                "expanded_url": "https://tanstudio.me",
+                "start": 0,
+                "url": "https://t.co/ly6YGe00OV"
+              }
+            ]
+          }
+        },
+        "id": "2048266711066091520",
+        "location": "中国",
+        "name": "Chemisjusttotry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073795514575822848/87VTuOsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 787,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/ly6YGe00OV",
+        "username": "yizehe2533",
+        "verified": true
+      }
+    ]
+  }
+}

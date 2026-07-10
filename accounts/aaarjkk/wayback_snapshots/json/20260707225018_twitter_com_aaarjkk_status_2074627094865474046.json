@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074627082240589824",
+        "3_2074627086195838976"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2074627094865474046",
+    "created_at": "2026-07-07T22:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074627094865474046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mak7SkhrCc",
+          "end": 44,
+          "expanded_url": "https://x.com/aaarjkk/status/2074627094865474046/photo/1",
+          "media_key": "3_2074627082240589824",
+          "start": 21,
+          "url": "https://t.co/mak7SkhrCc"
+        },
+        {
+          "display_url": "pic.x.com/mak7SkhrCc",
+          "end": 44,
+          "expanded_url": "https://x.com/aaarjkk/status/2074627094865474046/photo/1",
+          "media_key": "3_2074627086195838976",
+          "start": 21,
+          "url": "https://t.co/mak7SkhrCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074627094865474046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在Twitter可以绑+86手机号了喵 https://t.co/mak7SkhrCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2074627082240589824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqOVuZbAAAGmFP.jpg",
+        "width": 806
+      },
+      {
+        "height": 989,
+        "media_key": "3_2074627086195838976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqOV9IbUAAANEB.jpg",
+        "width": 965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074627082240589824",
+            "3_2074627086195838976"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2074627094865474046",
+        "created_at": "2026-07-07T22:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074627094865474046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mak7SkhrCc",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2074627094865474046/photo/1",
+              "media_key": "3_2074627082240589824",
+              "start": 21,
+              "url": "https://t.co/mak7SkhrCc"
+            },
+            {
+              "display_url": "pic.x.com/mak7SkhrCc",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2074627094865474046/photo/1",
+              "media_key": "3_2074627086195838976",
+              "start": 21,
+              "url": "https://t.co/mak7SkhrCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074627094865474046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在Twitter可以绑+86手机号了喵 https://t.co/mak7SkhrCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 978,
+          "like_count": 21690,
+          "listed_count": 4,
+          "media_count": 476,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

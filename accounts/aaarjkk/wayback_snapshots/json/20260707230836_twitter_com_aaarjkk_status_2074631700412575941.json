@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074631697052868608"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2074631700412575941",
+    "created_at": "2026-07-07T23:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074631700412575941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uYba1DZvsQ",
+          "end": 67,
+          "expanded_url": "https://x.com/aaarjkk/status/2074631700412575941/photo/1",
+          "media_key": "3_2074631697052868608",
+          "start": 44,
+          "url": "https://t.co/uYba1DZvsQ"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2074629787700826195",
+          "start": 68,
+          "url": "https://t.co/6UhHT2pWfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074631700412575941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074629787700826195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要申訴\n我寫的原因：我在香港 我註冊這個賬號時使用了vpn 因為我要使用Gemini https://t.co/uYba1DZvsQ https://t.co/6UhHT2pWfB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2074631697052868608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqSiV6aIAAYr7e.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2074629785154990081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqQzDibsAEwgNc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074631697052868608"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2074631700412575941",
+        "created_at": "2026-07-07T23:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074631700412575941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYba1DZvsQ",
+              "end": 67,
+              "expanded_url": "https://x.com/aaarjkk/status/2074631700412575941/photo/1",
+              "media_key": "3_2074631697052868608",
+              "start": 44,
+              "url": "https://t.co/uYba1DZvsQ"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2074629787700826195",
+              "start": 68,
+              "url": "https://t.co/6UhHT2pWfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074631700412575941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074629787700826195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要申訴\n我寫的原因：我在香港 我註冊這個賬號時使用了vpn 因為我要使用Gemini https://t.co/uYba1DZvsQ https://t.co/6UhHT2pWfB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074629785154990081"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2074629787700826195",
+        "created_at": "2026-07-07T23:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074629787700826195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTUKTUcRQV",
+              "end": 47,
+              "expanded_url": "https://x.com/aaarjkk/status/2074629787700826195/photo/1",
+              "media_key": "3_2074629785154990081",
+              "start": 24,
+              "url": "https://t.co/ZTUKTUcRQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074629787700826195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我新注册的Google又是台湾😡😡😡😡😡 https://t.co/ZTUKTUcRQV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 978,
+          "like_count": 21710,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

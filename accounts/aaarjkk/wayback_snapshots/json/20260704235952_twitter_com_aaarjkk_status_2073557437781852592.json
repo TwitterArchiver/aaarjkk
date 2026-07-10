@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073542953176559815",
+    "created_at": "2026-07-04T23:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073557437781852592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029856511393173504",
+          "start": 0,
+          "username": "xuanyuxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073557437781852592",
+    "in_reply_to_user_id": "2029856511393173504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073555373861257432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyuxin 只是我爸要用codex而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073542953176559815",
+        "created_at": "2026-07-04T23:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073557437781852592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029856511393173504",
+              "start": 0,
+              "username": "xuanyuxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073557437781852592",
+        "in_reply_to_user_id": "2029856511393173504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073555373861257432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyuxin 只是我爸要用codex而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029856511393173504",
+        "conversation_id": "2073542953176559815",
+        "created_at": "2026-07-04T23:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073555373861257432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073555373861257432",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073542953176559815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 你家太潮流了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "WYSJ WYDHH WYDN WWW",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 965,
+          "like_count": 20887,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 2853
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T09:48:28.000Z",
+        "description": "",
+        "id": "2029856511393173504",
+        "name": "轩宇鑫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063053277521166336/9zvkfSwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "xuanyuxin",
+        "verified": false
+      }
+    ]
+  }
+}

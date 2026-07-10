@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073763144959430773",
+    "created_at": "2026-07-06T02:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073959204038324406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073959204038324406",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073763144959430773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 恭喜w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073763134662492160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd8lW3bwAApQdQ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073763144959430773",
+        "created_at": "2026-07-06T02:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073959204038324406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073959204038324406",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073763144959430773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 恭喜w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073763134662492160"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073763144959430773",
+        "created_at": "2026-07-05T13:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073763144959430773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayR73Dww1e",
+              "end": 31,
+              "expanded_url": "https://x.com/qian67068/status/2073763144959430773/photo/1",
+              "media_key": "3_2073763134662492160",
+              "start": 8,
+              "url": "https://t.co/ayR73Dww1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073763144959430773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶91fo了 https://t.co/ayR73Dww1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 977,
+          "like_count": 21234,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | INTP | 泛性恋 | 不含糖 | 精神良好 | 称呼小千就好💛🤍💜🖤sub 称他/她均可 想互fo 可以做心理委员喵（虽然满脑子黄色废料）分身@qian68069喵\n\n喜欢sakanaction，喜欢研究各种数码产品和电子软硬件，常有科幻点子👍身高1.77体重55kg，好虚弱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️qian🏳️‍🌈🎹小千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956958446500364288/fCbmnxDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 332,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

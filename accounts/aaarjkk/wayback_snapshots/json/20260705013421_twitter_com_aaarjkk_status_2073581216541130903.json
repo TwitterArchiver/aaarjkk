@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073581216541130903",
+    "created_at": "2026-07-05T01:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073581216541130903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2073580370302562766",
+          "start": 20,
+          "url": "https://t.co/w7abtqGJGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073581216541130903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073580370302562766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以说我快16岁了没玩过腾讯游戏😇😇 https://t.co/w7abtqGJGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1911,
+        "media_key": "3_2073501869079707648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaO9suawAAtG1y.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073581216541130903",
+        "created_at": "2026-07-05T01:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073581216541130903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2073580370302562766",
+              "start": 20,
+              "url": "https://t.co/w7abtqGJGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073581216541130903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073580370302562766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以说我快16岁了没玩过腾讯游戏😇😇 https://t.co/w7abtqGJGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073501869079707648"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073580370302562766",
+        "created_at": "2026-07-05T01:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073580370302562766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTMPin7DLe",
+              "end": 57,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2073580370302562766/photo/1",
+              "media_key": "3_2073501869079707648",
+              "start": 34,
+              "url": "https://t.co/VTMPin7DLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073580370302562766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好你妈了个逼好消息来了\n（脏话致歉，另外网易也将发布类似行动……） https://t.co/VTMPin7DLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "QQ：2034274778",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 967,
+          "like_count": 20965,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 2858
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9136,
+          "following_count": 880,
+          "like_count": 29411,
+          "listed_count": 13,
+          "media_count": 1873,
+          "tweet_count": 9582
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

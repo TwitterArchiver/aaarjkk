@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073658809751642424",
+    "created_at": "2026-07-06T02:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073955898817683507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073955898817683507",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073658809751642424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 已经大半年没有哭出眼泪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073658809751642424",
+        "created_at": "2026-07-06T02:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073955898817683507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073955898817683507",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073658809751642424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 已经大半年没有哭出眼泪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2073658809751642424",
+        "created_at": "2026-07-05T06:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073658809751642424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073658809751642424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像是人生第二次哭不出眼淚呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 976,
+          "like_count": 21183,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 2895
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1713,
+          "like_count": 31091,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

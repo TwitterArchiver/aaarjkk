@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074627431013703820",
+    "created_at": "2026-07-08T04:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074707329287889187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074707329287889187",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074697063921848441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye 之前试过好多次都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074627431013703820",
+        "created_at": "2026-07-08T04:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074707329287889187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074707329287889187",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074697063921848441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 之前试过好多次都不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2074627431013703820",
+        "created_at": "2026-07-08T03:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074697063921848441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074697063921848441",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074627431013703820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 一直都可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 978,
+          "like_count": 21750,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 219,
+          "like_count": 6115,
+          "listed_count": 0,
+          "media_count": 917,
+          "tweet_count": 5036
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

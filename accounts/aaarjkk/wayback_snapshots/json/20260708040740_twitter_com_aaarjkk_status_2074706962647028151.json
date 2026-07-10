@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074629787700826195",
+    "created_at": "2026-07-08T04:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074706962647028151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879792731507281920",
+          "start": 0,
+          "username": "KLLnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074706962647028151",
+    "in_reply_to_user_id": "1879792731507281920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074703028901540235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KLLnb666 我选的香港注册的然后被封解封的时候我用的台湾节点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074629787700826195",
+        "created_at": "2026-07-08T04:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074706962647028151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879792731507281920",
+              "start": 0,
+              "username": "KLLnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074706962647028151",
+        "in_reply_to_user_id": "1879792731507281920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074703028901540235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KLLnb666 我选的香港注册的然后被封解封的时候我用的台湾节点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879792731507281920",
+        "conversation_id": "2074629787700826195",
+        "created_at": "2026-07-08T03:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074703028901540235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074703028901540235",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074629787700826195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 你节点选的台湾注册的号难道能不是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 978,
+          "like_count": 21747,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-16T07:28:16.000Z",
+        "description": "",
+        "id": "1879792731507281920",
+        "name": "兔子",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "KLLnb666",
+        "verified": false
+      }
+    ]
+  }
+}

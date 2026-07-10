@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074784560793932042",
+    "created_at": "2026-07-08T10:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074796103510471044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074796103510471044",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074784560793932042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 @grok Python有隐式类型转换吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2074784527839338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsdiQ9XIAANQJ8.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074784560793932042",
+        "created_at": "2026-07-08T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074796103510471044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074796103510471044",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784560793932042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 @grok Python有隐式类型转换吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074784527839338496"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2074784560793932042",
+        "created_at": "2026-07-08T09:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074784560793932042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bwsNKuXOx",
+              "end": 119,
+              "expanded_url": "https://x.com/mengxin66666/status/2074784560793932042/photo/1",
+              "media_key": "3_2074784527839338496",
+              "start": 96,
+              "url": "https://t.co/7bwsNKuXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074784560793932042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "防止刷𝕏久了变()😅\n那请你来看一下这个python代码\n\n假如我分别在\n变量a和b的input()中都输入1\n\n请问print输出的结果是什么？\n\nA.2\nB.11\n\nC.不知道\nD.其他 https://t.co/7bwsNKuXOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1047,
+          "like_count": 21954,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 245,
+          "like_count": 10167,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844121,
+          "following_count": 5,
+          "like_count": 110,
+          "listed_count": 7120,
+          "media_count": 9135188,
+          "tweet_count": 130913447
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

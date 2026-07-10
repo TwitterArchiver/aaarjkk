@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074471105516240931",
+    "created_at": "2026-07-08T05:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074732303419621638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1375873003792179201",
+          "start": 0,
+          "username": "zemul888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074732303419621638",
+    "in_reply_to_user_id": "1375873003792179201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074471105516240931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zemul888 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074471105516240931",
+        "created_at": "2026-07-08T05:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074732303419621638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1375873003792179201",
+              "start": 0,
+              "username": "zemul888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074732303419621638",
+        "in_reply_to_user_id": "1375873003792179201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074471105516240931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zemul888 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375873003792179201",
+        "conversation_id": "2074471105516240931",
+        "created_at": "2026-07-07T12:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074471105516240931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074471105516240931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关  \n多互动 才持续锁住流量\n大家互动起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 1006,
+          "like_count": 21857,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T18:11:13.000Z",
+        "description": "👨‍💻 独立开发者 | AI Builder | 互联网打杂 \n💻 海外VPS & AI 工具实战测评\n💡 聊聊最新AI实践、前沿趋势\n海外特价VPS:  https://t.co/enEfr6nRjw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "monitor.vpszk.com",
+                "end": 101,
+                "expanded_url": "https://monitor.vpszk.com",
+                "start": 78,
+                "url": "https://t.co/enEfr6nRjw"
+              }
+            ]
+          }
+        },
+        "id": "1375873003792179201",
+        "name": "Kael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074475214600388608/uyPhR6BN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 388,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "zemul888",
+        "verified": true
+      }
+    ]
+  }
+}

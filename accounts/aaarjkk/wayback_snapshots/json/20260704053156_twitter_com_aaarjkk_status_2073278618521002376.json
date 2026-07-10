@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073170008696340990",
+    "created_at": "2026-07-04T05:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073278618521002376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057552254463291393",
+          "start": 0,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073278618521002376",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073170008696340990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6De_dian 恭喜恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073169876957421568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVhBNsWYAAO27l.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073170008696340990",
+        "created_at": "2026-07-04T05:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073278618521002376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073278618521002376",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170008696340990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 恭喜恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073169876957421568"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073170008696340990",
+        "created_at": "2026-07-03T22:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073170008696340990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ry8WtcGi2r",
+              "end": 53,
+              "expanded_url": "https://x.com/6De_dian/status/2073170008696340990/photo/1",
+              "media_key": "3_2073169876957421568",
+              "start": 30,
+              "url": "https://t.co/Ry8WtcGi2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073170008696340990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿300fo了！\n好高兴呀🤤🤤💖互关们有你们真好呀——！ https://t.co/Ry8WtcGi2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "WYSJ WYDHH WYDN WWW",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 938,
+          "like_count": 20479,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 370,
+          "like_count": 7720,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

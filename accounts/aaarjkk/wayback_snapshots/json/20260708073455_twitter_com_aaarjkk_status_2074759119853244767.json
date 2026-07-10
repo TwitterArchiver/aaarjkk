@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074759115289903104"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074759119853244767",
+    "created_at": "2026-07-08T07:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074759119853244767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XiYOVzLULt",
+          "end": 41,
+          "expanded_url": "https://x.com/aaarjkk/status/2074759119853244767/photo/1",
+          "media_key": "3_2074759115289903104",
+          "start": 18,
+          "url": "https://t.co/XiYOVzLULt"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2074758834770657623",
+          "start": 42,
+          "url": "https://t.co/VYqLBpMnxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074759119853244767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074758834770657623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道我要购买kyc吗 感觉有点小贵 https://t.co/XiYOVzLULt https://t.co/VYqLBpMnxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2074759115289903104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsGbD1bwAAML1d.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1808,
+        "media_key": "3_2074758831125798912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsGKhPboAAdhmg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 3730,
+        "media_key": "3_2074758831842955264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsGKj6akAAYVh5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074759115289903104"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074759119853244767",
+        "created_at": "2026-07-08T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074759119853244767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiYOVzLULt",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2074759119853244767/photo/1",
+              "media_key": "3_2074759115289903104",
+              "start": 18,
+              "url": "https://t.co/XiYOVzLULt"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2074758834770657623",
+              "start": 42,
+              "url": "https://t.co/VYqLBpMnxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074759119853244767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074758834770657623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道我要购买kyc吗 感觉有点小贵 https://t.co/XiYOVzLULt https://t.co/VYqLBpMnxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074758831125798912",
+            "3_2074758831842955264"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074758834770657623",
+        "created_at": "2026-07-08T07:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074758834770657623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjZx4clPCz",
+              "end": 37,
+              "expanded_url": "https://x.com/aaarjkk/status/2074758834770657623/photo/1",
+              "media_key": "3_2074758831125798912",
+              "start": 14,
+              "url": "https://t.co/cjZx4clPCz"
+            },
+            {
+              "display_url": "pic.x.com/cjZx4clPCz",
+              "end": 37,
+              "expanded_url": "https://x.com/aaarjkk/status/2074758834770657623/photo/1",
+              "media_key": "3_2074758831842955264",
+              "start": 14,
+              "url": "https://t.co/cjZx4clPCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074758834770657623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伪造身份证kyc失败😭😭😭 https://t.co/cjZx4clPCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1039,
+          "like_count": 21893,
+          "listed_count": 4,
+          "media_count": 485,
+          "tweet_count": 3000
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

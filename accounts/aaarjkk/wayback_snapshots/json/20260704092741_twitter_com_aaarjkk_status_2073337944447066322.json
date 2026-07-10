@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073288784091976125",
+    "created_at": "2026-07-04T09:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073337944447066322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsksyrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073337944447066322",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073288784091976125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsksyrx 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2073288776642969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXNKFibwAAl6ZK.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073288784091976125",
+        "created_at": "2026-07-04T09:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073337944447066322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073337944447066322",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073288784091976125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073288776642969600"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2073288784091976125",
+        "created_at": "2026-07-04T06:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073288784091976125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUbMqrWLbi",
+              "end": 36,
+              "expanded_url": "https://x.com/mrsksyrx/status/2073288784091976125/photo/1",
+              "media_key": "3_2073288776642969600",
+              "start": 13,
+              "url": "https://t.co/uUbMqrWLbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073288784091976125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "712fo！感谢喵🥰🥰🥰 https://t.co/uUbMqrWLbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "WYSJ WYDHH WYDN WWW",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 959,
+          "like_count": 20731,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 2836
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证？｜家长党？  \n生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜很丑qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 654,
+          "like_count": 5203,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx",
+        "verified": true
+      }
+    ]
+  }
+}

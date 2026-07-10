@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074422456451039363",
+    "created_at": "2026-07-07T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074427914679111814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074427914679111814",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074422456451039363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2074422450054713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnUOkGbUAA3YLl.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074422456451039363",
+        "created_at": "2026-07-07T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074427914679111814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074427914679111814",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074422456451039363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074422450054713344"
+          ]
+        },
+        "author_id": "1877920276316585984",
+        "conversation_id": "2074422456451039363",
+        "created_at": "2026-07-07T09:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074422456451039363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8T9hT9zYBi",
+              "end": 28,
+              "expanded_url": "https://x.com/CelestialSayuki/status/2074422456451039363/photo/1",
+              "media_key": "3_2074422450054713344",
+              "start": 5,
+              "url": "https://t.co/8T9hT9zYBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074422456451039363",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/8T9hT9zYBi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 982,
+          "like_count": 21609,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "20岁 | 废物一个 | 174/68 | 友跨顺男 | 不会翻车的! | 神秘小软件 Vibe Coder | 想交好多好多的朋友 | 欢迎来随时找我聊天 | ❤️ @Pr0mis3_c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Pr0mis3_c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn/",
+                "start": 0,
+                "url": "https://t.co/H6wcSAzDya"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": "Celestial Atelier",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "2067138523606798547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074422437673127936/hrZVZpTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 153,
+          "like_count": 1654,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/H6wcSAzDya",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

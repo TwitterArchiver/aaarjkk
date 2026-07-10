@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2073340338824261695",
+    "created_at": "2026-07-04T22:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T23:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073534327770804276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494695387801686018",
+          "start": 0,
+          "username": "AwA04759578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073534327770804276",
+    "in_reply_to_user_id": "1494695387801686018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073500183762215286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwA04759578 好用！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2073340338824261695",
+        "created_at": "2026-07-04T22:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073534327770804276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494695387801686018",
+              "start": 0,
+              "username": "AwA04759578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073534327770804276",
+        "in_reply_to_user_id": "1494695387801686018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073500183762215286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwA04759578 好用！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494695387801686018",
+        "conversation_id": "2073340338824261695",
+        "created_at": "2026-07-04T20:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073500183762215286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073500183762215286",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073340338824261695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 试试看installerx\n接管国内ui的塞满广告的安装器\n界面又清爽又好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "WYSJ WYDHH WYDN WWW",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 960,
+          "like_count": 20791,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-18T15:28:56.000Z",
+        "description": "§(*￣▽￣*)§",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amicors.cc",
+                "end": 23,
+                "expanded_url": "https://amicors.cc",
+                "start": 0,
+                "url": "https://t.co/pXIY2AbEMl"
+              }
+            ]
+          }
+        },
+        "id": "1494695387801686018",
+        "location": "京都",
+        "name": "YukuNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994745785016356868/vzhv2mHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 106,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/pXIY2AbEMl",
+        "username": "AwA04759578",
+        "verified": false
+      }
+    ]
+  }
+}

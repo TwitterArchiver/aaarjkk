@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2074018828208816133",
+    "created_at": "2026-07-06T22:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074264695809486904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988766491504963584",
+          "start": 0,
+          "username": "Naletury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074264695809486904",
+    "in_reply_to_user_id": "1988766491504963584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074114912666735082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naletury 固定ip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2074018828208816133",
+        "created_at": "2026-07-06T22:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074264695809486904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988766491504963584",
+              "start": 0,
+              "username": "Naletury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074264695809486904",
+        "in_reply_to_user_id": "1988766491504963584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074114912666735082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naletury 固定ip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988766491504963584",
+        "conversation_id": "2074018828208816133",
+        "created_at": "2026-07-06T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074114912666735082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074114912666735082",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074095702628819238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk ip频繁跳吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 979,
+          "like_count": 21403,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T00:31:16.000Z",
+        "description": "深柜中... | (2x-3)/(x-2)-5/x=2/(x^2-2x)次元 | 不吃糖🍬 | 不发帖就是被断网了 | 会一些programming | 小资历 | 欢迎扩列😉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Naletury",
+                "end": 23,
+                "expanded_url": "https://twitter.com/Naletury",
+                "start": 0,
+                "url": "https://t.co/vVWX1Pzq0r"
+              }
+            ]
+          }
+        },
+        "id": "1988766491504963584",
+        "name": "浅川 澪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055568519077498880/SMEIwHfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/vVWX1Pzq0r",
+        "username": "Naletury",
+        "verified": false
+      }
+    ]
+  }
+}
