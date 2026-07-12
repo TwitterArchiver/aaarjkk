@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075488137422483456",
+        "3_2075488146297585665"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075488154115838189",
+    "created_at": "2026-07-10T07:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075488154115838189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y1K7C2fFo2",
+          "end": 35,
+          "expanded_url": "https://x.com/aaarjkk/status/2075488154115838189/photo/1",
+          "media_key": "3_2075488137422483456",
+          "start": 12,
+          "url": "https://t.co/Y1K7C2fFo2"
+        },
+        {
+          "display_url": "pic.x.com/Y1K7C2fFo2",
+          "end": 35,
+          "expanded_url": "https://x.com/aaarjkk/status/2075488154115838189/photo/1",
+          "media_key": "3_2075488146297585665",
+          "start": 12,
+          "url": "https://t.co/Y1K7C2fFo2"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2075486058469621799",
+          "start": 36,
+          "url": "https://t.co/7QGx4SogWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075488154115838189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075486058469621799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打脸了喵 这是新功能喵 https://t.co/Y1K7C2fFo2 https://t.co/7QGx4SogWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2075488137422483456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2ddu6asAAFo-B.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2075488146297585665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2deP-aAAEdu9j.jpg",
+        "width": 1200
+      },
+      {
+        "height": 708,
+        "media_key": "3_2075486055760044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bkkHaoAA6ZfC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075488137422483456",
+            "3_2075488146297585665"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075488154115838189",
+        "created_at": "2026-07-10T07:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075488154115838189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1K7C2fFo2",
+              "end": 35,
+              "expanded_url": "https://x.com/aaarjkk/status/2075488154115838189/photo/1",
+              "media_key": "3_2075488137422483456",
+              "start": 12,
+              "url": "https://t.co/Y1K7C2fFo2"
+            },
+            {
+              "display_url": "pic.x.com/Y1K7C2fFo2",
+              "end": 35,
+              "expanded_url": "https://x.com/aaarjkk/status/2075488154115838189/photo/1",
+              "media_key": "3_2075488146297585665",
+              "start": 12,
+              "url": "https://t.co/Y1K7C2fFo2"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075486058469621799",
+              "start": 36,
+              "url": "https://t.co/7QGx4SogWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075488154115838189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075486058469621799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打脸了喵 这是新功能喵 https://t.co/Y1K7C2fFo2 https://t.co/7QGx4SogWE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075486055760044032"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075486058469621799",
+        "created_at": "2026-07-10T07:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075486058469621799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAweygUBeq",
+              "end": 43,
+              "expanded_url": "https://x.com/aaarjkk/status/2075486058469621799/photo/1",
+              "media_key": "3_2075486055760044032",
+              "start": 20,
+              "url": "https://t.co/cAweygUBeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075486058469621799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X好像明天都在更新，但不知道更新了什么 https://t.co/cAweygUBeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1104,
+          "like_count": 22392,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

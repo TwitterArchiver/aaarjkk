@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075504894824558592",
+        "3_2075504894732341248"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2075504897961996601",
+    "created_at": "2026-07-10T08:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075504897961996601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/49FOPTw5tJ",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2075504897961996601/photo/1",
+          "media_key": "3_2075504894824558592",
+          "start": 22,
+          "url": "https://t.co/49FOPTw5tJ"
+        },
+        {
+          "display_url": "pic.x.com/49FOPTw5tJ",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2075504897961996601/photo/1",
+          "media_key": "3_2075504894732341248",
+          "start": 22,
+          "url": "https://t.co/49FOPTw5tJ"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2071824552108417108",
+          "start": 46,
+          "url": "https://t.co/EuPqMgjgCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075504897961996601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071824552108417108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "登录上我的tg号，不付款给我拉黑是吗😅😅😅 https://t.co/49FOPTw5tJ https://t.co/EuPqMgjgCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2075504894824558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2stJGaMAAb8uG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2075504894732341248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2stIwbEAAPgfI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1402,
+        "media_key": "3_2071824549490864128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCZc2VWMAAr91w.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075504894824558592",
+            "3_2075504894732341248"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2075504897961996601",
+        "created_at": "2026-07-10T08:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075504897961996601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49FOPTw5tJ",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2075504897961996601/photo/1",
+              "media_key": "3_2075504894824558592",
+              "start": 22,
+              "url": "https://t.co/49FOPTw5tJ"
+            },
+            {
+              "display_url": "pic.x.com/49FOPTw5tJ",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2075504897961996601/photo/1",
+              "media_key": "3_2075504894732341248",
+              "start": 22,
+              "url": "https://t.co/49FOPTw5tJ"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2071824552108417108",
+              "start": 46,
+              "url": "https://t.co/EuPqMgjgCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075504897961996601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071824552108417108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "登录上我的tg号，不付款给我拉黑是吗😅😅😅 https://t.co/49FOPTw5tJ https://t.co/EuPqMgjgCH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071824549490864128"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2071824552108417108",
+        "created_at": "2026-06-30T05:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071824552108417108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 125,
+              "tag": "telegram"
+            },
+            {
+              "end": 146,
+              "start": 135,
+              "tag": "telegram账号"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "电报"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "账号出售"
+            },
+            {
+              "end": 164,
+              "start": 157,
+              "tag": "smsfee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5ti3jLm4l",
+              "end": 188,
+              "expanded_url": "https://x.com/aaarjkk/status/2071824552108417108/photo/1",
+              "media_key": "3_2071824549490864128",
+              "start": 165,
+              "url": "https://t.co/r5ti3jLm4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071824552108417108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4573,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "低价出售Telegram电报纸飞机账号\n(在𝕏内私信我)\n\n仅需16元/个\n先登录再付款\n\n质保1天全额退款7天半价退款\n\nsmsfee可以用aka等第三方客户端\n有什么不会的我可以无 偿帮 你\n\n帮Android系统不拔卡用tiktok（无偿）\n\n#telegram #telegram账号 #电报 #账号出售 #smsfee https://t.co/r5ti3jLm4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1104,
+          "like_count": 22420,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 3082
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

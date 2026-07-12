@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2075512760801386974",
+    "created_at": "2026-07-10T09:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075513382137172167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913140320986144768",
+          "start": 0,
+          "username": "Foxtea267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075513382137172167",
+    "in_reply_to_user_id": "1913140320986144768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075512760801386974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Foxtea267 huawei价格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075512760801386974",
+        "created_at": "2026-07-10T09:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075513382137172167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913140320986144768",
+              "start": 0,
+              "username": "Foxtea267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075513382137172167",
+        "in_reply_to_user_id": "1913140320986144768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075512760801386974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Foxtea267 huawei价格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913140320986144768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075512760801386974",
+        "created_at": "2026-07-10T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075512760801386974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tiktok.com/t/ZTSVhAuVK/",
+              "end": 30,
+              "expanded_url": "https://www.tiktok.com/t/ZTSVhAuVK/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2075512765297664000/sdIBS2XV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075512765297664000/sdIBS2XV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "TikTok · 🌿MKhoiii⚙️",
+              "unwound_url": "https://www.tiktok.com/@kaytlyntran/video/7647036140624612628?_r=1&_t=ZT-97ufa8KarRG",
+              "url": "https://t.co/lh9YSNNpFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075512760801386974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是华为?😱\nhttps://t.co/lh9YSNNpFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1104,
+          "like_count": 22438,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T07:59:39.000Z",
+        "description": "🇨🇳🇹🇼🇭🇰🇯🇵🇰🇷🇲🇾🇸🇬🇻🇳🇺🇸🇬🇧🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺\nfoxtea267@gmail.com or me@foxtea.fun\nBuy me a coffee: https://t.co/elYDck1x5N / https://t.co/1koMGd4Zp7\nLang: EN🇺🇸🇬🇧/ZH🇨🇳🇹🇼\n蓝v互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "donate.foxtea.fun",
+                "end": 108,
+                "expanded_url": "http://donate.foxtea.fun",
+                "start": 85,
+                "url": "https://t.co/elYDck1x5N"
+              },
+              {
+                "display_url": "donate.oeo.ee",
+                "end": 134,
+                "expanded_url": "http://donate.oeo.ee",
+                "start": 111,
+                "url": "https://t.co/1koMGd4Zp7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxtea.fun",
+                "end": 23,
+                "expanded_url": "https://foxtea.fun/",
+                "start": 0,
+                "url": "https://t.co/WmjN5pPhE6"
+              }
+            ]
+          }
+        },
+        "id": "1913140320986144768",
+        "location": "Kyoto, Japan",
+        "name": "Foxtea",
+        "pinned_tweet_id": "2063586842558263617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063535054811430913/KBhTQHYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1995,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/WmjN5pPhE6",
+        "username": "Foxtea267",
+        "verified": true
+      }
+    ]
+  }
+}

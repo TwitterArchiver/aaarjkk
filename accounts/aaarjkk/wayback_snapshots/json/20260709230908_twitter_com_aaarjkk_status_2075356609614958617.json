@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075240929372393880",
+    "created_at": "2026-07-09T23:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075356609614958617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643976839071928325",
+          "start": 0,
+          "username": "wyuhanbyu"
+        },
+        {
+          "end": 20,
+          "id": "1647229461769891842",
+          "start": 11,
+          "username": "DrilL019"
+        },
+        {
+          "end": 33,
+          "id": "1846596976265326592",
+          "start": 21,
+          "username": "voidsama777"
+        },
+        {
+          "end": 40,
+          "id": "2024068861134528512",
+          "start": 34,
+          "username": "1gdsb"
+        },
+        {
+          "end": 54,
+          "id": "1781893716183060480",
+          "start": 41,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075356609614958617",
+    "in_reply_to_user_id": "1643976839071928325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075240929372393880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyuhanbyu @DrilL019 @voidsama777 @1gdsb @akihiro_0313 我成妈妈了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2075240925756809216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMy8oHsWYAA-mrO.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075240929372393880",
+        "created_at": "2026-07-09T23:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075356609614958617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643976839071928325",
+              "start": 0,
+              "username": "wyuhanbyu"
+            },
+            {
+              "end": 20,
+              "id": "1647229461769891842",
+              "start": 11,
+              "username": "DrilL019"
+            },
+            {
+              "end": 33,
+              "id": "1846596976265326592",
+              "start": 21,
+              "username": "voidsama777"
+            },
+            {
+              "end": 40,
+              "id": "2024068861134528512",
+              "start": 34,
+              "username": "1gdsb"
+            },
+            {
+              "end": 54,
+              "id": "1781893716183060480",
+              "start": 41,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075356609614958617",
+        "in_reply_to_user_id": "1643976839071928325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240929372393880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyuhanbyu @DrilL019 @voidsama777 @1gdsb @akihiro_0313 我成妈妈了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075240925756809216"
+          ]
+        },
+        "author_id": "1643976839071928325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2075240929372393880",
+        "created_at": "2026-07-09T15:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075240929372393880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1647229461769891842",
+              "start": 38,
+              "username": "DrilL019"
+            },
+            {
+              "end": 56,
+              "id": "1955980103688790017",
+              "start": 48,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 79,
+              "id": "1846596976265326592",
+              "start": 67,
+              "username": "voidsama777"
+            },
+            {
+              "end": 98,
+              "id": "2024068861134528512",
+              "start": 92,
+              "username": "1gdsb"
+            },
+            {
+              "end": 112,
+              "id": "1781893716183060480",
+              "start": 99,
+              "username": "akihiro_0313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ5Crghy9h",
+              "end": 173,
+              "expanded_url": "https://x.com/wyuhanbyu/status/2075240929372393880/photo/1",
+              "media_key": "3_2075240925756809216",
+              "start": 150,
+              "url": "https://t.co/yJ5Crghy9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075240929372393880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @DrilL019 @aaarjkk\n👰 Spouse: @voidsama777\n👶 Children: @1gdsb @akihiro_0313\n\n➡️ infinitetweet[dot]me/family-tree https://t.co/yJ5Crghy9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1088,
+          "like_count": 22213,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T14:01:10.000Z",
+        "description": "06XYN丨MTF 丨 HRT:2026.5.11无证含糖生产日期2006.1.28丨爱哭鬼一个！变的不太正常了我，会变的很乖的不多说一句话",
+        "id": "1643976839071928325",
+        "location": "Japan",
+        "name": "余不是鱼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075119107327099066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051913380047503360/t10OCd9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 239,
+          "like_count": 2620,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "wyuhanbyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1310,
+          "like_count": 21120,
+          "listed_count": 1,
+          "media_count": 955,
+          "tweet_count": 6561
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 517,
+          "like_count": 17002,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 悲惨的准高一一枚\n不o不割纯发癫 天残年龄党\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 59.6kg\n玩cfm（好老的游戏）mc java版 逆战未来 异环 roblox\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2062541504661610927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 377,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 1115,
+          "like_count": 8110,
+          "listed_count": 1,
+          "media_count": 775,
+          "tweet_count": 5646
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

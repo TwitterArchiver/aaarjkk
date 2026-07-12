@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075177975155462465",
+    "created_at": "2026-07-09T11:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075177975155462465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1837843674283294720",
+          "start": 3,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075177975155462465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075171696034943454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2026: 大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075177975155462465",
+        "created_at": "2026-07-09T11:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075177975155462465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1837843674283294720",
+              "start": 3,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075177975155462465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075171696034943454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2026: 大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075171696034943454",
+        "created_at": "2026-07-09T10:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075171696034943454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075171696034943454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1086,
+          "like_count": 22177,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3056
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/DZNsvIwmEa"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 70,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/DZNsvIwmEa",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

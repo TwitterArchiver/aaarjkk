@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075102668083822592"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075102695111954938",
+    "created_at": "2026-07-09T06:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075102695111954938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2GExnNKKQ",
+          "end": 69,
+          "expanded_url": "https://x.com/aaarjkk/status/2075102695111954938/video/1",
+          "media_key": "7_2075102668083822592",
+          "start": 46,
+          "url": "https://t.co/v2GExnNKKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075102695111954938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这应该是一个bug，最下面的用户没有动画效果🧐🧐\n我猜正确的效果是“添加账号”没有动画😋😋 https://t.co/v2GExnNKKQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23219,
+        "height": 1440,
+        "media_key": "7_2075102668083822592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075102668083822592/pu/img/iGjQiiW6REg2ttla.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075102668083822592/pu/vid/avc1/320x426/z1wKKp3FXyl-CJyr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075102668083822592/pu/vid/avc1/1080x1440/HLobRfun5ou7DilK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075102668083822592/pu/vid/avc1/480x640/mzDKgH3BL9yS8zfB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075102668083822592/pu/pl/iU26Z8IgG7hvjJmA.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075102668083822592/pu/vid/avc1/720x960/Pcm555QYgK0F9jWu.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075102668083822592"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075102695111954938",
+        "created_at": "2026-07-09T06:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075102695111954938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2GExnNKKQ",
+              "end": 69,
+              "expanded_url": "https://x.com/aaarjkk/status/2075102695111954938/video/1",
+              "media_key": "7_2075102668083822592",
+              "start": 46,
+              "url": "https://t.co/v2GExnNKKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075102695111954938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这应该是一个bug，最下面的用户没有动画效果🧐🧐\n我猜正确的效果是“添加账号”没有动画😋😋 https://t.co/v2GExnNKKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1077,
+          "like_count": 22092,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

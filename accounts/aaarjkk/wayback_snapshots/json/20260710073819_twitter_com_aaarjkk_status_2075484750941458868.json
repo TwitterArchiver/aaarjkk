@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075224088025681995",
+    "created_at": "2026-07-10T07:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075484750941458868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029893103453454336",
+          "start": 0,
+          "username": "xiaoban688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075484750941458868",
+    "in_reply_to_user_id": "2029893103453454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075224088025681995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoban688 接接接！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2075224081327386624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMytTpTa8AAv5nF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075224088025681995",
+        "created_at": "2026-07-10T07:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075484750941458868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029893103453454336",
+              "start": 0,
+              "username": "xiaoban688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075484750941458868",
+        "in_reply_to_user_id": "2029893103453454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075224088025681995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoban688 接接接！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075224081327386624"
+          ]
+        },
+        "author_id": "2029893103453454336",
+        "conversation_id": "2075224088025681995",
+        "created_at": "2026-07-09T14:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075224088025681995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgih0FOjQE",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoban688/status/2075224088025681995/photo/1",
+              "media_key": "3_2075224081327386624",
+              "start": 22,
+              "url": "https://t.co/lgih0FOjQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224088025681995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2336,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶？很吉利啊，看到的都长长久久，发发发！🎉 https://t.co/lgih0FOjQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1103,
+          "like_count": 22382,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T12:13:33.000Z",
+        "description": "微斯人，吾谁与归？\n如果没有这个人，我又同谁一道呢？\n07在读医学生🧑‍⚕️|喜欢摄影📷|数码爱好者📱💻|喜欢各种“小众”活动，爱好古筝、架子鼓,偶尔会写几副“书法作品”（写的不是很好🤪应该不能称作书法作品）......",
+        "id": "2029893103453454336",
+        "name": "xiaoban",
+        "pinned_tweet_id": "2072605949110399167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073646826109194240/Us_IgA5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1108,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 953
+        },
+        "url": "",
+        "username": "xiaoban688",
+        "verified": true
+      }
+    ]
+  }
+}

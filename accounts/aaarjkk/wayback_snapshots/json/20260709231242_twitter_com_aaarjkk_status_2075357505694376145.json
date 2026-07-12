@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075176787475317070",
+    "created_at": "2026-07-09T23:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075357505694376145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055478014830379008",
+          "start": 0,
+          "username": "Bobexnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075357505694376145",
+    "in_reply_to_user_id": "2055478014830379008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075176787475317070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bobexnx 多发点帖子就有流量了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2075176723285745664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMyCPC2bIAAh8Hc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMyCPC2bIAAh8Hc.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075176787475317070",
+        "created_at": "2026-07-09T23:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075357505694376145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055478014830379008",
+              "start": 0,
+              "username": "Bobexnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075357505694376145",
+        "in_reply_to_user_id": "2055478014830379008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075176787475317070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bobexnx 多发点帖子就有流量了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075176723285745664"
+          ]
+        },
+        "author_id": "2055478014830379008",
+        "conversation_id": "2075176787475317070",
+        "created_at": "2026-07-09T11:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:55:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075172027410104367",
+          "2075176787475317070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAGDKsLPMR",
+              "end": 48,
+              "expanded_url": "https://x.com/Bobexnx/status/2075176787475317070/photo/1",
+              "media_key": "16_2075176723285745664",
+              "start": 25,
+              "url": "https://t.co/oAGDKsLPMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176787475317070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底得发什么样的帖子才能有流量啊，我想要互关啊😭 https://t.co/oAGDKsLPMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1092,
+          "like_count": 22223,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T02:39:22.000Z",
+        "description": "bobobo",
+        "id": "2055478014830379008",
+        "name": "Bob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075169352761184256/27nNN8bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 139,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Bobexnx",
+        "verified": true
+      }
+    ]
+  }
+}

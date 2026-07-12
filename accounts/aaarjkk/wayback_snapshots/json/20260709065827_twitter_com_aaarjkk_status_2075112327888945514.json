@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075112325393293312"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2075112327888945514",
+    "created_at": "2026-07-09T06:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075112327888945514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VJLEl8DCkj",
+          "end": 213,
+          "expanded_url": "https://x.com/aaarjkk/status/2075112327888945514/photo/1",
+          "media_key": "3_2075112325393293312",
+          "start": 190,
+          "url": "https://t.co/VJLEl8DCkj"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 237,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2075106168327073876",
+          "start": 214,
+          "url": "https://t.co/29B8vsVzQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075112327888945514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖\n奖品将使用微信支付发放"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075106168327073876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖 https://t.co/VJLEl8DCkj https://t.co/29B8vsVzQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075112325393293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxHqmAaIAAU54l.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2511,
+        "media_key": "3_2075106165806235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxCEDwagAAoNG9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075112325393293312"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-09T06:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075112327888945514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJLEl8DCkj",
+              "end": 213,
+              "expanded_url": "https://x.com/aaarjkk/status/2075112327888945514/photo/1",
+              "media_key": "3_2075112325393293312",
+              "start": 190,
+              "url": "https://t.co/VJLEl8DCkj"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075106168327073876",
+              "start": 214,
+              "url": "https://t.co/29B8vsVzQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075112327888945514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖\n奖品将使用微信支付发放"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075106168327073876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖 https://t.co/VJLEl8DCkj https://t.co/29B8vsVzQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075106165806235648"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075106168327073876",
+        "created_at": "2026-07-09T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075106168327073876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw7dutZ71l",
+              "end": 53,
+              "expanded_url": "https://x.com/aaarjkk/status/2075106168327073876/photo/1",
+              "media_key": "3_2075106165806235648",
+              "start": 30,
+              "url": "https://t.co/uw7dutZ71l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075106168327073876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哇哇哇1k Followers！！感谢大家！爱你们喵～♡ https://t.co/uw7dutZ71l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2073300967341334839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1079,
+          "like_count": 22105,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}
