@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2076534612390801741",
+    "created_at": "2026-07-13T14:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076681103470137824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2075277404361347072",
+          "start": 0,
+          "username": "LiangJinyus6so"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076681103470137824",
+    "in_reply_to_user_id": "2075277404361347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076545142694281277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiangJinyus6so 今年题目简单啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2076534612390801741",
+        "created_at": "2026-07-13T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076681103470137824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2075277404361347072",
+              "start": 0,
+              "username": "LiangJinyus6so"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076681103470137824",
+        "in_reply_to_user_id": "2075277404361347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076545142694281277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiangJinyus6so 今年题目简单啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075277404361347072",
+        "conversation_id": "2076534612390801741",
+        "created_at": "2026-07-13T05:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076545142694281277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076545142694281277",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076534612390801741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 比我考的很高呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 1124,
+          "like_count": 23092,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 3209
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T17:55:26.000Z",
+        "description": "一個很了解自己但又愛沉溺在幻想的人\n有點輕微抑郁/膽子有點小",
+        "id": "2075277404361347072",
+        "location": "广东伦敦",
+        "name": "雪还会落下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075979333148237824/wJiW5XNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "LiangJinyus6so",
+        "verified": false
+      }
+    ]
+  }
+}

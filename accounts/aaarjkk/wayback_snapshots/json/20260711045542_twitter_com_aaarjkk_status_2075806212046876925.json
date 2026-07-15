@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075112327888945514",
+    "created_at": "2026-07-11T04:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075806212046876925"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075806212046876925",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075721581939368104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请尽快找我兑奖😋之后没手机只能等下周了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1383272,
+        "height": 1920,
+        "media_key": "13_2075719985704656896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075719985704656896/img/oJmFV6q0xF8vh8uO.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075719985704656896/pl/zwnCWUlCkWlPKcoN.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075719985704656896/vid/avc1/320x704/bpiAsNhVCz8rmaD9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075719985704656896/vid/avc1/872x1920/xlnXflhpPIEqrzZt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075719985704656896/vid/avc1/720x1584/nc4iuRy29k43i5mL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075719985704656896/vid/avc1/480x1056/l1E4zTxLhJLxF6JM.mp4"
+          }
+        ],
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-11T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075806212046876925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075806212046876925",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075721581939368104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请尽快找我兑奖😋之后没手机只能等下周了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075719985704656896"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-10T23:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075721581939368104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1662540652029304832",
+              "start": 45,
+              "username": "Mira10022568"
+            },
+            {
+              "end": 90,
+              "id": "1519649212736049152",
+              "start": 77,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 101,
+              "id": "1133938939184726016",
+              "start": 92,
+              "username": "jxmo1141"
+            },
+            {
+              "end": 113,
+              "id": "1771407326274318336",
+              "start": 103,
+              "username": "QHLQY0512"
+            },
+            {
+              "end": 124,
+              "id": "1781510736000274432",
+              "start": 115,
+              "username": "huantim7"
+            },
+            {
+              "end": 140,
+              "id": "1938537315586244608",
+              "start": 126,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 165,
+              "id": "2024068861134528512",
+              "start": 159,
+              "username": "1gdsb"
+            },
+            {
+              "end": 178,
+              "id": "1746359253135503360",
+              "start": 167,
+              "username": "MiaoYan__X"
+            },
+            {
+              "end": 190,
+              "id": "1589235830731997188",
+              "start": 180,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 204,
+              "id": "1895463022367498240",
+              "start": 192,
+              "username": "hikaribottt"
+            },
+            {
+              "end": 216,
+              "id": "1686914633314013184",
+              "start": 206,
+              "username": "KTD593yug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kuwdCZT2V",
+              "end": 240,
+              "expanded_url": "https://x.com/aaarjkk/status/2075721581939368104/video/1",
+              "media_key": "13_2075719985704656896",
+              "start": 217,
+              "url": "https://t.co/8kuwdCZT2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075721581939368104",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 58,
+                "id": "1662540652029304832",
+                "start": 45,
+                "username": "Mira10022568"
+              },
+              {
+                "end": 90,
+                "id": "1519649212736049152",
+                "start": 77,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 101,
+                "id": "1133938939184726016",
+                "start": 92,
+                "username": "jxmo1141"
+              },
+              {
+                "end": 113,
+                "id": "1771407326274318336",
+                "start": 103,
+                "username": "QHLQY0512"
+              },
+              {
+                "end": 124,
+                "id": "1781510736000274432",
+                "start": 115,
+                "username": "huantim7"
+              },
+              {
+                "end": 140,
+                "id": "1938537315586244608",
+                "start": 126,
+                "username": "ruoruoruoMing"
+              },
+              {
+                "end": 165,
+                "id": "2024068861134528512",
+                "start": 159,
+                "username": "1gdsb"
+              },
+              {
+                "end": 178,
+                "id": "1746359253135503360",
+                "start": 167,
+                "username": "MiaoYan__X"
+              },
+              {
+                "end": 190,
+                "id": "1589235830731997188",
+                "start": 180,
+                "username": "PWaterawa"
+              },
+              {
+                "end": 204,
+                "id": "1895463022367498240",
+                "start": 192,
+                "username": "hikaribottt"
+              },
+              {
+                "end": 216,
+                "id": "1686914633314013184",
+                "start": 206,
+                "username": "KTD593yug"
+              },
+              {
+                "end": 230,
+                "id": "1807114644252921856",
+                "start": 218,
+                "username": "Inyuki_1014"
+              },
+              {
+                "end": 242,
+                "id": "1845674780416208897",
+                "start": 232,
+                "username": "liulingyo"
+              }
+            ]
+          },
+          "text": "中奖名单（由grok抽奖）\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖（1名，10 CNY）：\n@Mira10022568\n一等奖（5名，5 CNY 每人）：\n@Mark67358226\n、@jxmo1141\n、@QHLQY0512\n、@huantim7\n、@ruoruoruoMing\n二等奖（7名，1 CNY 每人）：\n@1gdsb\n、@MiaoYan__X\n、@PWaterawa\n、@hikaribottt\n、@KTD593yug\n、@Inyuki_1014\n、@liulingyo\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n视频为开奖全过程\n没有转贴的不算😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 242,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075112327888945514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中奖名单（由grok抽奖）\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖（1名，10 CNY）：\n@Mira10022568\n一等奖（5名，5 CNY 每人）：\n@Mark67358226\n、@jxmo1141\n、@QHLQY0512\n、@huantim7\n、@ruoruoruoMing\n二等奖（7名，1 CNY 每人）：\n@1gdsb\n、@MiaoYan__X\n、@PWaterawa\n、@hikaribottt\n、@KTD593yug https://t.co/8kuwdCZT2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 1109,
+          "like_count": 22649,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 3144
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

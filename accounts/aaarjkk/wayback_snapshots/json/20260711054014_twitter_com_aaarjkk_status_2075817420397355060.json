@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075811917499961345",
+        "7_2075812410326388736"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075817420397355060",
+    "created_at": "2026-07-11T05:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:17:55.000Z",
+      "edits_remaining": 2,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075811803431645667",
+      "2075811958230769899",
+      "2075812427804065814",
+      "2075817420397355060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MhxtOYWjb6",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2075817420397355060/video/1",
+          "media_key": "7_2075811917499961345",
+          "start": 5,
+          "url": "https://t.co/MhxtOYWjb6"
+        },
+        {
+          "display_url": "pic.x.com/MhxtOYWjb6",
+          "end": 28,
+          "expanded_url": "https://x.com/aaarjkk/status/2075817420397355060/video/1",
+          "media_key": "7_2075812410326388736",
+          "start": 5,
+          "url": "https://t.co/MhxtOYWjb6"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2075808327720980871",
+          "start": 29,
+          "url": "https://t.co/s2k3rBkCyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075817420397355060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075808327720980871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可愛了 https://t.co/MhxtOYWjb6 https://t.co/s2k3rBkCyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3900,
+        "height": 1080,
+        "media_key": "7_2075811917499961345",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075811917499961345/pu/img/rcJWZD9E_X6r09kI.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075811917499961345/pu/vid/avc1/320x320/5uqHxvP4Nxz2Gry3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075811917499961345/pu/vid/avc1/720x720/gWMFGM_P-_R_zwqS.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075811917499961345/pu/vid/avc1/1080x1080/ZUmbKi-6Fx_Jc_DX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075811917499961345/pu/pl/wRd4pEXLsVhNavs5.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075811917499961345/pu/vid/avc1/540x540/HWPIclZpZYPc_sb0.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 3900,
+        "height": 1080,
+        "media_key": "7_2075812410326388736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075812410326388736/pu/img/usxa80Y3ul3Uz5bM.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075812410326388736/pu/pl/16BA54lDfWSbpdax.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075812410326388736/pu/vid/avc1/320x320/mWfZR0blsyivAyFM.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075812410326388736/pu/vid/avc1/1080x1080/KAJETIeWktlPrQ0e.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075812410326388736/pu/vid/avc1/720x720/yb1u5W7fvyaOcvj3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075812410326388736/pu/vid/avc1/540x540/bE-BBt_BYmcjLIAC.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1359,
+        "media_key": "3_2075808165246222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7AhzdbQAAPzhi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075811800076132352",
+            "3_2075811800839585792"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075811803431645667",
+        "created_at": "2026-07-11T05:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:17:55.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075811803431645667",
+          "2075811958230769899",
+          "2075812427804065814",
+          "2075817420397355060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHZ8EUuWDY",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075811803431645667/photo/1",
+              "media_key": "3_2075811800076132352",
+              "start": 5,
+              "url": "https://t.co/XHZ8EUuWDY"
+            },
+            {
+              "display_url": "pic.x.com/XHZ8EUuWDY",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075811803431645667/photo/1",
+              "media_key": "3_2075811800839585792",
+              "start": 5,
+              "url": "https://t.co/XHZ8EUuWDY"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075808327720980871",
+              "start": 29,
+              "url": "https://t.co/s2k3rBkCyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075811803431645667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075808327720980871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可愛了 https://t.co/XHZ8EUuWDY https://t.co/s2k3rBkCyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075811917499961345"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075811958230769899",
+        "created_at": "2026-07-11T05:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:17:55.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075811803431645667",
+          "2075811958230769899",
+          "2075812427804065814",
+          "2075817420397355060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzB6l6mOZY",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075811958230769899/video/1",
+              "media_key": "7_2075811917499961345",
+              "start": 5,
+              "url": "https://t.co/UzB6l6mOZY"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075808327720980871",
+              "start": 29,
+              "url": "https://t.co/s2k3rBkCyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075811958230769899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075808327720980871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可愛了 https://t.co/UzB6l6mOZY https://t.co/s2k3rBkCyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075811917499961345",
+            "7_2075812410326388736",
+            "3_2075812411702116352",
+            "3_2075812411815362560"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075812427804065814",
+        "created_at": "2026-07-11T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:17:55.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075811803431645667",
+          "2075811958230769899",
+          "2075812427804065814",
+          "2075817420397355060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6t29sTqIt",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075812427804065814/video/1",
+              "media_key": "7_2075811917499961345",
+              "start": 5,
+              "url": "https://t.co/L6t29sTqIt"
+            },
+            {
+              "display_url": "pic.x.com/L6t29sTqIt",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075812427804065814/video/1",
+              "media_key": "7_2075812410326388736",
+              "start": 5,
+              "url": "https://t.co/L6t29sTqIt"
+            },
+            {
+              "display_url": "pic.x.com/L6t29sTqIt",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075812427804065814/video/1",
+              "media_key": "3_2075812411702116352",
+              "start": 5,
+              "url": "https://t.co/L6t29sTqIt"
+            },
+            {
+              "display_url": "pic.x.com/L6t29sTqIt",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075812427804065814/video/1",
+              "media_key": "3_2075812411815362560",
+              "start": 5,
+              "url": "https://t.co/L6t29sTqIt"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075808327720980871",
+              "start": 29,
+              "url": "https://t.co/s2k3rBkCyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075812427804065814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075808327720980871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可愛了 https://t.co/L6t29sTqIt https://t.co/s2k3rBkCyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075811917499961345",
+            "7_2075812410326388736"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075817420397355060",
+        "created_at": "2026-07-11T05:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:17:55.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075811803431645667",
+          "2075811958230769899",
+          "2075812427804065814",
+          "2075817420397355060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhxtOYWjb6",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075817420397355060/video/1",
+              "media_key": "7_2075811917499961345",
+              "start": 5,
+              "url": "https://t.co/MhxtOYWjb6"
+            },
+            {
+              "display_url": "pic.x.com/MhxtOYWjb6",
+              "end": 28,
+              "expanded_url": "https://x.com/aaarjkk/status/2075817420397355060/video/1",
+              "media_key": "7_2075812410326388736",
+              "start": 5,
+              "url": "https://t.co/MhxtOYWjb6"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075808327720980871",
+              "start": 29,
+              "url": "https://t.co/s2k3rBkCyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075817420397355060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075808327720980871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可愛了 https://t.co/MhxtOYWjb6 https://t.co/s2k3rBkCyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075808165246222336"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075808327720980871",
+        "created_at": "2026-07-11T05:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:03:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075808167733412208",
+          "2075808327720980871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7fS5EtTtG",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2075808327720980871/photo/1",
+              "media_key": "3_2075808165246222336",
+              "start": 18,
+              "url": "https://t.co/E7fS5EtTtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075808327720980871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我第一次见🧐这小鸭子还挺可爱😊 https://t.co/E7fS5EtTtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1109,
+          "like_count": 22678,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

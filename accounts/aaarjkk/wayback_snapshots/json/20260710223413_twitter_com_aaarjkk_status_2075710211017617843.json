@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2075112327888945514",
+    "created_at": "2026-07-10T22:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075710211017617843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075710211017617843",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075112327888945514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 现在开奖，请抽取一个特等奖，被抽取的人必须跟随我、点赞这个抽奖帖子、在这个抽奖帖子下评论、转贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075112325393293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxHqmAaIAAU54l.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-10T22:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075710211017617843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075710211017617843",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075112327888945514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 现在开奖，请抽取一个特等奖，被抽取的人必须跟随我、点赞这个抽奖帖子、在这个抽奖帖子下评论、转贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075112325393293312"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-09T06:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075112327888945514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJLEl8DCkj",
+              "end": 213,
+              "expanded_url": "https://x.com/aaarjkk/status/2075112327888945514/photo/1",
+              "media_key": "3_2075112325393293312",
+              "start": 190,
+              "url": "https://t.co/VJLEl8DCkj"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075106168327073876",
+              "start": 214,
+              "url": "https://t.co/29B8vsVzQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075112327888945514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖\n奖品将使用微信支付发放"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4221,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075106168327073876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖 https://t.co/VJLEl8DCkj https://t.co/29B8vsVzQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1107,
+          "like_count": 22453,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8849951,
+          "following_count": 5,
+          "like_count": 117,
+          "listed_count": 7146,
+          "media_count": 9144628,
+          "tweet_count": 131113523
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}
