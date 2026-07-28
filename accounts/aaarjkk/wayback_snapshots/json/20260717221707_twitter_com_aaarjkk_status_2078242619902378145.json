@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078242617574543360"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2078148052679065670",
+    "created_at": "2026-07-17T22:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078242619902378145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734929931325591552",
+          "start": 0,
+          "username": "JntmB81196"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYTWzbC4Y1",
+          "end": 48,
+          "expanded_url": "https://x.com/aaarjkk/status/2078242619902378145/photo/1",
+          "media_key": "3_2078242617574543360",
+          "start": 25,
+          "url": "https://t.co/IYTWzbC4Y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078242619902378145",
+    "in_reply_to_user_id": "1734929931325591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078175569129476530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JntmB81196 不对哦不是color😋😋 https://t.co/IYTWzbC4Y1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078242617574543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdmplGb0AATFwT.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078242617574543360"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2078148052679065670",
+        "created_at": "2026-07-17T22:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078242619902378145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734929931325591552",
+              "start": 0,
+              "username": "JntmB81196"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYTWzbC4Y1",
+              "end": 48,
+              "expanded_url": "https://x.com/aaarjkk/status/2078242619902378145/photo/1",
+              "media_key": "3_2078242617574543360",
+              "start": 25,
+              "url": "https://t.co/IYTWzbC4Y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078242619902378145",
+        "in_reply_to_user_id": "1734929931325591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078175569129476530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JntmB81196 不对哦不是color😋😋 https://t.co/IYTWzbC4Y1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734929931325591552",
+        "conversation_id": "2078148052679065670",
+        "created_at": "2026-07-17T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078175569129476530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078175569129476530",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148052679065670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk ColorOS16？左下角的快捷方式是……Gemini嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1148,
+          "like_count": 23995,
+          "listed_count": 5,
+          "media_count": 542,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-13T13:35:21.000Z",
+        "description": "My wish is to be my true self, to be an MtF . I need a lot of money 😭😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cainaonao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cainaonao",
+                "start": 0,
+                "url": "https://t.co/xejrOueRzE"
+              }
+            ]
+          }
+        },
+        "id": "1734929931325591552",
+        "location": "Republic of Korea",
+        "name": "Cai Naonao",
+        "pinned_tweet_id": "2078190121007112279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033453812279918592/7rVzzZ4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2278,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/xejrOueRzE",
+        "username": "JntmB81196",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077268024768245760"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2077268432454648246",
+    "created_at": "2026-07-15T05:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077268432454648246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kumSw4uP1V",
+          "end": 133,
+          "expanded_url": "https://x.com/aaarjkk/status/2077268432454648246/video/1",
+          "media_key": "13_2077268024768245760",
+          "start": 110,
+          "url": "https://t.co/kumSw4uP1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077268432454648246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我好像发现了开始菜单右侧窗格的作用\n触屏关闭开始菜单\n\n点击开始按钮打开的开始菜单可以通过点击开始菜单外的区域关闭开始菜单\n通过上滑任务栏打开的开始菜单不能通过点击开始菜单外的区域关闭开始菜单（这是bug还是特性？？）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像发现了开始菜单右侧窗格的作用\n触屏关闭开始菜单\n\n点击开始按钮打开的开始菜单可以通过点击开始菜单外的区域关闭开始菜单\n通过上滑任务栏打开的开始菜单不能通过点击开始菜单外的区域关闭开始菜单（这是bug还是特性？？） https://t.co/kumSw4uP1V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26190,
+        "height": 1920,
+        "media_key": "13_2077268024768245760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077268024768245760/img/bw9vW2iUY2uDAIO8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268024768245760/vid/avc1/480x852/hQBUO9orYt_mMGZJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268024768245760/vid/avc1/720x1280/I5MKSpEyXP3pvVpq.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268024768245760/vid/avc1/320x568/0raTvxVRHJXg4ecz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077268024768245760/pl/kVKdXjrprRBXXTbC.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268024768245760/vid/avc1/1080x1920/Xe0ihPhgQbxwTav3.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077268024768245760"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2077268432454648246",
+        "created_at": "2026-07-15T05:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077268432454648246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kumSw4uP1V",
+              "end": 133,
+              "expanded_url": "https://x.com/aaarjkk/status/2077268432454648246/video/1",
+              "media_key": "13_2077268024768245760",
+              "start": 110,
+              "url": "https://t.co/kumSw4uP1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077268432454648246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我好像发现了开始菜单右侧窗格的作用\n触屏关闭开始菜单\n\n点击开始按钮打开的开始菜单可以通过点击开始菜单外的区域关闭开始菜单\n通过上滑任务栏打开的开始菜单不能通过点击开始菜单外的区域关闭开始菜单（这是bug还是特性？？）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像发现了开始菜单右侧窗格的作用\n触屏关闭开始菜单\n\n点击开始按钮打开的开始菜单可以通过点击开始菜单外的区域关闭开始菜单\n通过上滑任务栏打开的开始菜单不能通过点击开始菜单外的区域关闭开始菜单（这是bug还是特性？？） https://t.co/kumSw4uP1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1142,
+          "like_count": 23531,
+          "listed_count": 4,
+          "media_count": 523,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

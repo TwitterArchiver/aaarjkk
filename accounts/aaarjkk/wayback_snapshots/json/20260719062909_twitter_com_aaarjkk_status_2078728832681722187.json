@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2078392225395098046",
+    "created_at": "2026-07-19T06:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078728832681722187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 23,
+          "id": "1893167873209856000",
+          "start": 15,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078728832681722187",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078446830862664123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoMing @mxyzcdb 我珠海这也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2078392225395098046",
+        "created_at": "2026-07-19T06:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078728832681722187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 23,
+              "id": "1893167873209856000",
+              "start": 15,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078728832681722187",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078446830862664123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoMing @mxyzcdb 我珠海这也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938537315586244608",
+        "conversation_id": "2078392225395098046",
+        "created_at": "2026-07-18T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078446830862664123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078446830862664123",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078434591929766069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb 直辖市这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 1147,
+          "like_count": 24193,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "08|高三毕业生|INFP-T|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线|mtx?|🏳️‍⚧️友跨|含糖🍥|互fo喵\n另一个号@feng_sulfone\n可以来找我聊天吗喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "feng_sulfone"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "location": "TJ",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2077982207227076649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 549,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "ruoruoruoMing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "此号休眠，请联系 @axzameyzed｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/hFOixSI4s2"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 381,
+          "like_count": 5916,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/hFOixSI4s2",
+        "username": "mxyzcdb",
+        "verified": false
+      }
+    ]
+  }
+}

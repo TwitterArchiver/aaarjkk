@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080210858777640960"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2080210872451080496",
+    "created_at": "2026-07-23T08:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080210872451080496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/otIZarVl2h",
+          "end": 35,
+          "expanded_url": "https://x.com/aaarjkk/status/2080210872451080496/photo/1",
+          "media_key": "3_2080210858777640960",
+          "start": 12,
+          "url": "https://t.co/otIZarVl2h"
+        },
+        {
+          "display_url": "x.com/Fubspink/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Fubspink/status/2080203364864770256",
+          "start": 36,
+          "url": "https://t.co/PHUeLUXAx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080210872451080496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080203364864770256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "银狐套娃感确实挺明显的 https://t.co/otIZarVl2h https://t.co/PHUeLUXAx9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3409,
+        "media_key": "3_2080210858777640960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5kwS9aAAAwA_j.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080210858777640960"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2080210872451080496",
+        "created_at": "2026-07-23T08:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080210872451080496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otIZarVl2h",
+              "end": 35,
+              "expanded_url": "https://x.com/aaarjkk/status/2080210872451080496/photo/1",
+              "media_key": "3_2080210858777640960",
+              "start": 12,
+              "url": "https://t.co/otIZarVl2h"
+            },
+            {
+              "display_url": "x.com/Fubspink/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Fubspink/status/2080203364864770256",
+              "start": 36,
+              "url": "https://t.co/PHUeLUXAx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080210872451080496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080203364864770256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "银狐套娃感确实挺明显的 https://t.co/otIZarVl2h https://t.co/PHUeLUXAx9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2956311413",
+        "conversation_id": "2080203053513523617",
+        "created_at": "2026-07-23T08:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080203364864770256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080203364864770256",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080203053513523617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 银狐套娃感确实挺明显的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2078259905748926467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 1174,
+          "like_count": 24895,
+          "listed_count": 5,
+          "media_count": 567,
+          "tweet_count": 3446
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-02T09:14:10.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/T8M7anZA74"
+              }
+            ]
+          }
+        },
+        "id": "2956311413",
+        "name": "银狐VPN电报必备",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078816441030078464/18TinAHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 84,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/T8M7anZA74",
+        "username": "Fubspink",
+        "verified": false
+      }
+    ]
+  }
+}

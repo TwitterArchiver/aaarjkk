@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2077692128285897010",
+    "created_at": "2026-07-16T11:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077722090216865882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988766491504963584",
+          "start": 0,
+          "username": "Naletury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077722090216865882",
+    "in_reply_to_user_id": "1988766491504963584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077704155829858609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naletury 外版的机器哦，考虑到以后可能要用esim😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T11:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077722090216865882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988766491504963584",
+              "start": 0,
+              "username": "Naletury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077722090216865882",
+        "in_reply_to_user_id": "1988766491504963584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077704155829858609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naletury 外版的机器哦，考虑到以后可能要用esim😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988766491504963584",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T10:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077704155829858609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077704155829858609",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077692128285897010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 拿到就刷oos？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1145,
+          "like_count": 23780,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 3283
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T00:31:16.000Z",
+        "description": "深柜中... | (2x-3)/(x-2)-5/x=2/(x^2-2x)次元 | 不吃糖🍬 | 不发帖就是被断网了 | 会一些programming | 小资历 | 欢迎扩列😉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Naletury",
+                "end": 23,
+                "expanded_url": "https://twitter.com/Naletury",
+                "start": 0,
+                "url": "https://t.co/vVWX1Pzq0r"
+              }
+            ]
+          }
+        },
+        "id": "1988766491504963584",
+        "name": "浅川 澪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055568519077498880/SMEIwHfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/vVWX1Pzq0r",
+        "username": "Naletury",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2078125828588908768",
+    "created_at": "2026-07-17T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078125828588908768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XiaoQi_077s/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/XiaoQi_077s/status/2077860062014611483",
+          "start": 8,
+          "url": "https://t.co/jvQpCU0Fjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078125828588908768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077860062014611483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要通宵😋😋 https://t.co/jvQpCU0Fjo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2078125828588908768",
+        "created_at": "2026-07-17T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078125828588908768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoQi_077s/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/XiaoQi_077s/status/2077860062014611483",
+              "start": 8,
+              "url": "https://t.co/jvQpCU0Fjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078125828588908768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077860062014611483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要通宵😋😋 https://t.co/jvQpCU0Fjo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818546901899509760",
+        "conversation_id": "2077860062014611483",
+        "created_at": "2026-07-16T20:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077860062014611483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077860062014611483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又通宵了......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1148,
+          "like_count": 23966,
+          "listed_count": 5,
+          "media_count": 536,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn丨无证含糖丨HRT丨自残丨家暴党丨PTSD创伤后应激障碍丨VRChat丨会刷机丨会Python丨喜欢折腾各种Android设备丨同类互fo丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071562109117444428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 421,
+          "like_count": 1727,
+          "listed_count": 4,
+          "media_count": 85,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "XiaoQi_077s",
+        "verified": true
+      }
+    ]
+  }
+}

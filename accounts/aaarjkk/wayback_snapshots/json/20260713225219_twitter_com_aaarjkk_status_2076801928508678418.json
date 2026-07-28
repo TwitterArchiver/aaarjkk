@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2076411478622777367",
+    "created_at": "2026-07-13T22:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076801928508678418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613462516163842050",
+          "start": 0,
+          "username": "sayaalauun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076801928508678418",
+    "in_reply_to_user_id": "1613462516163842050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076411478622777367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayaalauun 能稳定运行就没必要升级"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076411464215371776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDlObQbIAA7jqk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2076411478622777367",
+        "created_at": "2026-07-13T22:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076801928508678418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613462516163842050",
+              "start": 0,
+              "username": "sayaalauun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076801928508678418",
+        "in_reply_to_user_id": "1613462516163842050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076411478622777367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayaalauun 能稳定运行就没必要升级"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076411464215371776"
+          ]
+        },
+        "author_id": "1613462516163842050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2076411478622777367",
+        "created_at": "2026-07-12T21:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076411478622777367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W0mh48OhH",
+              "end": 99,
+              "expanded_url": "https://x.com/sayaalauun/status/2076411478622777367/photo/1",
+              "media_key": "3_2076411464215371776",
+              "start": 76,
+              "url": "https://t.co/2W0mh48OhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076411478622777367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么到现在还有火车站闸机还在用WinXP（杭州城站）\n准确来说是Embedded 2009 PosReady\n好像体验稍好的火车站已经用Win10了？ https://t.co/2W0mh48OhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1127,
+          "like_count": 23232,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 3223
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-12T09:07:08.000Z",
+        "description": "✨ | NO_PRON | 19y | zh/en/jp | WTFPL | fo-back yes! 🤗\n游走互联网的赛博半凛 想要有人陪的可回收垃圾w\n@Rinkomo233 legacy acc. | #サカナクション fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "サカナクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Rinkomo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dashin_kita",
+                "end": 23,
+                "expanded_url": "http://t.me/dashin_kita",
+                "start": 0,
+                "url": "https://t.co/cqQHRFIGpL"
+              }
+            ]
+          }
+        },
+        "id": "1613462516163842050",
+        "location": "Loading...",
+        "name": "萌田 リン",
+        "pinned_tweet_id": "2076017239338496166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053985971390332929/VtJyMoRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 684,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/cqQHRFIGpL",
+        "username": "sayaalauun",
+        "verified": false
+      }
+    ]
+  }
+}

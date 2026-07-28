@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076992472773984256"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2076992906217582948",
+    "created_at": "2026-07-14T11:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076992906217582948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7uM7OrvWL",
+          "end": 98,
+          "expanded_url": "https://x.com/aaarjkk/status/2076992906217582948/photo/1",
+          "media_key": "3_2076992472773984256",
+          "start": 75,
+          "url": "https://t.co/Y7uM7OrvWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076992906217582948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "@​wanliyan3 已封鎖你\n你可以查看 @​wanliyan3 的公開貼文，但無法參與其中。你也無法跟隨或發送訊息給 @​wanliyan3。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@​wanliyan3 已封鎖你\n你可以查看 @​wanliyan3 的公開貼文，但無法參與其中。你也無法跟隨或發送訊息給 @​wanliyan3。 https://t.co/Y7uM7OrvWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1223,
+        "media_key": "3_2076992472773984256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL1pkzagAAzCQ6.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076992472773984256"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2076992906217582948",
+        "created_at": "2026-07-14T11:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076992906217582948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7uM7OrvWL",
+              "end": 98,
+              "expanded_url": "https://x.com/aaarjkk/status/2076992906217582948/photo/1",
+              "media_key": "3_2076992472773984256",
+              "start": 75,
+              "url": "https://t.co/Y7uM7OrvWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076992906217582948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "@​wanliyan3 已封鎖你\n你可以查看 @​wanliyan3 的公開貼文，但無法參與其中。你也無法跟隨或發送訊息給 @​wanliyan3。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@​wanliyan3 已封鎖你\n你可以查看 @​wanliyan3 的公開貼文，但無法參與其中。你也無法跟隨或發送訊息給 @​wanliyan3。 https://t.co/Y7uM7OrvWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 1135,
+          "like_count": 23375,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 3245
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

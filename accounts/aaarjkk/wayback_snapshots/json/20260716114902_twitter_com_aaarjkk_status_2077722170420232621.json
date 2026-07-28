@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2077692128285897010",
+    "created_at": "2026-07-16T11:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077722170420232621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068731161627815936",
+          "start": 0,
+          "username": "Xiaoyueqiu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077722170420232621",
+    "in_reply_to_user_id": "2068731161627815936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077710706460500155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyueqiu111 😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077710699602812929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWC34PaoAEhWi-.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T11:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077722170420232621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068731161627815936",
+              "start": 0,
+              "username": "Xiaoyueqiu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077722170420232621",
+        "in_reply_to_user_id": "2068731161627815936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077710706460500155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyueqiu111 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077710699602812929"
+          ]
+        },
+        "author_id": "2068731161627815936",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T11:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077710706460500155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUKR7JuG9O",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyueqiu111/status/2077710706460500155/photo/1",
+              "media_key": "3_2077710699602812929",
+              "start": 17,
+              "url": "https://t.co/WUKR7JuG9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077710706460500155",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077692128285897010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 我的也是一加的 https://t.co/WUKR7JuG9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1145,
+          "like_count": 23782,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T16:23:31.000Z",
+        "description": "更新项目：长春航空展（部分素材）、转载各国军事动向、珠海航空展（待定）。\n“亮点”处为中国官方军事账号在中国社交平台发布的部分文章以及本人素材收集，欢迎阅览。\n关于个人内容更新：素材正在收集整理，敬请期待。也欢迎诸位投稿。\n基本无立场，包容一切思想。一般不讨论过往立场。\n*如有侵权，联系可删\n真实住址：中国，山东，青岛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "airshow.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.airshow.com.cn",
+                "start": 0,
+                "url": "https://t.co/JIkCcqoQnY"
+              }
+            ]
+          }
+        },
+        "id": "2068731161627815936",
+        "location": "Zhuhai, Guangdong, the PRC",
+        "name": "Itirric-小月秋",
+        "pinned_tweet_id": "2076247752514982360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073057210255708160/K3Nd-UYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 163,
+          "like_count": 3098,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/JIkCcqoQnY",
+        "username": "Xiaoyueqiu111",
+        "verified": true
+      }
+    ]
+  }
+}

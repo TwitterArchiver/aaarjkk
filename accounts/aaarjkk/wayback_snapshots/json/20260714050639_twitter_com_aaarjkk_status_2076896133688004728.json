@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2076442329511309526",
+    "created_at": "2026-07-14T05:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076896133688004728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944634025076985856",
+          "start": 0,
+          "username": "ExplorerBlueSky"
+        }
+      ],
+      "urls": [
+        {
+          "description": "是的，VMware Workstation Pro 现在完全免费。 从 2024 年 11 月 11 日起，Broadcom（VMware 的母公司）宣布 VMware Workstation Pro（以及 Fusion Pro）对所有用户免费，包括个人使用、商业使用和教育使用。以前的付费订阅模式已取消，Pro 版本不再单独出售。 关键点总结： 免费范围：个人、商业、教育均免费，无需许可证密钥。 功能：免费版包含之前 Pro 版的所有功能。 下载方式：需要注册一个免费的 Broadcom 账号，从官方支持门户下载最新版本（当前如 17.5.2 或更高，2026 年已有 26H1 等更新）。 安装时：选择 “Personal Use” 或直接继续即可（无需输入 key）。 支持：Broadcom 不再提供付费技术支持（现有合同用户除外），只能依靠官方文档和社区论坛。 如果你是个人用户，现在可以直接下载安装使用，非常方便。商业用户如果需要正式支持，仍可考虑订阅选项，但基础使用已免费。 需要下载链接或安装教程的话，告诉我，我可以再帮你细说！",
+          "display_url": "x.com/i/grok/share/7…",
+          "end": 40,
+          "expanded_url": "https://x.com/i/grok/share/7c13f7a21ac244cdb8e0c48a073bc8e9",
+          "start": 17,
+          "status": 200,
+          "title": "VMware Workstation Pro免费吗",
+          "unwound_url": "https://x.com/i/grok/share/7c13f7a21ac244cdb8e0c48a073bc8e9",
+          "url": "https://t.co/gLRNCtSFW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076896133688004728",
+    "in_reply_to_user_id": "1944634025076985856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076892523457585187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExplorerBlueSky https://t.co/gLRNCtSFW8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2076442329511309526",
+        "created_at": "2026-07-14T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076896133688004728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944634025076985856",
+              "start": 0,
+              "username": "ExplorerBlueSky"
+            }
+          ],
+          "urls": [
+            {
+              "description": "是的，VMware Workstation Pro 现在完全免费。 从 2024 年 11 月 11 日起，Broadcom（VMware 的母公司）宣布 VMware Workstation Pro（以及 Fusion Pro）对所有用户免费，包括个人使用、商业使用和教育使用。以前的付费订阅模式已取消，Pro 版本不再单独出售。 关键点总结： 免费范围：个人、商业、教育均免费，无需许可证密钥。 功能：免费版包含之前 Pro 版的所有功能。 下载方式：需要注册一个免费的 Broadcom 账号，从官方支持门户下载最新版本（当前如 17.5.2 或更高，2026 年已有 26H1 等更新）。 安装时：选择 “Personal Use” 或直接继续即可（无需输入 key）。 支持：Broadcom 不再提供付费技术支持（现有合同用户除外），只能依靠官方文档和社区论坛。 如果你是个人用户，现在可以直接下载安装使用，非常方便。商业用户如果需要正式支持，仍可考虑订阅选项，但基础使用已免费。 需要下载链接或安装教程的话，告诉我，我可以再帮你细说！",
+              "display_url": "x.com/i/grok/share/7…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/grok/share/7c13f7a21ac244cdb8e0c48a073bc8e9",
+              "start": 17,
+              "status": 200,
+              "title": "VMware Workstation Pro免费吗",
+              "unwound_url": "https://x.com/i/grok/share/7c13f7a21ac244cdb8e0c48a073bc8e9",
+              "url": "https://t.co/gLRNCtSFW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076896133688004728",
+        "in_reply_to_user_id": "1944634025076985856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076892523457585187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExplorerBlueSky https://t.co/gLRNCtSFW8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944634025076985856",
+        "conversation_id": "2076442329511309526",
+        "created_at": "2026-07-14T04:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076892523457585187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076892523457585187",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076892184763420713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 真假的？我马上试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1134,
+          "like_count": 23308,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T05:44:30.000Z",
+        "description": "叫我小柠就好～\n性別多元🏳️‍⚧️🏳️‍🌈｜Transgirl｜數碼｜摄影｜超自然｜夢核｜怪核｜Python｜Kali Linux｜Windows｜電學｜無人機｜飛友｜Hasselblad｜DJI｜ Nikon\n🎂2010.08.11\n163cm",
+        "id": "1944634025076985856",
+        "location": "禄口",
+        "name": "祈雪の少女❄️🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075777635804934144/EZ8ljz51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 501,
+          "like_count": 4385,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "ExplorerBlueSky",
+        "verified": false
+      }
+    ]
+  }
+}

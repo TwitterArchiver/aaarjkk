@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080494235095355392"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2080313481849643106",
+    "created_at": "2026-07-24T03:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080494255039279271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060603321812209664",
+          "start": 0,
+          "username": "naming_736582"
+        },
+        {
+          "end": 28,
+          "id": "1884371941597052928",
+          "start": 15,
+          "username": "kftimcx54196"
+        },
+        {
+          "end": 43,
+          "id": "2079365089334112256",
+          "start": 29,
+          "username": "Kiyoshiaufzju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OVRIuzGxEo",
+          "end": 67,
+          "expanded_url": "https://x.com/aaarjkk/status/2080494255039279271/photo/1",
+          "media_key": "3_2080494235095355392",
+          "start": 44,
+          "url": "https://t.co/OVRIuzGxEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080494255039279271",
+    "in_reply_to_user_id": "2060603321812209664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080472647297806498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naming_736582 @kftimcx54196 @Kiyoshiaufzju https://t.co/OVRIuzGxEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2080494235095355392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9me-AbUAASrHE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080494235095355392"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2080313481849643106",
+        "created_at": "2026-07-24T03:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080494255039279271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060603321812209664",
+              "start": 0,
+              "username": "naming_736582"
+            },
+            {
+              "end": 28,
+              "id": "1884371941597052928",
+              "start": 15,
+              "username": "kftimcx54196"
+            },
+            {
+              "end": 43,
+              "id": "2079365089334112256",
+              "start": 29,
+              "username": "Kiyoshiaufzju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVRIuzGxEo",
+              "end": 67,
+              "expanded_url": "https://x.com/aaarjkk/status/2080494255039279271/photo/1",
+              "media_key": "3_2080494235095355392",
+              "start": 44,
+              "url": "https://t.co/OVRIuzGxEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080494255039279271",
+        "in_reply_to_user_id": "2060603321812209664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080472647297806498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naming_736582 @kftimcx54196 @Kiyoshiaufzju https://t.co/OVRIuzGxEo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060603321812209664",
+        "conversation_id": "2080313481849643106",
+        "created_at": "2026-07-24T01:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080472647297806498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884371941597052928",
+              "start": 0,
+              "username": "kftimcx54196"
+            },
+            {
+              "end": 22,
+              "id": "1955980103688790017",
+              "start": 14,
+              "username": "aaarjkk"
+            },
+            {
+              "end": 37,
+              "id": "2079365089334112256",
+              "start": 23,
+              "username": "Kiyoshiaufzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080472647297806498",
+        "in_reply_to_user_id": "1884371941597052928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080460255935512681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kftimcx54196 @aaarjkk @Kiyoshiaufzju 那是啥意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1172,
+          "like_count": 24956,
+          "listed_count": 5,
+          "media_count": 568,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T06:06:52.000Z",
+        "description": "15岁 | 高中生| INFP-T | 对自己的思维能力感到骄傲 | 抑郁症 丨 社恐 | 只会中文（但是我可以翻译）|  极其善良 |梦想将来🍥🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/RZePZdgJ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/RZePZdgJ",
+                "start": 0,
+                "url": "https://t.co/E23wOQC9lG"
+              }
+            ]
+          }
+        },
+        "id": "2060603321812209664",
+        "name": "雫溟Baby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069368954372722688/qr96D19J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 69,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/E23wOQC9lG",
+        "username": "naming_736582",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T22:44:25.000Z",
+        "description": "@kftimcx54196.bsky.social\nhttps://t.co/LQrtDXuvey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kftimcx54196"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kftimc…",
+                "end": 49,
+                "expanded_url": "https://bsky.app/profile/kftimcx54196.bsky.social",
+                "start": 26,
+                "url": "https://t.co/LQrtDXuvey"
+              }
+            ]
+          }
+        },
+        "id": "1884371941597052928",
+        "name": ".",
+        "pinned_tweet_id": "1947435741170073899",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 357,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2709
+        },
+        "url": "",
+        "username": "kftimcx54196",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 136,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}
