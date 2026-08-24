@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085687959152652288",
+        "3_2085687965955813378"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2085687971613986912",
+    "created_at": "2026-08-07T11:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:44:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085678362379551172",
+      "2085687971613986912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9070EUJbP7",
+          "end": 52,
+          "expanded_url": "https://x.com/aaarjkk/status/2085687971613986912/photo/1",
+          "media_key": "3_2085687959152652288",
+          "start": 29,
+          "url": "https://t.co/9070EUJbP7"
+        },
+        {
+          "display_url": "pic.x.com/9070EUJbP7",
+          "end": 52,
+          "expanded_url": "https://x.com/aaarjkk/status/2085687971613986912/photo/1",
+          "media_key": "3_2085687965955813378",
+          "start": 29,
+          "url": "https://t.co/9070EUJbP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085687971613986912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图一是给的测试ip，图二是我购买的云服务器的ip😡😡😡😡 https://t.co/9070EUJbP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2085687959152652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHaJf2acAA6JRO.jpg",
+        "width": 1650
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2085687965955813378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHaJ5MacAI74ft.jpg",
+        "width": 1732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085678348253216769",
+            "3_2085678355706466304"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085678362379551172",
+        "created_at": "2026-08-07T10:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:44:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085678362379551172",
+          "2085687971613986912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEM6VSwRiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2085678362379551172/photo/1",
+              "media_key": "3_2085678348253216769",
+              "start": 29,
+              "url": "https://t.co/IEM6VSwRiv"
+            },
+            {
+              "display_url": "pic.x.com/IEM6VSwRiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2085678362379551172/photo/1",
+              "media_key": "3_2085678355706466304",
+              "start": 29,
+              "url": "https://t.co/IEM6VSwRiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085678362379551172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图一是给的测试ip，图二是我购买的云服务器的ip😡😡😡😡 https://t.co/IEM6VSwRiv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085687959152652288",
+            "3_2085687965955813378"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085687971613986912",
+        "created_at": "2026-08-07T11:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:44:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085678362379551172",
+          "2085687971613986912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9070EUJbP7",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2085687971613986912/photo/1",
+              "media_key": "3_2085687959152652288",
+              "start": 29,
+              "url": "https://t.co/9070EUJbP7"
+            },
+            {
+              "display_url": "pic.x.com/9070EUJbP7",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2085687971613986912/photo/1",
+              "media_key": "3_2085687965955813378",
+              "start": 29,
+              "url": "https://t.co/9070EUJbP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085687971613986912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图一是给的测试ip，图二是我购买的云服务器的ip😡😡😡😡 https://t.co/9070EUJbP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1174,
+          "like_count": 27275,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

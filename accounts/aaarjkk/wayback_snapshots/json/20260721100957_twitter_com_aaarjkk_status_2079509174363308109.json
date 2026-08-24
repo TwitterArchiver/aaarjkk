@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2079407008894332934",
+    "created_at": "2026-07-21T10:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079509174363308109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "Gyoko404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079509174363308109",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079407008894332934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gyoko404 呜呜不要🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079406946692878336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuJmdEb0AAMduD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2079407008894332934",
+        "created_at": "2026-07-21T10:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079509174363308109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "Gyoko404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079509174363308109",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079407008894332934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyoko404 呜呜不要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079406946692878336"
+          ]
+        },
+        "author_id": "886641021588611072",
+        "conversation_id": "2079407008894332934",
+        "created_at": "2026-07-21T03:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079407008894332934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ereI8uo2GD",
+              "end": 27,
+              "expanded_url": "https://x.com/Gyoko404/status/2079407008894332934/photo/1",
+              "media_key": "3_2079406946692878336",
+              "start": 4,
+              "url": "https://t.co/ereI8uo2GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079407008894332934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1962,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "碳酸钡 https://t.co/ereI8uo2GD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1155,
+          "like_count": 24421,
+          "listed_count": 5,
+          "media_count": 558,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "爱惜自己真的好难",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvKNo"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "暁光🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079099989217931264/ovNjXQVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 78,
+          "like_count": 183,
+          "listed_count": 24,
+          "media_count": 41,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/vttA1wvKNo",
+        "username": "Gyoko404",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083801292984717312",
+        "3_2083801303722188800"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2083755784928952728",
+    "created_at": "2026-08-02T06:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083801312706417109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYAoRvfqrQ",
+          "end": 39,
+          "expanded_url": "https://x.com/aaarjkk/status/2083801312706417109/photo/1",
+          "media_key": "3_2083801292984717312",
+          "start": 16,
+          "url": "https://t.co/IYAoRvfqrQ"
+        },
+        {
+          "display_url": "pic.x.com/IYAoRvfqrQ",
+          "end": 39,
+          "expanded_url": "https://x.com/aaarjkk/status/2083801312706417109/photo/1",
+          "media_key": "3_2083801303722188800",
+          "start": 16,
+          "url": "https://t.co/IYAoRvfqrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083801312706417109",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083755784928952728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky https://t.co/IYAoRvfqrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2083801292984717312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsmPErakAAn29p.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2083801303722188800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsmPsrbYAApy8n.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083801292984717312",
+            "3_2083801303722188800"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2083755784928952728",
+        "created_at": "2026-08-02T06:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083801312706417109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYAoRvfqrQ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2083801312706417109/photo/1",
+              "media_key": "3_2083801292984717312",
+              "start": 16,
+              "url": "https://t.co/IYAoRvfqrQ"
+            },
+            {
+              "display_url": "pic.x.com/IYAoRvfqrQ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2083801312706417109/photo/1",
+              "media_key": "3_2083801303722188800",
+              "start": 16,
+              "url": "https://t.co/IYAoRvfqrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083801312706417109",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083755784928952728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky https://t.co/IYAoRvfqrQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083755784928952728",
+        "created_at": "2026-08-02T03:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083755784928952728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083755784928952728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃 還有一件事 我咬手的咬痕照片被推特警告了\n大家記住了 咬痕也不能發"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 1141,
+          "like_count": 26567,
+          "listed_count": 5,
+          "media_count": 602,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 2118,
+          "like_count": 65945,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 4436
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

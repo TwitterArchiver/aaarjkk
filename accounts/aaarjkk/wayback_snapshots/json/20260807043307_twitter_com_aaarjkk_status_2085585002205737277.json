@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2085519918058099127",
+    "created_at": "2026-08-07T04:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085585002205737277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989742696077168645",
+          "start": 0,
+          "username": "angel5554838581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085585002205737277",
+    "in_reply_to_user_id": "1989742696077168645",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085519918058099127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel5554838581 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085519909405274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFBTtwbMAAcf7s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T04:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085585002205737277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989742696077168645",
+              "start": 0,
+              "username": "angel5554838581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085585002205737277",
+        "in_reply_to_user_id": "1989742696077168645",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085519918058099127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel5554838581 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085519909405274112"
+          ]
+        },
+        "author_id": "1989742696077168645",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T00:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085519918058099127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE1XFFw4vp",
+              "end": 26,
+              "expanded_url": "https://x.com/angel5554838581/status/2085519918058099127/photo/1",
+              "media_key": "3_2085519909405274112",
+              "start": 3,
+              "url": "https://t.co/IE1XFFw4vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085519918058099127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 532,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见 https://t.co/IE1XFFw4vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1171,
+          "like_count": 27228,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T17:10:13.000Z",
+        "description": "每天都很懵逼",
+        "id": "1989742696077168645",
+        "location": "Tokyo-to, Japan",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989968123639013377/_RFJ8qJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 39,
+          "like_count": 316,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "angel5554838581",
+        "verified": false
+      }
+    ]
+  }
+}

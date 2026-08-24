@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086962617156067328"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2086962627318895070",
+    "created_at": "2026-08-10T23:47:18.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T00:46:39.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086962463652880601",
+      "2086962627318895070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QJmLBcP4rw",
+          "end": 40,
+          "expanded_url": "https://x.com/aaarjkk/status/2086962627318895070/photo/1",
+          "media_key": "3_2086962617156067328",
+          "start": 17,
+          "url": "https://t.co/QJmLBcP4rw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086962627318895070",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086962617156067328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "13%的手续费真的超级超级贵好吗 https://t.co/QJmLBcP4rw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3241,
+        "media_key": "3_2086962617156067328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZhcW8bYAANMDb.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086962454228262912"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2086962463652880601",
+        "created_at": "2026-08-10T23:46:39.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:46:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086962463652880601",
+          "2086962627318895070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwGHtk48WL",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2086962463652880601/photo/1",
+              "media_key": "3_2086962454228262912",
+              "start": 17,
+              "url": "https://t.co/EwGHtk48WL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086962463652880601",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086962454228262912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "13%的手续费真的超级超级贵好吗 https://t.co/EwGHtk48WL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086962617156067328"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2086962627318895070",
+        "created_at": "2026-08-10T23:47:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:46:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086962463652880601",
+          "2086962627318895070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJmLBcP4rw",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkk/status/2086962627318895070/photo/1",
+              "media_key": "3_2086962617156067328",
+              "start": 17,
+              "url": "https://t.co/QJmLBcP4rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086962627318895070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086962617156067328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "13%的手续费真的超级超级贵好吗 https://t.co/QJmLBcP4rw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086962627318895070",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2086292151143735526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955980103688790017/1781268380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1212,
+          "like_count": 27706,
+          "listed_count": 5,
+          "media_count": 643,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

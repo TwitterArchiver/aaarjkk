@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2082640932743340293",
+    "created_at": "2026-07-30T01:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082641633624158512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040727916112175104",
+          "start": 0,
+          "username": "BernardElm6110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082641633624158512",
+    "in_reply_to_user_id": "2040727916112175104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082641450437943628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BernardElm6110 没有啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082640932743340293",
+        "created_at": "2026-07-30T01:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082641633624158512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040727916112175104",
+              "start": 0,
+              "username": "BernardElm6110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082641633624158512",
+        "in_reply_to_user_id": "2040727916112175104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082641450437943628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BernardElm6110 没有啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040727916112175104",
+        "conversation_id": "2082640932743340293",
+        "created_at": "2026-07-30T01:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082641450437943628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082641450437943628",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082640932743340293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 是不是之前这个号被x拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 1128,
+          "like_count": 26087,
+          "listed_count": 5,
+          "media_count": 580,
+          "tweet_count": 3524
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T09:47:06.000Z",
+        "description": "果聊一对一视频聊天app推荐：https://t.co/wIdEkLuD2K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asdfgh.vip/UnXnx3C74i",
+                "end": 38,
+                "expanded_url": "https://asdfgh.vip/UnXnx3C74i",
+                "start": 15,
+                "url": "https://t.co/wIdEkLuD2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twuu.app",
+                "end": 23,
+                "expanded_url": "https://www.twuu.app",
+                "start": 0,
+                "url": "https://t.co/dwot22sA3O"
+              }
+            ]
+          }
+        },
+        "id": "2040727916112175104",
+        "location": "5KM",
+        "name": "美女一对一推荐",
+        "pinned_tweet_id": "2082641125089874088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727961989750784/x5nxxg2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/dwot22sA3O",
+        "username": "BernardElm6110",
+        "verified": false
+      }
+    ]
+  }
+}

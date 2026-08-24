@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2081382103506358533",
+    "created_at": "2026-07-28T01:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081919263850606592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975202429521010688",
+          "start": 0,
+          "username": "magictubawen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081919263850606592",
+    "in_reply_to_user_id": "1975202429521010688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081910980255355107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magictubawen 关灯夜景拍的😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2081382103506358533",
+        "created_at": "2026-07-28T01:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081919263850606592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975202429521010688",
+              "start": 0,
+              "username": "magictubawen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081919263850606592",
+        "in_reply_to_user_id": "1975202429521010688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081910980255355107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magictubawen 关灯夜景拍的😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975202429521010688",
+        "conversation_id": "2081382103506358533",
+        "created_at": "2026-07-28T01:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081910980255355107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081910980255355107",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081382103506358533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk ？照片进亚空间传回来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1170,
+          "like_count": 25638,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 3487
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T14:12:24.000Z",
+        "description": "七喜/08/北京/https://t.co/E22XnTojx5 祝大家都有人爱/梦想开心的去死",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/magicqixi",
+                "end": 32,
+                "expanded_url": "https://t.me/magicqixi",
+                "start": 9,
+                "url": "https://t.co/E22XnTojx5"
+              }
+            ]
+          }
+        },
+        "id": "1975202429521010688",
+        "location": "sea",
+        "name": "sevenhappy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060631540481339496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039834021128249344/Kfh4_n36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 197,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "magictubawen",
+        "verified": false
+      }
+    ]
+  }
+}

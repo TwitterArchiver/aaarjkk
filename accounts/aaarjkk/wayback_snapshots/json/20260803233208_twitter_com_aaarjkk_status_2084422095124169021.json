@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2082779447519015416",
+    "created_at": "2026-08-03T23:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084422095124169021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2071532847874342912",
+          "start": 0,
+          "username": "pennyoswalr0e9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084422095124169021",
+    "in_reply_to_user_id": "2071532847874342912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084217718417547355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pennyoswalr0e9 QQ或者x私聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082779447519015416",
+        "created_at": "2026-08-03T23:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084422095124169021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2071532847874342912",
+              "start": 0,
+              "username": "pennyoswalr0e9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084422095124169021",
+        "in_reply_to_user_id": "2071532847874342912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084217718417547355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pennyoswalr0e9 QQ或者x私聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071532847874342912",
+        "conversation_id": "2082779447519015416",
+        "created_at": "2026-08-03T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084217718417547355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084217718417547355",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082779447519015416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 这里要一个，怎么联系呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1154,
+          "like_count": 26815,
+          "listed_count": 5,
+          "media_count": 606,
+          "tweet_count": 3638
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-29T09:55:42.000Z",
+        "description": "",
+        "id": "2071532847874342912",
+        "name": "pennyoswald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084217393178710016/z1CNy97K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 93,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "pennyoswalr0e9",
+        "verified": false
+      }
+    ]
+  }
+}

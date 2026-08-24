@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2083948366984273967",
+    "created_at": "2026-08-03T10:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084229105483231268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778293240132759552",
+          "start": 0,
+          "username": "Yuanrpa"
+        },
+        {
+          "end": 21,
+          "id": "1813226212426457093",
+          "start": 9,
+          "username": "kitasantelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084229105483231268",
+    "in_reply_to_user_id": "1778293240132759552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084158413253333165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanrpa @kitasantelo 联网才能安装😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2083948366984273967",
+        "created_at": "2026-08-03T10:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084229105483231268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778293240132759552",
+              "start": 0,
+              "username": "Yuanrpa"
+            },
+            {
+              "end": 21,
+              "id": "1813226212426457093",
+              "start": 9,
+              "username": "kitasantelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084229105483231268",
+        "in_reply_to_user_id": "1778293240132759552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084158413253333165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanrpa @kitasantelo 联网才能安装😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778293240132759552",
+        "conversation_id": "2083948366984273967",
+        "created_at": "2026-08-03T06:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084158413253333165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813226212426457093",
+              "start": 0,
+              "username": "kitasantelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084158413253333165",
+        "in_reply_to_user_id": "1813226212426457093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948366984273967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitasantelo 断网安装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1152,
+          "like_count": 26774,
+          "listed_count": 5,
+          "media_count": 604,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 489,
+          "like_count": 8627,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 4080
+        },
+        "url": "",
+        "username": "Yuanrpa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T14:56:47.000Z",
+        "description": "",
+        "id": "1813226212426457093",
+        "name": "kitasan北黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944763295849979904/_E-zH_Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 2811,
+          "like_count": 387,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "kitasantelo",
+        "verified": true
+      }
+    ]
+  }
+}

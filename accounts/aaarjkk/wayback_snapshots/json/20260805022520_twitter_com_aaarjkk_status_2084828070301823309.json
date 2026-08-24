@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2084189170713624618",
+    "created_at": "2026-08-05T02:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084828070301823309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055438603820617728",
+          "start": 0,
+          "username": "Xxxu1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084828070301823309",
+    "in_reply_to_user_id": "2055438603820617728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084189170713624618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxu1024 多少钱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2059,
+        "media_key": "3_2084188797147971584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyGqyLagAADJOu.jpg",
+        "width": 3839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2084189170713624618",
+        "created_at": "2026-08-05T02:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084828070301823309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055438603820617728",
+              "start": 0,
+              "username": "Xxxu1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084828070301823309",
+        "in_reply_to_user_id": "2055438603820617728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084189170713624618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxu1024 多少钱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084188797147971584"
+          ]
+        },
+        "author_id": "2055438603820617728",
+        "conversation_id": "2084189170713624618",
+        "created_at": "2026-08-03T08:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084189170713624618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIp1gSUBuE",
+              "end": 52,
+              "expanded_url": "https://x.com/Xxxu1024/status/2084189170713624618/photo/1",
+              "media_key": "3_2084188797147971584",
+              "start": 29,
+              "url": "https://t.co/QIp1gSUBuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084189170713624618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失去所有反抗的手段，我就不应该贪便宜的😭\n还好有备用的😋 https://t.co/QIp1gSUBuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 1156,
+          "like_count": 26906,
+          "listed_count": 5,
+          "media_count": 607,
+          "tweet_count": 3655
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T00:03:35.000Z",
+        "description": "一只来自高中的阴暗企鹅，天天躲在家里看小说，其实也就只有看小说一个爱好了😋\n企鹅十分的包容欢迎和各位做朋友🐧",
+        "id": "2055438603820617728",
+        "location": "南极企鹅",
+        "name": "Xu🐧企鹅鹅企",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055672197163929600/ol_Ua5fB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 234,
+          "like_count": 5621,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "Xxxu1024",
+        "verified": false
+      }
+    ]
+  }
+}

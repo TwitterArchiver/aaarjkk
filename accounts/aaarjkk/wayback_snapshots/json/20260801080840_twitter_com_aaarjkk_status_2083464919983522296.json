@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083464912626757634"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2083464919983522296",
+    "created_at": "2026-08-01T08:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083464919983522296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCb9jjBGJ4",
+          "end": 44,
+          "expanded_url": "https://x.com/aaarjkk/status/2083464919983522296/photo/1",
+          "media_key": "3_2083464912626757634",
+          "start": 21,
+          "url": "https://t.co/CCb9jjBGJ4"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2083441132302958994",
+          "start": 45,
+          "url": "https://t.co/PUVl5A2Eck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083464919983522296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083441132302958994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许是救不回来了吧，陪伴了我6年的QQ🥺 https://t.co/CCb9jjBGJ4 https://t.co/PUVl5A2Eck"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2083464912626757634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn0TKMbsAIRnoL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2083441118973440001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOneqL7asAEJM7b.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2083441126078615552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOneqmZbEAAqazt.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083464912626757634"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2083464919983522296",
+        "created_at": "2026-08-01T08:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083464919983522296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCb9jjBGJ4",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkk/status/2083464919983522296/photo/1",
+              "media_key": "3_2083464912626757634",
+              "start": 21,
+              "url": "https://t.co/CCb9jjBGJ4"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2083441132302958994",
+              "start": 45,
+              "url": "https://t.co/PUVl5A2Eck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083464919983522296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083441132302958994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许是救不回来了吧，陪伴了我6年的QQ🥺 https://t.co/CCb9jjBGJ4 https://t.co/PUVl5A2Eck"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083441118973440001",
+            "3_2083441126078615552"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2083441132302958994",
+        "created_at": "2026-08-01T06:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083441132302958994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3qbH7R1Np",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+              "media_key": "3_2083441118973440001",
+              "start": 8,
+              "url": "https://t.co/D3qbH7R1Np"
+            },
+            {
+              "display_url": "pic.x.com/D3qbH7R1Np",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+              "media_key": "3_2083441126078615552",
+              "start": 8,
+              "url": "https://t.co/D3qbH7R1Np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083441132302958994",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQwcnm🤬 https://t.co/D3qbH7R1Np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1132,
+          "like_count": 26444,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

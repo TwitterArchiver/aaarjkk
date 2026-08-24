@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083167136659439616"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083001014517731747",
+    "created_at": "2026-07-31T12:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083167145803043245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PzWXyEryvJ",
+          "end": 33,
+          "expanded_url": "https://x.com/aaarjkk/status/2083167145803043245/photo/1",
+          "media_key": "3_2083167136659439616",
+          "start": 10,
+          "url": "https://t.co/PzWXyEryvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083167145803043245",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083001014517731747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza https://t.co/PzWXyEryvJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083167136659439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjleURagAAP4e_.jpg",
+        "width": 3216
+      },
+      {
+        "height": 1196,
+        "media_key": "3_2083000745885065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhOJGVaYAAfE-y.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 41940,
+        "height": 1440,
+        "media_key": "13_2083000745906044928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083000745906044928/img/PAz_MQqtmiwhmMIe.jpg",
+        "public_metrics": {
+          "view_count": 363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/620x360/_5SSATmiIE4sevY1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/464x270/dqgAc0ytkAYxkB25.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/pl/V7o7pO9sRJV1qNPl.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/2480x1440/lIsQx3VP0rHw8OnH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/1240x720/iKosUH5h6C-sKqRT.mp4"
+          }
+        ],
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083167136659439616"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083001014517731747",
+        "created_at": "2026-07-31T12:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083167145803043245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzWXyEryvJ",
+              "end": 33,
+              "expanded_url": "https://x.com/aaarjkk/status/2083167145803043245/photo/1",
+              "media_key": "3_2083167136659439616",
+              "start": 10,
+              "url": "https://t.co/PzWXyEryvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167145803043245",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083001014517731747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza https://t.co/PzWXyEryvJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083000745885065216",
+            "13_2083000745906044928"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2083001014517731747",
+        "created_at": "2026-07-31T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083001014517731747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1dioh3xGk",
+              "end": 68,
+              "expanded_url": "https://x.com/Konizaza/status/2083001014517731747/video/1",
+              "media_key": "3_2083000745885065216",
+              "start": 45,
+              "url": "https://t.co/v1dioh3xGk"
+            },
+            {
+              "display_url": "pic.x.com/v1dioh3xGk",
+              "end": 68,
+              "expanded_url": "https://x.com/Konizaza/status/2083001014517731747/video/1",
+              "media_key": "13_2083000745906044928",
+              "start": 45,
+              "url": "https://t.co/v1dioh3xGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083001014517731747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "😋哈哈哈安慕希玩家你们怕了吧喵～\n😡窝把泥们的末地都炸了喵\n😋米米石界才是最好玩的游戏喵 https://t.co/v1dioh3xGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1130,
+          "like_count": 26364,
+          "listed_count": 5,
+          "media_count": 593,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n爱玩米米石界｜😡反安慕希😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里（江苏南京）",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079010466269937972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1538,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

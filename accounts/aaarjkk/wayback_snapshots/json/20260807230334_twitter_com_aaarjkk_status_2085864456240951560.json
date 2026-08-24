@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2085635909232501177",
+    "created_at": "2026-08-07T23:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085864456240951560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085864456240951560",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085635909232501177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个贴文与上面我发的机器被墙的贴文无任何关联，我没有购买提速啦的机器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085635881143287808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGqyKJawAA9FEM.jpg",
+        "width": 1834
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085635891461308417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGqywlbQAEmTqM.jpg",
+        "width": 1834
+      },
+      {
+        "height": 2798,
+        "media_key": "3_2085635900667744256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGqzS4aUAAS_Ax.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085635909232501177",
+        "created_at": "2026-08-07T23:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085864456240951560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085864456240951560",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085635909232501177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个贴文与上面我发的机器被墙的贴文无任何关联，我没有购买提速啦的机器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085635881143287808",
+            "3_2085635891461308417",
+            "3_2085635900667744256"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085635909232501177",
+        "created_at": "2026-08-07T07:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085635909232501177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYfnpAdk2P",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2085635909232501177/photo/1",
+              "media_key": "3_2085635881143287808",
+              "start": 16,
+              "url": "https://t.co/sYfnpAdk2P"
+            },
+            {
+              "display_url": "pic.x.com/sYfnpAdk2P",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2085635909232501177/photo/1",
+              "media_key": "3_2085635891461308417",
+              "start": 16,
+              "url": "https://t.co/sYfnpAdk2P"
+            },
+            {
+              "display_url": "pic.x.com/sYfnpAdk2P",
+              "end": 39,
+              "expanded_url": "https://x.com/aaarjkk/status/2085635909232501177/photo/1",
+              "media_key": "3_2085635900667744256",
+              "start": 16,
+              "url": "https://t.co/sYfnpAdk2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085635909232501177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4354,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷10年…😂 感觉是跑路云… https://t.co/sYfnpAdk2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1177,
+          "like_count": 27302,
+          "listed_count": 5,
+          "media_count": 619,
+          "tweet_count": 3752
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

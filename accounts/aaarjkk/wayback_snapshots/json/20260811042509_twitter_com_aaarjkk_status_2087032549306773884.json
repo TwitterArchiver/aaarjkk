@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087032531715784704",
+        "3_2087032541375250432"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2086962627318895070",
+    "created_at": "2026-08-11T04:25:09.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087032549306773884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkMQYjYclb",
+          "end": 51,
+          "expanded_url": "https://x.com/aaarjkk/status/2087032549306773884/photo/1",
+          "media_key": "3_2087032531715784704",
+          "start": 28,
+          "url": "https://t.co/nkMQYjYclb"
+        },
+        {
+          "display_url": "pic.x.com/nkMQYjYclb",
+          "end": 51,
+          "expanded_url": "https://x.com/aaarjkk/status/2087032549306773884/photo/1",
+          "media_key": "3_2087032541375250432",
+          "start": 28,
+          "url": "https://t.co/nkMQYjYclb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087032549306773884",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087032531715784704"
+      },
+      {
+        "media_key": "3_2087032541375250432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087027331118604368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 关键是还吞我钱…😅😅😅😅 https://t.co/nkMQYjYclb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2087032531715784704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPahB6-agAA4TNF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2087032541375250432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPahCe9aQAAKB3u.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087032531715784704",
+            "3_2087032541375250432"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2086962627318895070",
+        "created_at": "2026-08-11T04:25:09.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087032549306773884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkMQYjYclb",
+              "end": 51,
+              "expanded_url": "https://x.com/aaarjkk/status/2087032549306773884/photo/1",
+              "media_key": "3_2087032531715784704",
+              "start": 28,
+              "url": "https://t.co/nkMQYjYclb"
+            },
+            {
+              "display_url": "pic.x.com/nkMQYjYclb",
+              "end": 51,
+              "expanded_url": "https://x.com/aaarjkk/status/2087032549306773884/photo/1",
+              "media_key": "3_2087032541375250432",
+              "start": 28,
+              "url": "https://t.co/nkMQYjYclb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087032549306773884",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087032531715784704"
+          },
+          {
+            "media_key": "3_2087032541375250432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087027331118604368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 关键是还吞我钱…😅😅😅😅 https://t.co/nkMQYjYclb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2086962627318895070",
+        "created_at": "2026-08-11T04:04:25.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087027331118604368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087027331118604368",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086962627318895070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 你这啥玩意一般菠菜支付也就13%，一般支付3%我都嫌贵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087032549306773884",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2086292151143735526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955980103688790017/1781268380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1212,
+          "like_count": 27732,
+          "listed_count": 5,
+          "media_count": 644,
+          "tweet_count": 3857
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2087027331118604368",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1022,
+          "like_count": 2618,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

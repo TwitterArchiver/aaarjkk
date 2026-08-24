@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084421928811741184"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2082779447519015416",
+    "created_at": "2026-08-03T23:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084421935862329634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8iB3Av4o2t",
+          "end": 23,
+          "expanded_url": "https://x.com/aaarjkk/status/2084421935862329634/photo/1",
+          "media_key": "3_2084421928811741184",
+          "start": 0,
+          "url": "https://t.co/8iB3Av4o2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084421935862329634",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082779447519015416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/8iB3Av4o2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_2084421928811741184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1as1TbwAAYYcu.jpg",
+        "width": 1128
+      },
+      {
+        "height": 532,
+        "media_key": "3_2082779440669687808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeE3cKagAAmJjL.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084421928811741184"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082779447519015416",
+        "created_at": "2026-08-03T23:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084421935862329634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iB3Av4o2t",
+              "end": 23,
+              "expanded_url": "https://x.com/aaarjkk/status/2084421935862329634/photo/1",
+              "media_key": "3_2084421928811741184",
+              "start": 0,
+              "url": "https://t.co/8iB3Av4o2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084421935862329634",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082779447519015416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8iB3Av4o2t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082779440669687808"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082779447519015416",
+        "created_at": "2026-07-30T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082779447519015416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 134,
+              "tag": "telegram"
+            },
+            {
+              "end": 155,
+              "start": 144,
+              "tag": "telegram账号"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "电报"
+            },
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "账号出售"
+            },
+            {
+              "end": 173,
+              "start": 166,
+              "tag": "smsfee"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "成品"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3tQ0zKbt2",
+              "end": 201,
+              "expanded_url": "https://x.com/aaarjkk/status/2082779447519015416/photo/1",
+              "media_key": "3_2082779440669687808",
+              "start": 178,
+              "url": "https://t.co/f3tQ0zKbt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082779447519015416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3267,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出售Telegram账号✈️\n\n12元/个 起\n\n先登录再付款🌟\n\n质保1天全额退款7天半价退款\n(以SpamBot为准)\n\n🐧1038664700（尽量加这个）\n🐧2034574778\n\n我可以 无偿免费 把我关于smsfee 短信费 收不到验证码 的经验分享给你\n#telegram #telegram账号 #电报 #账号出售 #smsfee #成品 https://t.co/f3tQ0zKbt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1154,
+          "like_count": 26814,
+          "listed_count": 5,
+          "media_count": 606,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

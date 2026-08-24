@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084814640421441536",
+        "3_2084814641260339200"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2084815035348738379",
+    "created_at": "2026-08-05T01:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084815035348738379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Po40iS7znF",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2084815035348738379/photo/1",
+          "media_key": "3_2084814640421441536",
+          "start": 22,
+          "url": "https://t.co/Po40iS7znF"
+        },
+        {
+          "display_url": "pic.x.com/Po40iS7znF",
+          "end": 45,
+          "expanded_url": "https://x.com/aaarjkk/status/2084815035348738379/photo/1",
+          "media_key": "3_2084814641260339200",
+          "start": 22,
+          "url": "https://t.co/Po40iS7znF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084815035348738379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拒绝付款不理我是吗，看片倒是给你看爽了😡😡 https://t.co/Po40iS7znF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084814640421441536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6_3qDakAARpuK.jpg",
+        "width": 738
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2084814641260339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6_3tLbIAAtVxG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084814640421441536",
+            "3_2084814641260339200"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2084815035348738379",
+        "created_at": "2026-08-05T01:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084815035348738379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Po40iS7znF",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2084815035348738379/photo/1",
+              "media_key": "3_2084814640421441536",
+              "start": 22,
+              "url": "https://t.co/Po40iS7znF"
+            },
+            {
+              "display_url": "pic.x.com/Po40iS7znF",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2084815035348738379/photo/1",
+              "media_key": "3_2084814641260339200",
+              "start": 22,
+              "url": "https://t.co/Po40iS7znF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084815035348738379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝付款不理我是吗，看片倒是给你看爽了😡😡 https://t.co/Po40iS7znF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 1156,
+          "like_count": 26901,
+          "listed_count": 5,
+          "media_count": 607,
+          "tweet_count": 3654
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

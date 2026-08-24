@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082712292823863296"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082712305838473242",
+    "created_at": "2026-07-30T06:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082712305838473242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yjFPyl2U1",
+          "end": 55,
+          "expanded_url": "https://x.com/aaarjkk/status/2082712305838473242/photo/1",
+          "media_key": "3_2082712292823863296",
+          "start": 32,
+          "url": "https://t.co/4yjFPyl2U1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082712305838473242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这真的能骗到人吗，还用的是+241(一个非洲小国)的电话号码🧐 https://t.co/4yjFPyl2U1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2082712292823863296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdHy68bEAAvSua.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082712292823863296"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082712305838473242",
+        "created_at": "2026-07-30T06:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082712305838473242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yjFPyl2U1",
+              "end": 55,
+              "expanded_url": "https://x.com/aaarjkk/status/2082712305838473242/photo/1",
+              "media_key": "3_2082712292823863296",
+              "start": 32,
+              "url": "https://t.co/4yjFPyl2U1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082712305838473242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这真的能骗到人吗，还用的是+241(一个非洲小国)的电话号码🧐 https://t.co/4yjFPyl2U1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1123,
+          "like_count": 26206,
+          "listed_count": 5,
+          "media_count": 584,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

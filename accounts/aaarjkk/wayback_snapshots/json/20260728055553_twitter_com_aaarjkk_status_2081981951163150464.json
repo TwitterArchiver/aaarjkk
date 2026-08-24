@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081981691967782912"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2081748615098441822",
+    "created_at": "2026-07-28T05:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081981951163150464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "gcamapk.io/download-googl…",
+          "end": 53,
+          "expanded_url": "https://gcamapk.io/download-google-camera-for-all-android-phones/",
+          "start": 30,
+          "url": "https://t.co/rnngxa0V8y"
+        },
+        {
+          "display_url": "pic.x.com/VOkrFjFgSc",
+          "end": 77,
+          "expanded_url": "https://x.com/aaarjkk/status/2081981951163150464/video/1",
+          "media_key": "13_2081981691967782912",
+          "start": 54,
+          "url": "https://t.co/VOkrFjFgSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081981951163150464",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081748615098441822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 换个相机即可😋\n\n我用的相机：\nhttps://t.co/rnngxa0V8y https://t.co/VOkrFjFgSc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36803,
+        "height": 3216,
+        "media_key": "13_2081981691967782912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081981691967782912/img/bXqPlPfs-hA4LOU1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081981691967782912/vid/avc1/480x1072/1J0sK84f7k8Vnop7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081981691967782912/pl/vQI4MSca7odnzWfc.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081981691967782912/vid/avc1/1440x3216/MrgZvuf5dyH_BeMO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081981691967782912/vid/avc1/320x714/R77ftgiWff4KsH1F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081981691967782912/vid/avc1/720x1608/pBmq0DG8f8cDASWa.mp4"
+          }
+        ],
+        "width": 1440
+      },
+      {
+        "height": 1970,
+        "media_key": "3_2081748574162042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPbTHKawAAv7-v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081981691967782912"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2081748615098441822",
+        "created_at": "2026-07-28T05:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081981951163150464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gcamapk.io/download-googl…",
+              "end": 53,
+              "expanded_url": "https://gcamapk.io/download-google-camera-for-all-android-phones/",
+              "start": 30,
+              "url": "https://t.co/rnngxa0V8y"
+            },
+            {
+              "display_url": "pic.x.com/VOkrFjFgSc",
+              "end": 77,
+              "expanded_url": "https://x.com/aaarjkk/status/2081981951163150464/video/1",
+              "media_key": "13_2081981691967782912",
+              "start": 54,
+              "url": "https://t.co/VOkrFjFgSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081981951163150464",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081748615098441822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 换个相机即可😋\n\n我用的相机：\nhttps://t.co/rnngxa0V8y https://t.co/VOkrFjFgSc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081748574162042880"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2081748615098441822",
+        "created_at": "2026-07-27T14:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081748615098441822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ic4zAhEfsz",
+              "end": 70,
+              "expanded_url": "https://x.com/Mark67358226/status/2081748615098441822/photo/1",
+              "media_key": "3_2081748574162042880",
+              "start": 47,
+              "url": "https://t.co/ic4zAhEfsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081748615098441822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱真的好討厭這個後置攝像頭的大白框啊，這破東西的用處是什麼？根本就是影響拍攝，能不能關掉啊😫 https://t.co/ic4zAhEfsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1172,
+          "like_count": 25658,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵 |日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 1721,
+          "like_count": 34998,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 7820
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

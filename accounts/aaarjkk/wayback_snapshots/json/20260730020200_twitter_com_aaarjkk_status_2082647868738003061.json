@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2082647868738003061",
+    "created_at": "2026-07-30T02:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082647868738003061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866494581539512320",
+          "start": 3,
+          "username": "echo25217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082647868738003061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082495317917004225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @echo25217: 到底要多痛才算痛，要多苦才算苦，我也可以感到痛苦吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082647868738003061",
+        "created_at": "2026-07-30T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082647868738003061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866494581539512320",
+              "start": 3,
+              "username": "echo25217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082647868738003061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082495317917004225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @echo25217: 到底要多痛才算痛，要多苦才算苦，我也可以感到痛苦吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866494581539512320",
+        "conversation_id": "2082495317917004225",
+        "created_at": "2026-07-29T15:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082495317917004225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082495317917004225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "到底要多痛才算痛，要多苦才算苦，我也可以感到痛苦吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1115,
+          "like_count": 26132,
+          "listed_count": 5,
+          "media_count": 580,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T14:46:11.000Z",
+        "description": "",
+        "id": "1866494581539512320",
+        "name": "echo🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890217870069755906/orzUTBQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 417,
+          "like_count": 673,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "echo25217",
+        "verified": false
+      }
+    ]
+  }
+}

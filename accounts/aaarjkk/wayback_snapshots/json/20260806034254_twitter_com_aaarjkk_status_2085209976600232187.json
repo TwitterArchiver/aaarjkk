@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955980103688790017",
+    "conversation_id": "2085065605359841571",
+    "created_at": "2026-08-06T03:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085209976600232187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1909289954305622018",
+          "start": 0,
+          "username": "JiuJiuphigros"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085209976600232187",
+    "in_reply_to_user_id": "1909289954305622018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085202663889936896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiuJiuphigros 抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085065605359841571",
+        "created_at": "2026-08-06T03:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085209976600232187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909289954305622018",
+              "start": 0,
+              "username": "JiuJiuphigros"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085209976600232187",
+        "in_reply_to_user_id": "1909289954305622018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085202663889936896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiuJiuphigros 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909289954305622018",
+        "conversation_id": "2085065605359841571",
+        "created_at": "2026-08-06T03:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085202663889936896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085202663889936896",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085065605359841571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 做srs请去正规医院😡（抱抱OvO）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1159,
+          "like_count": 27097,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T16:59:44.000Z",
+        "description": "欢迎来到我的主页❤️\n13年MtF🍥🏳️‍⚧️ 同类可互fo\n政治立场➡️🇹🇼（KMT国民党）\nhttps://t.co/id17sCOM4z 欢迎骚扰🤓👆",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfjiu",
+                "end": 71,
+                "expanded_url": "https://ngl.link/mtfjiu",
+                "start": 48,
+                "url": "https://t.co/id17sCOM4z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTFJiu",
+                "end": 23,
+                "expanded_url": "http://t.me/MTFJiu",
+                "start": 0,
+                "url": "https://t.co/piZ8lEY1bh"
+              }
+            ]
+          }
+        },
+        "id": "1909289954305622018",
+        "name": "MTFJiu🍥🏳️‍⚧️🇹󠅴‍🇼󠅷‍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084806762499375105/8kMQQqj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 131,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/piZ8lEY1bh",
+        "username": "JiuJiuphigros",
+        "verified": false
+      }
+    ]
+  }
+}

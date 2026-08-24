@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083441118973440001",
+        "3_2083441126078615552"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2083441132302958994",
+    "created_at": "2026-08-01T06:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083441132302958994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3qbH7R1Np",
+          "end": 31,
+          "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+          "media_key": "3_2083441118973440001",
+          "start": 8,
+          "url": "https://t.co/D3qbH7R1Np"
+        },
+        {
+          "display_url": "pic.x.com/D3qbH7R1Np",
+          "end": 31,
+          "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+          "media_key": "3_2083441126078615552",
+          "start": 8,
+          "url": "https://t.co/D3qbH7R1Np"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083441132302958994",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "QQwcnm🤬 https://t.co/D3qbH7R1Np"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2083441118973440001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOneqL7asAEJM7b.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2083441126078615552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOneqmZbEAAqazt.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083441118973440001",
+            "3_2083441126078615552"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2083441132302958994",
+        "created_at": "2026-08-01T06:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083441132302958994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3qbH7R1Np",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+              "media_key": "3_2083441118973440001",
+              "start": 8,
+              "url": "https://t.co/D3qbH7R1Np"
+            },
+            {
+              "display_url": "pic.x.com/D3qbH7R1Np",
+              "end": 31,
+              "expanded_url": "https://x.com/aaarjkk/status/2083441132302958994/photo/1",
+              "media_key": "3_2083441126078615552",
+              "start": 8,
+              "url": "https://t.co/D3qbH7R1Np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083441132302958994",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQwcnm🤬 https://t.co/D3qbH7R1Np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 1133,
+          "like_count": 26437,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

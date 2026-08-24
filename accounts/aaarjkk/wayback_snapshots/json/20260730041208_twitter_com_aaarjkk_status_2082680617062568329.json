@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082678570011541504",
+        "3_2082678578576318464"
+      ]
+    },
+    "author_id": "1955980103688790017",
+    "conversation_id": "2082680617062568329",
+    "created_at": "2026-07-30T04:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082680617062568329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sCyj9ZfwUj",
+          "end": 25,
+          "expanded_url": "https://x.com/aaarjkk/status/2082680617062568329/photo/1",
+          "media_key": "3_2082678570011541504",
+          "start": 2,
+          "url": "https://t.co/sCyj9ZfwUj"
+        },
+        {
+          "display_url": "pic.x.com/sCyj9ZfwUj",
+          "end": 25,
+          "expanded_url": "https://x.com/aaarjkk/status/2082680617062568329/photo/1",
+          "media_key": "3_2082678578576318464",
+          "start": 2,
+          "url": "https://t.co/sCyj9ZfwUj"
+        },
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2082670482894315818",
+          "start": 26,
+          "url": "https://t.co/vt3xH3pDya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082680617062568329",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082670482894315818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/sCyj9ZfwUj https://t.co/vt3xH3pDya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3216,
+        "media_key": "3_2082678570011541504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcpH_rbQAAe2EU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2082678578576318464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcpIflbYAAzpud.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2082670473612316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOchwuPbUAA23KB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082678570011541504",
+            "3_2082678578576318464"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082680617062568329",
+        "created_at": "2026-07-30T04:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082680617062568329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCyj9ZfwUj",
+              "end": 25,
+              "expanded_url": "https://x.com/aaarjkk/status/2082680617062568329/photo/1",
+              "media_key": "3_2082678570011541504",
+              "start": 2,
+              "url": "https://t.co/sCyj9ZfwUj"
+            },
+            {
+              "display_url": "pic.x.com/sCyj9ZfwUj",
+              "end": 25,
+              "expanded_url": "https://x.com/aaarjkk/status/2082680617062568329/photo/1",
+              "media_key": "3_2082678578576318464",
+              "start": 2,
+              "url": "https://t.co/sCyj9ZfwUj"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2082670482894315818",
+              "start": 26,
+              "url": "https://t.co/vt3xH3pDya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082680617062568329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082670482894315818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/sCyj9ZfwUj https://t.co/vt3xH3pDya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082670473612316672"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2082670482894315818",
+        "created_at": "2026-07-30T03:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082670482894315818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPXXShFW9Z",
+              "end": 30,
+              "expanded_url": "https://x.com/aaarjkk/status/2082670482894315818/photo/1",
+              "media_key": "3_2082670473612316672",
+              "start": 7,
+              "url": "https://t.co/DPXXShFW9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082670482894315818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新16喵😋 https://t.co/DPXXShFW9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1123,
+          "like_count": 26196,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 3537
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}
